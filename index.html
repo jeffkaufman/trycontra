@@ -86,8 +86,22 @@ body {
 
 #notfound {
   display: none;
-  margin-left: 38px;
+  margin-left: 40px;
   padding-bottom: 10px;
+}
+
+.dance {
+  margin-left: 40px;
+  padding: 10px;
+  width: 350px;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+  font-size: 26px;
+}
+
+#dances {
+  padding-bottom: 16px;
 }
 
 </style>
@@ -109,7 +123,7 @@ body {
 </center>
 
 <div id="notfound">
-Sorry, I don't recognize<br>that zip code.  Try again?
+Sorry, I don't recognize<br>that zip code.
 </div>
 
 </div>
@@ -126,6 +140,7 @@ Background image courtesy of <a href="http://www.flickr.com/photos/70118259@N00/
 <script>
 var zi = document.getElementById("input");
 var zb = document.getElementById("button");
+var buttontext = document.getElementById("buttontext");
 var dances = document.getElementById("dances");
 var content = document.getElementById("content");
 var notfound = document.getElementById("notfound");
@@ -169,6 +184,17 @@ function fetch(url, callback) {
   xhr.send();
 }
 
+function clear_dances() {
+  dances.innerHTML = "";
+}
+
+function add_dance(location, link, schedule) {
+  var div = document.createElement("div");
+  div.className = "dance";
+  div.innerHTML = '<a href="' + link + '">' + location + '</a><br>' + schedule;
+  dances.appendChild(div);
+}
+
 function load_dances(zip) {
   if (!zips) {
     // loop until zips is done loading, if not already
@@ -178,13 +204,15 @@ function load_dances(zip) {
     return;
   }
 
+  clear_dances();
+
   var ll = zips[zip];
   if (!ll) {
     notfound.style.display = "block";
     return;
   }
   notfound.style.display = "none";
-
+  add_dance("Cambridge MA", "http://www.bidadance.org", "Sunday Evenings");
 }
 
 </script>
