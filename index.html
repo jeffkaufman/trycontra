@@ -1,0 +1,192 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html> <head>
+<title>Try Contra Dancing</title>
+<meta name=viewport content="width=600">
+</head>
+
+<style>
+body {
+  background: url(background.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+  margin: 0;
+  padding: 0;
+}
+
+* { box-sizing: border-box; }
+
+#content {
+  width: 430px;
+  margin: auto;
+  margin-top: 100px;
+
+  padding: 0;
+
+  background-color: white;
+}
+
+#thanks {
+  right: 10px;
+  bottom: 4px;
+  position: absolute;
+  color: #BBB;
+}
+
+#thanks a {
+  color: white;
+  text-decoration: none;
+}
+
+#try-it {
+  padding-top: 10px;
+  font-size: 46px;
+  font-family: sans-serif;
+  height: 75px;
+
+  color: white;
+
+  background-image: -ms-linear-gradient(top left, #7C85BF 0%, #074DB5 100%);
+  background-image: -moz-linear-gradient(top left, #7C85BF 0%, #074DB5 100%);
+  background-image: -o-linear-gradient(top left, #7C85BF 0%, #074DB5 100%);
+  background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0, #7C85BF), color-stop(1, #074DB5));
+  background-image: -webkit-linear-gradient(top left, #7C85BF 0%, #074DB5 100%);
+  background-image: linear-gradient(to bottom right, #7C85BF 0%, #074DB5 100%);
+
+
+  background-image: -ms-linear-gradient(top left, #FF0000 0%, #692C2C 100%);
+  background-image: -moz-linear-gradient(top left, #FF0000 0%, #692C2C 100%);
+  background-image: -o-linear-gradient(top left, #FF0000 0%, #692C2C 100%);
+  background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0, #FF0000), color-stop(1, #692C2C));
+  background-image: -webkit-linear-gradient(top left, #FF0000 0%, #692C2C 100%);
+  background-image: linear-gradient(to bottom right, #FF0000 0%, #692C2C 100%);
+}
+
+#question {
+  padding-top: 16px;
+  font-size: 32px;
+  font-family: sans-serif;
+}
+
+#input, #button {
+  width: 350px;
+  height: 40px;
+  font-size: 30px;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+#input {
+  color: transparent;
+}
+
+#notfound {
+  display: none;
+  margin-left: 38px;
+  padding-bottom: 10px;
+}
+
+</style>
+
+<body>
+
+<div id="content">
+
+<div id="try-it">
+<center>Try Contra</center>
+<!-- <center>Contra Dancing</center> -->
+</div>
+
+<div id="question">
+<center>
+
+<input id=input placeholder="What's your zip code?" type="text"></input><br><button id=button>find a dance</button>
+
+</center>
+
+<div id="notfound">
+Sorry, I don't recognize<br>that zip code.  Try again?
+</div>
+
+</div>
+
+<div id="dances">
+</div>
+
+</div>
+
+<div id="thanks">
+Background image courtesy of <a href="http://www.flickr.com/photos/70118259@N00/4113297728/sizes/l/">j_bary</a>.
+</div>
+
+<script>
+var zi = document.getElementById("input");
+var zb = document.getElementById("button");
+var dances = document.getElementById("dances");
+var content = document.getElementById("content");
+var notfound = document.getElementById("notfound");
+
+function submit() {
+  load_dances(zi.value);
+}
+
+zi.onkeypress = function(e) {
+  if (e && e.keyCode == 13) {
+    submit();
+  }
+}
+
+zi.onkeyup = function(e) {
+  if (zi.value == "") {
+    zi.style.color = "transparent";
+  } else {
+    zi.style.color = "black";
+  }
+}
+
+zb.onclick = function(e) { submit(); };
+
+var zips = null;
+document.body.onload = function() {
+  zi.focus();
+  fetch("zipcode.json", function(response) {
+    zips = JSON.parse(response);
+  });
+};
+
+function fetch(url, callback) {
+  var xhr = new XMLHttpRequest();
+  xhr.onreadystatechange = function() {
+    if (xhr.readyState==4 && xhr.status==200) {
+      callback(xhr.responseText);
+    }
+  };
+  xhr.open("GET",url,true);
+  xhr.send();
+}
+
+function load_dances(zip) {
+  if (!zips) {
+    // loop until zips is done loading, if not already
+    window.setTimeout(function() {
+      load_dances(zip);
+    }, 50);
+    return;
+  }
+
+  var ll = zips[zip];
+  if (!ll) {
+    notfound.style.display = "block";
+    return;
+  }
+  notfound.style.display = "none";
+
+}
+
+</script>
+
+</body> </html>
