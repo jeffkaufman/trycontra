@@ -232,7 +232,7 @@ function load_dances(zip) {
 
   // Now find all dances no more than 30% farther away.
   limit = distance(dance_locations[closest_index][3],
-                   dance_locations[closest_index][4], ll) * 1.30;
+                   dance_locations[closest_index][4], ll) * 2;
 
   close_enoughs = [];
   for (var i = 0 ; i < dance_locations.length ; i++) {
