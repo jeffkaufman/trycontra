@@ -21,13 +21,13 @@ body {
 #content {
   width: 430px;
   margin: auto;
-  margin-top: 100px;
-
   padding: 0;
-
-  background-color: white;
 }
 
+#content-inner {
+  margin-top: 100px;
+  background-color: white;
+}
 #title {
   padding-top: 10px;
   font-size: 46px;
@@ -63,11 +63,40 @@ dt {
 dd {
   padding-bottom: 15px;
 }
+
+html, body {height: 100%;}
+
+#wrap {
+  min-height: 100%;
+}
+
+#content {
+  overflow:auto;
+  padding-bottom: 40px;
+}  /* must be same height as the footer */
+
+#footer {
+  position: relative;
+  margin-top: -40px; /* negative value of footer height */
+  height: 40px;
+  padding-top: 4px;
+  clear:both;
+  background-color: black;
+  font-size: 30px;
+  font-family: sans-serif;
+}
+
+#footer a:link {text-decoration: none; color: #CCC}
+#footer a:visited {text-decoration: none; color: #CCC}
+#footer a:active {text-decoration: none; color: #CCC}
+#footer a:hover {text-decoration: underline; color: #CCC}
 </style>
 
 <body>
 
+<div id="wrap">
 <div id="content">
+<div id="content-inner">
 
 <div id="title">
 <center>About</center>
@@ -99,11 +128,16 @@ dd {
 from <a href="http://www.flickr.com/photos/70118259@N00/4113297728/sizes/l/">j_bary</a>.
 It's licensed cc-by.
 </dd>
-</div>
-
-
 </dl>
+</div>
 
 </div>
+</div>
+</div>
+
+<div id="footer">
+<center><a href="index.html">back</a></center>
+</div>
+    
 
 </body> </html>

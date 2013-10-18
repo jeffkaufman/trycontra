@@ -21,10 +21,11 @@ body {
 #content {
   width: 430px;
   margin: auto;
-  margin-top: 100px;
-
   padding: 0;
+}
 
+#content-inner {
+  margin-top: 100px;
   background-color: white;
 }
 
@@ -93,11 +94,40 @@ body {
   padding-bottom: 5px;
 }
 
+html, body {height: 100%;}
+
+#wrap {
+  min-height: 100%;
+}
+
+#content {
+  overflow:auto;
+  padding-bottom: 40px;
+}  /* must be same height as the footer */
+
+#footer {
+  position: relative;
+  margin-top: -40px; /* negative value of footer height */
+  padding: 0px;
+  height: 40px;
+  padding-top: 4px;
+  clear:both;
+  background-color: black;
+  font-size: 30px;
+  font-family: sans-serif;
+}
+
+#footer a:link {text-decoration: none; color: #CCC}
+#footer a:visited {text-decoration: none; color: #CCC}
+#footer a:active {text-decoration: none; color: #CCC}
+#footer a:hover {text-decoration: underline; color: #CCC}
 </style>
 
 <body>
 
+<div id="wrap">
 <div id="content">
+<div id="content-inner">
 
 <div id="title">
 <center>Try Contra</center>
@@ -119,6 +149,12 @@ Sorry, I don't recognize<br>that zip code.
 <div id="dances">
 </div>
 
+</div>
+</div>
+</div>
+
+<div id="footer">
+<center><a href="about.html">about</a></center>
 </div>
 
 <script>
