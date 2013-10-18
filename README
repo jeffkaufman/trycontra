@@ -1,0 +1,13 @@
+The source code for trycontra.com
+
+index.html is the main page, containing both the display and the scripts
+
+dances.json is the manual-editing dance database.  Add stuff to that.
+
+lookup_locs.py adds location information to dances.json to create dances_locs.json
+
+zipcode.json is a giant map from zipcode to lat/lng.
+
+index.html loads zipcode.json and dances_locs.json via ajax.
+
+about.html is an about page.
