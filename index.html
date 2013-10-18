@@ -98,10 +98,11 @@ body {
   border-width: 1px;
   border-radius: 5px;
   font-size: 26px;
+  margin-bottom: 15px;
 }
 
 #dances {
-  padding-bottom: 16px;
+  padding-bottom: 5px;
 }
 
 </style>
@@ -155,7 +156,7 @@ zi.onkeypress = function(e) {
   }
 }
 
-zi.onkeyup = function(e) {
+function show_hide_cursor() {
   if (zi.value == "") {
     zi.style.color = "transparent";
   } else {
@@ -163,13 +164,22 @@ zi.onkeyup = function(e) {
   }
 }
 
+zi.onkeyup = function(e) {
+  show_hide_cursor();
+}
+
 zb.onclick = function(e) { submit(); };
 
 var zips = null;
+var dance_locations = null;
 document.body.onload = function() {
   zi.focus();
+  show_hide_cursor();
   fetch("zipcode.json", function(response) {
     zips = JSON.parse(response);
+  });
+  fetch("dances_locs.json", function(response) {
+    dance_locations = JSON.parse(response);
   });
 };
 
@@ -195,9 +205,13 @@ function add_dance(location, link, schedule) {
   dances.appendChild(div);
 }
 
+function distance(lat, lng, ll) {
+  return Math.sqrt((lat-ll[0])*(lat-ll[0]) + (lng-ll[1])*(lng-ll[1]));
+}
+
 function load_dances(zip) {
-  if (!zips) {
-    // loop until zips is done loading, if not already
+  if (!zips || !dance_locations) {
+    // loop until external jsons are done loading, if not already
     window.setTimeout(function() {
       load_dances(zip);
     }, 50);
@@ -212,7 +226,37 @@ function load_dances(zip) {
     return;
   }
   notfound.style.display = "none";
-  add_dance("Cambridge MA", "http://www.bidadance.org", "Sunday Evenings");
+
+  // First find the closest dance.
+  var closest_index = 0;
+  for (var i = 0 ; i < dance_locations.length ; i++) {
+    if (distance(dance_locations[i][3],
+                 dance_locations[i][4], ll) <
+        distance(dance_locations[closest_index][3],
+                 dance_locations[closest_index][4], ll)) {
+      closest_index = i;
+    }
+  }
+
+  // Now find all dances no more than 30% farther away.
+  limit = distance(dance_locations[closest_index][3],
+                   dance_locations[closest_index][4], ll) * 1.30;
+
+  close_enoughs = [];
+  for (var i = 0 ; i < dance_locations.length ; i++) {
+    var d = distance(dance_locations[i][3],
+                     dance_locations[i][4], ll);
+    if (d < limit) {
+      close_enoughs.push([d, i]);
+    }
+  }
+  close_enoughs.sort();
+  for (var j = 0 ; j < close_enoughs.length ; j++) {
+    var i = close_enoughs[j][1];
+    add_dance(dance_locations[i][1],
+              dance_locations[i][0],
+              dance_locations[i][2]);
+  }
 }
 
 </script>
