@@ -88,13 +88,17 @@ body {
 
 .dance {
   margin-left: 40px;
-  padding: 10px;
+  padding: 0px;
   width: 350px;
   border-style: solid;
   border-width: 1px;
   border-radius: 5px;
   font-size: 26px;
   margin-bottom: 15px;
+}
+
+.dance-internal {
+  margin: 10px;
 }
 
 #dances {
@@ -188,7 +192,8 @@ function clear_dances() {
 function add_dance(location, link, schedule) {
   var div = document.createElement("div");
   div.className = "dance";
-  div.innerHTML = '<a href="' + link + '">' + location + '</a><br>' + schedule;
+  div.innerHTML = '<div class="dance-internal"><a href="' + link + '">'
+                  + location + '</a><br>' + schedule + '</div>';
   dances.appendChild(div);
 }
 
