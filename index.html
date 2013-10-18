@@ -249,7 +249,7 @@ function load_dances(zip) {
   for (var j = 0 ; j < dance_distances.length ; j++) {
     var d = dance_distances[j][0];
     var i = dance_distances[j][1];
-    if (d < dance_distances[2][0] * 1.03) {
+    if (d < dance_distances[2][0] * 1.03 && d < 5) {
       add_dance(dance_locations[i][1],
                 dance_locations[i][0],
                 dance_locations[i][2],
