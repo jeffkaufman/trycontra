@@ -19,7 +19,6 @@
 ["http://www.caldancecoop.org/cgi-bin/dsched.cgi", "South Pasadena CA", "Fridays and Saturdays"],
 ["http://www.caldancecoop.org/cgi-bin/dsched.cgi", "Pasadena CA", "Saturdays"],
 ["http://www.caldancecoop.org/cgi-bin/dsched.cgi", "Lancaster CA", "Saturdays"],
-["http://www.caldancecoop.org/cgi-bin/dsched.cgi", "Brentwood CA", "Saturdays"],
 ["http://www.caldancecoop.org/cgi-bin/dsched.cgi", "La Verne CA", "Sundays"],
 ["http://www.caldancecoop.org/cgi-bin/dsched.cgi", "Los Angeles CA", "Saturdays"],
 ["http://santacruzdance.org/", "Felton CA", "Fridays"],
@@ -39,7 +38,8 @@
 ["http://www.sactocds.org/", "Sacremento CA", "Fridays and Saturdays"],
 ["http://www.sandiegocontra.org/", "San Diego CA", "Fridays and Saturdays"],
 ["http://www.cccds.org/schedule.htm", "San Luis Obispo CA", "Saturdays"],
-
+["https://sites.google.com/site/haywardcontra/", "Hayward CA", "Sundays"],
+["http://www.canyoncontras.com/", "Canyon CA", "Saturdays"],
 
 ["http://www.cfootmad.org/dances.htm", "Boulder CO", "Fridays"],
 ["http://www.cfootmad.org/dances.htm", "Denver CO", "Fridays"],
