@@ -42,7 +42,7 @@ def start():
 
     old_float_repr = encoder.FLOAT_REPR
     encoder.FLOAT_REPR = lambda o: format(o, '.2f')
-    outf.write(json.dumps(loc_dances))
+    outf.write(json.dumps(loc_dances).replace("],", "],\n"))
     encoder.FLOAT_REPR = old_float_repr
 
 if __name__ == "__main__":
