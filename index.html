@@ -89,6 +89,11 @@ body {
   margin: 10px;
 }
 
+.moredances {
+  font-size: 26px;
+  margin-left: 40px;
+}
+
 #dances {
   padding-bottom: 5px;
 }
@@ -226,11 +231,28 @@ function distance(lat, lng, ll) {
   return Math.sqrt((lat-ll[0])*(lat-ll[0]) + (lng-ll[1])*(lng-ll[1]));
 }
 
-function load_dances(zip) {
+function add_more_link(zip, minimum_dances) {
+  var more_dances = document.createElement("a");
+  more_dances.className = "moredances";
+  more_dances.setAttribute("href", "#");
+  more_dances.innerHTML = "more dances ...";
+  more_dances.onclick = function(e) {
+    minimum_dances = minimum_dances * 2;
+    load_dances(zip, minimum_dances * 2);
+    return false;
+  }
+  dances.appendChild(more_dances);
+}
+
+function load_dances(zip, minimum_dances) {
+  if (!minimum_dances) {
+    minimum_dances = 3;
+  }
+
   if (!zips || !dance_locations) {
     // loop until external jsons are done loading, if not already
     window.setTimeout(function() {
-      load_dances(zip);
+      load_dances(zip, minimum_dances);
     }, 50);
     return;
   }
@@ -253,20 +275,26 @@ function load_dances(zip) {
                           i]);
   }
   dance_distances.sort(function(a,b){return a[0]-b[0]});
-  var found_one = false;
+  var added_dances = 0;
+  var n_too_far = 0;
+  var n = Math.min(minimum_dances, dance_locations.length);
   for (var j = 0 ; j < dance_distances.length ; j++) {
     var d = dance_distances[j][0];
     var i = dance_distances[j][1];
-    if (d < dance_distances[2][0] * 1.03 && d < 5) {
+    if (d > 5) {
+      n_too_far += 1;
+    } else if (d < dance_distances[n - 1][0] * 1.03) {
       add_dance(dance_locations[i][1],
                 dance_locations[i][0],
                 dance_locations[i][2],
                 d);
-      found_one = true;
+      added_dances += 1;
     }
   }
-  if (!found_one) {
+  if (added_dances == 0) {
     nodances.style.display = "block";
+  } else if (added_dances < dance_locations.length - n_too_far) {
+    add_more_link(zip, minimum_dances);
   }
 }
 
