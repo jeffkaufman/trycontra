@@ -142,6 +142,10 @@ var dances = document.getElementById("dances");
 var content = document.getElementById("content");
 var notfound = document.getElementById("notfound");
 
+if (navigator.userAgent.toLowerCase().indexOf("android") > -1) {
+  zi.type = "number";
+}
+
 function submit() {
   load_dances(zi.value);
 }
