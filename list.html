@@ -28,6 +28,7 @@ body {
   margin-top: 100px;
   background-color: white;
 }
+
 #title {
   padding-top: 10px;
   font-size: 46px;
@@ -45,16 +46,24 @@ body {
   background-image: linear-gradient(to bottom right, #FF0000 0%, #692C2C 100%);
 }
 
-#about {
-  margin: 10px;
-  font-size: 26px;
+.dance {
+  padding-left: 40px;
+  width: 430px;
+  font-size: 20px;
+  padding: 3px;
+  overflow: hidden;
 }
 
-dt {
-  font-weight: bold;
+.dance:nth-child(odd) {
+  background-color: #DDD;
 }
-dd {
-  padding-bottom: 15px;
+
+.dance-internal {
+  margin: 10px;
+}
+
+#dances {
+  padding-bottom: 5px;
 }
 
 html, body {height: 100%;}
@@ -71,6 +80,7 @@ html, body {height: 100%;}
 #footer {
   position: relative;
   margin-top: -40px; /* negative value of footer height */
+  padding: 0px;
   height: 40px;
   padding-top: 4px;
   clear:both;
@@ -92,42 +102,10 @@ html, body {height: 100%;}
 <div id="content-inner">
 
 <div id="title">
-<center>About</center>
+<center>All Known Dances</center>
 </div>
 
-<div id="about">
-
-<dl>
-<dt>Why does this exist?</dt>
-<dd>The <a href="http://dancedb.com/DanceDB">other</a>
-  <a href="http://www.contradancelinks.com/">dance</a>
-  <a href="http://www.thedancegypsy.com/">search tools</a> are aimed at people who
-  already dance.  I wanted something really simple to give to people who don't dance yet
-  but would like to try.
-</dd>
-
-
-<dt>Where is the data from?</dt>
-<dd>I put it together
-  from <a href="http://www.contradancelinks.com/">contradancelinks.com</a>, searching, and
-  people sending me links.
-</dd>
-
-<dt>I don't see my dance!</dt>
-<dd>Send me a link to the website and I'll add it: jeff@jefftk.com</dd>
-
-<dt>Where's the full list!</dt>
-<dd>Here's the <a href="list.html">list</a>, which you can also have in <a href="dances_locs.json">json</a>.</dd>
-
-<dt>Where's the source code?</dt>
-<dd>On <a href="https://github.com/jeffkaufman/trycontra">github</a></dd>    
-    
-<dt>Where is the image from?</dt>
-<dd>The background image is
-from <a href="http://www.flickr.com/photos/70118259@N00/4113297728/sizes/l/">j_bary</a>.
-It's licensed cc-by.
-</dd>
-</dl>
+<div id="dances">
 </div>
 
 </div>
@@ -135,8 +113,64 @@ It's licensed cc-by.
 </div>
 
 <div id="footer">
-<center><a href="index.html">back</a></center>
+<center><a href="about.html">back</a></center>
 </div>
-    
+
+<script>
+var dances = document.getElementById("dances");
+
+document.body.onload = function() {
+  fetch("dances_locs.json", function(response) {
+    load_dances(JSON.parse(response));
+  });
+};
+
+function fetch(url, callback) {
+  var xhr = new XMLHttpRequest();
+  xhr.onreadystatechange = function() {
+    if (xhr.readyState==4 && xhr.status==200) {
+      callback(xhr.responseText);
+    }
+  };
+  xhr.open("GET",url,true);
+  xhr.send();
+}
+
+function add_dance(location, link, schedule, distance) {
+  var div = document.createElement("div");
+  div.className = "dance";
+  div.innerHTML = '<div class="dance-internal">'
+                  + location + ', ' + schedule + '<br>'
+                  + '<a href="' + link + '">' + link + '</a></div>';
+  dances.appendChild(div);
+}
+
+function load_dances(dance_locations) {
+  dance_locations.sort(function(a, b) {
+    var loc_a = a[1];
+    var loc_b = b[1];
+
+    var state_a = loc_a.split(" ")[loc_a.split(" ").length-1];
+    var state_b = loc_b.split(" ")[loc_b.split(" ").length-1];
+
+    var c_a = [state_a, loc_a, a];
+    var c_b = [state_b, loc_b, b];
+    if (c_a < c_b) {
+      return -1;
+    } else if (c_a == c_b) {
+      return 0;
+    } else {
+      return 1;
+    }
+  });
+  for (var i = 0 ; i < dance_locations.length ; i++) {
+    add_dance(dance_locations[i][1],
+              dance_locations[i][0],
+              dance_locations[i][2],
+              "");
+  }
+}
+
+</script>
 
 </body> </html>
