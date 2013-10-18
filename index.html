@@ -172,7 +172,7 @@ function clear_dances() {
   dances.innerHTML = "";
 }
 
-function add_dance(location, link, schedule) {
+function add_dance(location, link, schedule, distance) {
   var div = document.createElement("div");
   div.className = "dance";
   div.innerHTML = '<div class="dance-internal"><a href="' + link + '">'
@@ -202,21 +202,22 @@ function load_dances(zip) {
   }
   notfound.style.display = "none";
 
-  // Show the three closest dances plus any others no more than 30% farther.
+  // Show the three closest dances plus any others no more than 3% farther.
   dance_distances = [];
   for (var i = 0 ; i < dance_locations.length ; i++) {
-    var d = distance(dance_locations[i][3],
-                     dance_locations[i][4], ll);
-    dance_distances.push([d, i]);
+    dance_distances.push([distance(dance_locations[i][3],
+                                   dance_locations[i][4], ll),
+                          i]);
   }
-  dance_distances.sort();
+  dance_distances.sort(function(a,b){return a[0]-b[0]});
   for (var j = 0 ; j < dance_distances.length ; j++) {
     var d = dance_distances[j][0];
     var i = dance_distances[j][1];
-    if (d < dance_distances[2][0] * 1.3) {
+    if (d < dance_distances[2][0] * 1.03) {
       add_dance(dance_locations[i][1],
                 dance_locations[i][0],
-                dance_locations[i][2]);
+                dance_locations[i][2],
+                d);
     }
   }
 }
