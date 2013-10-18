@@ -1,4 +1,5 @@
 import json
+from json import encoder
 import urllib2
 import time
 
@@ -35,10 +36,15 @@ def start():
     else:
       lat, lng = lookup_ll(loc)
       time.sleep(1)
-    loc_dances.append([url, loc, freq, lat, lng])    
+    loc_dances.append([url, loc, freq, lat, lng])
   with open("dances_locs.json", "w") as outf:
+    # monkey-patch json to round floats
+
+    old_float_repr = encoder.FLOAT_REPR
+    encoder.FLOAT_REPR = lambda o: format(o, '.2f')
     outf.write(json.dumps(loc_dances))
+    encoder.FLOAT_REPR = old_float_repr
 
 if __name__ == "__main__":
   start()
-  
+
