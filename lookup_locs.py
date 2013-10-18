@@ -17,13 +17,25 @@ def lookup_ll(loc):
 
   return ll["lat"], ll["lng"]
 
+def build_loc_lookup():
+  existing_locs = json.loads(open("dances_locs.json").read())
+  loc_lookup = {}
+  for url, loc, freq, lat, lng in existing_locs:
+    loc_lookup[loc] = [lat, lng]
+  return loc_lookup
+
 def start():
   dances = json.loads(open("dances.json").read())
+  loc_lookup = build_loc_lookup()
+
   loc_dances = []
   for url, loc, freq in dances:
-    lat, lng = lookup_ll(loc)
-    loc_dances.append([url, loc, freq, lat, lng])
-    time.sleep(1)
+    if loc in loc_lookup:
+      lat, lng = loc_lookup[loc]
+    else:
+      lat, lng = lookup_ll(loc)
+      time.sleep(1)
+    loc_dances.append([url, loc, freq, lat, lng])    
   with open("dances_locs.json", "w") as outf:
     outf.write(json.dumps(loc_dances))
 
