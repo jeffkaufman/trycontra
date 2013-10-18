@@ -80,10 +80,6 @@ body {
   text-align: center;
 }
 
-#input {
-  color: transparent;
-}
-
 #notfound {
   display: none;
   margin-left: 40px;
@@ -156,25 +152,12 @@ zi.onkeypress = function(e) {
   }
 }
 
-function show_hide_cursor() {
-  if (zi.value == "") {
-    zi.style.color = "transparent";
-  } else {
-    zi.style.color = "black";
-  }
-}
-
-zi.onkeyup = function(e) {
-  show_hide_cursor();
-}
-
 zb.onclick = function(e) { submit(); };
 
 var zips = null;
 var dance_locations = null;
 document.body.onload = function() {
   zi.focus();
-  show_hide_cursor();
   fetch("zipcode.json", function(response) {
     zips = JSON.parse(response);
   });
