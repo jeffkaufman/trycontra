@@ -175,6 +175,7 @@ if (navigator.userAgent.toLowerCase().indexOf("android") > -1) {
 }
 
 function submit() {
+  zi.value = zi.value.replace(/^\s+|\s+$/g,'');
   load_dances(zi.value);
 }
 
