@@ -68,6 +68,12 @@ body {
   padding-bottom: 10px;
 }
 
+#nodances {
+  display: none;
+  margin-left: 40px;
+  padding-bottom: 10px;
+}
+
 .dance {
   margin-left: 40px;
   padding: 0px;
@@ -137,6 +143,11 @@ html, body {height: 100%;}
 Sorry, I don't recognize<br>that zip code.
 </div>
 
+<div id="nodances">
+Sorry, I can't find any<br>
+contra dances near you.
+</div>
+
 </div>
 
 <div id="dances">
@@ -157,6 +168,7 @@ var buttontext = document.getElementById("buttontext");
 var dances = document.getElementById("dances");
 var content = document.getElementById("content");
 var notfound = document.getElementById("notfound");
+var nodances = document.getElementById("nodances");
 
 if (navigator.userAgent.toLowerCase().indexOf("android") > -1) {
   zi.type = "number";
@@ -230,6 +242,7 @@ function load_dances(zip) {
     return;
   }
   notfound.style.display = "none";
+  nodances.style.display = "none";
 
   // Show the three closest dances plus any others no more than 3% farther.
   dance_distances = [];
@@ -239,6 +252,7 @@ function load_dances(zip) {
                           i]);
   }
   dance_distances.sort(function(a,b){return a[0]-b[0]});
+  var found_one = false;
   for (var j = 0 ; j < dance_distances.length ; j++) {
     var d = dance_distances[j][0];
     var i = dance_distances[j][1];
@@ -247,7 +261,11 @@ function load_dances(zip) {
                 dance_locations[i][0],
                 dance_locations[i][2],
                 d);
+      found_one = true;
     }
+  }
+  if (!found_one) {
+    nodances.style.display = "block";
   }
 }
 
