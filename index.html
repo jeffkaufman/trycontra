@@ -237,8 +237,8 @@ function add_dance(location, link, schedule, distance) {
 
 function distance(lat, lng, ll) {
   // Approximate a flat Earth at the average latitude.
-  dlat = lat - ll[0];
-  dlong = (lng - ll[1]) * Math.cos(0.5*(lat + ll[0]) * Math.PI/180.);
+  var dlat = lat - ll[0];
+  var dlong = (lng - ll[1]) * Math.cos(0.5*(lat + ll[0]) * Math.PI/180.);
   return Math.sqrt(dlat*dlat + dlong*dlong);
 }
 
