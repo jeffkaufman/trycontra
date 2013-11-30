@@ -236,7 +236,10 @@ function add_dance(location, link, schedule, distance) {
 }
 
 function distance(lat, lng, ll) {
-  return Math.sqrt((lat-ll[0])*(lat-ll[0]) + (lng-ll[1])*(lng-ll[1]));
+  // Approximate a flat Earth at the average latitude.
+  dlat = lat - ll[0];
+  dlong = (lng - ll[1]) * Math.cos(0.5*(lat + ll[0]) * Math.PI/180.);
+  return Math.sqrt(dlat*dlat + dlong*dlong);
 }
 
 function add_more_link(zip, minimum_dances) {
