@@ -21,7 +21,7 @@ def lookup_ll(loc):
 def build_loc_lookup():
   existing_locs = json.loads(open("dances_locs.json").read())
   loc_lookup = {}
-  for url, loc, freq, lat, lng in existing_locs:
+  for url, loc, days, freq, lat, lng in existing_locs:
     loc_lookup[loc] = [lat, lng]
   return loc_lookup
 
@@ -30,13 +30,13 @@ def start():
   loc_lookup = build_loc_lookup()
 
   loc_dances = []
-  for url, loc, freq in dances:
+  for url, loc, days, freq in dances:
     if loc in loc_lookup:
       lat, lng = loc_lookup[loc]
     else:
       lat, lng = lookup_ll(loc)
       time.sleep(1)
-    loc_dances.append([url, loc, freq, lat, lng])
+    loc_dances.append([url, loc, days, freq, lat, lng])
   with open("dances_locs.json", "w") as outf:
     # monkey-patch json to round floats
 
