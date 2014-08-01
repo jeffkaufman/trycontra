@@ -20,7 +20,7 @@
 ["http://www.caldancecoop.org", "South Pasadena CA", "Fridays", 12],
 ["http://www.caldancecoop.org", "San Pedro CA", "Sunday", 12],
 ["http://www.caldancecoop.org", "Lancaster CA", "Saturdays", 24],
-["http://www.caldancecoop.org", "Brentwood CA", "Saturdays", 24],
+["http://www.caldancecoop.org", "Los Angeles CA", "Saturdays", 24],
 ["http://www.caldancecoop.org", "La Verne CA", "Sundays", 12],
 ["http://santacruzdance.org/", "Felton CA", "Fridays", 26],
 ["http://www.bacds.org/series/contra/berkeley_wed/", "Berkeley CA", "Wednesdays", 27],
@@ -158,6 +158,10 @@
 ["http://www.deffa.org/canaan.php", "Canaan ME", "Saturdays", 8],
 ["http://www.belfastflyingshoes.org/", "Belfast ME", "Fridays", 12],
 ["http://www.starleft.org/dance/", "West Farmington ME", "Saturdays", 8],
+["http://www.deffa.org/whitefield.php", "North Whitefield ME", "Fridays", 11],
+["http://www.deffa.org/freeport.php", "Topsham ME", "Saturdays", 12],
+["http://www.deffa.org/bates.php", "Lewiston ME", "Fridays", 6],
+
 
 ["http://inspirationalcona.org/ContraDanceHome.html", "Lincoln MI", "Saturdays", 9],
 ["https://www.facebook.com/groups/46753138765/", "Holland MI", "Fridays", 9],
