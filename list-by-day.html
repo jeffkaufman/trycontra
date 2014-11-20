@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html> <head>
+<title>Try Contra Dancing</title>
+<meta name=viewport content="width=600">
+</head>
+
+<style>
+body {
+  background: url(background.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+  margin: 0;
+  padding: 0;
+}
+
+* { box-sizing: border-box; }
+
+#content {
+  width: 430px;
+  margin: auto;
+  padding: 0;
+}
+
+#content-inner {
+  margin-top: 100px;
+  background-color: white;
+}
+
+#title {
+  padding-top: 10px;
+  font-size: 46px;
+  font-family: sans-serif;
+  height: 75px;
+
+  color: white;
+
+  background: #692C2C;
+  background-image: -ms-linear-gradient(top left, #FF0000 0%, #692C2C 100%);
+  background-image: -moz-linear-gradient(top left, #FF0000 0%, #692C2C 100%);
+  background-image: -o-linear-gradient(top left, #FF0000 0%, #692C2C 100%);
+  background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0, #FF0000), color-stop(1, #692C2C));
+  background-image: -webkit-linear-gradient(top left, #FF0000 0%, #692C2C 100%);
+  background-image: linear-gradient(to bottom right, #FF0000 0%, #692C2C 100%);
+}
+
+
+.day {
+  padding-top: 18px;
+  font-size: 32px;
+  font-family: sans-serif;
+  height: 75px;
+
+  color: white;
+
+  background: #444;
+}
+
+.dance {
+  padding-left: 40px;
+  width: 430px;
+  font-size: 20px;
+  padding: 3px;
+  overflow: hidden;
+}
+
+.dance:nth-child(odd) {
+  background-color: #DDD;
+}
+
+.dance-internal {
+  margin: 10px;
+}
+
+.dances {
+  padding-bottom: 5px;
+}
+
+html, body {height: 100%;}
+
+#wrap {
+  min-height: 100%;
+}
+
+#content {
+  overflow:auto;
+  padding-bottom: 40px;
+}  /* must be same height as the footer */
+
+#footer {
+  position: relative;
+  margin-top: -40px; /* negative value of footer height */
+  padding: 0px;
+  height: 40px;
+  padding-top: 4px;
+  clear:both;
+  background-color: black;
+  font-size: 30px;
+  font-family: sans-serif;
+}
+
+#footer a:link {text-decoration: none; color: #CCC}
+#footer a:visited {text-decoration: none; color: #CCC}
+#footer a:active {text-decoration: none; color: #CCC}
+#footer a:hover {text-decoration: underline; color: #CCC}
+</style>
+
+<body>
+
+<div id="wrap">
+<div id="content">
+<div id="content-inner">
+
+<div id="title">
+<center>By Day of Week</center>
+</div>
+
+<div class="day">
+<center>Sunday</center>
+</div>
+<div class=dances id="sunday">
+</div>
+
+<div class="day">
+<center>Monday</center>
+</div>
+<div class=dances id="monday">
+</div>
+
+<div class="day">
+<center>Tuesday</center>
+</div>
+<div class=dances id="tuesday">
+</div>
+
+<div class="day">
+<center>Wedsnesday</center>
+</div>
+<div class=dances id="wednesday">
+</div>
+
+<div class="day">
+<center>Thursday</center>
+</div>
+<div class=dances id="thursday">
+</div>
+
+<div class="day">
+<center>Friday</center>
+</div>
+<div class=dances id="friday">
+</div>
+
+<div class="day">
+<center>Saturday</center>
+</div>
+<div class=dances id="saturday">
+</div>
+
+
+</div>
+</div>
+</div>
+
+<div id="footer">
+<center><a href="about.html">back</a></center>
+</div>
+
+<script>
+var sunday = document.getElementById("sunday");
+var monday = document.getElementById("monday");
+var tuesday = document.getElementById("tuesday");
+var wednesday = document.getElementById("wednesday");
+var thursday = document.getElementById("thursday");
+var friday = document.getElementById("friday");
+var saturday = document.getElementById("saturday");
+
+document.body.onload = function() {
+  fetch("dances_locs.json", function(response) {
+    load_dances(JSON.parse(response));
+  });
+};
+
+function fetch(url, callback) {
+  var xhr = new XMLHttpRequest();
+  xhr.onreadystatechange = function() {
+    if (xhr.readyState==4 && xhr.status==200) {
+      callback(xhr.responseText);
+    }
+  };
+  xhr.open("GET",url,true);
+  xhr.send();
+}
+
+function build_div(location, link, schedule) {
+  var div = document.createElement("div");
+  div.className = "dance";
+  div.innerHTML = '<div class="dance-internal">'
+                  + location + ', ' + schedule + '<br>'
+                  + '<a href="' + link + '">' + link + '</a></div>';
+  return div;
+}
+function add_dance(location, link, schedule, distance) {
+  if (schedule.indexOf("Sunday") != -1) {
+    sunday.appendChild(build_div(location, link, schedule));
+  }
+  if (schedule.indexOf("Monday") != -1) {
+    monday.appendChild(build_div(location, link, schedule));
+  }
+  if (schedule.indexOf("Tuesday") != -1) {
+    tuesday.appendChild(build_div(location, link, schedule));
+  }
+  if (schedule.indexOf("Wednesday") != -1) {
+    wednesday.appendChild(build_div(location, link, schedule));
+  }
+  if (schedule.indexOf("Thursday") != -1) {
+    thursday.appendChild(build_div(location, link, schedule));
+  }
+  if (schedule.indexOf("Friday") != -1) {
+    friday.appendChild(build_div(location, link, schedule));
+  }
+  if (schedule.indexOf("Saturday") != -1) {
+    saturday.appendChild(build_div(location, link, schedule));
+  }
+}
+
+function load_dances(dance_locations) {
+  dance_locations.sort(function(a, b) {
+    var loc_a = a[1];
+    var loc_b = b[1];
+
+    var state_a = loc_a.split(" ")[loc_a.split(" ").length-1];
+    var state_b = loc_b.split(" ")[loc_b.split(" ").length-1];
+
+    var c_a = [state_a, loc_a, a];
+    var c_b = [state_b, loc_b, b];
+    if (c_a < c_b) {
+      return -1;
+    } else if (c_a == c_b) {
+      return 0;
+    } else {
+      return 1;
+    }
+  });
+  for (var i = 0 ; i < dance_locations.length ; i++) {
+    add_dance(dance_locations[i][1],
+              dance_locations[i][0],
+              dance_locations[i][2],
+              "");
+  }
+}
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-45031405-1', 'trycontra.com');
+ga('send', 'pageview');
+</script>
+
+</body> </html>
