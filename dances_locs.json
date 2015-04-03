@@ -297,6 +297,8 @@
  ["http://spokanefolklore.org/contra.html", "Spokane WA", "Wednesdays", 40, 47.66, -117.43],
  ["http://seattledance.org/contra/lakecity", "Seattle WA", "Thursdays", 52, 47.61, -122.33],
  ["http://seattledance.org/contra/emeraldcity", "Seattle WA", "Fridays", 52, 47.61, -122.33],
+ ["http://seattledance.org/contra/darrington", "Darrington WA", "Saturdays", 7, 48.2553867, -121.6015142],
+ ["http://accontradanceyakima.wix.com/accd", "Yakima WA", "Saturdays", 10, 46.6020711, -120.5058987],
  ["http://www.ptcommunitydance.com/p/bands-and-callers-schedule.html", "Port Townsend WA", "Saturdays", 9, 48.12, -122.76],
  ["http://www.tacomacontradance.org/", "Tacoma WA", "Saturdays", 10, 47.25, -122.44],
  ["http://fam.bmi.net/fsch1.html", "Walla Walla WA", "Saturdays", 12, 46.06, -118.34],
