@@ -196,19 +196,28 @@ zi.onkeypress = function(e) {
   }
 }
 
+zb.disabled = true;
 zb.onclick = function(e) { submit(); };
+function maybe_ready() {
+  if (!!zips && !!dance_locations) {
+    zb.disabled = false;
+  }
+}
 
 var zips = null;
 var dance_locations = null;
 document.body.onload = function() {
   zi.focus();
-  fetch("zipcode.json", function(response) {
+  fetch("/zipcode.json", function(response) {
     zips = JSON.parse(response);
+    maybe_ready();
   });
-  fetch("dances_locs.json", function(response) {
+  fetch("/dances_locs.json", function(response) {
     dance_locations = JSON.parse(response);
+    maybe_ready();
   });
 };
+
 
 function fetch(url, callback) {
   var xhr = new XMLHttpRequest();
