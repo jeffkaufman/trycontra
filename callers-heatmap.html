@@ -53,6 +53,8 @@ function maybe_ready() {
             location: new google.maps.LatLng(lat, lng),
             weight: 1
           });
+       } else {
+          console.log("unrecognized zipcode: " + zip);
        }
     }
 
