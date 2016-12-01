@@ -45,13 +45,15 @@ function maybe_ready() {
 
     for (var i = 0 ; i < callers_zips.length ; i++) {
        var zip = callers_zips[i];
-       var lat = zips[zip][0]
-       var lng = zips[zip][1];
+       if (zip in zips) {
+          var lat = zips[zip][0];
+          var lng = zips[zip][1];
 
-       heatMapData.push({
-         location: new google.maps.LatLng(lat, lng),
-         weight: 1
-       });
+          heatMapData.push({
+            location: new google.maps.LatLng(lat, lng),
+            weight: 1
+          });
+       }
     }
 
     var usa = new google.maps.LatLng(39.81,-98.56);
