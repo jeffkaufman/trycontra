@@ -1,0 +1,74 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html> <head>
+<title>Callers Heatmap</title>
+</head>
+
+<body>
+<style>
+html, body, #map-canvas {
+  height: 100%;
+  margin: 0px;
+  padding: 0px
+}
+</style>
+<script type="text/javascript"
+  src="http://maps.googleapis.com/maps/api/js?libraries=visualization&key=AIzaSyAXr6BKvSD6mbu9zloqwaiF9EXilAPbhD4">
+</script>
+<script>
+function fetch(url, callback) {
+  var xhr = new XMLHttpRequest();
+  xhr.onreadystatechange = function() {
+    if (xhr.readyState==4 && xhr.status==200) {
+      callback(xhr.responseText);
+    }
+  };
+  xhr.open("GET",url,true);
+  xhr.send();
+}
+
+var zips = null;
+var callers_zips = null;
+window.onload = function() {
+  fetch("/zipcode.json", function(response) {
+    zips = JSON.parse(response);
+    maybe_ready();
+  });
+  fetch("/callers-zips.json", function(response) {
+    callers_zips = JSON.parse(response);
+    maybe_ready();
+  });
+};
+
+function maybe_ready() {
+  if (!!zips && !!callers_zips) {
+    heatMapData = [];
+
+    for (var i = 0 ; i < callers_zips.length ; i++) {
+       var zip = callers_zips[i];
+       var lat = zips[zip][0]
+       var lng = zips[zip][1];
+
+       heatMapData.push({
+         location: new google.maps.LatLng(lat, lng),
+         weight: 1
+       });
+    }
+
+    var usa = new google.maps.LatLng(39.81,-98.56);
+    map = new google.maps.Map(document.getElementById('map-canvas'), {
+      center: usa,
+      zoom: 5,
+    });
+
+    var heatmap = new google.maps.visualization.HeatmapLayer({
+      data: heatMapData
+    });
+
+    heatmap.set('radius', 40);
+    heatmap.setMap(map);
+  }
+}
+</script>
+<div id="map-canvas"></div>
+
+</body> </html>
