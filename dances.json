@@ -25,6 +25,7 @@
 ["http://www.caldancecoop.org/cgi/dsched_save.cgi?byttl=002", "Los Angeles CA", "Saturdays", 24],
 ["http://www.caldancecoop.org/cgi/dsched_save.cgi?byttl=009", "La Verne CA", "Sundays", 12],
 ["http://santacruzdance.org/", "Santa Cruz CA", "Fridays", 12],
+["http://santacruzdance.org/", "Santa Cruz CA", "Sundays", 9],
 ["http://www.bacds.org/series/contra/berkeley_wed/", "Berkeley CA", "Wednesdays", 27],
 ["http://www.bacds.org/series/contra/san_francisco/", "San Francisco CA", "Fridays and Saturdays", 24],
 ["http://www.bacds.org/series/contra/palo_alto/", "Palo Alto CA", "Saturdays", 27],
