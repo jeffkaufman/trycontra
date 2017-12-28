@@ -30,7 +30,12 @@ def start():
   loc_lookup = build_loc_lookup()
 
   loc_dances = []
-  for url, loc, days, freq in dances:
+  for row in dances:
+    try:
+      url, loc, days, freq = row
+    except Exception:
+      print(row)
+      raise
     if loc in loc_lookup:
       lat, lng = loc_lookup[loc]
     else:
