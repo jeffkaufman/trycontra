@@ -3,9 +3,11 @@ from json import encoder
 import urllib2
 import time
 
+KEY="AIzaSyAIprYkqDGIH1EQ1ssy8Ef1q-8U7Hdk6Nc"
+
 def lookup_ll(loc):
   loc = loc.replace(" ", "+")
-  q = "http://maps.googleapis.com/maps/api/geocode/json?address=%s&sensor=false" % loc
+  q = "http://maps.googleapis.com/maps/api/geocode/json?address=%s&key=%s" % (loc, KEY)
   j = urllib2.urlopen(q).read()
   r = json.loads(j)
 
