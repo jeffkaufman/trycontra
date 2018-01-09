@@ -18,7 +18,7 @@ def lookup_ll(loc):
     pprint.pprint(r)
     raise
 
-  return ll["lat"], ll["lng"]
+  return round(ll["lat"], 2), round(ll["lng"], 2)
 
 def build_loc_lookup():
   existing_locs = json.loads(open("dances_locs.json").read())
