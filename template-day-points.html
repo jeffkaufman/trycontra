@@ -1,0 +1,77 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html> <head>
+<title>Points by Day</title>
+</head>
+
+<body>
+<style>
+html, body, #map-canvas {
+  height: 100%;
+  margin: 0px;
+  padding: 0px
+}
+</style>
+<script type="text/javascript"
+  src="https://maps.googleapis.com/maps/api/js?libraries=visualization&sensor=false">
+</script>
+<script>
+document.body.onload = function() {
+  fetch("dances_locs.json", function(response) {
+    load_dances(JSON.parse(response));
+  });
+};
+
+function fetch(url, callback) {
+  var xhr = new XMLHttpRequest();
+  xhr.onreadystatechange = function() {
+    if (xhr.readyState==4 && xhr.status==200) {
+      callback(xhr.responseText);
+    }
+  };
+  xhr.open("GET",url,true);
+  xhr.send();
+}
+
+function add_link(marker, url) {
+  google.maps.event.addListener(marker, 'click', function() {
+    window.location.href = url;
+  });
+}
+
+function load_dances(dances) {
+  var usa = new google.maps.LatLng(39.81,-98.56);
+  var map = new google.maps.Map(document.getElementById('map-canvas'), {
+    center: usa,
+    zoom: 5,
+  });
+
+  var day = window.location.pathname.split("-")[0].split("/")[1];
+
+  for (var i = 0 ; i < dances.length ; i++) {
+    var url = dances[i][0];
+    var name = dances[i][1];
+    var days = dances[i][2];
+    var weight = dances[i][3];
+    var lat = dances[i][4];
+    var lng = dances[i][5];
+
+    if (days.toLowerCase().search(day) < 0) {
+      continue;
+    }
+
+    var loc = new google.maps.LatLng(lat, lng);
+
+    var marker = new google.maps.Marker({
+      position: loc,
+      url: url,
+      title: name,
+      map: map
+    });
+
+    add_link(marker, url);
+  }
+}
+</script>
+<div id="map-canvas"></div>
+
+</body> </html>
