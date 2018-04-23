@@ -34,7 +34,7 @@ def start():
   loc_dances = []
   for row in dances:
     try:
-      url, loc, days, freq = row
+      url, loc, days, freq, roles = row
     except Exception:
       print(row)
       raise
