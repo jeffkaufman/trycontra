@@ -38,7 +38,9 @@ def start():
     except Exception:
       print(row)
       raise
-    if loc in loc_lookup:
+    if '(' in loc:
+      lat, lng = None, None
+    elif loc in loc_lookup:
       lat, lng = loc_lookup[loc]
     else:
       lat, lng = lookup_ll(loc)
