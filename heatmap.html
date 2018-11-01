@@ -39,6 +39,8 @@ function load_dances(dances) {
     var lat = dances[i][4];
     var lng = dances[i][5];
 
+    if (!lat || !lng) continue;
+
     heatMapData.push({
        location: new google.maps.LatLng(lat, lng),
        weight: weight
