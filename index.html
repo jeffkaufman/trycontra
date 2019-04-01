@@ -181,10 +181,6 @@ var content = document.getElementById("content");
 var notfound = document.getElementById("notfound");
 var nodances = document.getElementById("nodances");
 
-if (navigator.userAgent.toLowerCase().indexOf("android") > -1) {
-  zi.type = "number";
-}
-
 function submit() {
   zi.value = zi.value.replace(/^\s+|\s+$/g,'');
   load_dances(zi.value);
@@ -202,6 +198,27 @@ function maybe_ready() {
   if (!!zips && !!dance_locations) {
     zb.disabled = false;
   }
+}
+
+var postal_districts = {
+ 'A': [47,-56],
+ 'B': [45,-63],
+ 'C': [46,-63],
+ 'E': [46,-66],
+ 'G': [49,-77],
+ 'H': [46,-70],
+ 'J': [46,-74],
+ 'K': [45,-77],
+ 'L': [43,-80],
+ 'M': [43,-80],
+ 'N': [43,-81],
+ 'P': [47,-82],
+ 'R': [50,-98],
+ 'S': [50,-105],
+ 'T': [50,-112],
+ 'V': [50,-123],
+ 'X': [61,-109],
+ 'Y': [61,-139],
 }
 
 var zips = null;
@@ -278,6 +295,13 @@ function load_dances(zip, minimum_dances) {
   clear_dances();
 
   var ll = zips[zip];
+  if (!ll) {
+    var postal_code_match = zip.match(
+        /^([a-zA-Z])[0-9][a-zA-Z] [0-9][a-zA-Z][0-9]$/)
+    if (postal_code_match) {
+      ll = postal_districts[postal_code_match[1].toUpperCase()];
+    }
+  }
   if (!ll) {
     notfound.style.display = "block";
     return;
