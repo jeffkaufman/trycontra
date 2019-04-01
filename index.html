@@ -297,7 +297,7 @@ function load_dances(zip, minimum_dances) {
   var ll = zips[zip];
   if (!ll) {
     var postal_code_match = zip.match(
-        /^([a-zA-Z])[0-9][a-zA-Z] [0-9][a-zA-Z][0-9]$/)
+        /^([a-zA-Z])[0-9][a-zA-Z] ?[0-9][a-zA-Z][0-9]$/)
     if (postal_code_match) {
       ll = postal_districts[postal_code_match[1].toUpperCase()];
     }
