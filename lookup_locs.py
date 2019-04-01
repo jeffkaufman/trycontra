@@ -1,15 +1,30 @@
 import json
 from json import encoder
-import urllib2
+import requests
+import urllib.parse
 import time
 
 KEY="AIzaSyCuMCzvNjdpzYJMFR8BWmbGzO68HbHPkGA"
 
+#force ipv4
+import socket
+old_getaddrinfo = socket.getaddrinfo
+def new_getaddrinfo(*args, **kwargs):
+  responses = old_getaddrinfo(*args, **kwargs)
+  return [response
+          for response in responses
+          if response[0] == socket.AF_INET]
+socket.getaddrinfo = new_getaddrinfo
+
 def lookup_ll(loc):
-  loc = loc.replace(" ", "+")
+  print ("looking up %s" % loc)
+  loc = urllib.parse.quote_plus(loc)
   q = "https://maps.googleapis.com/maps/api/geocode/json?address=%s&key=%s" % (loc, KEY)
-  j = urllib2.urlopen(q).read()
-  r = json.loads(j)
+
+  print(q)
+  response = requests.get(q)
+  print(response)
+  r = response.json()
 
   try:
     ll = r["results"][0]["geometry"]["location"]
@@ -47,12 +62,7 @@ def start():
       time.sleep(1)
     loc_dances.append([url, loc, days, freq, lat, lng, roles])
   with open("dances_locs.json", "w") as outf:
-    # monkey-patch json to round floats
-
-    old_float_repr = encoder.FLOAT_REPR
-    encoder.FLOAT_REPR = lambda o: format(o, '.2f')
     outf.write(json.dumps(loc_dances).replace("],", "],\n"))
-    encoder.FLOAT_REPR = old_float_repr
 
 if __name__ == "__main__":
   start()
