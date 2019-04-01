@@ -81,6 +81,6 @@ for zipcode in sorted(zips):
 with open("zipcomp2.json", "w") as outf:
   outf.write("{\n")
   for prefix in sorted(final):
-    outf.write('  "%s": [%.2f, %.2f]"\n' % (
+    outf.write('  "%s": [%.2f, %.2f],\n' % (
       prefix, *final[prefix]))
   outf.write("}\n")
