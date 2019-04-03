@@ -107,25 +107,25 @@ html, body {height: 100%;}
 
 #content {
   overflow:auto;
-  padding-bottom: 40px;
-}  /* must be same height as the footer */
+  padding-bottom: 60px; /* must be same height as the footer */
+}
 
 #footer {
   position: relative;
-  margin-top: -40px; /* negative value of footer height */
+  margin-top: -60px; /* negative value of footer height */
   padding: 0px;
-  height: 40px;
+  height: 60px;  /* footer height */
   padding-top: 4px;
   clear:both;
   background-color: black;
-  font-size: 30px;
+  font-size: 45px;
   font-family: sans-serif;
 }
 
-#footer a:link {text-decoration: none; color: #CCC}
-#footer a:visited {text-decoration: none; color: #CCC}
-#footer a:active {text-decoration: none; color: #CCC}
-#footer a:hover {text-decoration: underline; color: #CCC}
+#about:link {text-decoration: none; color: #CCC}
+#about:visited {text-decoration: none; color: #CCC}
+#about:active {text-decoration: none; color: #CCC}
+#about:hover {text-decoration: underline; color: #CCC}
 
 #zipcode-label {
  padding-bottom: 8px;
@@ -168,9 +168,7 @@ contra dances near you.
 </div>
 </div>
 
-<div id="footer">
-<center><a href="about.html">about</a></center>
-</div>
+<a id=about href="about.html"><div id="footer"><center>about</center></div></a>
 
 <script>
 var zi = document.getElementById("input");

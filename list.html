@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html> <head>
 <title>Try Contra Dancing</title>
-<meta name=viewport content="width=600">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 
 <style>
@@ -19,7 +19,7 @@ body {
 * { box-sizing: border-box; }
 
 #content {
-  width: 430px;
+  width: 90%;
   margin: auto;
   padding: 0;
 }
@@ -48,10 +48,10 @@ body {
 
 .dance {
   padding-left: 40px;
-  width: 430px;
+  width: 100%;
   font-size: 20px;
   padding: 3px;
-  overflow: hidden;
+  overflow: scroll;
 }
 
 .dance:nth-child(odd) {
@@ -89,10 +89,10 @@ html, body {height: 100%;}
   font-family: sans-serif;
 }
 
-#footer a:link {text-decoration: none; color: #CCC}
-#footer a:visited {text-decoration: none; color: #CCC}
-#footer a:active {text-decoration: none; color: #CCC}
-#footer a:hover {text-decoration: underline; color: #CCC}
+#back:link {text-decoration: none; color: #CCC}
+#back:visited {text-decoration: none; color: #CCC}
+#back:active {text-decoration: none; color: #CCC}
+#back:hover {text-decoration: underline; color: #CCC}
 </style>
 
 <body>
@@ -102,7 +102,7 @@ html, body {height: 100%;}
 <div id="content-inner">
 
 <div id="title">
-<center>All Known Dances</center>
+<center>All Dances</center>
 </div>
 
 <div id="dances">
@@ -112,9 +112,7 @@ html, body {height: 100%;}
 </div>
 </div>
 
-<div id="footer">
-<center><a href="about.html">back</a></center>
-</div>
+<a id=back href="about.html"><div id="footer"><center>back</center></div></a>
 
 <script>
 var dances = document.getElementById("dances");
