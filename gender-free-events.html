@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html> <head>
+<title>Larks/Ravens Events</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<style>
+body {
+  background: url(background.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+  margin: 0;
+  padding: 0;
+}
+
+* { box-sizing: border-box; }
+
+#content {
+  width: 90%;
+  margin: auto;
+  padding: 0;
+}
+
+#content-inner {
+  margin-top: 100px;
+  background-color: white;
+}
+
+#title {
+  padding: 10px;
+  font-size: 46px;
+  font-family: sans-serif;
+
+  color: white;
+
+  background: #692C2C;
+  background-image: -ms-linear-gradient(top left, #FF0000 0%, #692C2C 100%);
+  background-image: -moz-linear-gradient(top left, #FF0000 0%, #692C2C 100%);
+  background-image: -o-linear-gradient(top left, #FF0000 0%, #692C2C 100%);
+  background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0, #FF0000), color-stop(1, #692C2C));
+  background-image: -webkit-linear-gradient(top left, #FF0000 0%, #692C2C 100%);
+  background-image: linear-gradient(to bottom right, #FF0000 0%, #692C2C 100%);
+}
+
+.dance {
+  padding-left: 40px;
+  width: 100%;
+  font-size: 20px;
+  padding: 3px;
+  overflow: scroll;
+  line-height: 1.3;
+}
+
+.dance:nth-child(odd) {
+  background-color: #DDD;
+}
+
+.dance-internal {
+  margin: 10px;
+}
+
+#dances {
+  padding-bottom: 5px;
+}
+
+html, body {height: 100%;}
+
+#wrap {
+  min-height: 100%;
+}
+
+#content {
+  overflow:auto;
+  padding-bottom: 40px;
+}  /* must be same height as the footer */
+
+#footer {
+  position: relative;
+  margin-top: -40px; /* negative value of footer height */
+  padding: 0px;
+  height: 40px;
+  padding-top: 4px;
+  clear:both;
+  background-color: black;
+  font-size: 30px;
+  font-family: sans-serif;
+}
+
+#back:link {text-decoration: none; color: #CCC}
+#back:visited {text-decoration: none; color: #CCC}
+#back:active {text-decoration: none; color: #CCC}
+#back:hover {text-decoration: underline; color: #CCC}
+</style>
+
+<body>
+
+<div id="wrap">
+<div id="content">
+<div id="content-inner">
+
+<div id="title">
+<center>Gender Free Events</center>
+</div>
+
+<div id="dances">
+</div>
+
+</div>
+</div>
+</div>
+
+<a id=back href="about.html">
+<div id="footer">
+<center>back</center>
+</div>
+</a>
+
+<script>
+var dances = document.getElementById("dances");
+
+document.body.onload = function() {
+  fetch("gender-free-events.json", function(response) {
+    load_dances(JSON.parse(response));
+  });
+};
+
+function fetch(url, callback) {
+  var xhr = new XMLHttpRequest();
+  xhr.onreadystatechange = function() {
+    if (xhr.readyState==4 && xhr.status==200) {
+      callback(xhr.responseText);
+    }
+  };
+  xhr.open("GET",url,true);
+  xhr.send();
+}
+
+function add_dance(name, location, length, link, notes) {
+  var div = document.createElement("div");
+  div.className = "dance";
+  if (notes) {
+    notes = "<br><i>" + notes + '</i>';
+  }
+  div.innerHTML = '<div class="dance-internal">'
+                  + '<b>' + name + '</b>' + '<br>' + location + '<br>'
+                  + '<a href="' + link + '">' + link + '</a>'
+                  + notes + '</div>';
+  dances.appendChild(div);
+}
+
+function load_dances(dance_locations) {
+  for (var i = 0 ; i < dance_locations.length ; i++) {
+    add_dance(dance_locations[i][0],
+              dance_locations[i][1],
+              dance_locations[i][2],
+              dance_locations[i][3],
+              dance_locations[i][4] || "");
+  }
+}
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-45031405-1', 'trycontra.com');
+ga('send', 'pageview');
+</script>
+
+</body> </html>
