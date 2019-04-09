@@ -152,6 +152,7 @@ function add_dance(name, location, length, link, notes) {
 }
 
 function load_dances(dance_locations) {
+  dance_locations.sort();
   for (var i = 0 ; i < dance_locations.length ; i++) {
     add_dance(dance_locations[i][0],
               dance_locations[i][1],
