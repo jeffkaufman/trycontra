@@ -249,11 +249,26 @@ function clear_dances() {
   dances.innerHTML = "";
 }
 
-function add_dance(location, link, schedule, distance) {
+function add_dance(location, link, schedule, frequency, roles, distance) {
   var div = document.createElement("div");
+
+  var prefix = "most";
+  if (frequency < 6) {
+     prefix = "occasional";
+  } else  if (frequency < 19) {
+     prefix = "some";
+  } else  if (frequency < 45) {
+     prefix = "many";
+  }
+
+  gf = "";
+  if (roles) {
+    gf = "<br><i>gender-free</i>";
+  }
+
   div.className = "dance";
   div.innerHTML = '<div class="dance-internal"><a href="' + link + '">'
-                  + location + '</a><br>' + schedule + '</div>';
+                  + location + '</a><br>' + prefix + ' ' + schedule + gf + '</div>';
   dances.appendChild(div);
 }
 
@@ -327,6 +342,8 @@ function load_dances(zip, minimum_dances) {
       add_dance(dance_locations[i][1],
                 dance_locations[i][0],
                 dance_locations[i][2],
+                dance_locations[i][3],
+                dance_locations[i][6],
                 d);
       added_dances += 1;
     }
