@@ -1,6 +1,7 @@
 <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
 <html> <head>
 <title>Callers Heatmap</title>
+<meta name=viewport content="width=device-width, initial-scale=1.0">
 </head>
 
 <body>
@@ -9,6 +10,23 @@ html, body, #map-canvas {
   height: 100%;
   margin: 0px;
   padding: 0px
+}
+#details {
+  display: none;
+  position: absolute;
+  top: 5em;
+  left: 1em;
+  background-color: #EEE;
+  width: 20em;
+  border-radius: 0.25em;
+  border: 1px solid #DDD;
+}
+.record {
+  margin: 1em;
+}
+.name {
+  font-style: bold;
+  font-size: 130%;
 }
 </style>
 <script type="text/javascript"
@@ -27,42 +45,99 @@ function fetch(url, callback) {
 }
 
 var zips = null;
-var callers_zips = null;
+var caller_records = null;
 window.onload = function() {
   fetch("/zipcode.json", function(response) {
     zips = JSON.parse(response);
     maybe_ready();
   });
-  fetch("/callers-zips.json", function(response) {
-    callers_zips = JSON.parse(response);
+  fetch("/caller-links.json", function(response) {
+    caller_records = JSON.parse(response);
     maybe_ready();
   });
 };
 
-function maybe_ready() {
-  if (!!zips && !!callers_zips) {
-    heatMapData = [];
+var zip_to_caller_records = {}
 
-    for (var i = 0 ; i < callers_zips.length ; i++) {
-       var zip = callers_zips[i];
-       if (zip in zips) {
-          var lat = zips[zip][0];
-          var lng = zips[zip][1];
-
-          heatMapData.push({
-            location: new google.maps.LatLng(lat, lng),
-            weight: 1
-          });
-       } else {
-          console.log("unrecognized zipcode: " + zip);
-       }
+function add_marker_listener(marker, zip) {
+  google.maps.event.addListener(marker, 'click', function() {
+    details.style.display = "block";
+    details.innerHTML = "";
+    for (var i = 0; i < zip_to_caller_records[zip].length; i++) {
+      var caller_record = zip_to_caller_records[zip][i];
+      var record_div = document.createElement("div");
+      record_div.className = "record";
+      var name_span = document.createElement("span");
+      name_span.className = "name";
+      name_span.textContent = caller_record.name;
+      var anchor_destination;
+      if (caller_record.website && caller_record.website.indexOf(".") != -1) {
+        if (caller_record.website.indexOf("://") != -1) {
+          anchor_destination = caller_record.website;
+        } else {
+          anchor_destination = "http://" + caller_record.website;
+        }
+      }
+      if (anchor_destination) {
+        var anchor = document.createElement("a");
+        anchor.href = anchor_destination;
+        anchor.appendChild(name_span);
+        record_div.append(anchor);
+      } else {
+        record_div.append(name_span);
+      }
+      if (caller_record.email) {
+        record_div.append(document.createElement("br"));
+        var email_span = document.createElement("span");
+        email_span.className = "email";
+        email_span.textContent = caller_record.email;
+        record_div.append(caller_record.email);
+      }
+      details.appendChild(record_div);
     }
+  });
+}
 
+function maybe_ready() {
+  if (!!zips && !!caller_records) {
     var usa = new google.maps.LatLng(39.81,-98.56);
     map = new google.maps.Map(document.getElementById('map-canvas'), {
       center: usa,
       zoom: 5,
     });
+
+    heatMapData = [];
+
+    for (var i = 0 ; i < caller_records.length ; i++) {
+       var caller_record = caller_records[i];
+       var zip = caller_record.zip;
+       if (zip in zips) {
+          var lat = zips[zip][0];
+          var lng = zips[zip][1];
+
+          var loc = new google.maps.LatLng(lat, lng);
+
+          heatMapData.push({
+            location: loc,
+            weight: 1
+          });
+
+          if (!(zip in zip_to_caller_records)) {
+            zip_to_caller_records[zip] = [caller_record];
+
+            var marker = new google.maps.Marker({
+              position: loc,
+              map: map
+            });
+
+            add_marker_listener(marker, zip);
+          } else {
+            zip_to_caller_records[zip].push(caller_record);
+          }
+       } else {
+          console.log("unrecognized zipcode: " + zip);
+       }
+    }
 
     var heatmap = new google.maps.visualization.HeatmapLayer({
       data: heatMapData
@@ -74,5 +149,6 @@ function maybe_ready() {
 }
 </script>
 <div id="map-canvas"></div>
+<div id="details"></div>
 
 </body> </html>
