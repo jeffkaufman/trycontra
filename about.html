@@ -1,88 +1,21 @@
 <!DOCTYPE html>
 <html> <head>
 <title>Try Contra Dancing</title>
-<meta name=viewport content="width=600">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="simple.css">
 </head>
 
 <style>
-body {
-  background: url(background.jpg) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-
-  margin: 0;
-  padding: 0;
-}
-
-* { box-sizing: border-box; }
-
-#content {
-  width: 430px;
-  margin: auto;
-  padding: 0;
-}
-
-#content-inner {
-  margin-top: 100px;
-  background-color: white;
-}
-#title {
-  padding-top: 10px;
-  font-size: 46px;
-  font-family: sans-serif;
-  height: 75px;
-
-  color: white;
-
-  background: #692C2C;
-  background-image: -ms-linear-gradient(top left, #FF0000 0%, #692C2C 100%);
-  background-image: -moz-linear-gradient(top left, #FF0000 0%, #692C2C 100%);
-  background-image: -o-linear-gradient(top left, #FF0000 0%, #692C2C 100%);
-  background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0, #FF0000), color-stop(1, #692C2C));
-  background-image: -webkit-linear-gradient(top left, #FF0000 0%, #692C2C 100%);
-  background-image: linear-gradient(to bottom right, #FF0000 0%, #692C2C 100%);
-}
-
 #about {
   margin: 10px;
   font-size: 26px;
 }
-
 dt {
   font-weight: bold;
 }
 dd {
   padding-bottom: 15px;
 }
-
-html, body {height: 100%;}
-
-#wrap {
-  min-height: 100%;
-}
-
-#content {
-  overflow:auto;
-  padding-bottom: 40px;
-}  /* must be same height as the footer */
-
-#footer {
-  position: relative;
-  margin-top: -40px; /* negative value of footer height */
-  height: 40px;
-  padding-top: 4px;
-  clear:both;
-  background-color: black;
-  font-size: 30px;
-  font-family: sans-serif;
-}
-
-#footer a:link {text-decoration: none; color: #CCC}
-#footer a:visited {text-decoration: none; color: #CCC}
-#footer a:active {text-decoration: none; color: #CCC}
-#footer a:hover {text-decoration: underline; color: #CCC}
 </style>
 
 <body>
@@ -118,7 +51,21 @@ html, body {height: 100%;}
 
 <dt>Where's the full list!</dt>
 <dd>Here's the <a href="list.html">list</a>, which you can also have in <a href="dances_locs.json">json</a>.
-    If you're putting together a tour you might prefer a <a href="list-by-day.html">day-by-day list</a>.</dd>
+    If you're putting together a tour you might prefer a <a href="list-by-day.html">day-by-day list</a> or maps for each day:
+
+<ul>
+<li><a href="monday-points.html">Monday</a></li>
+<li><a href="tuesday-points.html">Tuesday</a></li>
+<li><a href="wednesday-points.html">Wednesday</a></li>
+<li><a href="thursday-points.html">Thursday</a></li>
+<li><a href="friday-points.html">Friday</a></li>
+<li><a href="saturday-points.html">Saturday</a></li>
+<li><a href="sunday-points.html">Sunday</a></li>
+</ul>
+</dd>
+
+<dt>What about just Gender-Free dances?</dt>
+<dd>Here's all the dances using <a href="gender-free">non-gendered terms</a> and here is a list of <a href="gender-free-events">weekends, festivals, and camps</a>.</dd>
 
 <dt>Can you make a heatmap?</dt>
 <dd><a href="heatmap.html">ok</a>.</dd>
@@ -134,6 +81,7 @@ html, body {height: 100%;}
 from <a href="http://www.flickr.com/photos/70118259@N00/4113297728/sizes/l/">j_bary</a>.
 It's licensed cc-by.
 </dd>
+
 </dl>
 </div>
 
@@ -141,9 +89,11 @@ It's licensed cc-by.
 </div>
 </div>
 
+<a id=back href="index.html">
 <div id="footer">
-<center><a href="index.html">back</a></center>
+<center>back</center>
 </div>
+</a>
 
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

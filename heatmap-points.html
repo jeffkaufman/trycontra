@@ -12,7 +12,7 @@ html, body, #map-canvas {
 }
 </style>
 <script type="text/javascript"
-  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyALrS4bNPhHaZ73dACaSxD-r6oht4CX7B8&libraries=visualization&sensor=false">
+  src="https://maps.googleapis.com/maps/api/js?libraries=visualization&sensor=false&key=AIzaSyALrS4bNPhHaZ73dACaSxD-r6oht4CX7B8">
 </script>
 <script>
 document.body.onload = function() {
@@ -32,26 +32,48 @@ function fetch(url, callback) {
   xhr.send();
 }
 
+function add_link(marker, url) {
+  google.maps.event.addListener(marker, 'click', function() {
+    window.open(url,'_blank');
+  });
+}
+
 function load_dances(dances) {
+  var usa = new google.maps.LatLng(39.81,-98.56);
+  var map = new google.maps.Map(document.getElementById('map-canvas'), {
+    center: usa,
+    zoom: 5,
+  });
+
   var heatMapData = [];
   for (var i = 0 ; i < dances.length ; i++) {
+    var url = dances[i][0];
+    var name = dances[i][1];
     var weight = dances[i][3];
     var lat = dances[i][4];
     var lng = dances[i][5];
 
     if (!lat || !lng) continue;
 
+    lat += (Math.random() * 0.005 - 0.0025);
+    lng += (Math.random() * 0.005 - 0.0025);
+
+    var loc = new google.maps.LatLng(lat, lng);
+
     heatMapData.push({
-       location: new google.maps.LatLng(lat, lng),
+       location: loc,
        weight: weight
     });
-  }
 
-  var usa = new google.maps.LatLng(39.81,-98.56);
-  map = new google.maps.Map(document.getElementById('map-canvas'), {
-    center: usa,
-    zoom: 5,
-  });
+    var marker = new google.maps.Marker({
+      position: loc,
+      url: url,
+      title: name,
+      map: map
+    });
+
+    add_link(marker, url);
+  }
 
   var heatmap = new google.maps.visualization.HeatmapLayer({
     data: heatMapData

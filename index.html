@@ -107,25 +107,25 @@ html, body {height: 100%;}
 
 #content {
   overflow:auto;
-  padding-bottom: 40px;
-}  /* must be same height as the footer */
+  padding-bottom: 60px; /* must be same height as the footer */
+}
 
 #footer {
   position: relative;
-  margin-top: -40px; /* negative value of footer height */
+  margin-top: -60px; /* negative value of footer height */
   padding: 0px;
-  height: 40px;
+  height: 60px;  /* footer height */
   padding-top: 4px;
   clear:both;
   background-color: black;
-  font-size: 30px;
+  font-size: 45px;
   font-family: sans-serif;
 }
 
-#footer a:link {text-decoration: none; color: #CCC}
-#footer a:visited {text-decoration: none; color: #CCC}
-#footer a:active {text-decoration: none; color: #CCC}
-#footer a:hover {text-decoration: underline; color: #CCC}
+#about:link {text-decoration: none; color: #CCC}
+#about:visited {text-decoration: none; color: #CCC}
+#about:active {text-decoration: none; color: #CCC}
+#about:hover {text-decoration: underline; color: #CCC}
 
 #zipcode-label {
  padding-bottom: 8px;
@@ -168,9 +168,7 @@ contra dances near you.
 </div>
 </div>
 
-<div id="footer">
-<center><a href="about.html">about</a></center>
-</div>
+<a id=about href="about.html"><div id="footer"><center>about</center></div></a>
 
 <script>
 var zi = document.getElementById("input");
@@ -180,10 +178,6 @@ var dances = document.getElementById("dances");
 var content = document.getElementById("content");
 var notfound = document.getElementById("notfound");
 var nodances = document.getElementById("nodances");
-
-if (navigator.userAgent.toLowerCase().indexOf("android") > -1) {
-  zi.type = "number";
-}
 
 function submit() {
   zi.value = zi.value.replace(/^\s+|\s+$/g,'');
@@ -202,6 +196,27 @@ function maybe_ready() {
   if (!!zips && !!dance_locations) {
     zb.disabled = false;
   }
+}
+
+var postal_districts = {
+ 'A': [47,-56],
+ 'B': [45,-63],
+ 'C': [46,-63],
+ 'E': [46,-66],
+ 'G': [47.7,-71.6],
+ 'H': [45.5,-73.5],
+ 'J': [46,-74],
+ 'K': [45.4,-75.7],
+ 'L': [43.6,-79.7],
+ 'M': [43.6,-79.4],
+ 'N': [42.9,-81.2],
+ 'P': [47,-82],
+ 'R': [50,-98],
+ 'S': [50,-105],
+ 'T': [50,-112],
+ 'V': [50,-123],
+ 'X': [61,-109],
+ 'Y': [61,-139],
 }
 
 var zips = null;
@@ -278,6 +293,13 @@ function load_dances(zip, minimum_dances) {
   clear_dances();
 
   var ll = zips[zip];
+  if (!ll) {
+    var postal_code_match = zip.match(
+        /^([a-zA-Z])[0-9][a-zA-Z] ?[0-9][a-zA-Z][0-9]$/)
+    if (postal_code_match) {
+      ll = postal_districts[postal_code_match[1].toUpperCase()];
+    }
+  }
   if (!ll) {
     notfound.style.display = "block";
     return;
