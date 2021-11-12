@@ -134,6 +134,11 @@ html, body {height: 100%;}
   border-radius: 0.25em;
   font-size: 75%;
 }
+
+input[type=checkbox] {
+  width: 2em;
+  height: 2em;
+}
 </style>
 
 <body>
@@ -149,18 +154,16 @@ html, body {height: 100%;}
 <div id="question">
 <center>
 
-<div class=warning>While some dances have resumed, most still haven't,
-and the schedules below are mostly out of date.</div>
-
 <div id="zipcode-label">What's your zip code?</div>
-
-
-
 
 <p>
 
 
 <input id=input placeholder="zip code" type="text"></input><br><button id=button>find a dance</button>
+
+<br>
+<input id=show_inactive type=checkbox> <label for=show_inactive>Show Inactive Dances</label>
+
 
 </center>
 
@@ -193,7 +196,10 @@ var content = document.getElementById("content");
 var notfound = document.getElementById("notfound");
 var nodances = document.getElementById("nodances");
 
+var searched = false;
+
 function submit() {
+  searched = true;
   zi.value = zi.value.replace(/^\s+|\s+$/g,'');
   load_dances(zi.value);
 }
@@ -205,12 +211,19 @@ zi.onkeypress = function(e) {
 }
 
 zb.disabled = true;
-zb.onclick = function(e) { submit(); };
+zb.onclick = submit;
+
 function maybe_ready() {
   if (!!zips && !!dance_locations) {
     zb.disabled = false;
   }
 }
+
+show_inactive.onclick = function() {
+  if (searched) {
+    submit();
+  }
+};
 
 var postal_districts = {
  'A': [47,-56],
@@ -263,7 +276,7 @@ function clear_dances() {
   dances.innerHTML = "";
 }
 
-function add_dance(location, link, schedule, frequency, roles, distance) {
+function add_dance(location, link, schedule, frequency, roles, active, distance) {
   var div = document.createElement("div");
 
   var prefix = "most";
@@ -280,9 +293,15 @@ function add_dance(location, link, schedule, frequency, roles, distance) {
     gf = "<br><i>gender-free</i>";
   }
 
+  act = "";
+  if (!active) {
+    act = "<br><b><i>likely inactive</i></b>";
+  }
+
   div.className = "dance";
   div.innerHTML = '<div class="dance-internal"><a href="' + link + '">'
-                  + location + '</a><br>' + prefix + ' ' + schedule + gf + '</div>';
+                  + location + '</a><br>' + prefix + ' ' + schedule + gf + act
+                  + '</div>';
   dances.appendChild(div);
 }
 
@@ -352,12 +371,14 @@ function load_dances(zip, minimum_dances) {
     var i = dance_distances[j][1];
     if (d > 5) {
       n_too_far += 1;
-    } else if (d < dance_distances[n - 1][0] * 1.03) {
+    } else if (d < dance_distances[n - 1][0] * 1.03 &&
+               (dance_locations[i][7] || show_inactive.checked)) {
       add_dance(dance_locations[i][1],
                 dance_locations[i][0],
                 dance_locations[i][2],
                 dance_locations[i][3],
                 dance_locations[i][6],
+                dance_locations[i][7],
                 d);
       added_dances += 1;
     }

@@ -25,6 +25,14 @@
 #dances {
   padding-bottom: 5px;
 }
+
+#activity {
+  font-size: 200%;
+}
+input[type=checkbox] {
+  width: 2em;
+  height: 2em;
+}
 </style>
 
 <body>
@@ -35,6 +43,10 @@
 
 <div id="title">
 <center>All Dances</center>
+</div>
+
+<div id=activity>
+<input id=show_inactive type=checkbox> <label for=show_inactive>Show Inactive Dances</label>
 </div>
 
 <div id="dances">
@@ -49,11 +61,17 @@
 <script>
 var dances = document.getElementById("dances");
 
-document.body.onload = function() {
+function reload() {
+  while (dances.firstChild) {
+    dances.removeChild(dances.firstChild);
+  }
   fetch("dances_locs.json", function(response) {
     load_dances(JSON.parse(response));
   });
-};
+}
+
+document.body.onload = reload;
+show_inactive.onclick = reload;
 
 function fetch(url, callback) {
   var xhr = new XMLHttpRequest();
@@ -66,11 +84,19 @@ function fetch(url, callback) {
   xhr.send();
 }
 
-function add_dance(location, link, schedule, distance) {
+function add_dance(location, link, schedule, active) {
+  if (!active && !show_inactive.checked) return;
+  
   var div = document.createElement("div");
   div.className = "dance";
+  var act = "";
+  if (show_inactive.checked) {
+    act = active ? "Active" : "<i>Likely Inactive</i>";
+    act += "<br>";
+  }
   div.innerHTML = '<div class="dance-internal">'
                   + location + ', ' + schedule + '<br>'
+                  + act
                   + '<a href="' + link + '">' + link + '</a></div>';
   dances.appendChild(div);
 }
@@ -97,7 +123,7 @@ function load_dances(dance_locations) {
     add_dance(dance_locations[i][1],
               dance_locations[i][0],
               dance_locations[i][2],
-              "");
+              dance_locations[i][6]);
   }
 }
 
