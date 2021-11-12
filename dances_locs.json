@@ -2,7 +2,7 @@
  ["http://contraborealis.org/", "Fairbanks AK", "Fridays and Saturdays", 20, 64.84, -147.72, "", false],
  ["http://www.juneaucontras.org/", "Juneau AK", "Saturdays", 5, 58.3, -134.42, "", false],
  ["https://www.footmadbirmingham.org", "Birmingham AL", "Saturdays", 12, 33.52, -86.8, "", true],
- ["http://huntsvillecontra.dance", "Huntsville AL", "Saturdays", 27, 34.73, -86.59, "", false],
+ ["http://huntsvillecontra.dance", "Huntsville AL", "Saturdays", 27, 34.73, -86.59, "", true],
  ["http://www.nwacontra.org/", "Fayetteville AR", "Saturdays", 12, 36.06, -94.16, "", false],
  ["http://www.arkansascountrydance.org/", "North Little Rock AR", "Fridays", 27, 34.77, -92.27, "", false],
  ["http://ffotm.org/contra-dances/", "Flagstaff AZ", "Saturdays", 12, 35.2, -111.64, "", false],
