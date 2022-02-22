@@ -101,7 +101,7 @@
  ["http://www.fiddlersgreencontra.org/", "Amherst MA", "Saturdays", 9, 42.37, -72.52, "", false],
  ["http://www.guidingstargrange.org/events", "Greenfield MA", "Fridays and Saturdays", 104, 42.59, -72.6, "", false],
  ["http://www.lenoxcontradance.org/", "Lenox MA", "Saturdays", 12, 42.36, -73.28, "", false],
- ["http://www.bidadance.org/", "Cambridge MA", "Sundays", 21, 42.37, -71.11, "Larks / Robins", false],
+ ["http://www.bidadance.org/", "Cambridge MA", "Sundays", 21, 42.37, -71.11, "Larks / Robins", true],
  ["https://www.facebook.com/groups/1311451995547490/about/", "Montague MA", "Saturdays", 12, 42.54, -72.54, "Larks / Robins", false],
  ["https://www.facebook.com/pg/BerlinCountryOrchestra/events/", "Berlin MA", "Saturdays", 8, 42.38, -71.64, "", false],
  ["https://capecontraorg.weebly.com/woods-hole.html", "Woods Hole MA", "Saturdays", 12, 41.53, -70.67, "", false],
