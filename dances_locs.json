@@ -178,7 +178,7 @@
  ["http://www.monadnockfolk.org/?page_id=30", "Peterborough NH", "Saturdays", 12, 42.87, -71.95, "", false],
  ["https://www.facebook.com/Milford-Contra-Dance-920139244691079/", "Milford NH", "Fridays", 12, 42.84, -71.65, "", false],
  ["http://seacoastcontra.com/", "Newfields NH", "Fridays", 12, 43.03, -70.94, "", false],
- ["http://www.princetoncountrydancers.org/", "Princeton NJ", "Wednesdays", 52, 40.36, -74.67, ", true", false],
+ ["http://www.princetoncountrydancers.org/", "Princeton NJ", "Wednesdays", 52, 40.36, -74.67, "", true],
  ["http://www.folkproject.org/swtern/swtern.shtml", "East Hanover NJ", "Saturdays", 24, 40.82, -74.36, "", false],
  ["http://www.snmmds.org/", "Mesilla NM", "Fridays", 10, 32.27, -106.8, "", false],
  ["http://folkmads.org/events/albuquerque-events/", "Albuquerque NM", "Saturdays", 24, 35.11, -106.61, "", false],
