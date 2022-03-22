@@ -125,7 +125,7 @@
  ["https://www.smtmd.org/dances", "Chaptico MD", "Saturdays", 8, 38.37, -76.78, "", true],
  ["http://contradancers.com/mmfac/", "Frederick MD", "Saturdays", 12, 39.41, -77.41, "", false],
  ["https://www.fsgw.org/sunday-contra-square-dance", "Glen Echo MD", "Sundays", 52, 38.97, -77.14, "", false],
- ["http://fridaynightdance.org/", "Glen Echo MD", "Fridays", 52, 38.97, -77.14, "", false],
+ ["http://fridaynightdance.org/", "Glen Echo MD", "Fridays", 52, 38.97, -77.14, "", true],
  ["https://www.facebook.com/ContraSonic/", "Glen Echo MD", "Tuesdays", 6, 38.97, -77.14, "Larks / Robins", false],
  ["https://carpediemarts.org/dance-with-us", "Silver Spring MD", "Thursdays", 12, 38.99, -77.03, "", false],
  ["http://bangorcontra.org/", "Bangor ME", "Saturdays", 14, 44.8, -68.78, "", false],
