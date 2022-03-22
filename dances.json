@@ -241,7 +241,7 @@
   ["http://www.hudsonvalleydance.org/", "Poughkeepsie NY", "Saturdays", 9, ""],
   ["http://dance.clarityconnect.com/owegocontra.html", "Owego NY", "Sundays", 11, ""],
   ["http://www.brooklyncontra.org/", "Brooklyn NY", "Fridays", 12, "Leads / Follows", true],
-  ["http://syracusecountrydancers.org/", "Fayetteville NY", "Saturdays", 30, ""],
+  ["http://syracusecountrydancers.org/", "Fayetteville NY", "Saturdays", 30, "", true],
   ["http://cococontra.org/", "Chatham NY", "Saturdays", 11, ""],
   ["https://oldsongs.org/dances/", "Voorheesville NY", "Saturdays", 8, ""],
   ["http://www.villagecontra.org", "New York NY", "Fridays", 12, "Larks / Robins"],
