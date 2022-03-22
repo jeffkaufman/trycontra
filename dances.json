@@ -247,7 +247,7 @@
   ["http://www.villagecontra.org", "New York NY", "Fridays", 12, "Larks / Robins"],
   ["http://www.binghamtondance.org/db_management/calendar.php", "Binghamton NY", "Saturdays", 8, ""],
   ["http://www.stcds.com/", "Olean NY", "Saturdays", 9, ""],
-  ["http://otsegodancesociety.blogspot.com/", "Cooperstown NY", "Fridays", 10, ""],
+  ["http://otsegodancesociety.weebly.com", "Cooperstown NY", "Fridays", 10, "", true],
   ["http://www.danceflurry.org/show_event.php?&id=1", "Albany NY", "Fridays", 15, ""],
   ["http://danceflurry.org/show_event.php?&id=37", "Albany NY", "Fridays", 12, ""],
   ["https://groups.google.com/forum/#!forum/rose-ny-contra-dances", "Rose NY", "Saturdays", 8, ""],
