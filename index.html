@@ -358,6 +358,10 @@ function load_dances(zip, minimum_dances) {
   // Show the three closest dances plus any others no more than 3% farther.
   dance_distances = [];
   for (var i = 0 ; i < dance_locations.length ; i++) {
+    if (!dance_locations[i][7] /* not active */ &&
+        !show_inactive.checked) {
+      continue;
+    }
     dance_distances.push([distance(dance_locations[i][4],
                                    dance_locations[i][5], ll),
                           i]);
