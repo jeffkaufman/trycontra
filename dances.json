@@ -122,7 +122,7 @@
 
   ["http://amherstcontra.org", "Amherst MA", "Wednesdays", 40, "Larks / Robins"],
   ["http://www.fiddlersgreencontra.org/", "Amherst MA", "Saturdays", 9, ""],
-  ["http://www.guidingstargrange.org/events", "Greenfield MA", "Fridays and Saturdays", 104, ""],
+  ["https://www.facebook.com/groups/2368038786", "Greenfield MA", "Fridays and Saturdays", 104, "", true],
   ["http://www.lenoxcontradance.org/", "Lenox MA", "Saturdays", 12, ""],
   ["http://www.bidadance.org/", "Cambridge MA", "Sundays", 21, "Larks / Robins", true],
   ["https://www.facebook.com/groups/1311451995547490/about/", "Montague MA", "Saturdays", 12, "Larks / Robins"],
