@@ -80,7 +80,7 @@
  ["http://www.contrafortwayne.org/", "Fort Wayne IN", "Saturdays", 10, 41.08, -85.14, "", false],
  ["http://www.indycontra.org/", "Indianapolis IN", "Tuesdays", 52, 39.77, -86.16, "", false],
  ["http://valpo.chicagobarndance.com/", "Valparaiso IN", "Saturdays", 8, 41.47, -87.06, "", false],
- ["http://godancing.org/", "Goshen IN", "Saturdays", 10, 41.58, -85.83, "", false],
+ ["http://godancing.org/", "Goshen IN", "Saturdays", 10, 41.58, -85.83, "", true],
  ["http://www.sbcontras.org", "South Bend IN", "Fridays or Saturdays", 8, 41.68, -86.26, "", false],
  ["http://www.lawrencebarndance.org/calendar.html", "Lawrence KS", "Saturdays", 20, 38.97, -95.24, "", false],
  ["https://www.facebook.com/groups/derbybarndance/", "Wichita KS", "Saturdays", 12, 37.69, -97.34, "", true],
