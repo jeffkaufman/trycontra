@@ -240,7 +240,7 @@
  ["http://pittsburghcontra.org/", "Pittsburgh PA", "Fridays", 40, 40.44, -80.0, "", false],
  ["https://sites.google.com/site/cpcdapublic/home", "State College PA", "Fridays", 9, 40.79, -77.86, "", false],
  ["http://www.thursdaycontra.com/ThirdSaturday.html", "Mt. Airy PA", "Saturdays", 9, 40.04, -75.19, "", false],
- ["http://www.lancastercontra.org/", "Lancaster PA", "Saturdays", 10, 40.04, -76.31, "", false],
+ ["https://www.lancastercontra.org/", "Lancaster PA", "Saturdays", 10, 40.04, -76.31, "", true],
  ["http://harrisburgcontra.weebly.com/", "Harrisburg PA", "Fridays", 25, 40.27, -76.88, "", false],
  ["http://www.valleycontradance.org/", "Bethlehem PA", "Saturdays", 27, 40.63, -75.37, "", true],
  ["http://birdsborocontra.org/", "Birdsboro PA", "Saturdays", 10, 40.26, -75.8, "", true],
