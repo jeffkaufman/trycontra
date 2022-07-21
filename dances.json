@@ -233,7 +233,7 @@
   ["http://sierracontra.org/", "Reno NV", "Saturdays", 10, ""],
 
 
-  ["http://www.cdrochester.org/", "Rochester NY", "Thursdays", 52, ""],
+  ["http://www.cdrochester.org/", "Rochester NY", "Thursdays", 52, "", true],
   ["http://www.qccd.org/", "Buffalo NY", "Saturdays", 25, ""],
   ["http://www.hands4dancers.org/", "Ithaca NY", "Saturdays", 8, ""],
   ["http://tedcrane.com/TCCD/Schedule.htp", "Ithaca NY", "Fridays", 48, ""],

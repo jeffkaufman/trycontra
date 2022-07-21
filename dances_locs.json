@@ -185,7 +185,7 @@
  ["http://folkmads.org/events/santa-fe-events/", "Santa Fe NM", "Saturdays", 24, 35.69, -105.94, "", false],
  ["http://www.lasvegascountrydance.org/contradance.html", "Las Vegas NV", "Saturdays", 15, 36.11, -115.17, "", false],
  ["http://sierracontra.org/", "Reno NV", "Saturdays", 10, 39.53, -119.81, "", false],
- ["http://www.cdrochester.org/", "Rochester NY", "Thursdays", 52, 43.16, -77.61, "", false],
+ ["http://www.cdrochester.org/", "Rochester NY", "Thursdays", 52, 43.16, -77.61, "", true],
  ["http://www.qccd.org/", "Buffalo NY", "Saturdays", 25, 42.89, -78.88, "", false],
  ["http://www.hands4dancers.org/", "Ithaca NY", "Saturdays", 8, 42.44, -76.5, "", false],
  ["http://tedcrane.com/TCCD/Schedule.htp", "Ithaca NY", "Fridays", 48, 42.44, -76.5, "", false],
