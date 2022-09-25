@@ -145,7 +145,7 @@
  ["http://www.dancetc.com/bayside.htm", "Traverse City MI", "Saturdays", 9, 44.76, -85.62, "", false],
  ["http://www.tenpoundfiddle.org/contra-dances/", "Lansing MI", "Saturdays", 9, 42.73, -84.55, "", true],
  ["http://www.wheatlandmusic.org/traditional-dances/", "Remus MI", "Saturdays", 9, 43.6, -85.15, "", false],
- ["http://www.tapestryfolkdance.org/index.php/tapestry-programs/contra", "Minneapolis MN", "Saturdays", 24, 44.98, -93.27, "", false],
+ ["https://www.tapestryfolkdance.org/contra-dance", "Minneapolis MN", "Saturdays", 24, 44.98, -93.27, "", true],
  ["http://www.crosscurrentsculture.org/kcbarndance/", "Kansas City MO", "Saturdays", 12, 39.1, -94.58, "", false],
  ["https://sites.google.com/site/capecontradance/cape-girardeau-mo-contra-dance", "Cape Girardeau MO", "Saturdays", 20, 37.31, -89.52, "", true],
  ["http://www.springfieldcontra.org/when.htm", "Springfield MO", "Saturdays", 20, 37.21, -93.29, "", false],

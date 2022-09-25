@@ -177,7 +177,7 @@
   ["http://www.wheatlandmusic.org/traditional-dances/", "Remus MI", "Saturdays", 9, ""],
 
 
-  ["http://www.tapestryfolkdance.org/index.php/tapestry-programs/contra", "Minneapolis MN", "Saturdays", 24, ""],
+  ["https://www.tapestryfolkdance.org/contra-dance", "Minneapolis MN", "Saturdays", 24, "", true],
 
 
   ["http://www.crosscurrentsculture.org/kcbarndance/", "Kansas City MO", "Saturdays", 12, ""],
