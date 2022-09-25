@@ -262,13 +262,13 @@
   ["http://www.neohiocontradance.org/", "Peninsula OH", "Saturdays and Thursdays", 33, ""],
   ["http://www.neohiocontradance.org/", "Lakewood OH", "Saturdays", 11, ""],
   ["http://www.firstuucolumbus.org/our-community/dancing-events", "Columbus OH", "Fridays", 9, ""],
-  ["http://www.bigscioty.com/index.html", "Columbus OH", "Saturdays", 24, ""],
-  ["https://www.woosterdance.com/contra", "Wooster OH", "Saturdays", 10, ""],
+  ["https://bigscioty.com/", "Columbus OH", "Saturdays", 24, "", true],
+  ["https://www.woosterdance.com/contra", "Wooster OH", "Saturdays", 10, "", true],
   ["http://www.oberlin.edu/stuorg/contra/calendar.html", "Oberlin OH", "Fridays", 13, "Larks / Robins"],
 
 
   ["https://www.facebook.com/groups/acontraaffair/", "Stillwater OK", "Fridays", 8, "Larks / Robins"],
-  ["http://scissortail.org/where-we-dance/oklahoma-city/", "Oklahoma City OK", "Saturdays", 24, ""],
+  ["http://scissortail.org/where-we-dance/oklahoma-city/", "Oklahoma City OK", "Saturdays", 24, "", true],
   ["https://www.facebook.com/groups/TulsaContraDance", "Tulsa OK", "Saturdays", 10, ""],
   ["http://scissortail.org/where-we-dance/norman/", "Norman OK", "Fridays", 10, ""],
 
@@ -277,9 +277,9 @@
   ["http://corvallisfolklore.org/home/contradancing/", "Corvallis OR", "Saturdays", 20, "", true],
   ["https://portlandcountrydance.org/pdxcontra-info/", "Portland OR", "Saturdays", 50, "Larks / Ravens", true],
   ["http://joyride.erikweberg.com/first-wednesdays/", "Portland OR", "Wednesdays", 10, ""],
-  ["http://eugenefolklore.org/", "Eugene OR", "Saturdays", 20, ""],
+  ["http://eugenefolklore.org/", "Eugene OR", "Saturdays", 20, "", true],
   ["http://www.bendcontradance.org/", "Bend OR", "Saturdays", 10, ""],
-  ["http://southcoastfolksociety.wordpress.com/contra-dance/", "Coos Bay OR", "Saturdays", 10, ""],
+  ["http://southcoastfolksociety.wordpress.com/contra-dance/", "Coos Bay OR", "Saturdays", 10, "", true],
   ["http://neofs.us/", "La Grande OR", "Tuesdays", 15, ""],
   ["http://contraremix.com/", "Portland OR", "Sundays", 12, "Larks / Robins"],
   ["https://www.meetup.com/Hillsboro-Dance-Lessons-Meetup/", "Hillsboro OR", "Fridays", 12, ""],
