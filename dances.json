@@ -66,9 +66,7 @@
   ["https://www.facebook.com/Melrose-Contra-Dance-1631846603752150/", "Melrose FL", "Fridays", 12, ""],
   ["http://JaxContra.org", "Jacksonville FL", "Fridays", 12, ""],
 
-  ["http://athensfolk.org/", "Athens GA", "Saturdays", 6, ""],
-  ["http://www.contradance.org/html/schedule-fri.php", "Decatur GA", "Fridays", 52, ""],
-  ["http://www.contradance.org/html/schedule-tues.php", "Decatur GA", "Tuesdays", 24, ""],
+  ["http://www.contradance.org", "Decatur GA", "Fridays", 52, "", true],
   ["http://atgaga.com/", "Gainesville GA", "Saturdays", 22, ""],
   ["https://www.savannahfolk.org/dance-events/", "Savannah GA", "Saturdays", 10, ""],
   ["https://snca.org/contra/home.php", "Sautee Nacoochee GA", "Saturdays", 12, "", true],
@@ -78,17 +76,16 @@
 
 
   ["http://www.cibd.org/whatswhat.html", "Ames IA", "Saturdays", 10, ""],
-  ["http://desmoinescontradance.org", "Des Moines IA", "Saturdays", 6, ""],
-  ["http://www.fairfolk.org/", "Fairfield IA", "Saturdays", 10, ""],
+  ["https://www.facebook.com/Des-Moines-Area-Barn-Contra-Dance-198569640201183/", "Des Moines IA", "Saturdays", 6, "", true],
+  ["https://ffadc.blogspot.com/", "Fairfield IA", "Saturdays", 10, "", true],
 
-  ["https://slatecreekengineering.com/pfs/", "Moscow ID", "Saturdays", 12, "", true],
+  ["https://www.facebook.com/groups/378676195487095/", "Moscow ID", "Saturdays", 12, "", true],
   ["https://www.facebook.com/boisecontra", "Boise ID", "Saturdays", 8, ""],
   ["http://www.utahcontra.org/", "Pocatello ID", "Saturdays", 8, ""],
 
 
   ["http://www.chicagobarndance.org/", "Chicago IL", "Mondays", 50, "", true],
   ["https://www.facebook.com/QueerContraChicago/", "Chicago IL", "Saturdays", 10, "Larks / Robins"],
-  ["http://www.childgrove.org/schedules/regional-dances/elsah", "Elsah IL", "Saturdays", 12, ""],
   ["http://www.urbana-contra.org/", "Urbana IL", "Fridays", 24, ""],
   ["http://www.fnal.gov/orgs/folkclub/", "Batavia IL", "Sundays", 10, ""],
   ["https://www.facebook.com/groups/165256476374/", "Carbondale IL", "Saturdays", 10, ""],
@@ -97,9 +94,9 @@
   ["http://bloomingtoncontra.org", "Bloomington IN", "Wednesdays", 52, "", true],
   ["http://www.contrafortwayne.org/", "Fort Wayne IN", "Saturdays", 10, ""],
   ["http://www.indycontra.org/", "Indianapolis IN", "Tuesdays", 52, ""],
-  ["http://valpo.chicagobarndance.com/", "Valparaiso IN", "Saturdays", 8, ""],
+  ["http://valpo.chicagobarndance.com/", "Valparaiso IN", "Saturdays", 8, "", true],
   ["http://godancing.org/", "Goshen IN", "Saturdays", 10, "", true],
-  ["http://www.sbcontras.org", "South Bend IN", "Fridays or Saturdays", 8, ""],
+  ["http://www.sbcontras.org", "South Bend IN", "Fridays or Saturdays", 8, "", true],
 
   ["http://www.lawrencebarndance.org/calendar.html", "Lawrence KS", "Saturdays", 20, ""],
   ["https://www.facebook.com/groups/derbybarndance/", "Wichita KS", "Saturdays", 12, "", true],
