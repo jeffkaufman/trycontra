@@ -348,9 +348,10 @@
 
   ["https://www.facebook.com/BrattleboroContra/", "Brattleboro VT", "Tuesdays", 12, ""],
   ["http://www.queencitycontras.org/", "Burlington VT", "2nd Fridays", 12, ""],
-  ["http://capitalcitygrange.org/dancing/contradancing/", "Montpelier VT", "Saturdays", 27, ""],
+  ["http://capitalcitygrange.org/dancing/contradancing/", "Montpelier VT", "Saturdays", 27, "", true],
   ["https://www.facebook.com/CornwallContraDance", "Cornwall VT", "Saturdays", 8, ""],
   ["http://tinmouthcontradance.org/", "Tinmouth VT", "Fridays", 9, ""],
+  ["https://www.facebook.com/NorwichContraDance", "Norwich VT", "Saturdays", 24, "", true],
 
   ["https://www.facebook.com/pages/San-Juan-Islands-Contra-Dance/275816592483130", "Friday Harbor WA", "Saturdays", 8, ""],
   ["http://spokanefolklore.org/contra.html", "Spokane WA", "Wednesdays", 40, "", true],
