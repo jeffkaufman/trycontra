@@ -282,7 +282,7 @@
   ["http://neofs.us/", "La Grande OR", "Tuesdays", 15, ""],
   ["http://contraremix.com/", "Portland OR", "Sundays", 12, "Larks / Robins"],
   ["https://www.meetup.com/Hillsboro-Dance-Lessons-Meetup/", "Hillsboro OR", "Fridays", 12, ""],
-  
+
 
   ["http://toppish.com/Beta/Toppish_Calendar.html", "Meadville PA", "Wednesdays", 32, ""],
   ["http://www.thursdaycontra.com/", "Mt. Airy PA", "Thursdays", 52, "", true],
@@ -298,8 +298,9 @@
   ["https://sandywoods.org/concerts/", "Tiverton RI", "Wednesdays", 12, ""],
   ["https://www.facebook.com/ProvidenceCommunityDance/", "Providence RI", "Fridays", 12, "Larks / Robins"],
   ["http://elwood70.wixsite.com/eastbaycontra", "Warren RI", "Fridays", 8, "Larks / Robins"],
+  ["https://www.facebook.com/communitydanceswarwickcenterforthearts/", "Warwick RI", "Saturdays", 8, "", true],
 
-
+  
   ["http://charlestonfolk.weebly.com/", "Charleston SC", "Fridays", 24, ""],
   ["http://www.contracola.org/", "Columbia SC", "Saturdays", 10, ""],
   ["http://www.harvestmoonfolk.org/", "Taylors SC", "Fridays and Saturdays", 40, "", true],
@@ -393,5 +394,5 @@
   ["http://www.tcdance.org/", "Toronto Canada", "Saturdays", 23, "Larks / Robins", true],
   ["http://www.vcn.bc.ca/vcountry/", "Vancouver Canada", "Saturdays", 24, "", true],
   ["http://www.victoriacontradance.com/", "Victoria BC Canada", "Saturdays", 24, "", true]
-  
+
 ]
