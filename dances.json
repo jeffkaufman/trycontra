@@ -339,10 +339,10 @@
   ["http://blacksburgcontradance.com/contradance.html", "Blacksburg VA", "Saturdays", 12, ""],
   ["https://gobblerconnect.vt.edu/organization/contrafolk", "Blacksburg VA", "Fridays", 6, "Larks / Robins"],
   ["http://www.floydcontradance.org/", "Floyd VA", "Saturdays", 9, ""],
-  ["http://hrtraditionaldance.webs.com/contradance.htm", "Norfolk VA", "Saturdays", 12, ""],
+  ["http://hrtraditionaldance.webs.com/contradance.htm", "Norfolk VA", "Saturdays", 12, "", true],
   ["https://sites.google.com/site/roanokecontradancers/", "Roanoke VA", "Saturdays", 12, ""],
   ["http://www.bluemont.org/Dances/dances_intro.html", "Hillsboro VA", "Saturdays", 8, ""],
-  ["https://www.facebook.com/groups/150778141623980/", "Williamsburg VA", "Saturdays", 10, ""],
+  ["https://williamsburgcontradance.wordpress.com/", "Williamsburg VA", "Saturdays", 10, "", true],
   ["https://www.facebook.com/ContraFolkVT/", "Blacksburg VA", "Wednesdays", 6, "Larks / Robins"],
 
 
