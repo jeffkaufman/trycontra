@@ -152,7 +152,7 @@
 
   ["http://bangorcontra.org/", "Bangor ME", "Saturdays", 14, ""],
   ["http://www.canaanmaine.com/News/6/category/59", "Canaan ME", "Saturdays", 8, ""],
-  ["http://www.belfastflyingshoes.org/", "Belfast ME", "Fridays", 12, "", true],
+  ["http://www.belfastflyingshoes.org/", "Belfast ME", "Fridays", 12, "Larks / Robins", true],
   ["http://www.starleft.org/dance/", "West Farmington ME", "Saturdays", 8, ""],
   ["https://contradancetopsham.wordpress.com/", "Topsham ME", "Saturdays", 12, ""],
   ["https://www.facebook.com/Trenton-Grange-268871813246188/", "Trenton ME", "Saturdays", 12, ""],
@@ -160,7 +160,10 @@
   ["https://www.commonfloorcontra.dance/", "Portland ME", "Sundays", 40, "Larks / Robins", true],
   ["http://www.pamweeks.com/bowdoinham_contradance_series", "Bowdoinham ME", "Saturdays", 8, ""],
   ["http://freewillfolksociety.weebly.com/", "Lewiston ME", "Fridays", 6, ""],
-
+  ["https://www.facebook.com/Otisfield-Contra-Dance-1933069520038977/", "Otisfield ME", "Sundays", 12, "", true],
+  ["https://deffa.org/venue/cherryfield-contra-dance/", "Cherryfield ME", "Saturdays", 12, "", true],
+  ["https://kennebec-contra.org/", "Hallowell ME", "Saturdays", 12, "", true],
+  
   ["https://www.facebook.com/groups/46753138765/", "Holland MI", "Fridays", 9, ""],
   ["http://aactmad.org/contra/", "Ann Arbor MI", "Saturdays", 36, "", true],
   ["https://www.countrydancinginkalamazoo.com/", "Kalamazoo MI", "Saturdays", 24, "", true],
@@ -169,7 +172,6 @@
   ["http://www.dancetc.com/bayside.htm", "Traverse City MI", "Saturdays", 9, ""],
   ["http://www.tenpoundfiddle.org/contra-dances/", "Lansing MI", "Saturdays", 9, "", true],
   ["http://www.wheatlandmusic.org/traditional-dances/", "Remus MI", "Saturdays", 9, ""],
-
 
   ["https://www.tapestryfolkdance.org/contra-dance", "Minneapolis MN", "Saturdays", 24, "", true],
 
