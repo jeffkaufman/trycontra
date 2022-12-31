@@ -77,7 +77,7 @@
  ["http://valpo.chicagobarndance.com/", "Valparaiso IN", "Saturdays", 8, 41.47, -87.06, "", true],
  ["http://godancing.org/", "Goshen IN", "Saturdays", 10, 41.58, -85.83, "", true],
  ["http://www.sbcontras.org", "South Bend IN", "Fridays or Saturdays", 8, 41.68, -86.26, "", true],
- ["http://www.lawrencebarndance.org/calendar.html", "Lawrence KS", "Saturdays", 20, 38.97, -95.24, "", false],
+ ["http://www.lawrencebarndance.org/calendar.html", "Lawrence KS", "Saturdays", 20, 38.97, -95.24, "", true],
  ["https://www.facebook.com/groups/derbybarndance/", "Wichita KS", "Saturdays", 12, 37.69, -97.34, "", true],
  ["http://www.bereacontradance.org/schedule.html", "Berea KY", "Fridays and Saturdays", 20, 37.57, -84.3, "", true],
  ["https://www.ltda.us/", "Lexington KY", "Fridays and Saturdays", 30, 38.04, -84.5, "", true],
