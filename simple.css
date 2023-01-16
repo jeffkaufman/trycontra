@@ -37,6 +37,11 @@ body {
   background-image: linear-gradient(to bottom right, #0000FF 0%, #692C2C 100%);
 }
 
+.note {
+  padding: 1em;
+  font-style: italic;
+}
+
 .dance {
   padding-left: 40px;
   width: 100%;
