@@ -268,7 +268,7 @@
  ["http://www.wasatchcontras.org/home.html", "Salt Lake City UT", "Saturdays", 12, 40.76, -111.89, "", false],
  ["http://www.bridgerfolk.org/contra.html", "Logan UT", "Saturdays", 9, 41.74, -111.83, "", false],
  ["https://contracorners.com/harrisonburg", "Harrisonburg VA", "Mondays", 24, 38.45, -78.87, "", false],
- ["https://contracorners.com/charlottesville", "Charlottesville VA", "Fridays", 24, 38.03, -78.48, "", false],
+ ["https://www.facebook.com/groups/984316375582303/", "Charlottesville VA", "Fridays", 12, 38.03, -78.48, "Larks / Robins", true],
  ["https://contracorners.com/greenwood", "Greenwood VA", "Sundays", 18, 38.06, -78.77, "", false],
  ["https://contracorners.com/clubcontra", "Harrisonburg VA", "Mondays", 10, 38.45, -78.87, "", false],
  ["https://contracorners.com/dayton", "Dayton VA", "Saturdays", 7, 38.41, -78.94, "", false],
