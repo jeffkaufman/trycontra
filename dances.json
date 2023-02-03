@@ -305,7 +305,7 @@
 
   
   ["http://charlestonfolk.weebly.com/", "Charleston SC", "Fridays", 24, ""],
-  ["http://www.contracola.org/", "Columbia SC", "Saturdays", 10, ""],
+  ["http://www.contracola.org/", "Columbia SC", "Saturdays", 10, "", true],
   ["https://www.harvestmoonfolk.org/", "Marietta SC", "Saturdays", 40, "", true],
 
 
