@@ -112,6 +112,7 @@
  ["https://westford.org/pca/?page_id=314", "Westford MA", "Saturdays", 7, 42.58, -71.44, "", false],
  ["https://www.facebook.com/CapeAnnContraDance/", "Gloucester MA", "Saturdays", 12, 42.62, -70.66, "", false],
  ["https://engage.hampshire.edu/organization/contradancecollective", "Amherst MA", "Wednesdays", 4, 42.37, -72.52, "Larks / Robins", false],
+ ["https://northberkshiredance.org/", "Williamstown MA", "Saturdays", 12, 42.71, -73.2, "", true],
  ["http://www.contradancers.com/atds/index.html", "Annapolis MD", "Saturdays", 12, 38.98, -76.49, "", false],
  ["http://www.bfms.org/squarecontra.php", "Baltimore MD", "Wednesdays", 52, 39.29, -76.61, "", true],
  ["http://www.bfms.org/saturdayDance.php", "Baltimore MD", "Saturdays", 12, 39.29, -76.61, "", true],
