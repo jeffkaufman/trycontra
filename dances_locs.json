@@ -23,7 +23,7 @@
  ["http://www.sbcds.org/contradance/schedule/", "Santa Barbara CA", "Sundays", 32, 34.42, -119.7, "", true],
  ["http://www.queercontradance.org/circleleft.html", "Oakland CA", "Fridays", 12, 37.81, -122.27, "Larks / Robins", true],
  ["http://www.nbcds.org/", "Petaluma CA", "Sundays", 12, 38.23, -122.64, "Larks / Robins", true],
- ["http://www.nbcds.org/", "Petaluma CA", "Sundays", 12, 38.23, -122.64, "Larks / Robins", true],
+ ["http://www.nbcds.org/", "Santa Rosa CA", "Fridays and Saturdays", 15, 38.44, -122.71, "", true],
  ["http://www.nbcds.org/", "San Rafael CA", "Saturdays", 12, 37.97, -122.53, "", true],
  ["http://montereycontradance.org", "Monterey CA", "Saturdays", 20, 36.6, -121.89, "Larks / Robins", true],
  ["http://www.foothilldancers.org/", "Nevada City CA", "Saturdays", 12, 39.26, -121.02, "", false],
