@@ -40,7 +40,7 @@ def lookup_ll(loc):
 def build_loc_lookup():
   existing_locs = json.loads(open("dances_locs.json").read())
   loc_lookup = {}
-  
+
   for url, loc, days, freq, lat, lng, *rest in existing_locs:
     loc_lookup[loc] = [lat, lng]
   return loc_lookup
@@ -58,6 +58,11 @@ def start():
       print(row)
       raise
 
+    roles = {
+      "GF": "Larks / Robins",
+      "": ""
+    }[roles]
+
     if '(' in loc:
       lat, lng = None, None
     elif loc in loc_lookup:
@@ -71,4 +76,3 @@ def start():
 
 if __name__ == "__main__":
   start()
-
