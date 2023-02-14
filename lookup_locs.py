@@ -51,11 +51,12 @@ def start():
 
   loc_dances = []
   for row in dances:
-    if len(row) == 5:
-      url, loc, days, freq, roles = row
-      active = False
-    elif len(row) == 6:
+
+    try:
       url, loc, days, freq, roles, active = row
+    except Exception:
+      print(row)
+      raise
 
     if '(' in loc:
       lat, lng = None, None
