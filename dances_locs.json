@@ -309,11 +309,11 @@
  ["https://www.facebook.com/EdinburghContra/", "Edinburgh Scotland", "Saturdays", 12, 55.95, -3.19, "Larks / Robins", true],
  ["https://www.facebook.com/HalifaxContraDances/", "Halifax Canada", "Saturdays", 12, 44.65, -63.58, "Larks / Robins", true],
  ["https://www.facebook.com/groups/422944181102487/", "Calgary Canada", "Saturdays", 12, 51.05, -114.07, "", false],
- ["https://www.facebook.com/groups/26221449658/", "Fergus Canada", "Fridays", 12, 43.71, -80.38, "", false],
+ ["https://www.facebook.com/drumlincontradances/", "Fergus Canada", "Fridays", 12, 43.71, -80.38, "", true],
  ["https://www.facebook.com/HamiltonFridayContradance/", "Hamilton Canada", "Fridays", 12, 43.26, -79.87, "", true],
  ["http://www.ottawacontra.ca/", "Ottawa Canada", "Saturdays and Tuesdays", 36, 45.42, -75.7, "", true],
  ["http://www.contramontreal.org/", "Montreal Canada", "Saturdays and Sundays", 24, 45.5, -73.57, "", true],
- ["http://fiddlefern.ca/fiddlefern-monthly-dances/", "Owen Sound Canada", "Saturdays", 10, 44.57, -80.94, "", false],
+ ["https://www.facebook.com/groups/26221449658/", "Owen Sound Canada", "Saturdays", 10, 44.57, -80.94, "", false],
  ["http://www.tcdance.org/", "Toronto Canada", "Saturdays", 23, 43.65, -79.38, "Larks / Robins", true],
  ["http://www.vcn.bc.ca/vcountry/", "Vancouver Canada", "Saturdays", 24, 49.28, -123.12, "", true],
  ["http://www.victoriacontradance.com/", "Victoria BC Canada", "Saturdays", 24, 48.43, -123.37, "", true]]
