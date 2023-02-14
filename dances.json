@@ -126,7 +126,7 @@
   ["https://www.facebook.com/outermostcontra/", "Wellfleet MA", "Fridays", 12, "", true],
   ["https://capecontraorg.weebly.com/wareham.html", "Onset MA", "Saturdays", 11, "", false],
   ["http://configular.com/dance/carlisle/index.html", "Carlisle MA", "Fridays", 9, "", false],
-  ["http://mondaycontras.com/", "Concord MA", "Mondays", 52, "", true],
+  ["http://mondaycontras.com/", "Concord MA", "Mondays", 52, "GF", true],
   ["http://www.neffa.org/Thurs.html", "Concord MA", "Thursdays", 52, "GF", true],
   ["http://www.lcfd.org/jp/", "Jamaica Plain MA", "Saturdays", 27, "GF", true],
   ["http://roaringjelly.org/~jc/site/rj/index.cgi", "Lexington MA", "Fridays", 12, "", true],
