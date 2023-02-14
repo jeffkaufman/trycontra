@@ -58,10 +58,9 @@ def start():
       print(row)
       raise
 
-    roles = {
-      "GF": "Larks / Robins",
-      "": ""
-    }[roles]
+    if roles not in ["GF", ""]:
+      raise Exception("unknown roles %r in %r" % (
+        roles, line))
 
     if '(' in loc:
       lat, lng = None, None
