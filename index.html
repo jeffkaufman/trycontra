@@ -381,7 +381,7 @@ function load_dances(zip, minimum_dances) {
   dance_distances.sort(function(a,b){return a[0]-b[0]});
   var added_dances = 0;
   var n_too_far = 0;
-  var n = Math.min(minimum_dances, dance_locations.length);
+  var n = Math.min(minimum_dances, dance_distances.length);
   for (var j = 0 ; j < dance_distances.length ; j++) {
     var d = dance_distances[j][0];
     var i = dance_distances[j][1];
