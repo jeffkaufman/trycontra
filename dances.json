@@ -375,7 +375,8 @@
   ["https://www.facebook.com/groups/twincitiesqueercontra", "Minneapolis MN", "Mondays", 12, "GF", true],
   ["http://www.riverfallscab.org/communitybarndances.php", "River Falls WI", "Saturdays", 6, "", false],
   ["http://www.delafieldcontra.com/", "Pewaukee WI", "Saturdays", 10, "", false],
-
+  ["https://www.mkecontra.org/", "Milwaukee WI", "Thursdays", 20, "GF", true],
+  
   ["http://smad.us", "Shepherdstown WV", "Saturdays", 9, "", true],
   ["https://www.footmad.org/", "Charleston WV", "Saturdays", 9, "", true],
   ["http://morgantowndance.com/", "Morgantown WV", "Saturdays", 9, "", false],
