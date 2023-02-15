@@ -387,7 +387,7 @@
   ["https://www.facebook.com/drumlincontradances/", "Fergus Canada", "Fridays", 12, "", true],
   ["https://www.facebook.com/HamiltonFridayContradance/", "Hamilton Canada", "Fridays", 12, "", true],
   ["http://www.ottawacontra.ca/", "Ottawa Canada", "Saturdays and Tuesdays", 36, "", true],
-  ["http://www.contramontreal.org/", "Montreal Canada", "Saturdays and Sundays", 24, "", true],
+  ["http://www.contramontreal.org/", "Montreal Canada", "Saturdays", 12, "GF", true],
   ["https://www.facebook.com/groups/26221449658/", "Owen Sound Canada", "Saturdays", 10, "", false],
   ["http://www.tcdance.org/", "Toronto Canada", "Saturdays", 23, "GF", true],
   ["http://www.vcn.bc.ca/vcountry/", "Vancouver Canada", "Saturdays", 24, "", true],
