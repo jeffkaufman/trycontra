@@ -190,7 +190,7 @@
  ["http://cdny.org/", "New York NY", "Saturdays", 35, 40.71, -74.01, "GF", true],
  ["https://hudsonvalleydance.org/contra", "Poughkeepsie NY", "Saturdays", 9, 41.7, -73.92, "", true],
  ["http://dance.clarityconnect.com/owegocontra.html", "Owego NY", "Sundays", 11, 42.1, -76.26, "", false],
- ["http://www.brooklyncontra.org/", "Brooklyn NY", "Fridays", 12, 40.65, -73.95, "GF", true],
+ ["http://www.brooklyncontra.org/", "Brooklyn NY", "Sundays", 24, 40.65, -73.95, "GF", true],
  ["http://syracusecountrydancers.org/", "Fayetteville NY", "Saturdays", 30, 43.03, -76.0, "", true],
  ["http://cococontra.org/", "Hillsdale NY", "Saturdays", 11, 42.18, -73.53, "", true],
  ["https://oldsongs.org/dances/", "Voorheesville NY", "Saturdays", 6, 42.65, -73.93, "", true],
