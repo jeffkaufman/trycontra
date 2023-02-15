@@ -262,7 +262,8 @@
   ["http://www.neohiocontradance.org/", "Peninsula OH", "Saturdays and Thursdays", 33, "", false],
   ["http://www.neohiocontradance.org/", "Lakewood OH", "Saturdays", 11, "", true],
   ["http://www.firstuucolumbus.org/our-community/dancing-events", "Columbus OH", "Fridays", 9, "", false],
-  ["https://bigscioty.com/", "Columbus OH", "Saturdays", 24, "", true],
+  ["https://bigscioty.com/", "Columbus OH", "Saturdays", 12, "", true],
+  ["https://firstuucolumbus.org/connection/all-soles/", "Columbus OH", "Saturdays", 12, "", true],
   ["https://www.woosterdance.com/contra", "Wooster OH", "Saturdays", 10, "", true],
   ["https://www2.oberlin.edu/stuorg/contra/", "Oberlin OH", "Fridays", 13, "GF", true],
 
