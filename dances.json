@@ -198,7 +198,7 @@
   ["http://feetretreat.com/", "Winston-Salem NC", "Tuesdays", 12, "", true],
   ["https://www.facebook.com/WilmingtonContra/", "Wilmington NC", "Tuesdays", 12, "", true],
   ["https://www.tcdancers.org/new-events", "Carrboro NC", "Fridays", 50, "", true],
-  ["http://firstsaturdaycontra.com/", "Carrboro NC", "Saturdays", 12, "", true],
+  ["http://firstsaturdaycontra.com/", "Carrboro NC", "Saturdays", 12, "GF", true],
   ["http://oldfarmersball.com/contra-dances/monday-dance/", "Asheville NC", "Mondays", 52, "", false],
   ["http://oldfarmersball.com/contra-dances/thursday-dance/", "Asheville NC", "Thursdays", 52, "", true],
   ["http://www.contradanceswithwolves.org/", "Raleigh NC", "Saturdays", 8, "", false],
