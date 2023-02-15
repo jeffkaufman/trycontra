@@ -233,7 +233,7 @@
   ["http://www.qccd.org/", "Buffalo NY", "Saturdays", 25, "", true],
   ["http://www.hands4dancers.org/", "Ithaca NY", "Saturdays", 8, "", true],
   ["http://tedcrane.com/TCCD/Schedule.htp", "Ithaca NY", "Fridays", 48, "", false],
-  ["http://cdny.org/", "New York NY", "Saturdays", 35, "", true],
+  ["http://cdny.org/", "New York NY", "Saturdays", 35, "GF", true],
   ["https://hudsonvalleydance.org/contra", "Poughkeepsie NY", "Saturdays", 9, "", true],
   ["http://dance.clarityconnect.com/owegocontra.html", "Owego NY", "Sundays", 11, "", false],
   ["http://www.brooklyncontra.org/", "Brooklyn NY", "Fridays", 12, "GF", true],
