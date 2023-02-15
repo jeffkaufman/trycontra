@@ -401,7 +401,7 @@ function load_dances(zip, minimum_dances) {
   }
   if (added_dances == 0) {
     nodances.style.display = "block";
-  } else if (added_dances < dance_locations.length - n_too_far) {
+  } else if (added_dances < dance_distances.length - n_too_far) {
     add_more_link(zip, minimum_dances);
   }
 }
