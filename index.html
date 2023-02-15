@@ -139,6 +139,12 @@ input[type=checkbox] {
   width: 2em;
   height: 2em;
 }
+#show_inactive_box {
+  padding-top: 1em;
+  padding-bottom: 0.5em;
+  font-size: 200%;
+  display: none;
+}
 </style>
 
 <body>
@@ -161,9 +167,6 @@ input[type=checkbox] {
 
 <input id=input placeholder="zip code" type="text"></input><br><button id=button>find a dance</button>
 
-<br>
-<input id=show_inactive type=checkbox> <label for=show_inactive>Show Inactive Dances</label>
-
 
 </center>
 
@@ -180,6 +183,14 @@ contra dances near you.
 
 <div id="dances">
 </div>
+
+<div id=show_inactive_box>
+<center>
+<input id=show_inactive type=checkbox> <label for=show_inactive>Show Inactive Dances</label>
+</center>
+</div>
+
+
 
 </div>
 </div>
@@ -323,6 +334,7 @@ function add_more_link(zip, minimum_dances) {
     return false;
   }
   dances.appendChild(more_dances);
+  show_inactive_box.style.display = "block";
 }
 
 function load_dances(zip, minimum_dances) {
