@@ -48,7 +48,7 @@
  ["https://www.facebook.com/groups/ardencontra/", "Arden DE", "Sundays", 10, 39.81, -75.49, "GF", true],
  ["https://www.facebook.com/southfloridacontradance/", "Boca Raton FL", "Saturdays", 12, 26.36, -80.08, "", true],
  ["https://spacecoastcontra.org/", "Cocoa FL", "Saturdays", 12, 28.39, -80.74, "", true],
- ["http://godsdance.org/", "Gainesville FL", "Saturdays and Sundays", 27, 29.65, -82.32, "", true],
+ ["http://godsdance.org/", "Gainesville FL", "Saturdays and Sundays", 12, 29.65, -82.32, "", true],
  ["http://www.tallydancer.com/", "Tallahassee FL", "Fridays", 24, 30.44, -84.28, "", true],
  ["http://www.tampabaycontra.com/", "Tampa FL", "Fridays and Saturdays", 36, 27.95, -82.46, "", true],
  ["http://contradancemiami.com/barnacle.htm", "Coconut Grove FL", "Sundays", 12, 25.71, -80.26, "", false],
