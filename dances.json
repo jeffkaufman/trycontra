@@ -146,9 +146,9 @@
   ["http://www.bfms.org/saturdayDance.php", "Baltimore MD", "Saturdays", 12, "", true],
   ["https://www.smtmd.org/dances", "Chaptico MD", "Saturdays", 8, "", true],
   ["http://contradancers.com/mmfac/", "Frederick MD", "Saturdays", 12, "", false],
-  ["http://fridaynightdance.org/", "Glen Echo MD", "Fridays", 52, "", true],
-  ["https://www.facebook.com/ContraSonic/", "Glen Echo MD", "Tuesdays", 6, "GF", true],
-  ["https://carpediemarts.org/dance-with-us", "Silver Spring MD", "Thursdays", 12, "", true],
+  ["http://fridaynightdance.org/", "Glen Echo MD", "Fridays", 52, "GF", true],
+  ["https://www.facebook.com/ContraSonic/", "Glen Echo MD", "Tuesdays", 6, "GF", false],
+  ["https://carpediemarts.org/dance-with-us", "Silver Spring MD", "Thursdays", 12, "GF", true],
 
   ["https://www.facebook.com/groups/bangorcontra/", "Bangor ME", "Saturdays", 14, "", false],
   ["http://www.canaanmaine.com/News/6/category/59", "Canaan ME", "Saturdays", 8, "", false],
