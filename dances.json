@@ -244,7 +244,7 @@
   ["http://www.binghamtondance.org/db_management/calendar.php", "Binghamton NY", "Saturdays", 8, "", false],
   ["http://www.stcds.com/", "Olean NY", "Saturdays", 9, "", false],
   ["http://otsegodancesociety.weebly.com", "Cooperstown NY", "Fridays", 10, "", true],
-  ["https://www.danceflurry.org/series/albany-contradance/", "Albany NY", "Fridays", 12, "", true],
+  ["https://www.danceflurry.org/series/albany-contradance/", "Albany NY", "Fridays", 12, "GF", true],
   ["https://groups.google.com/forum/#!forum/rose-ny-contra-dances", "Rose NY", "Saturdays", 8, "", false],
   ["https://sites.google.com/a/cornell.edu/contradance/future", "Ithaca NY", "Fridays", 10, "", false],
   ["http://www.litma.org/", "Smithtown NY", "Fridays", 11, "", true],
