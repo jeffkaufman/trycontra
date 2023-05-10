@@ -41,7 +41,7 @@
  ["https://www.fifthreelmusicanddance.com/services", "Grand Junction CO", "Saturdays", 7, 39.06, -108.55, "", true],
  ["http://www.roundhill.net/", "Stamford CT", "Saturdays", 12, 41.05, -73.54, "", false],
  ["http://www.hcdance.org/contra-dance/", "Wethersfield CT", "Saturdays", 12, 41.71, -72.66, "", true],
- ["https://newhavencontra.org/", "New Haven CT", "Saturdays", 22, 41.31, -72.93, "", false],
+ ["https://newhavencontra.org/", "New Haven CT", "Saturdays", 22, 41.31, -72.93, "", true],
  ["http://mysticdance.webs.com/", "Groton CT", "Saturdays", 12, 41.35, -72.08, "", true],
  ["http://www.hcdance.org/quiet-corner-contra/", "Coventry CT", "Fridays", 10, 41.78, -72.34, "", true],
  ["https://www.facebook.com/StaffordStomp/", "Stafford CT", "Saturdays", 9, 41.98, -72.32, "", true],
