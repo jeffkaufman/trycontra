@@ -54,6 +54,8 @@ function load_dances(dances) {
     var weight = dances[i][3];
     var lat = dances[i][4];
     var lng = dances[i][5];
+    var active = dances[i][7];
+    if (!active) continue;
 
     if (days.toLowerCase().search(day) < 0) {
       continue;
