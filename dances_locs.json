@@ -95,7 +95,7 @@
  ["http://www.bidadance.org/", "Cambridge MA", "Sundays", 21, 42.37, -71.11, "GF", true],
  ["https://www.facebook.com/groups/1311451995547490/", "Northampton MA", "Saturdays", 12, 42.33, -72.64, "GF", true],
  ["https://www.facebook.com/pg/BerlinCountryOrchestra/", "Berlin MA", "Saturdays", 8, 42.38, -71.64, "", false],
- ["https://www.facebook.com/groups/876169475813486/", "Woods Hole MA", "Saturdays", 12, 41.53, -70.67, "", false],
+ ["https://www.facebook.com/groups/876169475813486/", "Woods Hole MA", "Saturdays", 12, 41.53, -70.67, "", true],
  ["https://capecontraorg.weebly.com/cotuit.html", "Cotuit MA", "Saturdays", 12, 41.62, -70.44, "", false],
  ["https://capecontraorg.weebly.com/alchemy-farm.html", "East Falmouth MA", "Saturdays", 12, 41.58, -70.56, "", false],
  ["https://www.facebook.com/outermostcontra/", "Wellfleet MA", "Fridays", 12, 41.93, -70.03, "", true],
