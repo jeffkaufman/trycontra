@@ -212,7 +212,7 @@
  ["http://www.litma.org/", "Smithtown NY", "Fridays", 11, 40.86, -73.2, "", true],
  ["http://www.fredoniacontra.com/", "Fredonia NY", "Fridays", 9, 42.44, -79.33, "", false],
  ["https://www.facebook.com/luvcontra/", "Clifton Park NY", "Saturdays", 8, 42.85, -73.82, "", false],
- ["http://www.cincinnaticontradance.org/", "Cincinnati OH", "Mondays and Saturdays", 60, 39.1, -84.51, "", true],
+ ["http://www.cincinnaticontradance.org/", "Cincinnati OH", "Mondays", 52, 39.1, -84.51, "", true],
  ["https://www.facebook.com/GFCinci/", "Cincinnati OH", "Tuesdays", 8, 39.1, -84.51, "GF", false],
  ["https://www.facebook.com/profile.php?id=100064242747218", "Athens OH", "Saturdays", 8, 39.33, -82.1, "", false],
  ["http://www.neohiocontradance.org/", "Welshfield OH", "Saturdays", 10, 41.39, -81.14, "", false],
