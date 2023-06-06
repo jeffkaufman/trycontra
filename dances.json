@@ -218,7 +218,7 @@
   ["http://www.monadnockfolk.org/?page_id=63", "Nelson NH", "Mondays", 52, "", true],
   ["http://www.wordworthy2.org/Mill_City_Contra_Dance/", "Manchester NH", "Fridays", 12, "", true],
   ["https://concordnhcontra.wordpress.com/", "Concord NH", "Saturdays", 10, "", false],
-  ["http://www.monadnockfolk.org/?page_id=30", "Peterborough NH", "Saturdays", 12, "", false],
+  ["http://www.monadnockfolk.org/?page_id=30", "Peterborough NH", "Saturdays", 12, "", true],
   ["https://www.facebook.com/Milford-Contra-Dance-920139244691079/", "Milford NH", "Fridays", 12, "", true],
   ["http://seacoastcontra.com/", "Newfields NH", "Fridays", 12, "", false],
 
