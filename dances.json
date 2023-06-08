@@ -237,7 +237,7 @@
 
 
   ["http://www.cdrochester.org/", "Rochester NY", "Thursdays", 52, "", true],
-  ["http://www.qccd.org/", "Buffalo NY", "Saturdays", 25, "", true],
+  ["http://www.qccd.org/", "Buffalo NY", "Fridays", 12, "", true],
   ["http://www.hands4dancers.org/", "Ithaca NY", "Saturdays", 8, "", true],
   ["http://tedcrane.com/TCCD/Schedule.htp", "Ithaca NY", "Fridays", 48, "", false],
   ["http://cdny.org/", "New York NY", "Saturdays", 35, "GF", true],
