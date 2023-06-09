@@ -47,11 +47,11 @@ function fetch(url, callback) {
 var zips = null;
 var caller_records = null;
 window.onload = function() {
-  fetch("/zipcode.json", function(response) {
+  fetch("zipcode.json", function(response) {
     zips = JSON.parse(response);
     maybe_ready();
   });
-  fetch("/caller-links.json", function(response) {
+  fetch("caller-links.json", function(response) {
     caller_records = JSON.parse(response);
     maybe_ready();
   });

@@ -262,11 +262,11 @@ var zips = null;
 var dance_locations = null;
 document.body.onload = function() {
   zi.focus();
-  fetch("/zipcode.json", function(response) {
+  fetch("zipcode.json", function(response) {
     zips = JSON.parse(response);
     maybe_ready();
   });
-  fetch("/dances_locs.json", function(response) {
+  fetch("dances_locs.json", function(response) {
     dance_locations = JSON.parse(response);
     maybe_ready();
   });
