@@ -73,5 +73,15 @@ def start():
   with open("dances_locs.json", "w") as outf:
     outf.write(json.dumps(loc_dances).replace("],", "],\n"))
 
+  with open("events.json") as inf:
+    event_records = json.load(inf)
+
+  for event_record in event_records:
+    if event_record["location"] and "latlng" not in event_record:
+      event_record["latlng"] = lookup_ll(event_record["location"])
+
+  with open("events.json", "w") as outf:
+    json.dump(event_records, outf)
+
 if __name__ == "__main__":
   start()
