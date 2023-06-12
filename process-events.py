@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+import re
 import json
 
 records = []
@@ -42,14 +43,14 @@ with open("events-raw-2023.tsv") as inf:
                                caller6)
                    if x.strip()]
 
-        bands = [x for x in (band1,
+        bands = [re.sub("^The ", "the ", x)
+                 for x in (band1,
                              band2,
                              band3,
                              band4,
                              band5,
                              band6)
-                 if x.strip()]
-
+                 if x.strip() and x.lower() != "unnamed"]
 
         records.append(
             {"typical_month": typical_month,
