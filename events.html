@@ -6,7 +6,7 @@
 
 <body>
 <style>
-html, body, #map_canvas {
+html, body {
   height: 100vh;
   margin: 0px;
   padding: 0px
@@ -14,12 +14,18 @@ html, body, #map_canvas {
 body {
   background-color: rgba(44, 4, 128, 0.04);
 }
-#map_canvas, #filters, #dance_list {
+#map_canvas_wrapper {
+  height: calc(100vh - 2em);
+}
+#map_canvas {
+  width: 100%;
+  height: 100%;
 }
 #content {
   max-width: 40em;
   margin-left: auto;
   margin-right: auto;
+  box-sizing: border-box;    
 }
 .dance-listing {
   background-color: rgba(44, 4, 128, 0.2);
@@ -46,10 +52,14 @@ body {
 }
 .dance-performers {
   padding: 0.2rem;
-}    
-#map_canvas {
+}
+.hide-map {
   display: none;
 }
+.show-map {
+  display: block;
+}
+    
 #filter_form {
   margin: 0;
   margin-bottom: 0.5em;
@@ -66,9 +76,59 @@ input {
 }
 h1 {
   margin-bottom: 0em;    
+  margin-top:0.10em;    
 }
 .error {
   border: 1px solid red;    
+}
+.button-selected, .button-unselected {
+  width: 50%;
+  margin: 0;
+  padding: 0.5em;
+  box-sizing: border-box;
+  display: inline-block;
+  text-decoration: none;
+  text-align: center;
+  vertical-align: middle;
+  color: white;
+  height: 2em;
+}
+.button-selected {
+  background-color: rgba(44, 4, 128, 0.8)
+}
+.button-selected:hover {
+  background-color: rgba(44, 4, 128, 0.6)
+}
+.button-unselected {
+  background-color: rgba(44, 4, 128, 0.4)
+}
+.button-unselected:hover {
+  background-color: rgba(44, 4, 128, 0.2)
+}
+@media (min-width: 60em) {
+  #view-toggle {
+    display: none;
+  }
+  #map_canvas_wrapper {
+    display: block;
+    height: 100%;
+    flex-grow: 1;
+  }
+  #content {
+    width: 40em;
+    margin-left: initial;
+    margin-right: initial;
+    overflow: scroll;
+  }
+  .hide-map {
+    display: block;
+  }
+  #two-panes {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 100%;
+  }
 }
 </style>
 
@@ -168,7 +228,7 @@ function refresh_list() {
     }
   }
 
-  let min_lat, max_lat, min_lng, max_lng;
+  const bounds = new google.maps.LatLngBounds();
   for (const dance of dances) {
     if (!dance.latlng || !dance.name || !dance.url) continue;
 
@@ -214,25 +274,12 @@ function refresh_list() {
     if (dance.projected) {
       if (input_band.value || input_caller.value) continue;
     } else {
-      if (input_band.value && !(""+dance.bands).includes(input_band.value)) continue;
-      if (input_caller.value && !(""+dance.callers).includes(input_caller.value)) continue;
+      if (input_band.value && !(""+dance.bands).toLowerCase().includes(input_band.value.toLowerCase())) continue;
+      if (input_caller.value && !(""+dance.callers).toLowerCase().includes(input_caller.value.toLowerCase())) continue;
     }
     
     const lat = dance.latlng[0];
     const lng = dance.latlng[1];
-
-    if (min_lat == null || lat < min_lat) {
-      min_lat = lat;
-    }
-    if (min_lng == null || lat < min_lng) {
-      min_lng = lng;
-    }
-    if (max_lat == null || lat > max_lat) {
-      max_lat = lat;
-    }
-    if (max_lng == null || lat < max_lng) {
-      max_lng = lng;
-    }
 
     const marker = new google.maps.Marker({
       position: {lat, lng},
@@ -242,6 +289,7 @@ function refresh_list() {
     });
     markers.push(marker);
     add_link(marker, dance.url);
+    bounds.extend({lat, lng});
 
     score_dance.push([y, m, d, dance])
   }
@@ -293,16 +341,15 @@ function refresh_list() {
     dance_list.appendChild(dance_div);
   }
   
-  if (min_lat != null) {
-    map.fitBounds({north: max_lat,
-                   south: min_lat,
-                   east: min_lng,
-                   west: max_lng});
-  }
+  map.fitBounds(bounds);
 }
 
 document.body.onload = load_all;
 </script>
+<div id=view-toggle>
+<a id=listings_link class=button-selected href=#>Listings</a><a id=map_link class=button-unselected href=#>Map</a>
+</div>
+<div id=two-panes>  
 <div id=content>
   <div id=header>
   <h1>Contra Dance Events</h1>
@@ -311,9 +358,9 @@ document.body.onload = load_all;
   <div id=filters>
   
   <form id=filter_form>
-  <input id=input_date name=state placeholder="date: 2000-01-01"><br>
-  <input id=input_state name=state placeholder="state: NC"><br>
-  <input id=input_band name=band placeholder="band: Yankee Ingenuity"><br>
+  <input id=input_date name=state placeholder="date: 2000-01-01">
+  <input id=input_state name=state placeholder="state: NC">
+  <input id=input_band name=band placeholder="band: Yankee Ingenuity">
   <input id=input_caller name=caller placeholder="caller: Ted Sanella">
 
   <!--
@@ -333,16 +380,40 @@ document.body.onload = load_all;
   </form>
 
   Correction? Addition?  Write to jeff@jefftk.com or leave a comment on the
-  <a href="https://docs.google.com/spreadsheets/d/1fQq7pTtNVMYVRgOPbjNz2jnyw4RABGrQoplrSQntbn8/edit">spreadsheet</a>
+  <a href="https://docs.google.com/spreadsheets/d/1fQq7pTtNVMYVRgOPbjNz2jnyw4RABGrQoplrSQntbn8/edit">spreadsheet</a>.
 
   </div>
 
-  <div id=map_canvas></div>
   <div id=dance_list></div>
+</div>
+<div id=map_canvas_wrapper class=hide-map>
+  <div id=map_canvas></div>
+</div>
 </div>
 <script>
   for (const input of document.getElementsByTagName("input")) {
     input.oninput = refresh_list;
   }
+  function select_mode(is_map) {
+    listings_link.classList.add(is_map ? "button-unselected" : "button-selected");
+    listings_link.classList.remove(is_map ? "button-selected" : "button-unselected");
+    map_link.classList.add(is_map ? "button-selected" : "button-unselected");
+    map_link.classList.remove(is_map ? "button-unselected" : "button-selected");
+
+    content.style.display = is_map ? "none" : "block";
+    map_canvas_wrapper.classList.add(is_map ? "show-map" : "hide-map")
+    map_canvas_wrapper.classList.remove(is_map ? "hide-map" : "show-map")
+    
+    refresh_list();
+  }
+
+  listings_link.onclick = function() {
+    select_mode(/*is_map=*/false);
+  }
+  map_link.onclick = function() {
+    select_mode(/*is_map=*/true);
+  }
+
+  visualViewport.onresize = refresh_list;
 </script>
 </body> </html>
