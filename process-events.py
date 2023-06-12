@@ -2,7 +2,7 @@
 import json
 
 records = []
-with open("weekends-raw-2023.tsv") as inf:
+with open("events-raw-2023.tsv") as inf:
     for n, line in enumerate(inf):
         if n == 0:
             continue
@@ -50,7 +50,7 @@ with open("weekends-raw-2023.tsv") as inf:
                              band6)
                  if x.strip()]
 
-        
+
         records.append(
             {"typical_month": typical_month,
              "name": name,
@@ -63,5 +63,18 @@ with open("weekends-raw-2023.tsv") as inf:
              }
         )
 
-with open("weekends.json", "w") as outf:
+with open("events.json") as inf:
+    old_records = json.load(inf)
+
+loc_to_ll = {}
+for record in old_records:
+    if record.get("latlng","") and record.get("location", ""):
+        loc_to_ll[record["location"]] = record["latlng"]
+
+for record in records:
+    if record.get("location", ""):
+        if record["location"] in loc_to_ll:
+            record["latlng"] = loc_to_ll[record["location"]]
+
+with open("events.json", "w") as outf:
     json.dump(records, outf)
