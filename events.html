@@ -1,0 +1,348 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html> <head>
+<title>Contra Dance Weekends, Festivals, and Long Dances</title>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+</head>
+
+<body>
+<style>
+html, body, #map_canvas {
+  height: 100vh;
+  margin: 0px;
+  padding: 0px
+}
+body {
+  background-color: rgba(44, 4, 128, 0.04);
+}
+#map_canvas, #filters, #dance_list {
+}
+#content {
+  max-width: 40em;
+  margin-left: auto;
+  margin-right: auto;
+}
+.dance-listing {
+  background-color: rgba(44, 4, 128, 0.2);
+  border-radius: 0.25em;
+  margin: 0.5em;
+  padding-left: 0.25em;
+  padding-bottom: 0.25em;
+}
+.dance-date {
+  text-align: right;
+  border-radius: 0 0.25em;
+  background-color: rgba(44, 4, 128, 1);
+  float: right;
+  padding: 0.1em;
+  color: white;
+}
+.dance-name {
+  padding: 0.2rem;
+  font-size: 150%;
+}
+.dance-location {
+  padding: 0.2rem;
+  font-style: italic;
+}
+.dance-performers {
+  padding: 0.2rem;
+}    
+#map_canvas {
+  display: none;
+}
+#filter_form {
+  margin: 0;
+  margin-bottom: 0.5em;
+}
+#filters {
+  margin-left: 0.5em;
+}
+#header {
+  margin-left: 0.5em;
+}
+input {
+  margin-top: 0.5em;
+  width: 20em;
+}
+h1 {
+  margin-bottom: 0em;    
+}
+.error {
+  border: 1px solid red;    
+}
+</style>
+
+<script>
+(g=>{var h,a,k,p="The Google Maps JavaScript API",c="google",l="importLibrary",q="__ib__",m=document,b=window;b=b[c]||(b[c]={});var d=b.maps||(b.maps={}),r=new Set,e=new URLSearchParams,u=()=>h||(h=new Promise(async(f,n)=>{await (a=m.createElement("script"));e.set("libraries",[...r]+"");for(k in g)e.set(k.replace(/[A-Z]/g,t=>"_"+t[0].toLowerCase()),g[k]);e.set("callback",c+".maps."+q);a.src=`https://maps.${c}apis.com/maps/api/js?`+e;d[q]=f;a.onerror=()=>h=n(Error(p+" could not load."));a.nonce=m.querySelector("script[nonce]")?.nonce||"";m.head.append(a)}));d[l]?console.warn(p+" only loads once. Ignoring:",g):d[l]=(f,...n)=>r.add(f)&&u().then(()=>d[l](f,...n))})({
+      key: "AIzaSyALrS4bNPhHaZ73dACaSxD-r6oht4CX7B8",
+      v: "weekly",
+});
+</script>
+
+<script>
+async function fetch_dances() {
+  const response = await fetch("events.json");
+  return await response.json();
+}
+
+let maps = null;
+let dances = null;
+async function load_all() {
+  [dances, maps] = await Promise.all([
+    fetch_dances(),
+    google.maps.importLibrary("maps")]);
+  load_dances();
+}
+
+function add_link(marker, url) {
+  google.maps.event.addListener(marker, 'click', function() {
+    window.open(url);
+  });
+}
+
+const markers = [];
+let map = null;
+function load_dances() {
+  map = new maps.Map(map_canvas, {});
+  refresh_list();
+}
+
+
+function e(tag, text=null) {
+  const element = document.createElement(tag);
+  if (text) {
+    element.innerText = text;
+  }
+  return element;
+}
+
+const list_format_en = new Intl.ListFormat('en');
+
+function refresh_list() {
+  if (map == null) return;
+  
+  while (dance_list.children.length) {
+    dance_list.removeChild(dance_list.firstChild);
+  }
+  for (const marker of markers) {
+    marker.setMap(null);
+  }
+  markers.length = 0;
+
+  score_dance = []
+
+  const today_date = new Date();
+  const today_y = today_date.getFullYear();
+  const today_m = today_date.getMonth() + 1;  // 0-indexed
+  const today_d = today_date.getDate();  
+
+  let target_y = null;
+  let target_m = null;
+  let target_d = null;
+  
+  input_date.classList.remove("error");
+  if (input_date.value) {
+    if (/^20\d\d$/.test(input_date.value)) {
+      target_y = Number(input_date.value)
+    } else if (/^20\d\d-\d\d$/.test(input_date.value)) {
+      [target_y, target_m] = input_date.value.split("-");
+      target_y = Number(target_y);
+      target_m = Number(target_m);
+    } else if (/^20\d\d-\d\d-\d\d$/.test(input_date.value)) {
+      [target_y, target_m, target_d] = input_date.value.split("-");
+      target_y = Number(target_y);
+      target_m = Number(target_m);
+      target_d = Number(target_d);
+    } else {
+      input_date.classList.add("error");
+    }      
+  }
+
+  let target_state = null;
+  input_state.classList.remove("error");
+  if (input_state.value) {
+    if (/^[A-Z][A-Z]$/.test(input_state.value)) {
+      target_state = input_state.value;
+    } else {
+      input_state.classList.add("error");
+    }
+  }
+
+  let min_lat, max_lat, min_lng, max_lng;
+  for (const dance of dances) {
+    if (!dance.latlng || !dance.name || !dance.url) continue;
+
+    if (target_state && !dance.location.endsWith(target_state)) continue;
+    
+    let y = null;
+    let m = null;
+    let d = null;
+    dance.projected = false;
+    if (dance.date) {
+      [m, d, y] = dance.date.split("/");
+      y = Number(y);
+      m = Number(m);
+      d = Number(d);
+
+      dance.in_future =
+          (y > today_y) ||
+          (y == today_y && m > today_m) ||
+          (y == today_y && m == today_m && d > today_d);
+      if (!dance.in_future) {
+        y += 1
+        dance.projected = true;
+      }
+    } else {
+      // If we don't know when the dance is, go with the middle of the
+      // month it usually is in.
+      m = Number(dance.typical_month);
+      if (m > today_m) {
+        y = today_y;
+      } else {
+        y = today_y + 1;
+      }
+      d = 15;
+      dance.in_future = true;
+    }
+
+    if (target_y != null && target_y != y) continue;
+    if (target_m != null && target_m != m) continue;
+    // If they say 2020-01-01 and all we know is the dance is probably
+    // in 2020-01, still include it.
+    if (target_d != null && dance.date && target_d != d) continue;
+
+    if (dance.projected) {
+      if (input_band.value || input_caller.value) continue;
+    } else {
+      if (input_band.value && !(""+dance.bands).includes(input_band.value)) continue;
+      if (input_caller.value && !(""+dance.callers).includes(input_caller.value)) continue;
+    }
+    
+    const lat = dance.latlng[0];
+    const lng = dance.latlng[1];
+
+    if (min_lat == null || lat < min_lat) {
+      min_lat = lat;
+    }
+    if (min_lng == null || lat < min_lng) {
+      min_lng = lng;
+    }
+    if (max_lat == null || lat > max_lat) {
+      max_lat = lat;
+    }
+    if (max_lng == null || lat < max_lng) {
+      max_lng = lng;
+    }
+
+    const marker = new google.maps.Marker({
+      position: {lat, lng},
+      url: dance.url,
+      title: dance.name,
+      map: map
+    });
+    markers.push(marker);
+    add_link(marker, dance.url);
+
+    score_dance.push([y, m, d, dance])
+  }
+  score_dance.sort(function([y1, m1, d1, dance1], [y2, m2, d2, dance2]) {
+    if (y1 != y2) return y1 - y2;
+    if (m1 != m2) return m1 - m2;
+    if (d1 != d2) return d1 - d2;
+    return 0;
+  });
+
+
+  for (const [y, m, d, dance] of score_dance) {
+    const dance_div = e("div");
+    dance_div.classList.add("dance-listing");
+
+    let date_text = dance.date;
+    if (!dance.in_future || !dance.date) {
+      date_text = m + "/" + y + "?";
+    }
+    const date = e("div", date_text)
+    date.classList.add("dance-date");
+    dance_div.appendChild(date);
+
+    const name = e("div", dance.name)
+    name.classList.add("dance-name");
+    dance_div.appendChild(name);
+
+    const location = e("div", dance.location)
+    location.classList.add("dance-location");
+    dance_div.appendChild(location);
+
+    if (!dance.projected && (dance.callers || dance.bands)) {
+      let performers_text = "";
+      if (dance.callers.length) {
+        performers_text += list_format_en.format(dance.callers) + " calling";
+      }
+      if (dance.callers.length && dance.bands.length) {
+        performers_text += " to ";
+      }
+      if (dance.bands.length) {
+        performers_text += list_format_en.format(dance.bands);
+      }
+      performers_text = performers_text.charAt(0).toUpperCase() + performers_text.slice(1);
+      const performers = e("div", performers_text);
+      performers.classList.add("dance-performers");
+      dance_div.appendChild(performers);
+    }
+    dance_div.onclick = function() { window.open(dance.url) };
+    dance_list.appendChild(dance_div);
+  }
+  
+  if (min_lat != null) {
+    map.fitBounds({north: max_lat,
+                   south: min_lat,
+                   east: min_lng,
+                   west: max_lng});
+  }
+}
+
+document.body.onload = load_all;
+</script>
+<div id=content>
+  <div id=header>
+  <h1>Contra Dance Events</h1>
+  <i>Weekends, camps, festivals, and other special events</i>
+  </div>
+  <div id=filters>
+  
+  <form id=filter_form>
+  <input id=input_date name=state placeholder="date: 2000-01-01"><br>
+  <input id=input_state name=state placeholder="state: NC"><br>
+  <input id=input_band name=band placeholder="band: Yankee Ingenuity"><br>
+  <input id=input_caller name=caller placeholder="caller: Ted Sanella">
+
+  <!--
+  <br>
+
+  <label for=masks>Masks?</label><br>
+  <input name=masks value=required type=checkbox checked><label for=masks>Required</label><br>
+  <input name=masks value=optional type=checkbox checked><label for=masks>Optional</label><br>
+  <input name=masks value=unknown type=checkbox checked><label for=masks>Unknown</label><br>
+  <br>
+  <label for=roles>Roles?</label><br>
+  <input name=roles value=gendered type=checkbox checked><label for=roles>Gendered</label><br>
+  <input name=roles value=ungendered type=checkbox checked><label for=roles>Gender-free</label><br>
+  <input name=roles value=unknown type=checkbox checked><label for=roles>Unknown</label><br>
+  -->
+  
+  </form>
+
+  Correction? Addition?  Write to jeff@jefftk.com or leave a comment on the
+  <a href="https://docs.google.com/spreadsheets/d/1fQq7pTtNVMYVRgOPbjNz2jnyw4RABGrQoplrSQntbn8/edit">spreadsheet</a>
+
+  </div>
+
+  <div id=map_canvas></div>
+  <div id=dance_list></div>
+</div>
+<script>
+  for (const input of document.getElementsByTagName("input")) {
+    input.oninput = refresh_list;
+  }
+</script>
+</body> </html>
