@@ -14,6 +14,7 @@
     "date": "1/7/2023",
     "location": "Urbana IL",
     "url": "http://www.urbana-contra.org/jan_jam.html",
+    "year": 2023,
     "latlng": [
       40.11,
       -88.21
@@ -34,6 +35,7 @@
     "date": "1/14/2023",
     "location": "Durham NH",
     "url": "https://www.neffa.org/ralph-page/35th-annual-ralph-page-jan-2023/",
+    "year": 2023,
     "latlng": [
       43.13,
       -70.93
@@ -56,6 +58,7 @@
     "date": "1/13/2023",
     "location": "San Louis Obispo CA",
     "url": "https://contracarnivale.org/",
+    "year": 2023,
     "latlng": [
       35.28,
       -120.66
@@ -74,6 +77,7 @@
     "date": "1/27/2023",
     "location": "Berea KY",
     "url": "https://www.swingshift.ltda.us/",
+    "year": 2023,
     "latlng": [
       37.57,
       -84.3
@@ -94,6 +98,7 @@
     "date": "1/27/2023",
     "location": "Gulfport FL",
     "url": "http://floridasnowball.tampabaycontra.com/",
+    "year": 2023,
     "latlng": [
       27.75,
       -82.7
@@ -113,6 +118,7 @@
     "date": "2/8/2023",
     "location": "St Croix",
     "url": "https://www.tropicaldancevacation.com/contra-week.html",
+    "year": 2023,
     "latlng": [
       17.72,
       -64.83
@@ -133,6 +139,7 @@
     "date": "2/17/2023",
     "location": "Corvallis OR",
     "url": "http://corvallisfolklore.org/ccw/",
+    "year": 2023,
     "latlng": [
       44.56,
       -123.26
@@ -152,6 +159,7 @@
     "date": "2/10/2023",
     "location": "Knoxville TN",
     "url": "https://www.knoxvillecontra.org/cfschedule",
+    "year": 2023,
     "latlng": [
       35.96,
       -83.92
@@ -177,6 +185,7 @@
     "date": "2/17/2023",
     "location": "Saratoa Springs NY",
     "url": "http://www.flurryfestival.org/",
+    "year": 2023,
     "latlng": [
       43.08,
       -73.78
@@ -196,6 +205,7 @@
     "date": "2/10/2023",
     "location": "Houston TX",
     "url": "http://www.bayoubedlam.org/",
+    "year": 2023,
     "latlng": [
       29.76,
       -95.37
@@ -216,6 +226,7 @@
     "date": "2/24/2023",
     "location": "Pasadena CA",
     "url": "https://www.caldancecoop.org/special-events/fiddling-frog/",
+    "year": 2023,
     "latlng": [
       34.15,
       -118.14
@@ -236,6 +247,7 @@
     "date": "3/11/2023",
     "location": "Tega Cay SC",
     "url": "https://www.charlottecontradance.org/carolina-meltdown",
+    "year": 2023,
     "latlng": [
       35.02,
       -81.03
@@ -254,6 +266,7 @@
     "date": "3/17/2023",
     "location": "Columbia MO",
     "url": "https://mmtd.wordpress.com/dance-weekend-2023/",
+    "year": 2023,
     "latlng": [
       38.95,
       -92.33
@@ -274,6 +287,7 @@
     "date": "3/10/2023",
     "location": "Cambridge MA",
     "url": "https://www.beantownstomp.com",
+    "year": 2023,
     "latlng": [
       42.37,
       -71.11
@@ -295,6 +309,7 @@
     "date": "3/24/2023",
     "location": "Helena GA",
     "url": "https://www.snca.org/contra/danceWeekend/pageWeekend.php",
+    "year": 2023,
     "latlng": [
       32.07,
       -82.91
@@ -315,6 +330,7 @@
     "date": "3/31/2023",
     "location": "Ely, England",
     "url": "https://contraholiday.net/",
+    "year": 2023,
     "latlng": [
       52.4,
       0.26
@@ -335,6 +351,7 @@
     "date": "3/31/2023",
     "location": "Mill Valley CA",
     "url": "https://nbcds.org/epicenter-2023/",
+    "year": 2023,
     "latlng": [
       37.91,
       -122.54
@@ -354,6 +371,7 @@
     "date": "4/7/2023",
     "location": "Aptos CA",
     "url": "https://www.queercontradance.org/queercamp.html",
+    "year": 2023,
     "latlng": [
       36.98,
       -121.9
@@ -374,6 +392,7 @@
     "date": "4/14/2023",
     "location": "Minneapolis MN",
     "url": "https://www.tapestryfolkdance.org/call-of-the-loon.html",
+    "year": 2023,
     "latlng": [
       44.98,
       -93.27
@@ -394,6 +413,7 @@
     "date": "4/28/2023",
     "location": "Chapel Hill NC",
     "url": "https://tcdancers.org/sdr",
+    "year": 2023,
     "latlng": [
       35.91,
       -79.06
@@ -422,6 +442,7 @@
     "date": "4/22/2023",
     "location": "Mansfield MA",
     "url": "https://www.neffa.org/",
+    "year": 2023,
     "latlng": [
       42.03,
       -71.22
@@ -441,6 +462,7 @@
     "date": "4/1/2023",
     "location": "Ithaca NY",
     "url": "http://www.hands4dancers.org/upcoming-dances/2023/4/1/fiddlehead-frolic",
+    "year": 2023,
     "latlng": [
       42.44,
       -76.5
@@ -459,6 +481,7 @@
     "date": "4/21/2023",
     "location": "Berea KY",
     "url": "https://www.hands4-berea.com/",
+    "year": 2023,
     "latlng": [
       37.57,
       -84.3
@@ -479,6 +502,7 @@
     "date": "3/31/2023",
     "location": "Oberlin OH",
     "url": "https://www.oberlin.edu/events/dandelion_romp_8198",
+    "year": 2023,
     "latlng": [
       41.29,
       -82.22
@@ -497,6 +521,7 @@
     "date": "4/21/2023",
     "location": "Dowling MI",
     "url": "https://michigandanceheritage.org/trilliumtwirl/",
+    "year": 2023,
     "latlng": [
       42.52,
       -85.25
@@ -517,6 +542,7 @@
     "date": "5/7/2023",
     "location": "Fayetteville WV",
     "url": "https://www.footmad.org/whirl",
+    "year": 2023,
     "latlng": [
       38.05,
       -81.1
@@ -535,6 +561,7 @@
     "date": "5/11/2023",
     "location": "Black Mountain NC",
     "url": "https://theleaf.org/",
+    "year": 2023,
     "latlng": [
       35.62,
       -82.32
@@ -554,6 +581,7 @@
     "date": "5/26/2023",
     "location": "Kirkwood MO",
     "url": "https://childgrove.org/stl-dance-weekends/meetmeinstlouis",
+    "year": 2023,
     "latlng": [
       38.58,
       -90.41
@@ -574,6 +602,7 @@
     "date": "5/26/2023",
     "location": "Soccoro NM",
     "url": "http://folkmads.org/events/camps/folkmadness/",
+    "year": 2023,
     "latlng": [
       34.06,
       -106.89
@@ -594,6 +623,7 @@
     "date": "5/26/2023",
     "location": "Wasilla AK",
     "url": "http://www.thedancingbears.com/Dance-Camp.html",
+    "year": 2023,
     "latlng": [
       61.58,
       -149.44
@@ -613,6 +643,7 @@
     "date": "6/9/2023",
     "location": "Plymouth MA",
     "url": "https://www.lcfd.org/spring-camp-2023.html",
+    "year": 2023,
     "latlng": [
       41.96,
       -70.67
@@ -631,6 +662,7 @@
     "date": "6/9/2023",
     "location": "Oaklahoma City OK",
     "url": "http://scissortail.org/special-events/flamingo-fling/",
+    "year": 2023,
     "latlng": [
       35.47,
       -97.52
@@ -651,6 +683,7 @@
     "date": "6/16/2023",
     "location": "Plymouth MA",
     "url": "http://www.swingintosummer.org/",
+    "year": 2023,
     "latlng": [
       41.96,
       -70.67
@@ -673,6 +706,7 @@
     "date": "6/18/2023",
     "location": "Harrison, ID",
     "url": "http://www.ladyofthelake.org/june-week/",
+    "year": 2023,
     "latlng": [
       47.45,
       -116.79
@@ -693,6 +727,7 @@
     "date": "6/23/2023",
     "location": "Voorheesville NY",
     "url": "http://festival.oldsongs.org/",
+    "year": 2023,
     "latlng": [
       42.65,
       -73.93
@@ -709,6 +744,7 @@
     "date": "6/25/2023",
     "location": "La Honda CA",
     "url": "https://www.bacds.org/familyweek/",
+    "year": 2023,
     "latlng": [
       37.32,
       -122.27
@@ -729,6 +765,7 @@
     "date": "6/23/2023",
     "location": "Bloomery WV",
     "url": "https://www.buffalogapretreat.com/general-5-2",
+    "year": 2023,
     "latlng": [
       39.39,
       -78.37
@@ -748,6 +785,7 @@
     "date": "6/29/2023",
     "location": "Plymouth MA",
     "url": "https://cds-boston-j4weekend.weebly.com/",
+    "year": 2023,
     "latlng": [
       41.96,
       -70.67
@@ -769,6 +807,7 @@
     "date": "7/28/2023",
     "location": "Mountain City, TN",
     "url": "http://www.contradancersdelight.com/about-summer-cdh-tst/",
+    "year": 2023,
     "latlng": [
       36.47,
       -81.8
@@ -789,6 +828,7 @@
     "date": "7/1/2023",
     "location": "Glen Echo MD",
     "url": "https://fsgw.org/hashtag-dance-weekend",
+    "year": 2023,
     "latlng": [
       38.97,
       -77.14
@@ -807,6 +847,7 @@
     "date": "7/3/2023",
     "location": "Plymouth MA",
     "url": "https://rscdsboston.org/pinewoods-esc.html",
+    "year": 2023,
     "latlng": [
       41.96,
       -70.67
@@ -828,6 +869,7 @@
     "date": "7/6/2023",
     "location": "Salem VA",
     "url": "http://www.roanokerailroader.com/",
+    "year": 2023,
     "latlng": [
       37.29,
       -80.05
@@ -849,6 +891,7 @@
     "date": "7/14/2023",
     "location": "Coshocton OH",
     "url": "http://www.riverrendezvous.com/",
+    "year": 2023,
     "latlng": [
       40.27,
       -81.86
@@ -866,6 +909,7 @@
     "date": "7/16/2023",
     "location": "Olivebridge NY",
     "url": "https://ashokancenter.org/product/northern-week-2023/",
+    "year": 2023,
     "latlng": [
       41.93,
       -74.22
@@ -880,6 +924,7 @@
     "date": "7/28/2023",
     "location": "Hillsdale NY",
     "url": "http://falconridgefolk.com/",
+    "year": 2023,
     "latlng": [
       42.18,
       -73.53
@@ -899,6 +944,7 @@
     "date": "8/18/2023",
     "location": "Mentone AL",
     "url": "http://www.footmadbirmingham.org/mentone.html",
+    "year": 2023,
     "latlng": [
       34.58,
       -85.59
@@ -913,6 +959,7 @@
     "date": "",
     "location": "Hendersonville, NC",
     "url": "https://www.splashdance.org/",
+    "year": 2023,
     "latlng": [
       35.32,
       -82.46
@@ -933,6 +980,7 @@
     "date": "8/11/2023",
     "location": "San Francisco CA",
     "url": "https://www.bacds.org/camps/btb/",
+    "year": 2023,
     "latlng": [
       37.77,
       -122.42
@@ -953,6 +1001,7 @@
     "date": "9/1/2023",
     "location": "Boulder CO",
     "url": "https://cfootmad.org/rendezvous",
+    "year": 2023,
     "latlng": [
       40.01,
       -105.27
@@ -971,6 +1020,7 @@
     "date": "9/23/2023",
     "location": "Lexington MI",
     "url": "https://michigandanceheritage.org/fall/",
+    "year": 2023,
     "latlng": [
       43.27,
       -82.53
@@ -989,6 +1039,7 @@
     "date": "9/1/2023",
     "location": "Fairbanks AK",
     "url": "https://contraborealis.org/2023-dance-camp-north-talent/",
+    "year": 2023,
     "latlng": [
       64.84,
       -147.72
@@ -1009,6 +1060,7 @@
     "date": "10/6/2023",
     "location": "Pickens SC",
     "url": "https://moondancesc.weebly.com/",
+    "year": 2023,
     "latlng": [
       34.88,
       -82.71
@@ -1029,6 +1081,7 @@
     "date": "9/22/2023",
     "location": "Ellerbe NC",
     "url": "https://www.feetretreat.com/feet-retreat-dance-weekend-2023/",
+    "year": 2023,
     "latlng": [
       35.07,
       -79.76
@@ -1049,6 +1102,7 @@
     "date": "9/8/2023",
     "location": "Rollins MT",
     "url": "https://www.missoulafolk.org/bearhug",
+    "year": 2023,
     "latlng": [
       47.91,
       -114.2
@@ -1063,6 +1117,7 @@
     "date": "9/22/2023",
     "location": "Dodgeville WI",
     "url": "http://www.squirrelmoon.org/",
+    "year": 2023,
     "latlng": [
       42.96,
       -90.13
@@ -1083,6 +1138,7 @@
     "date": "9/15/2023",
     "location": "Camp Sacremento",
     "url": "https://sactocds.wordpress.com/special-events/echo-summit-dance-camp-2023/",
+    "year": 2023,
     "latlng": [
       38.8,
       -120.12
@@ -1103,6 +1159,7 @@
     "date": "9/22/2023",
     "location": "Chehalis BC",
     "url": "http://www.vcn.bc.ca/vcountry/chehalis/",
+    "year": 2023,
     "latlng": [
       49.3,
       -121.9
@@ -1122,6 +1179,7 @@
     "date": "9/29/2023",
     "location": "Weston VT",
     "url": "http://youthdanceweekend.org/",
+    "year": 2023,
     "latlng": [
       43.29,
       -72.79
@@ -1143,6 +1201,7 @@
     "date": "9/29/2023",
     "location": "Silver Bay NY",
     "url": "https://www.danceflurry.org/adirondack-dance-weekend/",
+    "year": 2023,
     "latlng": [
       43.7,
       -73.51
@@ -1157,6 +1216,7 @@
     "date": "",
     "location": "Glen Echo MD",
     "url": "https://fsgw.org/contrastock",
+    "year": 2023,
     "latlng": [
       38.97,
       -77.14
@@ -1173,6 +1233,7 @@
     "date": "9/1/2023",
     "location": "Plymouth MA",
     "url": "https://facone.org/labor-day-weekend/labor-day-weekend.html",
+    "year": 2023,
     "latlng": [
       41.96,
       -70.67
@@ -1187,6 +1248,7 @@
     "date": "",
     "location": "Salt Lake City UT",
     "url": "https://wasatchcontras.org/wiggle/",
+    "year": 2023,
     "latlng": [
       40.76,
       -111.89
@@ -1205,6 +1267,7 @@
     "date": "10/6/2023",
     "location": "Harrison, ID",
     "url": "http://www.ladyofthelake.org/fallwend/",
+    "year": 2023,
     "latlng": [
       47.45,
       -116.79
@@ -1225,6 +1288,7 @@
     "date": "10/23/2023",
     "location": "Santa Barbara CA",
     "url": "http://www.sbcds.org/hm/",
+    "year": 2023,
     "latlng": [
       34.42,
       -119.7
@@ -1239,6 +1303,7 @@
     "date": "",
     "location": "Jonesborough TN",
     "url": "https://www.facebook.com/groups/HistoricJonesboroughDanceSociety",
+    "year": 2023,
     "latlng": [
       36.29,
       -82.47
@@ -1253,6 +1318,7 @@
     "date": "",
     "location": "Becket MA",
     "url": "https://www.lcfd.org/lcfd/",
+    "year": 2023,
     "latlng": [
       42.33,
       -73.08
@@ -1267,6 +1333,7 @@
     "date": "10/20/2023",
     "location": "Fayetteville NY",
     "url": "https://syracusecountrydancers.org/special-events/phylla-mae-fall-fest/",
+    "year": 2023,
     "latlng": [
       43.03,
       -76.0
@@ -1281,6 +1348,7 @@
     "date": "10/19/2023",
     "location": "Black Mountain NC",
     "url": "https://theleaf.org/",
+    "year": 2023,
     "latlng": [
       35.62,
       -82.32
@@ -1300,6 +1368,7 @@
     "date": "10/27/2023",
     "location": "Jemez Springs NM",
     "url": "https://folkmads.org/events/camps/boo-camp-2023/",
+    "year": 2023,
     "latlng": [
       35.77,
       -106.69
@@ -1314,6 +1383,7 @@
     "date": "",
     "location": "Ann Arbor MI",
     "url": "https://aactmad.org/tree-town-stomp",
+    "year": 2023,
     "latlng": [
       42.28,
       -83.74
@@ -1330,6 +1400,7 @@
     "date": "10/27/2023",
     "location": "Nashville TN",
     "url": "http://nashvillecountrydancers.org/music-city-masquerade/",
+    "year": 2023,
     "latlng": [
       36.16,
       -86.78
@@ -1344,6 +1415,7 @@
     "date": "",
     "location": "Charlottesville VA",
     "url": "https://contracorners.com/cville_fall_festival",
+    "year": 2023,
     "latlng": [
       38.03,
       -78.48
@@ -1358,6 +1430,7 @@
     "date": "",
     "location": "Austin TX",
     "url": "http://www.fireantfrolic.org/",
+    "year": 2023,
     "latlng": [
       30.27,
       -97.74
@@ -1372,6 +1445,7 @@
     "date": "",
     "location": "Tampa FL",
     "url": "http://www.tampabaycontra.com/",
+    "year": 2023,
     "latlng": [
       27.95,
       -82.46
@@ -1386,6 +1460,7 @@
     "date": "",
     "location": "Portland OR",
     "url": "next in 2020",
+    "year": 2023,
     "latlng": [
       45.52,
       -122.68
@@ -1406,6 +1481,7 @@
     "date": "11/3/2023",
     "location": "Monterey CA",
     "url": "http://montereycontradance.org/foggy-moon.html",
+    "year": 2023,
     "latlng": [
       36.6,
       -121.89
@@ -1420,6 +1496,7 @@
     "date": "11/3/2023",
     "location": "Brooklyn NY",
     "url": "http://contrashock.org/",
+    "year": 2023,
     "latlng": [
       40.68,
       -73.94
@@ -1434,6 +1511,7 @@
     "date": "",
     "location": "Ottawa ON",
     "url": "http://www.ottawacontra.ca/heyFever/",
+    "year": 2023,
     "latlng": [
       45.42,
       -75.7
@@ -1448,6 +1526,7 @@
     "date": "",
     "location": "Seattle WA",
     "url": "http://twilighttwirl.com",
+    "year": 2023,
     "latlng": [
       47.61,
       -122.33
@@ -1468,6 +1547,7 @@
     "date": "9/29/2023",
     "location": "Fall Creek OR",
     "url": "https://eugenefolklore.org/cascade-contras/",
+    "year": 2023,
     "latlng": [
       43.96,
       -122.82
@@ -1488,6 +1568,7 @@
     "date": "11/10/2023",
     "location": "Oracle AZ",
     "url": "https://tucsoncontradancers.org/tucson-contra-dancers/dance-in-the-desert-2023/",
+    "year": 2023,
     "latlng": [
       32.61,
       -110.77
@@ -1502,6 +1583,7 @@
     "date": "10/27/2023",
     "location": "Pittsburgh PA",
     "url": "http://pittsburghcontra.org/fdw/",
+    "year": 2023,
     "latlng": [
       40.44,
       -80.0
@@ -1519,6 +1601,7 @@
     "date": "11/10/2023",
     "location": "Kresgeville PA",
     "url": "http://www.princetoncountrydancers.org/about-hfth",
+    "year": 2023,
     "latlng": [
       40.9,
       -75.5
@@ -1539,6 +1622,7 @@
     "date": "11/10/2023",
     "location": "Atlanta GA",
     "url": "https://adw.contradance.org/",
+    "year": 2023,
     "latlng": [
       33.75,
       -84.39
@@ -1553,6 +1637,7 @@
     "date": "",
     "location": "Albany NY",
     "url": "https://www.danceflurry.org/event/contrafest/",
+    "year": 2023,
     "latlng": [
       42.65,
       -73.76
@@ -1567,6 +1652,7 @@
     "date": "",
     "location": "Louisville KY",
     "url": "http://www.loukyfleurfling.org/",
+    "year": 2023,
     "latlng": [
       38.25,
       -85.76
@@ -1581,6 +1667,7 @@
     "date": "",
     "location": "Lawrence KS",
     "url": "https://lawrencecontra.wordpress.com/dance-weekend/",
+    "year": 2023,
     "latlng": [
       38.97,
       -95.24
@@ -1595,6 +1682,7 @@
     "date": "",
     "location": "Rochester, NY",
     "url": "https://cdrochester.org/events/2019-tg/",
+    "year": 2023,
     "latlng": [
       43.16,
       -77.61
@@ -1609,6 +1697,7 @@
     "date": "",
     "location": "Philadelphia PA",
     "url": "http://www.thursdaycontra.com/contracopia/",
+    "year": 2023,
     "latlng": [
       39.95,
       -75.17
@@ -1623,6 +1712,7 @@
     "date": "12/1/2023",
     "location": "Worthington OH",
     "url": "https://bigscioty.com/winterwarmup/",
+    "year": 2023,
     "latlng": [
       40.09,
       -83.02
@@ -1643,6 +1733,7 @@
     "date": "11/17/2023",
     "location": "Los Angeles CA",
     "url": "https://www.catalinadanceweekend.com/",
+    "year": 2023,
     "latlng": [
       34.05,
       -118.24
@@ -1657,6 +1748,1432 @@
     "date": "12/26/2023",
     "location": "Kingsport, TN ",
     "url": "http://www.contradancersdelight.com/about-winter-cdh",
+    "year": 2023,
+    "latlng": [
+      36.55,
+      -82.56
+    ]
+  },
+  {
+    "typical_month": "1",
+    "name": "Chambana Jan Jam",
+    "callers": [],
+    "bands": [],
+    "roles": "Larks / Robins",
+    "date": "",
+    "location": "Urbana IL",
+    "url": "http://www.urbana-contra.org/jan_jam.html",
+    "year": 2024,
+    "latlng": [
+      40.11,
+      -88.21
+    ]
+  },
+  {
+    "typical_month": "1",
+    "name": "Ralph Page Dance Legacy Weekend",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Durham NH",
+    "url": "https://www.neffa.org/ralph-page/32nd-annual-ralph-page-dance-weekend-january-17-19-2020/",
+    "year": 2024,
+    "latlng": [
+      43.13,
+      -70.93
+    ]
+  },
+  {
+    "typical_month": "1",
+    "name": "Contra Carnivale",
+    "callers": [
+      "Nils Fredland",
+      "Cis Hinkle",
+      "Susan Petrick"
+    ],
+    "bands": [
+      "Elixir",
+      "the Synchopaths",
+      "Eloise &co."
+    ],
+    "roles": "Larks / Robins",
+    "date": "1/12/2024",
+    "location": "San Louis Obispo CA",
+    "url": "https://contracarnivale.org/",
+    "year": 2024,
+    "latlng": [
+      35.28,
+      -120.66
+    ]
+  },
+  {
+    "typical_month": "1",
+    "name": "Contra Swing Shift Weekend",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Berea KY",
+    "url": "https://www.swingshift.ltda.us/",
+    "year": 2024,
+    "latlng": [
+      37.57,
+      -84.3
+    ]
+  },
+  {
+    "typical_month": "1",
+    "name": "Florida Snow Ball",
+    "callers": [
+      "Janine Smith",
+      "Will Mentor"
+    ],
+    "bands": [
+      "Kingfisher",
+      "Nova"
+    ],
+    "roles": "",
+    "date": "1/26/2024",
+    "location": "Gulfport FL",
+    "url": "http://floridasnowball.tampabaycontra.com/",
+    "year": 2024,
+    "latlng": [
+      27.75,
+      -82.7
+    ]
+  },
+  {
+    "typical_month": "2",
+    "name": "Tropical Dance Vacation: St Croix",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "St Croix",
+    "url": "https://www.tropicaldancevacation.com/contra-week.html",
+    "year": 2024,
+    "latlng": [
+      17.72,
+      -64.83
+    ]
+  },
+  {
+    "typical_month": "2",
+    "name": "Corvallis Contra Dance Weekend",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "2/16/2024",
+    "location": "Corvallis OR",
+    "url": "http://corvallisfolklore.org/ccw/",
+    "year": 2024,
+    "latlng": [
+      44.56,
+      -123.26
+    ]
+  },
+  {
+    "typical_month": "2",
+    "name": "Cabin Fever",
+    "callers": [
+      "Timothy Klein"
+    ],
+    "bands": [
+      "Hot Coffee Breakdown",
+      "Baba Yaga's Stew"
+    ],
+    "roles": "",
+    "date": "2/9/2024",
+    "location": "Knoxville TN",
+    "url": "https://www.knoxvillecontra.org/cfschedule",
+    "year": 2024,
+    "latlng": [
+      35.96,
+      -83.92
+    ]
+  },
+  {
+    "typical_month": "2",
+    "name": "Dance Flurry Festival",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "2/16/2023",
+    "location": "Saratoa Springs NY",
+    "url": "http://www.flurryfestival.org/",
+    "year": 2024,
+    "latlng": [
+      43.08,
+      -73.78
+    ]
+  },
+  {
+    "typical_month": "2",
+    "name": "Bayou Bedlam",
+    "callers": [
+      "Gaye Fifer"
+    ],
+    "bands": [
+      "the Dam Beavers"
+    ],
+    "roles": "",
+    "date": "2/9/2024",
+    "location": "Houston TX",
+    "url": "http://www.bayoubedlam.org/",
+    "year": 2024,
+    "latlng": [
+      29.76,
+      -95.37
+    ]
+  },
+  {
+    "typical_month": "2",
+    "name": "Fiddling Frog Dance Festival",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "2/23/2024",
+    "location": "Pasadena CA",
+    "url": "https://www.caldancecoop.org/special-events/fiddling-frog/",
+    "year": 2024,
+    "latlng": [
+      34.15,
+      -118.14
+    ]
+  },
+  {
+    "typical_month": "3",
+    "name": "Carolina Meltdown",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Tega Cay SC",
+    "url": "https://www.charlottecontradance.org/carolina-meltdown",
+    "year": 2024,
+    "latlng": [
+      35.02,
+      -81.03
+    ]
+  },
+  {
+    "typical_month": "3",
+    "name": "Spring Breakdown Dance Weekend",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Columbia MO",
+    "url": "https://mmtd.wordpress.com/dance-weekend-2023/",
+    "year": 2024,
+    "latlng": [
+      38.95,
+      -92.33
+    ]
+  },
+  {
+    "typical_month": "3",
+    "name": "Beantown Stomp",
+    "callers": [],
+    "bands": [],
+    "roles": "Larks / Robins",
+    "date": "3/15/2024",
+    "location": "Cambridge MA",
+    "url": "https://www.beantownstomp.com",
+    "year": 2024,
+    "latlng": [
+      42.37,
+      -71.11
+    ]
+  },
+  {
+    "typical_month": "3",
+    "name": "Spring @ Sautee",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Helena GA",
+    "url": "https://www.snca.org/contra/danceWeekend/pageWeekend.php",
+    "year": 2024,
+    "latlng": [
+      32.07,
+      -82.91
+    ]
+  },
+  {
+    "typical_month": "4",
+    "name": "Contra Holiday in Medieval England",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Ely, England",
+    "url": "https://contraholiday.net/",
+    "year": 2024,
+    "latlng": [
+      52.4,
+      0.26
+    ]
+  },
+  {
+    "typical_month": "4",
+    "name": "Epicenter dance weekend",
+    "callers": [],
+    "bands": [],
+    "roles": "Larks / Robins",
+    "date": "4/5/2024",
+    "location": "Mill Valley CA",
+    "url": "https://nbcds.org/epicenter-2023/",
+    "year": 2024,
+    "latlng": [
+      37.91,
+      -122.54
+    ]
+  },
+  {
+    "typical_month": "4",
+    "name": "SF Bay Queer Contra Dance Camp",
+    "callers": [],
+    "bands": [],
+    "roles": "Larks / Robins",
+    "date": "4/12/2024",
+    "location": "Aptos CA",
+    "url": "https://www.queercontradance.org/queercamp.html",
+    "year": 2024,
+    "latlng": [
+      36.98,
+      -121.9
+    ]
+  },
+  {
+    "typical_month": "4",
+    "name": "Call of the Loon Dance Weekend",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "4/12/2024",
+    "location": "Minneapolis MN",
+    "url": "https://www.tapestryfolkdance.org/call-of-the-loon.html",
+    "year": 2024,
+    "latlng": [
+      44.98,
+      -93.27
+    ]
+  },
+  {
+    "typical_month": "4",
+    "name": "Spring Dance Romance",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Chapel Hill NC",
+    "url": "https://tcdancers.org/sdr",
+    "year": 2024,
+    "latlng": [
+      35.91,
+      -79.06
+    ]
+  },
+  {
+    "typical_month": "4",
+    "name": "NEFFA",
+    "callers": [],
+    "bands": [],
+    "roles": "Larks / Robins",
+    "date": "4/19/2024",
+    "location": "Mansfield MA",
+    "url": "https://www.neffa.org/",
+    "year": 2024,
+    "latlng": [
+      42.03,
+      -71.22
+    ]
+  },
+  {
+    "typical_month": "4",
+    "name": "Fiddlehead Frolic",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Ithaca NY",
+    "url": "http://www.hands4dancers.org/upcoming-dances/2023/4/1/fiddlehead-frolic",
+    "year": 2024,
+    "latlng": [
+      42.44,
+      -76.5
+    ]
+  },
+  {
+    "typical_month": "4",
+    "name": "Hands Four Spring Dance Weekend",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "4/26/2024",
+    "location": "Berea KY",
+    "url": "https://www.hands4-berea.com/",
+    "year": 2024,
+    "latlng": [
+      37.57,
+      -84.3
+    ]
+  },
+  {
+    "typical_month": "4",
+    "name": "Dandelion Romp",
+    "callers": [],
+    "bands": [],
+    "roles": "Larks / Robins",
+    "date": "",
+    "location": "Oberlin OH",
+    "url": "https://www.oberlin.edu/events/dandelion_romp_8198",
+    "year": 2024,
+    "latlng": [
+      41.29,
+      -82.22
+    ]
+  },
+  {
+    "typical_month": "4",
+    "name": "Trillium Twirl",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Dowling MI",
+    "url": "https://michigandanceheritage.org/trilliumtwirl/",
+    "year": 2024,
+    "latlng": [
+      42.52,
+      -85.25
+    ]
+  },
+  {
+    "typical_month": "5",
+    "name": "Whitewater Whirl",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "5/3/2024",
+    "location": "Fayetteville WV",
+    "url": "https://www.footmad.org/whirl",
+    "year": 2024,
+    "latlng": [
+      38.05,
+      -81.1
+    ]
+  },
+  {
+    "typical_month": "5",
+    "name": "Lake Eden Arts Festival - Spring",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Black Mountain NC",
+    "url": "https://theleaf.org/",
+    "year": 2024,
+    "latlng": [
+      35.62,
+      -82.32
+    ]
+  },
+  {
+    "typical_month": "5",
+    "name": "Meet Me in St Louis Dance Weekend",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Kirkwood MO",
+    "url": "https://childgrove.org/stl-dance-weekends/meetmeinstlouis",
+    "year": 2024,
+    "latlng": [
+      38.58,
+      -90.41
+    ]
+  },
+  {
+    "typical_month": "5",
+    "name": "FolkMADness Music & Dance Camp",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Soccoro NM",
+    "url": "http://folkmads.org/events/camps/folkmadness/",
+    "year": 2024,
+    "latlng": [
+      34.06,
+      -106.89
+    ]
+  },
+  {
+    "typical_month": "5",
+    "name": "Dancing Bear Dance Camp",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Wasilla AK",
+    "url": "http://www.thedancingbears.com/Dance-Camp.html",
+    "year": 2024,
+    "latlng": [
+      61.58,
+      -149.44
+    ]
+  },
+  {
+    "typical_month": "6",
+    "name": "Gender-Free Dance Camp (Spring)",
+    "callers": [],
+    "bands": [],
+    "roles": "Larks / Robins",
+    "date": "",
+    "location": "Plymouth MA",
+    "url": "https://www.lcfd.org/spring-camp-2023.html",
+    "year": 2024,
+    "latlng": [
+      41.96,
+      -70.67
+    ]
+  },
+  {
+    "typical_month": "6",
+    "name": "Flamingo Fling Weekend",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Oaklahoma City OK",
+    "url": "http://scissortail.org/special-events/flamingo-fling/",
+    "year": 2024,
+    "latlng": [
+      35.47,
+      -97.52
+    ]
+  },
+  {
+    "typical_month": "6",
+    "name": "Swing into Summer",
+    "callers": [],
+    "bands": [],
+    "roles": "Larks / Robins",
+    "date": "",
+    "location": "Plymouth MA",
+    "url": "http://www.swingintosummer.org/",
+    "year": 2024,
+    "latlng": [
+      41.96,
+      -70.67
+    ]
+  },
+  {
+    "typical_month": "6",
+    "name": "Lady of the Lake June Week",
+    "callers": [],
+    "bands": [],
+    "roles": "Larks / Robins",
+    "date": "",
+    "location": "Harrison, ID",
+    "url": "http://www.ladyofthelake.org/june-week/",
+    "year": 2024,
+    "latlng": [
+      47.45,
+      -116.79
+    ]
+  },
+  {
+    "typical_month": "6",
+    "name": "Old Songs Festival",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Voorheesville NY",
+    "url": "http://festival.oldsongs.org/",
+    "year": 2024,
+    "latlng": [
+      42.65,
+      -73.93
+    ]
+  },
+  {
+    "typical_month": "6",
+    "name": "BACDS American Dance and Music Week",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "La Honda CA",
+    "url": "https://www.bacds.org/familyweek/",
+    "year": 2024,
+    "latlng": [
+      37.32,
+      -122.27
+    ]
+  },
+  {
+    "typical_month": "6",
+    "name": "American Buffalo Contra Dance Weekend",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Bloomery WV",
+    "url": "https://www.buffalogapretreat.com/general-5-2",
+    "year": 2024,
+    "latlng": [
+      39.39,
+      -78.37
+    ]
+  },
+  {
+    "typical_month": "7",
+    "name": "July Fourth at Pinewoods",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Plymouth MA",
+    "url": "https://cds-boston-j4weekend.weebly.com/",
+    "year": 2024,
+    "latlng": [
+      41.96,
+      -70.67
+    ]
+  },
+  {
+    "typical_month": "7",
+    "name": "Contradancers Delight Holiday (Summer)",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Mountain City, TN",
+    "url": "http://www.contradancersdelight.com/about-summer-cdh-tst/",
+    "year": 2024,
+    "latlng": [
+      36.47,
+      -81.8
+    ]
+  },
+  {
+    "typical_month": "7",
+    "name": "Hashtag Dance Weekend",
+    "callers": [],
+    "bands": [],
+    "roles": "Larks / Robins",
+    "date": "",
+    "location": "Glen Echo MD",
+    "url": "https://fsgw.org/hashtag-dance-weekend",
+    "year": 2024,
+    "latlng": [
+      38.97,
+      -77.14
+    ]
+  },
+  {
+    "typical_month": "7",
+    "name": "Pinewoods English-Scottish-Contra",
+    "callers": [],
+    "bands": [],
+    "roles": "Larks / Robins",
+    "date": "",
+    "location": "Plymouth MA",
+    "url": "https://rscdsboston.org/pinewoods-esc.html",
+    "year": 2024,
+    "latlng": [
+      41.96,
+      -70.67
+    ]
+  },
+  {
+    "typical_month": "7",
+    "name": "Roanoke Railroader",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Salem VA",
+    "url": "http://www.roanokerailroader.com/",
+    "year": 2024,
+    "latlng": [
+      37.29,
+      -80.05
+    ]
+  },
+  {
+    "typical_month": "7",
+    "name": "River Rendevous",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Coshocton OH",
+    "url": "http://www.riverrendezvous.com/",
+    "year": 2024,
+    "latlng": [
+      40.27,
+      -81.86
+    ]
+  },
+  {
+    "typical_month": "7",
+    "name": "Ashokan Northern Week",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Olivebridge NY",
+    "url": "https://ashokancenter.org/product/northern-week-2023/",
+    "year": 2024,
+    "latlng": [
+      41.93,
+      -74.22
+    ]
+  },
+  {
+    "typical_month": "8",
+    "name": "Falcon Ridge Folk Festival",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Hillsdale NY",
+    "url": "http://falconridgefolk.com/",
+    "year": 2024,
+    "latlng": [
+      42.18,
+      -73.53
+    ]
+  },
+  {
+    "typical_month": "8",
+    "name": "Camp Damp",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Juneau AK",
+    "url": "http://www.juneaucontras.org/dance_camp_2023_stay_tuned.html",
+    "year": 2024
+  },
+  {
+    "typical_month": "8",
+    "name": "Mentone",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Mentone AL",
+    "url": "http://www.footmadbirmingham.org/mentone.html",
+    "year": 2024,
+    "latlng": [
+      34.58,
+      -85.59
+    ]
+  },
+  {
+    "typical_month": "8",
+    "name": "Splash Dance Weekend",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Hendersonville, NC",
+    "url": "https://www.splashdance.org/",
+    "year": 2024,
+    "latlng": [
+      35.32,
+      -82.46
+    ]
+  },
+  {
+    "typical_month": "8",
+    "name": "Balance the Bay",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "San Francisco CA",
+    "url": "https://www.bacds.org/camps/btb/",
+    "year": 2024,
+    "latlng": [
+      37.77,
+      -122.42
+    ]
+  },
+  {
+    "typical_month": "9",
+    "name": "Rendezvous Dance Weekend",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Boulder CO",
+    "url": "https://cfootmad.org/rendezvous",
+    "year": 2024,
+    "latlng": [
+      40.01,
+      -105.27
+    ]
+  },
+  {
+    "typical_month": "9",
+    "name": "Michigan Dance Heritage Fall Weekend",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Lexington MI",
+    "url": "https://michigandanceheritage.org/fall/",
+    "year": 2024,
+    "latlng": [
+      43.27,
+      -82.53
+    ]
+  },
+  {
+    "typical_month": "9",
+    "name": "Dance Camp North",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Fairbanks AK",
+    "url": "https://contraborealis.org/2023-dance-camp-north-talent/",
+    "year": 2024,
+    "latlng": [
+      64.84,
+      -147.72
+    ]
+  },
+  {
+    "typical_month": "9",
+    "name": "Moondance Dance Weekend",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Pickens SC",
+    "url": "https://moondancesc.weebly.com/",
+    "year": 2024,
+    "latlng": [
+      34.88,
+      -82.71
+    ]
+  },
+  {
+    "typical_month": "9",
+    "name": "Feet Retreat",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Ellerbe NC",
+    "url": "https://www.feetretreat.com/feet-retreat-dance-weekend-2023/",
+    "year": 2024,
+    "latlng": [
+      35.07,
+      -79.76
+    ]
+  },
+  {
+    "typical_month": "9",
+    "name": "Bear Hug Dance Camp",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Rollins MT",
+    "url": "https://www.missoulafolk.org/bearhug",
+    "year": 2024,
+    "latlng": [
+      47.91,
+      -114.2
+    ]
+  },
+  {
+    "typical_month": "9",
+    "name": "Squirrel Moon Contra Dance weekend",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Dodgeville WI",
+    "url": "http://www.squirrelmoon.org/",
+    "year": 2024,
+    "latlng": [
+      42.96,
+      -90.13
+    ]
+  },
+  {
+    "typical_month": "9",
+    "name": "Echo Summit",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Camp Sacremento",
+    "url": "https://sactocds.wordpress.com/special-events/echo-summit-dance-camp-2023/",
+    "year": 2024,
+    "latlng": [
+      38.8,
+      -120.12
+    ]
+  },
+  {
+    "typical_month": "9",
+    "name": "Chehalis Dance Weekend",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Chehalis BC",
+    "url": "http://www.vcn.bc.ca/vcountry/chehalis/",
+    "year": 2024,
+    "latlng": [
+      49.3,
+      -121.9
+    ]
+  },
+  {
+    "typical_month": "9",
+    "name": "Youth Dance Weekend",
+    "callers": [],
+    "bands": [],
+    "roles": "Larks / Robins",
+    "date": "",
+    "location": "Weston VT",
+    "url": "http://youthdanceweekend.org/",
+    "year": 2024,
+    "latlng": [
+      43.29,
+      -72.79
+    ]
+  },
+  {
+    "typical_month": "9",
+    "name": "Adirondack Dance Weekend",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Silver Bay NY",
+    "url": "https://www.danceflurry.org/adirondack-dance-weekend/",
+    "year": 2024,
+    "latlng": [
+      43.7,
+      -73.51
+    ]
+  },
+  {
+    "typical_month": "9",
+    "name": "ContraStock",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Glen Echo MD",
+    "url": "https://fsgw.org/contrastock",
+    "year": 2024,
+    "latlng": [
+      38.97,
+      -77.14
+    ]
+  },
+  {
+    "typical_month": "9",
+    "name": "Pinewoods Labor Day Weekend",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Plymouth MA",
+    "url": "https://facone.org/labor-day-weekend/labor-day-weekend.html",
+    "year": 2024,
+    "latlng": [
+      41.96,
+      -70.67
+    ]
+  },
+  {
+    "typical_month": "10",
+    "name": "Wasatch Wiggle",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Salt Lake City UT",
+    "url": "https://wasatchcontras.org/wiggle/",
+    "year": 2024,
+    "latlng": [
+      40.76,
+      -111.89
+    ]
+  },
+  {
+    "typical_month": "10",
+    "name": "Lady of the Lake Fall Camp",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Harrison, ID",
+    "url": "http://www.ladyofthelake.org/fallwend/",
+    "year": 2024,
+    "latlng": [
+      47.45,
+      -116.79
+    ]
+  },
+  {
+    "typical_month": "10",
+    "name": "Harvest Moon Dance Festival",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Santa Barbara CA",
+    "url": "http://www.sbcds.org/hm/",
+    "year": 2024,
+    "latlng": [
+      34.42,
+      -119.7
+    ]
+  },
+  {
+    "typical_month": "10",
+    "name": "Mountain Madness Contra Dance Weekend",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Jonesborough TN",
+    "url": "https://www.facebook.com/groups/HistoricJonesboroughDanceSociety",
+    "year": 2024,
+    "latlng": [
+      36.29,
+      -82.47
+    ]
+  },
+  {
+    "typical_month": "10",
+    "name": "Gender-Free Dance Camp (Fall)",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Becket MA",
+    "url": "https://www.lcfd.org/lcfd/",
+    "year": 2024,
+    "latlng": [
+      42.33,
+      -73.08
+    ]
+  },
+  {
+    "typical_month": "10",
+    "name": "Phylla Mae Fall Fest",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Fayetteville NY",
+    "url": "https://syracusecountrydancers.org/special-events/phylla-mae-fall-fest/",
+    "year": 2024,
+    "latlng": [
+      43.03,
+      -76.0
+    ]
+  },
+  {
+    "typical_month": "10",
+    "name": "Peterbough Fall Ball",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Peterborough NH",
+    "url": "http://www.monadnockfolk.org/?tribe_events=%E2%98%BC-%E2%98%BC-%E2%98%BC-peterborough-fall-ball-2019",
+    "year": 2024
+  },
+  {
+    "typical_month": "10",
+    "name": "Lake Eden Arts Festival - Fall",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Black Mountain NC",
+    "url": "https://theleaf.org/",
+    "year": 2024,
+    "latlng": [
+      35.62,
+      -82.32
+    ]
+  },
+  {
+    "typical_month": "10",
+    "name": "Boo Camp",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Jemez Springs NM",
+    "url": "https://folkmads.org/events/camps/boo-camp-2023/",
+    "year": 2024,
+    "latlng": [
+      35.77,
+      -106.69
+    ]
+  },
+  {
+    "typical_month": "10",
+    "name": "Tree Town Stomp",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Ann Arbor MI",
+    "url": "https://aactmad.org/tree-town-stomp",
+    "year": 2024,
+    "latlng": [
+      42.28,
+      -83.74
+    ]
+  },
+  {
+    "typical_month": "10",
+    "name": "Music City Masquerade",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Nashville TN",
+    "url": "http://nashvillecountrydancers.org/music-city-masquerade/",
+    "year": 2024,
+    "latlng": [
+      36.16,
+      -86.78
+    ]
+  },
+  {
+    "typical_month": "10",
+    "name": "Dancing Leaves",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Charlottesville VA",
+    "url": "https://contracorners.com/cville_fall_festival",
+    "year": 2024,
+    "latlng": [
+      38.03,
+      -78.48
+    ]
+  },
+  {
+    "typical_month": "10",
+    "name": "Fire Ant Frolic",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Austin TX",
+    "url": "http://www.fireantfrolic.org/",
+    "year": 2024,
+    "latlng": [
+      30.27,
+      -97.74
+    ]
+  },
+  {
+    "typical_month": "10",
+    "name": "Florida Fall Ball",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Tampa FL",
+    "url": "http://www.tampabaycontra.com/",
+    "year": 2024,
+    "latlng": [
+      27.95,
+      -82.46
+    ]
+  },
+  {
+    "typical_month": "10",
+    "name": "Next Generation Dance Camp",
+    "callers": [],
+    "bands": [],
+    "roles": "Larks / Robins",
+    "date": "",
+    "location": "Portland OR",
+    "url": "next in 2020",
+    "year": 2024,
+    "latlng": [
+      45.52,
+      -122.68
+    ]
+  },
+  {
+    "typical_month": "11",
+    "name": "Foggy Moon Dance Weekend",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Monterey CA",
+    "url": "http://montereycontradance.org/foggy-moon.html",
+    "year": 2024,
+    "latlng": [
+      36.6,
+      -121.89
+    ]
+  },
+  {
+    "typical_month": "11",
+    "name": "ContraShock",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Brooklyn NY",
+    "url": "http://contrashock.org/",
+    "year": 2024,
+    "latlng": [
+      40.68,
+      -73.94
+    ]
+  },
+  {
+    "typical_month": "11",
+    "name": "Hey Fever Dance Weekend",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Ottawa ON",
+    "url": "http://www.ottawacontra.ca/heyFever/",
+    "year": 2024,
+    "latlng": [
+      45.42,
+      -75.7
+    ]
+  },
+  {
+    "typical_month": "11",
+    "name": "Twilight Twirl",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Seattle WA",
+    "url": "http://twilighttwirl.com",
+    "year": 2024,
+    "latlng": [
+      47.61,
+      -122.33
+    ]
+  },
+  {
+    "typical_month": "11",
+    "name": "Cascade Contras Dance Camp",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Fall Creek OR",
+    "url": "https://eugenefolklore.org/cascade-contras/",
+    "year": 2024,
+    "latlng": [
+      43.96,
+      -122.82
+    ]
+  },
+  {
+    "typical_month": "11",
+    "name": "Dance in the Desert",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Oracle AZ",
+    "url": "https://tucsoncontradancers.org/tucson-contra-dancers/dance-in-the-desert-2023/",
+    "year": 2024,
+    "latlng": [
+      32.61,
+      -110.77
+    ]
+  },
+  {
+    "typical_month": "11",
+    "name": "Pittsburgh Fall Dance Weekend",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Pittsburgh PA",
+    "url": "http://pittsburghcontra.org/fdw/",
+    "year": 2024,
+    "latlng": [
+      40.44,
+      -80.0
+    ]
+  },
+  {
+    "typical_month": "11",
+    "name": "Head for the Hills Dance Weekend",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Kresgeville PA",
+    "url": "http://www.princetoncountrydancers.org/about-hfth",
+    "year": 2024,
+    "latlng": [
+      40.9,
+      -75.5
+    ]
+  },
+  {
+    "typical_month": "11",
+    "name": "Atlanta Dance Weekend",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Atlanta GA",
+    "url": "https://adw.contradance.org/",
+    "year": 2024,
+    "latlng": [
+      33.75,
+      -84.39
+    ]
+  },
+  {
+    "typical_month": "11",
+    "name": "Contra Fest",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Albany NY",
+    "url": "https://www.danceflurry.org/event/contrafest/",
+    "year": 2024,
+    "latlng": [
+      42.65,
+      -73.76
+    ]
+  },
+  {
+    "typical_month": "11",
+    "name": "Fleur-de-Lis Fling",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Louisville KY",
+    "url": "http://www.loukyfleurfling.org/",
+    "year": 2024,
+    "latlng": [
+      38.25,
+      -85.76
+    ]
+  },
+  {
+    "typical_month": "11",
+    "name": "Pilgrim's Progression Dance Weekend",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Lawrence KS",
+    "url": "https://lawrencecontra.wordpress.com/dance-weekend/",
+    "year": 2024,
+    "latlng": [
+      38.97,
+      -95.24
+    ]
+  },
+  {
+    "typical_month": "11",
+    "name": "Rochester Thanksgiving Dance Weekend",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Rochester, NY",
+    "url": "https://cdrochester.org/events/2019-tg/",
+    "year": 2024,
+    "latlng": [
+      43.16,
+      -77.61
+    ]
+  },
+  {
+    "typical_month": "11",
+    "name": "ContraCopia",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Philadelphia PA",
+    "url": "http://www.thursdaycontra.com/contracopia/",
+    "year": 2024,
+    "latlng": [
+      39.95,
+      -75.17
+    ]
+  },
+  {
+    "typical_month": "12",
+    "name": "Winter Warmup Dance Weekend",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Worthington OH",
+    "url": "https://bigscioty.com/winterwarmup/",
+    "year": 2024,
+    "latlng": [
+      40.09,
+      -83.02
+    ]
+  },
+  {
+    "typical_month": "11",
+    "name": "Catalina Dance Weekend",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Los Angeles CA",
+    "url": "https://www.catalinadanceweekend.com/",
+    "year": 2024,
+    "latlng": [
+      34.05,
+      -118.24
+    ]
+  },
+  {
+    "typical_month": "12",
+    "name": "Contradancers Delight Holiday (Winter)",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Kingsport, TN ",
+    "url": "http://www.contradancersdelight.com/about-winter-cdh",
+    "year": 2024,
     "latlng": [
       36.55,
       -82.56
