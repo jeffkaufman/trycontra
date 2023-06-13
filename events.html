@@ -27,12 +27,15 @@ body {
   margin-right: auto;
   box-sizing: border-box;    
 }
-.dance-listing {
+.dance-listing, .no-events {
   background-color: rgba(44, 4, 128, 0.2);
   border-radius: 0.25em;
   margin: 0.5em;
   padding-left: 0.25em;
   padding-bottom: 0.25em;
+}
+.no-events {
+  padding: 1em;
 }
 .dance-date {
   text-align: right;
@@ -388,11 +391,16 @@ function refresh_list() {
     return 0;
   });
 
-
   for (const [y, m, d, dance] of score_dance) {
     const dance_div = dance_html(y, m, d, dance);
     dance_div.onclick = function() { window.open(dance.url) };
     dance_list.appendChild(dance_div);
+  }
+
+  if (!dance_list.children.length) {
+    const no_div = e("div", "No matching events found.");
+    no_div.classList.add("no-events");
+    dance_list.appendChild(no_div);
   }
 
   if (markers.length && markers.length < dances.length) {
