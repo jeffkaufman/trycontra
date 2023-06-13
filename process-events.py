@@ -78,4 +78,4 @@ for record in records:
             record["latlng"] = loc_to_ll[record["location"]]
 
 with open("events.json", "w") as outf:
-    json.dump(records, outf)
+    json.dump(records, outf, indent=2)
