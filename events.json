@@ -440,12 +440,12 @@
     ],
     "roles": "Larks / Robins",
     "date": "4/22/2023",
-    "location": "Mansfield MA",
+    "location": "Marlborogh MA",
     "url": "https://www.neffa.org/",
     "year": 2023,
     "latlng": [
-      42.03,
-      -71.22
+      42.35,
+      -71.55
     ]
   },
   {
@@ -1731,12 +1731,12 @@
     ],
     "roles": "",
     "date": "11/17/2023",
-    "location": "Los Angeles CA",
+    "location": "Catalina Island CA",
     "url": "https://www.catalinadanceweekend.com/",
     "year": 2023,
     "latlng": [
-      34.05,
-      -118.24
+      33.39,
+      -118.42
     ]
   },
   {
@@ -2064,32 +2064,17 @@
   },
   {
     "typical_month": "4",
-    "name": "Spring Dance Romance",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Chapel Hill NC",
-    "url": "https://tcdancers.org/sdr",
-    "year": 2024,
-    "latlng": [
-      35.91,
-      -79.06
-    ]
-  },
-  {
-    "typical_month": "4",
     "name": "NEFFA",
     "callers": [],
     "bands": [],
     "roles": "Larks / Robins",
     "date": "4/19/2024",
-    "location": "Mansfield MA",
+    "location": "Marlborogh MA",
     "url": "https://www.neffa.org/",
     "year": 2024,
     "latlng": [
-      42.03,
-      -71.22
+      42.35,
+      -71.55
     ]
   },
   {
@@ -2225,6 +2210,27 @@
     "latlng": [
       61.58,
       -149.44
+    ]
+  },
+  {
+    "typical_month": "5",
+    "name": "Spring Dance Romance",
+    "callers": [
+      "Gaye Fifer",
+      "Alex Deis-Lauby"
+    ],
+    "bands": [
+      "the Mean Lids",
+      "River Road"
+    ],
+    "roles": "",
+    "date": "5/24/2024",
+    "location": "Chapel Hill NC",
+    "url": "https://www.facebook.com/events/1327843407801272/",
+    "year": 2024,
+    "latlng": [
+      35.91,
+      -79.06
     ]
   },
   {
@@ -2461,7 +2467,11 @@
     "date": "",
     "location": "Juneau AK",
     "url": "http://www.juneaucontras.org/dance_camp_2023_stay_tuned.html",
-    "year": 2024
+    "year": 2024,
+    "latlng": [
+      58.3,
+      -134.42
+    ]
   },
   {
     "typical_month": "8",
@@ -2802,7 +2812,11 @@
     "date": "",
     "location": "Peterborough NH",
     "url": "http://www.monadnockfolk.org/?tribe_events=%E2%98%BC-%E2%98%BC-%E2%98%BC-peterborough-fall-ball-2019",
-    "year": 2024
+    "year": 2024,
+    "latlng": [
+      42.87,
+      -71.95
+    ]
   },
   {
     "typical_month": "10",
@@ -3156,12 +3170,12 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "Los Angeles CA",
+    "location": "Catalina Island CA",
     "url": "https://www.catalinadanceweekend.com/",
     "year": 2024,
     "latlng": [
-      34.05,
-      -118.24
+      33.39,
+      -118.42
     ]
   },
   {

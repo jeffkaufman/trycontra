@@ -81,7 +81,7 @@ def start():
       event_record["latlng"] = lookup_ll(event_record["location"])
 
   with open("events.json", "w") as outf:
-    json.dump(event_records, outf)
+    json.dump(event_records, outf, indent=2)
 
 if __name__ == "__main__":
   start()
