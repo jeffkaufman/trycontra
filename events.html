@@ -394,8 +394,15 @@ function refresh_list() {
     dance_div.onclick = function() { window.open(dance.url) };
     dance_list.appendChild(dance_div);
   }
-  
-  map.fitBounds(bounds);
+
+  if (markers.length && markers.length < dances.length) {
+    map.fitBounds(bounds);
+  } else {
+    const us_bounds = new google.maps.LatLngBounds();
+    us_bounds.extend({lat: 49, lng: -124});
+    us_bounds.extend({lat: 24, lng: -72});
+    map.fitBounds(us_bounds);
+  }
 }
 
 document.body.onload = load_all;
