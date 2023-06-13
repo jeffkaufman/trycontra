@@ -311,17 +311,17 @@ function refresh_list() {
   
   input_date.classList.remove("error");
   if (input_date.value) {
-    if (/^20\d\d$/.test(input_date.value)) {
-      target_y = Number(input_date.value)
-    } else if (/^20\d\d-\d\d$/.test(input_date.value)) {
-      [target_y, target_m] = input_date.value.split("-");
+    if (/^20\d\d-?$/.test(input_date.value)) {
+      target_y = Number(input_date.value.replace(/-?$/, ''));
+    } else if (/^20\d\d-\d\d?-?$/.test(input_date.value)) {
+      [target_y, target_m] = input_date.value.replace(/-?$/, '').split("-");
       target_y = Number(target_y);
-      target_m = Number(target_m);
-    } else if (/^20\d\d-\d\d-\d\d$/.test(input_date.value)) {
+      target_m = Number(target_m) || null;
+    } else if (/^20\d\d-\d\d?-\d\d?$/.test(input_date.value)) {
       [target_y, target_m, target_d] = input_date.value.split("-");
       target_y = Number(target_y);
       target_m = Number(target_m);
-      target_d = Number(target_d);
+      target_d = Number(target_d) || null;
     } else {
       input_date.classList.add("error");
     }      
