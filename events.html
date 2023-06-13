@@ -267,6 +267,7 @@ function refresh_list() {
   let target_state = null;
   input_state.classList.remove("error");
   if (input_state.value) {
+    input_state.value = input_state.value.toUpperCase();
     if (/^[A-Z][A-Z]$/.test(input_state.value)) {
       target_state = input_state.value;
     } else {
