@@ -243,7 +243,7 @@ function e(tag, text=null) {
 const list_format_en = new Intl.ListFormat('en');
 
 
-function dance_html(y, m, d, dance, include_url) {
+function dance_html(y, m, d, dance) {
   const dance_div = e("div");
   dance_div.classList.add("dance-listing");
   
@@ -280,13 +280,11 @@ function dance_html(y, m, d, dance, include_url) {
     dance_div.appendChild(performers);
   }
 
-  if (include_url) {
-    const dance_a = e("a", dance.url);
-    dance_a.classList.add("dance-infobox-link");
-    dance_a.href = dance.url;
-    dance_a.target = "_blank";
-    dance_div.appendChild(dance_a);
-  }
+  const dance_a = e("a", dance.url);
+  dance_a.classList.add("dance-infobox-link");
+  dance_a.href = dance.url;
+  dance_a.target = "_blank";
+  dance_div.appendChild(dance_a);
 
   return dance_div;
 }
@@ -369,8 +367,7 @@ function refresh_list() {
       map
     });
     const infowindow = new google.maps.InfoWindow({
-      content: dance_html(dance.y, dance.m, dance.d, dance,
-                          /*include_url=*/true).outerHTML,
+      content: dance_html(dance.y, dance.m, dance.d, dance).outerHTML,
       ariaLabel: dance.name,
     });
     marker.addListener("click", () => {
@@ -393,7 +390,7 @@ function refresh_list() {
 
 
   for (const [y, m, d, dance] of score_dance) {
-    const dance_div = dance_html(y, m, d, dance, /*include_url=*/false);
+    const dance_div = dance_html(y, m, d, dance);
     dance_div.onclick = function() { window.open(dance.url) };
     dance_list.appendChild(dance_div);
   }
