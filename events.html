@@ -50,6 +50,9 @@ body {
   padding: 0.2rem;
   font-style: italic;
 }
+.dance-infobox-link {
+  padding: 0.2rem;
+}
 .dance-performers {
   padding: 0.2rem;
 }
@@ -154,12 +157,6 @@ async function load_all() {
   load_dances();
 }
 
-function add_link(marker, url) {
-  google.maps.event.addListener(marker, 'click', function() {
-    window.open(url);
-  });
-}
-
 const markers = [];
 let map = null;
 function load_dances() {
@@ -178,6 +175,55 @@ function e(tag, text=null) {
 
 const list_format_en = new Intl.ListFormat('en');
 
+
+function dance_html(y, m, d, dance, include_url) {
+  const dance_div = e("div");
+  dance_div.classList.add("dance-listing");
+  
+  let date_text = dance.date;
+  if (!dance.in_future || !dance.date) {
+    date_text = m + "/" + y + "?";
+  }
+  const date = e("div", date_text)
+  date.classList.add("dance-date");
+  dance_div.appendChild(date);
+  
+  const name = e("div", dance.name)
+  name.classList.add("dance-name");
+  dance_div.appendChild(name);
+  
+  const location = e("div", dance.location)
+  location.classList.add("dance-location");
+  dance_div.appendChild(location);
+  
+  if (!dance.projected && (dance.callers || dance.bands)) {
+    let performers_text = "";
+    if (dance.callers.length) {
+      performers_text += list_format_en.format(dance.callers) + " calling";
+    }
+    if (dance.callers.length && dance.bands.length) {
+      performers_text += " to ";
+    }
+    if (dance.bands.length) {
+      performers_text += list_format_en.format(dance.bands);
+    }
+    performers_text = performers_text.charAt(0).toUpperCase() + performers_text.slice(1);
+    const performers = e("div", performers_text);
+    performers.classList.add("dance-performers");
+    dance_div.appendChild(performers);
+  }
+
+  if (include_url) {
+    const dance_a = e("a", dance.url);
+    dance_a.classList.add("dance-infobox-link");
+    dance_a.href = dance.url;
+    dance_a.target = "_blank";
+    dance_div.appendChild(dance_a);
+  }
+
+  return dance_div;
+}
+  
 function refresh_list() {
   if (map == null) return;
   
@@ -274,8 +320,10 @@ function refresh_list() {
     if (dance.projected) {
       if (input_band.value || input_caller.value) continue;
     } else {
-      if (input_band.value && !(""+dance.bands).toLowerCase().includes(input_band.value.toLowerCase())) continue;
-      if (input_caller.value && !(""+dance.callers).toLowerCase().includes(input_caller.value.toLowerCase())) continue;
+      if (input_band.value &&
+          !(""+dance.bands).toLowerCase().includes(input_band.value.toLowerCase())) continue;
+      if (input_caller.value &&
+          !(""+dance.callers).toLowerCase().includes(input_caller.value.toLowerCase())) continue;
     }
     
     const lat = dance.latlng[0];
@@ -285,10 +333,19 @@ function refresh_list() {
       position: {lat, lng},
       url: dance.url,
       title: dance.name,
-      map: map
+      map
+    });
+    const infowindow = new google.maps.InfoWindow({
+      content: dance_html(y, m, d, dance, /*include_url=*/true).outerHTML,
+      ariaLabel: dance.name,
+    });
+    marker.addListener("click", () => {
+      infowindow.open({
+        anchor: marker,
+        map,
+      });
     });
     markers.push(marker);
-    add_link(marker, dance.url);
     bounds.extend({lat, lng});
 
     score_dance.push([y, m, d, dance])
@@ -302,41 +359,7 @@ function refresh_list() {
 
 
   for (const [y, m, d, dance] of score_dance) {
-    const dance_div = e("div");
-    dance_div.classList.add("dance-listing");
-
-    let date_text = dance.date;
-    if (!dance.in_future || !dance.date) {
-      date_text = m + "/" + y + "?";
-    }
-    const date = e("div", date_text)
-    date.classList.add("dance-date");
-    dance_div.appendChild(date);
-
-    const name = e("div", dance.name)
-    name.classList.add("dance-name");
-    dance_div.appendChild(name);
-
-    const location = e("div", dance.location)
-    location.classList.add("dance-location");
-    dance_div.appendChild(location);
-
-    if (!dance.projected && (dance.callers || dance.bands)) {
-      let performers_text = "";
-      if (dance.callers.length) {
-        performers_text += list_format_en.format(dance.callers) + " calling";
-      }
-      if (dance.callers.length && dance.bands.length) {
-        performers_text += " to ";
-      }
-      if (dance.bands.length) {
-        performers_text += list_format_en.format(dance.bands);
-      }
-      performers_text = performers_text.charAt(0).toUpperCase() + performers_text.slice(1);
-      const performers = e("div", performers_text);
-      performers.classList.add("dance-performers");
-      dance_div.appendChild(performers);
-    }
+    const dance_div = dance_html(y, m, d, dance, /*include_url=*/false);
     dance_div.onclick = function() { window.open(dance.url) };
     dance_list.appendChild(dance_div);
   }
