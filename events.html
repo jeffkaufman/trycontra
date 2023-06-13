@@ -154,7 +154,74 @@ async function load_all() {
   [dances, maps] = await Promise.all([
     fetch_dances(),
     google.maps.importLibrary("maps")]);
+
+
+  tidy_dances();
   load_dances();
+}
+
+function tidy_dances() {
+  const today_date = new Date();
+  const today_y = today_date.getFullYear();
+  const today_m = today_date.getMonth() + 1;  // 0-indexed
+  const today_d = today_date.getDate();  
+
+  for (const dance of dances) {
+    dance.y = null;
+    dance.m = null;
+    dance.d = null;
+    dance.projected = false;
+    if (dance.date) {
+      [dance.m, dance.d, dance.y] = dance.date.split("/");
+      dance.y = Number(dance.y);
+      dance.m = Number(dance.m);
+      dance.d = Number(dance.d);
+
+      dance.in_future =
+          (dance.y > today_y) ||
+          (dance.y == today_y && dance.m > today_m) ||
+          (dance.y == today_y && dance.m == today_m && dance.d > today_d);
+      if (!dance.in_future) {
+        dance.y += 1
+        dance.projected = true;
+      }
+    } else {
+      // If we don't know when the dance is, go with the middle of the
+      // month it usually is in.
+      dance.m = Number(dance.typical_month);
+      if (dance.m > today_m) {
+        dance.y = today_y;
+      } else {
+        dance.y = today_y + 1;
+      }
+      dance.d = 15;
+      dance.in_future = true;
+    }
+  }
+
+  const to_remove = [];
+  // dance name -> best index
+  const seen = {};
+  for (let i = 0; i < dances.length; i++) {
+    const dance = dances[i];
+    if (dance.name in seen) {
+      const seen_dance = dances[seen[dance.name]];
+      if (seen_dance.in_future || (seen_dance.projected && dance.projected)) {
+        to_remove.push(i);
+      } else {
+        to_remove.push(seen[dance.name]);
+        seen[dance.name] = i;
+      }
+    } else {
+      seen[dance.name] = i;
+    }
+  }
+  // Need to remove them in reverse order because we're removing by
+  // index and indexes will change as we delete.
+  to_remove.sort(function(a, b){return b - a});
+  for (const i of to_remove) {
+    dances.splice(i, 1);
+  }
 }
 
 const markers = [];
@@ -237,11 +304,6 @@ function refresh_list() {
 
   score_dance = []
 
-  const today_date = new Date();
-  const today_y = today_date.getFullYear();
-  const today_m = today_date.getMonth() + 1;  // 0-indexed
-  const today_d = today_date.getDate();  
-
   let target_y = null;
   let target_m = null;
   let target_d = null;
@@ -274,49 +336,19 @@ function refresh_list() {
       input_state.classList.add("error");
     }
   }
-
+  
   const bounds = new google.maps.LatLngBounds();
   for (const dance of dances) {
     if (!dance.latlng || !dance.name || !dance.url) continue;
 
     if (target_state && !dance.location.endsWith(target_state)) continue;
     
-    let y = null;
-    let m = null;
-    let d = null;
-    dance.projected = false;
-    if (dance.date) {
-      [m, d, y] = dance.date.split("/");
-      y = Number(y);
-      m = Number(m);
-      d = Number(d);
 
-      dance.in_future =
-          (y > today_y) ||
-          (y == today_y && m > today_m) ||
-          (y == today_y && m == today_m && d > today_d);
-      if (!dance.in_future) {
-        y += 1
-        dance.projected = true;
-      }
-    } else {
-      // If we don't know when the dance is, go with the middle of the
-      // month it usually is in.
-      m = Number(dance.typical_month);
-      if (m > today_m) {
-        y = today_y;
-      } else {
-        y = today_y + 1;
-      }
-      d = 15;
-      dance.in_future = true;
-    }
-
-    if (target_y != null && target_y != y) continue;
-    if (target_m != null && target_m != m) continue;
+    if (target_y != null && target_y != dance.y) continue;
+    if (target_m != null && target_m != dance.m) continue;
     // If they say 2020-01-01 and all we know is the dance is probably
     // in 2020-01, still include it.
-    if (target_d != null && dance.date && target_d != d) continue;
+    if (target_d != null && dance.date && target_d != dance.d) continue;
 
     if (dance.projected) {
       if (input_band.value || input_caller.value) continue;
@@ -337,7 +369,8 @@ function refresh_list() {
       map
     });
     const infowindow = new google.maps.InfoWindow({
-      content: dance_html(y, m, d, dance, /*include_url=*/true).outerHTML,
+      content: dance_html(dance.y, dance.m, dance.d, dance,
+                          /*include_url=*/true).outerHTML,
       ariaLabel: dance.name,
     });
     marker.addListener("click", () => {
@@ -349,7 +382,7 @@ function refresh_list() {
     markers.push(marker);
     bounds.extend({lat, lng});
 
-    score_dance.push([y, m, d, dance])
+    score_dance.push([dance.y, dance.m, dance.d, dance])
   }
   score_dance.sort(function([y1, m1, d1, dance1], [y2, m2, d2, dance2]) {
     if (y1 != y2) return y1 - y2;
@@ -404,7 +437,7 @@ document.body.onload = load_all;
   </form>
 
   Correction? Addition?  Write to jeff@jefftk.com or leave a comment on the
-  <a href="https://docs.google.com/spreadsheets/d/1fQq7pTtNVMYVRgOPbjNz2jnyw4RABGrQoplrSQntbn8/edit">spreadsheet</a>.
+  <a target=_blank href="https://docs.google.com/spreadsheets/d/1fQq7pTtNVMYVRgOPbjNz2jnyw4RABGrQoplrSQntbn8/edit">spreadsheet</a>.
 
   </div>
 
