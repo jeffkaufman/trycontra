@@ -33,6 +33,9 @@ body {
   margin: 0.5em;
   padding-left: 0.25em;
   padding-bottom: 0.25em;
+  display: block;
+  text-decoration: none;
+  color: black;
 }
 .no-events {
   padding: 1em;
@@ -247,8 +250,10 @@ const list_format_en = new Intl.ListFormat('en');
 
 
 function dance_html(y, m, d, dance) {
-  const dance_div = e("div");
+  const dance_div = e("a");
   dance_div.classList.add("dance-listing");
+  dance_div.href = dance.url;
+  dance_div.target = "_blank";
   
   let date_text = dance.date;
   if (!dance.in_future || !dance.date) {
@@ -392,9 +397,7 @@ function refresh_list() {
   });
 
   for (const [y, m, d, dance] of score_dance) {
-    const dance_div = dance_html(y, m, d, dance);
-    dance_div.onclick = function() { window.open(dance.url) };
-    dance_list.appendChild(dance_div);
+    dance_list.appendChild(dance_html(y, m, d, dance));
   }
 
   if (!dance_list.children.length) {
