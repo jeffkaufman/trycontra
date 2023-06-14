@@ -411,12 +411,12 @@
     ],
     "roles": "",
     "date": "4/28/2023",
-    "location": "Chapel Hill NC",
+    "location": "Carrboro, NC",
     "url": "https://tcdancers.org/sdr",
     "year": 2023,
     "latlng": [
       35.91,
-      -79.06
+      -79.08
     ]
   },
   {
@@ -896,7 +896,7 @@
   },
   {
     "typical_month": "7",
-    "name": "River Rendevous",
+    "name": "River Rendezvous",
     "callers": [
       "Gaye Fifer",
       "Emily Rush"
@@ -1092,6 +1092,27 @@
     "latlng": [
       37.77,
       -122.42
+    ]
+  },
+  {
+    "typical_month": "8",
+    "name": "Dance S\u2019More",
+    "callers": [
+      "Lindsey Dono",
+      "Susan Michaels",
+      "Sue Hulsether"
+    ],
+    "bands": [
+      "Countercurrent"
+    ],
+    "roles": "",
+    "date": "8/6/2023",
+    "location": "Harrison, ID",
+    "url": "https://ladyofthelake.org/dancesmore",
+    "year": 2023,
+    "latlng": [
+      47.45,
+      -116.79
     ]
   },
   {
@@ -2331,14 +2352,14 @@
       "the Mean Lids",
       "River Road"
     ],
-    "roles": "",
+    "roles": "Larks / Robins",
     "date": "5/24/2024",
-    "location": "Chapel Hill NC",
-    "url": "https://www.facebook.com/events/1327843407801272/",
+    "location": "Carrboro, NC",
+    "url": "https://tcdancers.org/sdr",
     "year": 2024,
     "latlng": [
       35.91,
-      -79.06
+      -79.08
     ]
   },
   {
@@ -2447,6 +2468,21 @@
     ]
   },
   {
+    "typical_month": "6",
+    "name": "Dance, Music & Spice at Cavell",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Lexington MI",
+    "url": "https://camp.cdss.org/camp-weeks/dance-music-spice-at-cavell/",
+    "year": 2024,
+    "latlng": [
+      43.27,
+      -82.53
+    ]
+  },
+  {
     "typical_month": "7",
     "name": "July Fourth at Pinewoods",
     "callers": [],
@@ -2523,7 +2559,7 @@
   },
   {
     "typical_month": "7",
-    "name": "River Rendevous",
+    "name": "River Rendezvous",
     "callers": [],
     "bands": [],
     "roles": "",
@@ -2549,6 +2585,81 @@
     "latlng": [
       41.93,
       -74.22
+    ]
+  },
+  {
+    "typical_month": "7",
+    "name": "American Dance & Music Week at Pinewoods",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Plymouth MA",
+    "url": "https://camp.cdss.org/camp-weeks/american-dance-music-week-2/",
+    "year": 2024,
+    "latlng": [
+      41.96,
+      -70.67
+    ]
+  },
+  {
+    "typical_month": "7",
+    "name": "Harmony of Song & Dance at Pinewoods",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Plymouth MA",
+    "url": "https://camp.cdss.org/camp-weeks/harmony-of-song-dance-at-pinewoods/",
+    "year": 2024,
+    "latlng": [
+      41.96,
+      -70.67
+    ]
+  },
+  {
+    "typical_month": "8",
+    "name": "Family Week at Agassiz Village",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Poland ME",
+    "url": "https://camp.cdss.org/camp-weeks/family-week-at-agassiz-village-2/",
+    "year": 2024,
+    "latlng": [
+      44.06,
+      -70.39
+    ]
+  },
+  {
+    "typical_month": "8",
+    "name": "Cascade of Music & Dance at Louise",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Cascade MD",
+    "url": "https://camp.cdss.org/camp-weeks/cascade-of-music-dance-at-louise/",
+    "year": 2024,
+    "latlng": [
+      39.71,
+      -77.5
+    ]
+  },
+  {
+    "typical_month": "8",
+    "name": "Campers\u2019 Week at Pinewoods",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Plymouth MA",
+    "url": "https://camp.cdss.org/camp-weeks/campers-week-at-pinewoods/",
+    "year": 2024,
+    "latlng": [
+      41.96,
+      -70.67
     ]
   },
   {
@@ -2624,6 +2735,21 @@
     "latlng": [
       37.77,
       -122.42
+    ]
+  },
+  {
+    "typical_month": "8",
+    "name": "Dance S\u2019More",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Harrison, ID",
+    "url": "https://ladyofthelake.org/dancesmore",
+    "year": 2024,
+    "latlng": [
+      47.45,
+      -116.79
     ]
   },
   {
