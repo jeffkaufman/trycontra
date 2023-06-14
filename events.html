@@ -349,8 +349,7 @@ function refresh_list() {
   for (const dance of dances) {
     if (!dance.latlng || !dance.name || !dance.url) continue;
 
-    if (target_state && !dance.location.endsWith(target_state)) continue;
-    
+    let exclude_by_location = target_state && !dance.location.endsWith(target_state);
 
     if (target_y != null && target_y != dance.y) continue;
     if (target_m != null && target_m != dance.m) continue;
@@ -387,9 +386,10 @@ function refresh_list() {
       });
     });
     markers.push(marker);
-    bounds.extend({lat, lng});
-
-    score_dance.push([dance.y, dance.m, dance.d, dance])
+    if (!exclude_by_location) {
+      bounds.extend({lat, lng});
+      score_dance.push([dance.y, dance.m, dance.d, dance]);
+    }
   }
   score_dance.sort(function([y1, m1, d1, dance1], [y2, m2, d2, dance2]) {
     if (y1 != y2) return y1 - y2;
@@ -408,7 +408,7 @@ function refresh_list() {
     dance_list.appendChild(no_div);
   }
 
-  if (markers.length && markers.length < dances.length) {
+  if (score_dance.length && score_dance.length < dances.length) {
     map.fitBounds(bounds);
   } else {
     const us_bounds = new google.maps.LatLngBounds();
