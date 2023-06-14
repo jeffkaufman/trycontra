@@ -296,9 +296,11 @@ function dance_html(y, m, d, dance) {
 
   return dance_div;
 }
-  
+
+
 function refresh_list() {
   if (map == null) return;
+  let infowindow_zindex = 1;
   
   while (dance_list.children.length) {
     dance_list.removeChild(dance_list.firstChild);
@@ -374,12 +376,12 @@ function refresh_list() {
       title: dance.name,
       map
     });
-    const infowindow = new google.maps.InfoWindow({
-      content: dance_html(dance.y, dance.m, dance.d, dance).outerHTML,
-      ariaLabel: dance.name,
-    });
     marker.addListener("click", () => {
-      infowindow.open({
+      new google.maps.InfoWindow({
+        content: dance_html(dance.y, dance.m, dance.d, dance).outerHTML,
+        ariaLabel: dance.name,
+        zIndex: infowindow_zindex++,
+      }).open({
         anchor: marker,
         map,
       });
