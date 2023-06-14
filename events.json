@@ -630,6 +630,21 @@
     ]
   },
   {
+    "typical_month": "5",
+    "name": "Northwest Folklife",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "5/26/2023",
+    "location": "Seattle WA",
+    "url": "https://nwfolklife.org/festival/home.html",
+    "year": 2023,
+    "latlng": [
+      47.61,
+      -122.33
+    ]
+  },
+  {
     "typical_month": "6",
     "name": "Gender-Free Dance Camp (Spring)",
     "callers": [
@@ -1337,12 +1352,12 @@
     ]
   },
   {
-    "typical_month": "9",
+    "typical_month": "10",
     "name": "ContraStock",
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "10/15/2023",
     "location": "Glen Echo MD",
     "url": "https://fsgw.org/contrastock",
     "year": 2023,
@@ -1833,21 +1848,6 @@
     ]
   },
   {
-    "typical_month": "12",
-    "name": "Winter Warmup Dance Weekend",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "12/1/2023",
-    "location": "Worthington OH",
-    "url": "https://bigscioty.com/winterwarmup/",
-    "year": 2023,
-    "latlng": [
-      40.09,
-      -83.02
-    ]
-  },
-  {
     "typical_month": "11",
     "name": "Catalina Dance Weekend",
     "callers": [
@@ -1869,18 +1869,63 @@
     ]
   },
   {
+    "typical_month": "11",
+    "name": "Breaking Up Thanksgiving",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "11/24/2023",
+    "location": "Evanston IL",
+    "url": "https://www.breakingupthanksgiving.com/",
+    "year": 2023,
+    "latlng": [
+      42.05,
+      -87.69
+    ]
+  },
+  {
+    "typical_month": "12",
+    "name": "Winter Warmup Dance Weekend",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "12/1/2023",
+    "location": "Worthington OH",
+    "url": "https://bigscioty.com/winterwarmup/",
+    "year": 2023,
+    "latlng": [
+      40.09,
+      -83.02
+    ]
+  },
+  {
     "typical_month": "12",
     "name": "Contradancers Delight Holiday (Winter)",
     "callers": [],
     "bands": [],
     "roles": "",
     "date": "12/26/2023",
-    "location": "Kingsport, TN ",
+    "location": "Kingsport TN ",
     "url": "http://www.contradancersdelight.com/about-winter-cdh",
     "year": 2023,
     "latlng": [
       36.55,
       -82.56
+    ]
+  },
+  {
+    "typical_month": "12",
+    "name": "Bash on Vashon",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "12/29/2023",
+    "location": "Vashon Island WA",
+    "url": "https://bashonvashon.org/",
+    "year": 2023,
+    "latlng": [
+      47.45,
+      -122.46
     ]
   },
   {
