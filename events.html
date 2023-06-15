@@ -25,15 +25,17 @@ body {
   max-width: 40em;
   margin-left: auto;
   margin-right: auto;
-  box-sizing: border-box;    
+  box-sizing: border-box;
 }
-.dance-listing, .no-events {
+.dance-listing-outer, .no-events {
   background-color: rgba(44, 4, 128, 0.2);
   border-radius: 0.25em;
   margin: 0.5em;
   padding-left: 0.25em;
   padding-bottom: 0.25em;
   display: block;
+}
+.dance-listing {
   text-decoration: none;
   color: black;
 }
@@ -68,7 +70,7 @@ body {
 .show-map {
   display: block;
 }
-    
+
 #filter_form {
   margin: 0;
   margin-bottom: 0.5em;
@@ -84,11 +86,11 @@ input {
   width: 20em;
 }
 h1 {
-  margin-bottom: 0em;    
-  margin-top:0.10em;    
+  margin-bottom: 0em;
+  margin-top:0.10em;
 }
 .error {
-  border: 1px solid red;    
+  border: 1px solid red;
 }
 .button-selected, .button-unselected {
   width: 50%;
@@ -170,7 +172,7 @@ function tidy_dances() {
   const today_date = new Date();
   const today_y = today_date.getFullYear();
   const today_m = today_date.getMonth() + 1;  // 0-indexed
-  const today_d = today_date.getDate();  
+  const today_d = today_date.getDate();
 
   for (const dance of dances) {
     dance.y = null;
@@ -250,11 +252,13 @@ const list_format_en = new Intl.ListFormat('en');
 
 
 function dance_html(y, m, d, dance) {
+  const dance_div_outer = e("div");
+  dance_div_outer.classList.add("dance-listing-outer");
   const dance_div = e("a");
   dance_div.classList.add("dance-listing");
   dance_div.href = dance.url;
   dance_div.target = "_blank";
-  
+
   let date_text = dance.date;
   if (!dance.in_future || !dance.date) {
     date_text = m + "/" + y + "?";
@@ -262,15 +266,15 @@ function dance_html(y, m, d, dance) {
   const date = e("div", date_text)
   date.classList.add("dance-date");
   dance_div.appendChild(date);
-  
+
   const name = e("div", dance.name)
   name.classList.add("dance-name");
   dance_div.appendChild(name);
-  
+
   const location = e("div", dance.location)
   location.classList.add("dance-location");
   dance_div.appendChild(location);
-  
+
   if (!dance.projected && (dance.callers || dance.bands)) {
     let performers_text = "";
     if (dance.callers.length) {
@@ -292,16 +296,18 @@ function dance_html(y, m, d, dance) {
   dance_a.classList.add("dance-infobox-link");
   dance_a.href = dance.url;
   dance_a.target = "_blank";
-  dance_div.appendChild(dance_a);
 
-  return dance_div;
+  dance_div_outer.appendChild(dance_div);
+  dance_div_outer.appendChild(dance_a);
+
+  return dance_div_outer;
 }
 
 
 function refresh_list() {
   if (map == null) return;
   let infowindow_zindex = 1;
-  
+
   while (dance_list.children.length) {
     dance_list.removeChild(dance_list.firstChild);
   }
@@ -315,7 +321,7 @@ function refresh_list() {
   let target_y = null;
   let target_m = null;
   let target_d = null;
-  
+
   input_date.classList.remove("error");
   if (input_date.value) {
     if (/^20\d\d-?$/.test(input_date.value)) {
@@ -331,7 +337,7 @@ function refresh_list() {
       target_d = Number(target_d) || null;
     } else {
       input_date.classList.add("error");
-    }      
+    }
   }
 
   let target_state = null;
@@ -344,7 +350,9 @@ function refresh_list() {
       input_state.classList.add("error");
     }
   }
-  
+
+  const marker_info = {}; // location_json -> [ [y, m, d, dance], ... ]
+
   const bounds = new google.maps.LatLngBounds();
   for (const dance of dances) {
     if (!dance.latlng || !dance.name || !dance.url) continue;
@@ -365,38 +373,29 @@ function refresh_list() {
       if (input_caller.value &&
           !(""+dance.callers).toLowerCase().includes(input_caller.value.toLowerCase())) continue;
     }
-    
+
     const lat = dance.latlng[0];
     const lng = dance.latlng[1];
 
-    const marker = new google.maps.Marker({
-      position: {lat, lng},
-      url: dance.url,
-      title: dance.name,
-      map
-    });
-    marker.addListener("click", () => {
-      new google.maps.InfoWindow({
-        content: dance_html(dance.y, dance.m, dance.d, dance).outerHTML,
-        ariaLabel: dance.name,
-        zIndex: infowindow_zindex++,
-      }).open({
-        anchor: marker,
-        map,
-      });
-    });
-    markers.push(marker);
+    const location = {lat, lng};
+    const location_json = JSON.stringify(location);
+    if (!(location_json in marker_info)) {
+      marker_info[location_json] = [];
+    }
+    marker_info[location_json].push([dance.y, dance.m, dance.d, dance]);
+
     if (!exclude_by_location) {
-      bounds.extend({lat, lng});
+      bounds.extend(location);
       score_dance.push([dance.y, dance.m, dance.d, dance]);
     }
   }
-  score_dance.sort(function([y1, m1, d1, dance1], [y2, m2, d2, dance2]) {
+  function dance_sorter([y1, m1, d1, dance1], [y2, m2, d2, dance2]) {
     if (y1 != y2) return y1 - y2;
     if (m1 != m2) return m1 - m2;
     if (d1 != d2) return d1 - d2;
     return 0;
-  });
+  }
+  score_dance.sort(dance_sorter);
 
   for (const [y, m, d, dance] of score_dance) {
     dance_list.appendChild(dance_html(y, m, d, dance));
@@ -408,6 +407,27 @@ function refresh_list() {
     dance_list.appendChild(no_div);
   }
 
+  for (const location_json in marker_info) {
+    const values = marker_info[location_json];
+    values.sort(dance_sorter);
+    const position = JSON.parse(location_json);
+    const names = [];
+    const contents = [];
+    for (const [y, m, d, dance] of values) {
+      names.push(dance.name),
+      contents.push(dance_html(y, m, d, dance).outerHTML);
+    }
+    const title = list_format_en.format(names);
+    const marker = new google.maps.Marker({position, title, map});
+    marker.addListener("click", () => {
+      new google.maps.InfoWindow({
+        content: "<div>" + contents.join("") + "</div>",
+        ariaLabel: title,
+        zIndex: infowindow_zindex++,
+      }).open({anchor: marker, map});
+    });
+    markers.push(marker);
+  }
   if (score_dance.length && score_dance.length < dances.length) {
     map.fitBounds(bounds);
   } else {
@@ -423,14 +443,14 @@ document.body.onload = load_all;
 <div id=view-toggle>
 <a id=listings_link class=button-selected href=#>Listings</a><a id=map_link class=button-unselected href=#>Map</a>
 </div>
-<div id=two-panes>  
+<div id=two-panes>
 <div id=content>
   <div id=header>
   <h1>Contra Dance Events</h1>
   <i>Weekends, camps, festivals, and other special events</i>
   </div>
   <div id=filters>
-  
+
   <form id=filter_form>
   <input id=input_date name=state placeholder="date: 1937-01-01 or 1937-01 or 1937">
   <input id=input_state name=state placeholder="state: NC">
@@ -450,7 +470,7 @@ document.body.onload = load_all;
   <input name=roles value=ungendered type=checkbox checked><label for=roles>Gender-free</label><br>
   <input name=roles value=unknown type=checkbox checked><label for=roles>Unknown</label><br>
   -->
-  
+
   </form>
 
   Correction? Addition?  Write to jeff@jefftk.com or leave a comment on the
@@ -477,7 +497,7 @@ document.body.onload = load_all;
     content.style.display = is_map ? "none" : "block";
     map_canvas_wrapper.classList.add(is_map ? "show-map" : "hide-map")
     map_canvas_wrapper.classList.remove(is_map ? "hide-map" : "show-map")
-    
+
     refresh_list();
   }
 
