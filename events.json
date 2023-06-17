@@ -1121,6 +1121,23 @@
     ]
   },
   {
+    "typical_month": "7",
+    "name": "Cumberland Dance Week",
+    "callers": [
+      "Gaye Fifer"
+    ],
+    "bands": [],
+    "roles": "",
+    "date": "7/2/2023",
+    "location": "Pleasantville TN",
+    "url": "https://camp.cumberlanddanceweek.org/",
+    "year": 2023,
+    "latlng": [
+      35.67,
+      -87.7
+    ]
+  },
+  {
     "typical_month": "8",
     "name": "Family Week at Agassiz Village",
     "callers": [
@@ -1455,12 +1472,12 @@
     ],
     "roles": "",
     "date": "9/22/2023",
-    "location": "Chehalis BC",
+    "location": "Surrey, BC",
     "url": "http://www.vcn.bc.ca/vcountry/chehalis/",
     "year": 2023,
     "latlng": [
-      49.3,
-      -121.9
+      49.19,
+      -122.85
     ]
   },
   {
@@ -1881,12 +1898,12 @@
     ],
     "roles": "",
     "date": "9/29/2023",
-    "location": "Fall Creek OR",
+    "location": "Springfield OR",
     "url": "https://eugenefolklore.org/cascade-contras/",
     "year": 2023,
     "latlng": [
-      43.96,
-      -122.82
+      44.05,
+      -123.02
     ]
   },
   {
@@ -2137,6 +2154,38 @@
     "latlng": [
       47.45,
       -122.46
+    ]
+  },
+  {
+    "typical_month": "12",
+    "name": "Berea Christmas Country Dance School",
+    "callers": [
+      "Darlene Underwood"
+    ],
+    "bands": [],
+    "roles": "",
+    "date": "12/26/2023",
+    "location": "Berea KY",
+    "url": "https://bereaccds.org/",
+    "year": 2023,
+    "latlng": [
+      37.57,
+      -84.3
+    ]
+  },
+  {
+    "typical_month": "12",
+    "name": "Terpsichore's Holiday",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "12/27/2023",
+    "location": "Adamstown MD",
+    "url": "https://terpsichore.lloydshaw.org/",
+    "year": 2023,
+    "latlng": [
+      39.31,
+      -77.48
     ]
   },
   {
@@ -2819,6 +2868,21 @@
   },
   {
     "typical_month": "7",
+    "name": "Cumberland Dance Week",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Pleasantville TN",
+    "url": "https://camp.cumberlanddanceweek.org/",
+    "year": 2024,
+    "latlng": [
+      35.67,
+      -87.7
+    ]
+  },
+  {
+    "typical_month": "7",
     "name": "July Fourth at Pinewoods",
     "callers": [],
     "bands": [],
@@ -3214,12 +3278,12 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "Chehalis BC",
+    "location": "Surrey BC",
     "url": "http://www.vcn.bc.ca/vcountry/chehalis/",
     "year": 2024,
     "latlng": [
-      49.3,
-      -121.9
+      49.19,
+      -122.85
     ]
   },
   {
@@ -3574,12 +3638,12 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "Fall Creek OR",
+    "location": "Springfield OR",
     "url": "https://eugenefolklore.org/cascade-contras/",
     "year": 2024,
     "latlng": [
-      43.96,
-      -122.82
+      44.05,
+      -123.02
     ]
   },
   {
@@ -3790,6 +3854,36 @@
     "latlng": [
       47.45,
       -122.46
+    ]
+  },
+  {
+    "typical_month": "12",
+    "name": "Berea Christmas Country Dance School",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Berea KY",
+    "url": "https://bereaccds.org/",
+    "year": 2024,
+    "latlng": [
+      37.57,
+      -84.3
+    ]
+  },
+  {
+    "typical_month": "12",
+    "name": "Terpsichore's Holiday",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Adamstown MD",
+    "url": "https://terpsichore.lloydshaw.org/",
+    "year": 2024,
+    "latlng": [
+      39.31,
+      -77.48
     ]
   }
 ]
