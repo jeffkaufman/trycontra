@@ -142,7 +142,8 @@
   ["https://www.facebook.com/CapeAnnContraDance/", "Gloucester MA", "Saturdays", 12, "", false],
   ["https://engage.hampshire.edu/organization/contradancecollective", "Amherst MA", "Wednesdays", 4, "GF", false],
   ["https://northberkshiredance.org/", "Williamstown MA", "Saturdays", 12, "", true],
-
+  ["https://sheffieldcontradance.wordpress.com/dance-calendar/", "Sheffield MA", "Saturdays", 9, "", true],
+  
   ["http://www.contradancers.com/atds/index.html", "Annapolis MD", "Saturdays", 12, "", false],
   ["http://www.bfms.org/squarecontra.php", "Baltimore MD", "Wednesdays", 52, "", true],
   ["http://www.bfms.org/saturdayDance.php", "Baltimore MD", "Saturdays", 12, "", true],
