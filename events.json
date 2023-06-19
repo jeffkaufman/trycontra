@@ -864,7 +864,7 @@
   },
   {
     "typical_month": "6",
-    "name": "BACDS American Dance and Music Week",
+    "name": "BACDS Family Week",
     "callers": [
       "Kelsey Hartman"
     ],
@@ -1135,6 +1135,21 @@
     "latlng": [
       35.67,
       -87.7
+    ]
+  },
+  {
+    "typical_month": "8",
+    "name": "Sugar Hill Dance Weekend",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "8/25/2023",
+    "location": "Bloomington IN",
+    "url": "http://bloomingtoncontra.org/sugar-hill/",
+    "year": 2023,
+    "latlng": [
+      39.17,
+      -86.53
     ]
   },
   {
@@ -2823,7 +2838,7 @@
   },
   {
     "typical_month": "6",
-    "name": "BACDS American Dance and Music Week",
+    "name": "BACDS Family Week",
     "callers": [],
     "bands": [],
     "roles": "",
@@ -3014,6 +3029,21 @@
     "latlng": [
       41.96,
       -70.67
+    ]
+  },
+  {
+    "typical_month": "8",
+    "name": "Sugar Hill Dance Weekend",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Bloomington IN",
+    "url": "http://bloomingtoncontra.org/sugar-hill/",
+    "year": 2024,
+    "latlng": [
+      39.17,
+      -86.53
     ]
   },
   {
