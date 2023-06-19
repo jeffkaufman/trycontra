@@ -146,6 +146,13 @@ input[type=checkbox] {
   font-size: 200%;
   display: none;
 }
+#explanation {
+  padding-left: 2em;
+  padding-right: 2em;
+  padding-bottom: 0.5em;
+  font-family: italic;
+  font-size: 65%;
+}
 </style>
 
 <body>
@@ -169,7 +176,14 @@ input[type=checkbox] {
 <input id=input placeholder="zip code" type="text"></input><br><button id=button>find a dance</button>
 
 
+
+
 </center>
+
+<div id=explanation>
+If you're looking for longer events, like weekends,
+camps, or festivals, try the new <a href="events">events search</a>.
+</div>
 
 <div id="notfound">
 Sorry, I don't recognize<br>that zip code.
@@ -206,6 +220,7 @@ var buttontext = document.getElementById("buttontext");
 var dances = document.getElementById("dances");
 var content = document.getElementById("content");
 var notfound = document.getElementById("notfound");
+var explanation = document.getElementById("explanation");
 var nodances = document.getElementById("nodances");
 
 var searched = false;
@@ -339,6 +354,8 @@ function add_more_link(zip, minimum_dances) {
 }
 
 function load_dances(zip, minimum_dances) {
+  explanation.style.display = "none";
+    
   if (!minimum_dances) {
     minimum_dances = 3;
   }
