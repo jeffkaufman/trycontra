@@ -1206,16 +1206,21 @@
   {
     "typical_month": "8",
     "name": "Falcon Ridge Folk Festival",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Beth Molaro"
+    ],
+    "bands": [
+      "the Gaslight Tinkers",
+      "the Faux Paws"
+    ],
     "roles": "",
     "date": "7/28/2023",
-    "location": "Hillsdale NY",
+    "location": "Goshen CT",
     "url": "http://falconridgefolk.com/",
     "year": 2023,
     "latlng": [
-      42.18,
-      -73.53
+      41.83,
+      -73.22
     ]
   },
   {
