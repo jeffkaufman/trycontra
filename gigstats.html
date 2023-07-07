@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html> <head>
+<title>Gigstats</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<style>
+html {
+  background: url(masked-background.jpg) no-repeat center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+
+* { box-sizing: border-box; }
+
+#content {
+  max-width: 40em;
+  margin: auto;
+  padding: 0;
+  padding-bottom: 60px; /* must be same height as the footer */
+}
+
+#content-inner {
+  padding: 1em;
+  background-color: white;
+}
+
+#title {
+  padding-top: 10px;
+  font-size: 46px;
+  font-family: sans-serif;
+  line-height: 56px;
+  height: 75px;
+
+  color: white;
+
+  background: #692C2C;
+  background-image: linear-gradient(to bottom right, #0000FF 0%, #692C2C 100%);
+}
+
+#question {
+  padding-top: 16px;
+  font-family: sans-serif;
+}
+
+html, body {height: 100%;}
+
+#wrap {
+  min-height: 100%;
+}
+
+#footer {
+  position: relative;
+  margin-top: -60px; /* negative value of footer height */
+  padding: 0px;
+  height: 60px;  /* footer height */
+  padding-top: 4px;
+  clear:both;
+  background-color: black;
+  font-size: 45px;
+  font-family: sans-serif;
+}
+
+#about:link {text-decoration: none; color: #CCC}
+#about:visited {text-decoration: none; color: #CCC}
+#about:active {text-decoration: none; color: #CCC}
+#about:hover {text-decoration: underline; color: #CCC}
+
+
+table {
+  width: 100%;
+}
+button {
+  margin: 0.1em;
+  padding: 0.1em;
+  font-size: 150%;
+  background-color: #eee;
+  border-radius: 0.2em;
+}
+
+button:active, .active {
+  top: 2px;
+  left: 1px;
+  box-shadow: none;
+  position: relative;
+  background-color: #ccc;
+}
+
+</style>
+
+<body>
+
+<div id="wrap">
+<div id="content">
+
+<div id="title">
+<center>Gigstats</center>
+</div>
+
+<div id="content-inner">
+
+
+<div id="question">
+
+</div>
+
+<h2>Bands</h2>
+  <table id="bandlistings" border=1 cellpadding=5>
+  </table>
+  
+<h2>Callers</h2>
+  <table id="callerlistings" border=1 cellpadding=5>
+  </table>
+
+</div>
+</div>
+</div>
+
+  <a id=about href="about.html"><div id="footer"><center>about</center></div></a>
+  
+</body>
+
+<script>
+
+function e(tag, text="") {
+  const el = document.createElement(tag);
+  if (text) {
+    el.innerText = text;
+  }
+  return el;
+}
+
+function make_table(listings, performer_counts) {
+  while (listings.firstChild) {
+    listings.removeChild(listings.firstChild);
+  }
+  
+  const performer_counts_list = [];
+  for (const performer in performer_counts) {
+    performer_counts_list.push([performer, performer_counts[performer]]);
+  }
+  performer_counts_list.sort(function([p1, c1], [p2, c2]) {
+    if (c1 > c2) {
+      return -1;
+    } else if (c2 > c1) {
+      return 1;
+    }
+
+    p1 = p1.replace(/^the /, "");
+    p2 = p2.replace(/^the /, "");
+    
+    if (p1 > p2) {
+      return 1;
+    } else if (p2 > p1) {
+      return -1;
+    }
+
+    return 0;
+  });
+  for (const [performer, count] of performer_counts_list) {
+    if (count < 2) continue;
+    const tr = e("tr");
+    tr.appendChild(e(
+      "td",
+      performer.charAt(0).toUpperCase() + performer.slice(1)));
+    tr.appendChild(e("td", count));
+    listings.appendChild(tr);
+  }
+}
+
+async function fetch_dances() {
+  const response = await fetch("events.json");
+  const events = await response.json();
+
+  // year -> {"bands" -> band counts,
+  //         "callers" -> caller counts}
+  const data = {};
+  const years = [];
+  for (const event of events) {
+    if (!(event.year in data)) {
+      data[event.year] = {
+        "bands": {},
+        "callers": {},
+      }
+      years.push(event.year);
+    }
+    for (const band of event.bands) {
+      data[event.year].bands[band] =
+        (data[event.year].bands[band] || 0) + 1;
+    }
+    for (const caller of event.callers) {
+      data[event.year].callers[caller] =
+        (data[event.year].callers[caller] || 0) + 1;
+    }
+  }
+  years.sort();
+  years.pop();
+  for (const year of years) {
+    const year_button = e("button", year);
+    question.appendChild(year_button);
+  }
+
+  for (const button of document.querySelectorAll('button')) {
+    button.onclick = function() {
+      for (const other_button of document.querySelectorAll('button')) {
+        other_button.classList.remove('active');
+      }
+      button.classList.add('active');
+
+      const year_data = data[button.innerText];
+      make_table(bandlistings, year_data.bands);
+      make_table(callerlistings, year_data.callers);
+    };
+  }
+
+  for (const button of document.querySelectorAll('button')) {
+    if (button.innerText == years[years.length - 1]) {
+      button.onclick.apply(button);
+    }
+  }
+}
+
+fetch_dances();
+</script>
+
+</html>
