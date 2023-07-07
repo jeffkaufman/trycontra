@@ -114,7 +114,7 @@
       "Sarah Van Norstrand"
     ],
     "bands": [
-      "Great Bear Trio",
+      "Great Bear",
       "Maivish",
       "Buddy System"
     ],
@@ -204,7 +204,7 @@
       "Double Date",
       "Nor'Easter",
       "Nova",
-      "Great Bear Trio"
+      "Great Bear"
     ],
     "roles": "",
     "date": "1/23/2016",
@@ -284,7 +284,7 @@
       "Frannie Marr"
     ],
     "bands": [
-      "Great Bear Trio",
+      "Great Bear",
       "Contra Sutra"
     ],
     "roles": "",
@@ -485,7 +485,7 @@
       "Angela DeCarlis"
     ],
     "bands": [
-      "Nightwatch",
+      "Night Watch",
       "Notorious"
     ],
     "roles": "",
@@ -626,7 +626,7 @@
       "Steve Zakon-Anderson"
     ],
     "bands": [
-      "Nor'easter"
+      "Nor'Easter"
     ],
     "roles": "",
     "date": "3/18/2016",
@@ -989,7 +989,7 @@
       "Deb Comly"
     ],
     "bands": [
-      "Hotpoint Stringband",
+      "Hotpoint",
       "Clew Bay"
     ],
     "roles": "",
@@ -1044,7 +1044,7 @@
     "typical_month": "4",
     "name": "Spring Fling Owen Sound",
     "callers": [
-      "Carol Ormond",
+      "Carol Ormand",
       "Frank Francalanza"
     ],
     "bands": [
@@ -1172,7 +1172,7 @@
       "Janine Smith"
     ],
     "bands": [
-      "Great Bear Trio",
+      "Great Bear",
       "Coffee Zombies",
       "Rushfest"
     ],
@@ -1278,7 +1278,7 @@
       "Steve Pike"
     ],
     "bands": [
-      "Great Bear Trio",
+      "Great Bear",
       "Buster"
     ],
     "roles": "",
@@ -1379,7 +1379,7 @@
       "Mary Wesley"
     ],
     "bands": [
-      "Great Bear Trio"
+      "Great Bear"
     ],
     "roles": "",
     "date": "6/10/2016",
@@ -1507,7 +1507,7 @@
     ],
     "bands": [
       "the Contrarians",
-      "Hotpoint Stringband"
+      "Hotpoint"
     ],
     "roles": "",
     "date": "6/24/2016",
@@ -1630,7 +1630,7 @@
       "Emily Abel"
     ],
     "bands": [
-      "Great Bear Trio",
+      "Great Bear",
       "Toss the Possum",
       "Playing with Fyre",
       "Rushfest"
@@ -1650,7 +1650,7 @@
       "Warren Doyle"
     ],
     "bands": [
-      "Great Bear Trio",
+      "Great Bear",
       "Toss the Possum",
       "Swallowtail",
       "Playing with Fyre",
@@ -1671,11 +1671,11 @@
     "name": "River Rendevous",
     "callers": [
       "George Marshall",
-      "Emily Rainbowface Abel"
+      "Emily Abel"
     ],
     "bands": [
       "Maivish",
-      "Hotpoint Stringband"
+      "Hotpoint"
     ],
     "roles": "",
     "date": "7/15/2016",
@@ -1720,7 +1720,7 @@
     "bands": [
       "Tidal Wave",
       "Buddy System",
-      "Great Bear Trio",
+      "Great Bear",
       "Alchemy"
     ],
     "roles": "",
@@ -1742,8 +1742,8 @@
     ],
     "bands": [
       "the Gaslight Tinkers",
-      "Pete's Possee",
-      "Great Bear Trio"
+      "Pete's Posse",
+      "Great Bear"
     ],
     "roles": "",
     "date": "8/5/2016",
@@ -1845,7 +1845,7 @@
     ],
     "bands": [
       "Nor'Easter",
-      "Sasafrass Stomp"
+      "Sassafras Stomp"
     ],
     "roles": "",
     "date": "8/19/2016",
@@ -2338,7 +2338,7 @@
     "typical_month": "10",
     "name": "Gender-Free Dance Camp (Fall)",
     "callers": [
-      "Carol Ormond"
+      "Carol Ormand"
     ],
     "bands": [
       "Les Z-Boys"
@@ -2362,7 +2362,6 @@
     ],
     "bands": [
       "the Stringrays",
-      "Sasafras Stomp",
       "Toss the Possum",
       "Rushfest"
     ],
@@ -2588,7 +2587,7 @@
       "Rick Mohr"
     ],
     "bands": [
-      "Great Bear Trio",
+      "Great Bear",
       "the Free Raisins"
     ],
     "roles": "",
@@ -2793,7 +2792,7 @@
     "callers": [
       "Cis Hinkle",
       "Sarah Van Norstrand",
-      "Deanna Palumbo"
+      "Deanna Polumbo"
     ],
     "bands": [
       "Great Bear",
@@ -3542,7 +3541,7 @@
       "Adina Gordon"
     ],
     "bands": [
-      "Triple A Plus",
+      "Wake up Robin",
       "Wilson's Arch",
       "the Whoots"
     ],
@@ -3625,7 +3624,7 @@
     ],
     "bands": [
       "Spy Run String Band",
-      "Rivverrun Country Dance Band",
+      "Riverrun Country Dance Band",
       "Hoosier Recruits"
     ],
     "roles": "",
@@ -3649,7 +3648,7 @@
     "bands": [
       "Pete's Posse",
       "Ti'Acadie",
-      "Sasafrass Stomp"
+      "Hoosier Recruits"
     ],
     "roles": "",
     "date": "3/24/2017",
@@ -3690,7 +3689,7 @@
     ],
     "bands": [
       "Genticorum",
-      "Triple A+"
+      "Wake up Robin"
     ],
     "roles": "",
     "date": "3/31/2017",
@@ -4307,7 +4306,7 @@
     ],
     "bands": [
       "Chimney Swift",
-      "InTentCity",
+      "In-Tent City",
       "Polaris",
       "Tea&Whisky",
       "Tempest",
@@ -4436,7 +4435,7 @@
     ],
     "bands": [
       "Great Bear",
-      "Eloise and Co"
+      "Eloise &co"
     ],
     "roles": "",
     "date": "6/9/2017",
@@ -4481,7 +4480,7 @@
     "bands": [
       "Atlantic Crossing",
       "Seaglass",
-      "Fennig's All Stars"
+      "Fennig's All Star String Band"
     ],
     "roles": "",
     "date": "6/23/2017",
@@ -4564,7 +4563,7 @@
     ],
     "bands": [
       "Riverbend",
-      "Rare Priviledge"
+      "Rare Privilege"
     ],
     "roles": "",
     "date": "6/30/2017",
@@ -4585,7 +4584,7 @@
       "Terry Doyle"
     ],
     "bands": [
-      "Triple A Plus",
+      "Wake up Robin",
       "Toss the Possum",
       "Rushfest"
     ],
@@ -4901,7 +4900,7 @@
     "bands": [
       "the Moving Violations",
       "Tempest",
-      "Drivetrain"
+      "Drive Train"
     ],
     "roles": "",
     "date": "9/1/2017",
@@ -4943,7 +4942,7 @@
       "Gaye Fifer"
     ],
     "bands": [
-      "Frog Hammer",
+      "Froghammer",
       "Buddy System",
       "Old World Charm School"
     ],
@@ -5126,7 +5125,7 @@
       "Dan Blim"
     ],
     "bands": [
-      "Sasafrass Stomp",
+      "Sassafras Stomp",
       "the Ripples",
       "DJ Beats and Tea"
     ],
@@ -5234,7 +5233,7 @@
     "name": "Looking Glass Music and Dance Festival",
     "callers": [
       "Will Mentor",
-      "Bev Burnbaum"
+      "Bev Bernbaum"
     ],
     "bands": [
       "Pete's Posse",
@@ -5385,7 +5384,7 @@
       "Frannie Marr"
     ],
     "bands": [
-      "Les-Z-boys",
+      "Les Z-Boys",
       "Russet Trio",
       "Wild Asparagus",
       "Nova"
@@ -5594,7 +5593,7 @@
     ],
     "bands": [
       "the Stringrays",
-      "Wake Up Robin",
+      "Wake up Robin",
       "BLAM!"
     ],
     "roles": "",
@@ -5909,7 +5908,7 @@
     ],
     "bands": [
       "the Mean Lids",
-      "Sasafras Stomp",
+      "Sassafras Stomp",
       "Big Bluestem"
     ],
     "roles": "",
@@ -6367,7 +6366,7 @@
     "name": "Pigtown Fling",
     "callers": [
       "Kristen Planeaux",
-      "Bev Berenbaum"
+      "Bev Bernbaum"
     ],
     "bands": [
       "Rosethorns",
@@ -6432,7 +6431,7 @@
       "John McIntire"
     ],
     "bands": [
-      "Notorius",
+      "Notorious",
       "Velocipede",
       "Frigate"
     ],
@@ -6719,7 +6718,7 @@
     "bands": [
       "Pete's Posse",
       "Great Bear",
-      "Oshima Triplets"
+      "Oshima Brothers"
     ],
     "roles": "Larks / Ravens",
     "date": "4/6/2018",
@@ -6904,7 +6903,7 @@
     ],
     "bands": [
       "Devine Comedy",
-      "Morrison Brothers Band",
+      "Morrison Brothers",
       "Swallowtail"
     ],
     "roles": "",
@@ -7318,7 +7317,7 @@
     "name": "Roanoke Railroader",
     "callers": [
       "Beth Molaro",
-      "Emily Rainbowface Abel"
+      "Emily Abel"
     ],
     "bands": [
       "Great Bear",
@@ -7490,7 +7489,7 @@
       "Seth Tepfer"
     ],
     "bands": [
-      "Hotpoint Stringband",
+      "Hotpoint",
       "Nova"
     ],
     "roles": "",
@@ -7631,7 +7630,7 @@
     "name": "Footfall Dance Weekend",
     "callers": [
       "Ted Hodapp",
-      "Carol Ormond"
+      "Carol Ormand"
     ],
     "bands": [
       "the Ripples",
@@ -8319,7 +8318,7 @@
       "Janine Smith"
     ],
     "bands": [
-      "Hotpoint Stringband",
+      "Hotpoint",
       "Sassafras Stomp"
     ],
     "roles": "",
@@ -8532,7 +8531,7 @@
       "Buddy System",
       "the Mean Lids",
       "Toss the Possum",
-      "In-tent-city",
+      "In-Tent City",
       "Eddy Sisters"
     ],
     "roles": "",
@@ -8598,7 +8597,7 @@
     "bands": [
       "Giant Robot Dance",
       "the Moving Violations",
-      "Sound Traveler Band"
+      "Sound Traveler"
     ],
     "roles": "",
     "date": "1/18/2019",
@@ -9063,7 +9062,7 @@
       "unnamed"
     ],
     "bands": [
-      "STEAM"
+      "Steam"
     ],
     "roles": "",
     "date": "3/29/2019",
@@ -9355,7 +9354,7 @@
       "Sarah VanNorstrand"
     ],
     "bands": [
-      "Eloise and Company"
+      "Eloise &co"
     ],
     "roles": "",
     "date": "3/30/2019",
@@ -10079,7 +10078,7 @@
     ],
     "bands": [
       "Turnip the Beet",
-      "Hotpoint String Band"
+      "Hotpoint"
     ],
     "roles": "",
     "date": "7/12/2019",
@@ -10749,7 +10748,7 @@
       "Steve Zakon-Anderson"
     ],
     "bands": [
-      "Eloise and Company",
+      "Eloise &co",
       "Pete's Posse",
       "Wild Asparagus",
       "Stomp Rocket"
@@ -10938,7 +10937,7 @@
     "name": "Hey Fever Dance Weekend",
     "callers": [
       "Will Mentor",
-      "Angela Decarlis"
+      "Angela DeCarlis"
     ],
     "bands": [
       "the Gaslight Tinkers"
@@ -11073,7 +11072,7 @@
     ],
     "bands": [
       "Genticorum",
-      "Eloise and Company",
+      "Eloise &co",
       "Atlanta Open Band"
     ],
     "roles": "",
@@ -12307,7 +12306,7 @@
     ],
     "bands": [
       "Hot Coffee Breakdown",
-      "Playing With Fyre",
+      "Playing with Fyre",
       "Rushfest"
     ],
     "roles": "",
@@ -12346,7 +12345,7 @@
       "Will Mentor"
     ],
     "bands": [
-      "the Synchopaths"
+      "the Syncopaths"
     ],
     "roles": "",
     "date": "7/22/2023",
@@ -12487,7 +12486,7 @@
     ],
     "bands": [
       "Hot Coffee Breakdown",
-      "Reel Play"
+      "Reelplay"
     ],
     "roles": "",
     "date": "8/18/2023",
@@ -13521,8 +13520,8 @@
     ],
     "bands": [
       "Elixir",
-      "the Synchopaths",
-      "Eloise &co."
+      "the Syncopaths",
+      "Eloise &co"
     ],
     "roles": "Larks / Robins",
     "date": "1/12/2024",
@@ -14359,12 +14358,12 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "Hillsdale NY",
+    "location": "Goshen CT",
     "url": "http://falconridgefolk.com/",
     "year": 2024,
     "latlng": [
-      42.18,
-      -73.53
+      41.83,
+      -73.22
     ]
   },
   {
