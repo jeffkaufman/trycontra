@@ -4,6 +4,9 @@ import json
 
 records = []
 for year, fname in [
+        (2017, "events-raw-2017.tsv"),
+        (2018, "events-raw-2018.tsv"),
+        (2019, "events-raw-2019.tsv"),
         (2023, "events-raw-2023.tsv"),
         (2024, "events-raw-2024.tsv"),
 ]:
