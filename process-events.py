@@ -2,8 +2,18 @@
 import re
 import json
 
+bands_add_the = [
+    'Adobe Brothers', 'Avant Gardeners', 'Canote Brothers',
+    'Contrarians', 'Dam Beavers', 'Engine Room', 'Faux Paws',
+    'Figments', 'Free Raisins', 'Gaslight Tinkers', 'JEMS',
+    'Latter Day Lizards', 'Mean Lids', 'Moving Violations',
+    "O'Schraves", 'Offbeats', 'Quarks',
+    'Red Mountain Yellowhammers', 'Rhythm Raptors', 'Ripples',
+    'Stringrays', 'Stuff', 'Syncopaths', 'Turning Stile', 'Whoots']
+
 records = []
 for year, fname in [
+        (2016, "events-raw-2016.tsv"),
         (2017, "events-raw-2017.tsv"),
         (2018, "events-raw-2018.tsv"),
         (2019, "events-raw-2019.tsv"),
@@ -58,6 +68,10 @@ for year, fname in [
                                band5,
                                band6)
                      if x.strip() and x.lower() != "unnamed"]
+
+            bands = [
+                "the " + band if band in bands_add_the else band
+                for band in bands]
 
             records.append(
                 {"typical_month": typical_month,
