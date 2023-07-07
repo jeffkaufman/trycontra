@@ -212,7 +212,9 @@ function tidy_dances() {
   const seen = {};
   for (let i = 0; i < dances.length; i++) {
     const dance = dances[i];
-    if (dance.name in seen) {
+    if (dance.year < today_y - 1) {
+      to_remove.push(i);
+    } else if (dance.name in seen) {
       const seen_dance = dances[seen[dance.name]];
       if (seen_dance.in_future || (seen_dance.projected && dance.projected)) {
         to_remove.push(i);
