@@ -56,7 +56,11 @@
     "date": "1/13/2017",
     "location": "Mesa AZ",
     "url": "http://www.phxtmd.org/frolics-main.html\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      33.42,
+      -111.83
+    ]
   },
   {
     "typical_month": "1",
@@ -74,7 +78,11 @@
     "date": "1/13/2017",
     "location": "Daytona FL",
     "url": "http://www.orangeblossomcontra.com/\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      29.21,
+      -81.02
+    ]
   },
   {
     "typical_month": "1",
@@ -111,7 +119,11 @@
     "date": "1/13/2017",
     "location": "Dayton VA",
     "url": "http://daytoncontradance.wix.com/shenandoah-shindig\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      38.41,
+      -78.94
+    ]
   },
   {
     "typical_month": "1",
@@ -216,7 +228,11 @@
     "date": "1/27/2017",
     "location": "Bozeman MT",
     "url": "http://www.bozemanfolklore.org/wintergreen.html\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      45.68,
+      -111.03
+    ]
   },
   {
     "typical_month": "2",
@@ -357,7 +373,11 @@
     "date": "2/17/2017",
     "location": "Laurel Highlands PA",
     "url": "skidance.com\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      40.24,
+      -79.24
+    ]
   },
   {
     "typical_month": "2",
@@ -414,7 +434,11 @@
     "date": "2/23/2017",
     "location": "Buena Vista CO",
     "url": "http://www.stellardaysandnights.org/\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      38.84,
+      -106.13
+    ]
   },
   {
     "typical_month": "2",
@@ -453,7 +477,11 @@
     "date": "3/3/2017",
     "location": "Cape Girardeau MO",
     "url": "http://chance-dance.angelfire.com/\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      37.31,
+      -89.52
+    ]
   },
   {
     "typical_month": "2",
@@ -470,7 +498,11 @@
     "date": "2/24/2017",
     "location": "Gainesville FL",
     "url": "http://godsdance.org/?q=weekend2017\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      29.65,
+      -82.32
+    ]
   },
   {
     "typical_month": "3",
@@ -486,7 +518,11 @@
     "date": "3/3/2017",
     "location": "Lava Hot Springs ID",
     "url": "http://www.lavameltdown.info/\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      42.62,
+      -112.01
+    ]
   },
   {
     "typical_month": "3",
@@ -501,7 +537,11 @@
     "date": "3/11/2016",
     "location": "Big Island, Hawaii",
     "url": "http://www.tropicaldancevacation.com/hawaii.html\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      19.54,
+      -155.67
+    ]
   },
   {
     "typical_month": "3",
@@ -516,7 +556,11 @@
     "date": "3/10/2016",
     "location": "Memphis TN",
     "url": "http://www.memphiscontra.org/memfest.html\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      35.15,
+      -90.05
+    ]
   },
   {
     "typical_month": "3",
@@ -554,7 +598,11 @@
     "date": "3/10/2017",
     "location": "Mesa AZ",
     "url": "http://www.phxtmd.org/frolics-main.html\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      33.42,
+      -111.83
+    ]
   },
   {
     "typical_month": "3",
@@ -571,7 +619,11 @@
     "date": "3/24/2017",
     "location": "Cincinattia OH",
     "url": "http://www.cincinnaticontradance.org/pigtown.htm\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      39.1,
+      -84.51
+    ]
   },
   {
     "typical_month": "3",
@@ -609,7 +661,11 @@
     "date": "3/18/2017",
     "location": "North Manchester IN",
     "url": "http://www.contrafortwayne.org/Appleseed%20Allemande.html\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      41.0,
+      -85.77
+    ]
   },
   {
     "typical_month": "3",
@@ -628,7 +684,11 @@
     "date": "3/24/2017",
     "location": "Topsham ME",
     "url": "http://www.deffa.org/festival/\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      43.93,
+      -69.98
+    ]
   },
   {
     "typical_month": "3",
@@ -686,7 +746,11 @@
     "date": "4/7/2017",
     "location": "Fall Creek OR",
     "url": "http://www.eugenefolklore.org/CascadeContras\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      43.96,
+      -122.82
+    ]
   },
   {
     "typical_month": "4",
@@ -721,7 +785,11 @@
     "date": "4/28/2017",
     "location": "Edgewater MD",
     "url": "http://www.chesapeakedanceweekend.org/\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      38.94,
+      -76.56
+    ]
   },
   {
     "typical_month": "4",
@@ -736,7 +804,11 @@
     "date": "4/7/2017",
     "location": "Richmond VA",
     "url": "http://tadamsva.org/springforth/\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      37.54,
+      -77.44
+    ]
   },
   {
     "typical_month": "4",
@@ -775,7 +847,11 @@
     "date": "4/21/2017",
     "location": "Chapel Hill NC",
     "url": "http://www.tcdancers.org/SDR/sdr.shtml\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      35.91,
+      -79.06
+    ]
   },
   {
     "typical_month": "4",
@@ -792,7 +868,11 @@
     "date": "4/7/2017",
     "location": "Charleston SC",
     "url": "http://charlestonfolk.weebly.com/palmetto-bug-stomp.html\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      32.78,
+      -79.93
+    ]
   },
   {
     "typical_month": "4",
@@ -807,7 +887,11 @@
     "date": "4/21/2017",
     "location": "Dallas TX",
     "url": "http://www.nttds.org/wids.html\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      32.78,
+      -96.8
+    ]
   },
   {
     "typical_month": "4",
@@ -822,7 +906,11 @@
     "date": "4/21/2017",
     "location": "Mansfield MA",
     "url": "http://neffa.org/What_is_Festival.html\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      42.03,
+      -71.22
+    ]
   },
   {
     "typical_month": "4",
@@ -839,7 +927,11 @@
     "date": "4/7/2017",
     "location": "Toronto ON",
     "url": "http://ieee.uwaterloo.ca/~tcd/thaw.php\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      43.65,
+      -79.38
+    ]
   },
   {
     "typical_month": "4",
@@ -979,7 +1071,11 @@
     "date": "5/5/2017",
     "location": "Owen Sound ON",
     "url": "http://fiddlefern.ca/spring-fling/\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      44.57,
+      -80.94
+    ]
   },
   {
     "typical_month": "4",
@@ -994,7 +1090,11 @@
     "date": "4/28/2017",
     "location": "Bloomington IA",
     "url": "http://bloomingtoncontra.org/mad-robin-romp/\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      39.17,
+      -86.53
+    ]
   },
   {
     "typical_month": "5",
@@ -1008,7 +1108,11 @@
     "date": "5/5/2017",
     "location": "Woodstock CT",
     "url": "http://lcfd.org/lcfd/lcfd-spring-dance-camp/\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      41.95,
+      -71.97
+    ]
   },
   {
     "typical_month": "5",
@@ -1068,7 +1172,11 @@
     "date": "4/15/2017",
     "location": "Clarkdale AZ",
     "url": "http://www.danceinaz.org/\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      34.77,
+      -112.06
+    ]
   },
   {
     "typical_month": "5",
@@ -1088,7 +1196,11 @@
     "date": "5/18/2017",
     "location": "Darlington MD",
     "url": "https://sites.google.com/site/ahsince1988/home\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      39.64,
+      -76.2
+    ]
   },
   {
     "typical_month": "5",
@@ -1103,7 +1215,11 @@
     "date": "5/19/2017",
     "location": "Huntsville AL",
     "url": "http://huntsvillecontra.dance/BlueMoon/\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      34.73,
+      -86.59
+    ]
   },
   {
     "typical_month": "5",
@@ -1182,7 +1298,11 @@
     "date": "5/26/2017",
     "location": "Remus, MI",
     "url": "http://www.wheatlandmusic.org/traditional-arts-weekend/\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      43.6,
+      -85.15
+    ]
   },
   {
     "typical_month": "5",
@@ -1197,7 +1317,11 @@
     "date": "5/26/2017",
     "location": "Arcadia CA",
     "url": "http://www.caldancecoop.org/cgi/studriver.cgi\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      34.14,
+      -118.04
+    ]
   },
   {
     "typical_month": "5",
@@ -1245,7 +1369,11 @@
     "date": "5/28/2017",
     "location": "Brattleboro VT",
     "url": "http://www.dawndance.org/\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      42.85,
+      -72.56
+    ]
   },
   {
     "typical_month": "6",
@@ -1262,7 +1390,11 @@
     "date": "6/9/2017",
     "location": "Lexington KY",
     "url": "http://www.dancetrance.ltda.ws/\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      38.04,
+      -84.5
+    ]
   },
   {
     "typical_month": "6",
@@ -1318,7 +1450,11 @@
     "date": "6/16/2017",
     "location": "Santa Rosa CA",
     "url": "http://nbcds.org/faultline-frolic/\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      38.44,
+      -122.71
+    ]
   },
   {
     "typical_month": "6",
@@ -1335,7 +1471,11 @@
     "date": "6/9/2017",
     "location": "Asheville NC",
     "url": "http://www.ashevillecontra.com/\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      35.6,
+      -82.55
+    ]
   },
   {
     "typical_month": "6",
@@ -1438,7 +1578,11 @@
     "date": "7/7/2017",
     "location": "Richmond QC",
     "url": "http://oohlaladance.com/\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      45.67,
+      -72.15
+    ]
   },
   {
     "typical_month": "7",
@@ -1455,7 +1599,11 @@
     "date": "6/30/2017",
     "location": "Delafield WI",
     "url": "http://www.delafieldcontra.com/Delafield_Contra_Weekend.html\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      43.06,
+      -88.4
+    ]
   },
   {
     "typical_month": "7",
@@ -1474,7 +1622,11 @@
     "date": "6/30/2017",
     "location": "Grayson County VA",
     "url": "http://www.contradancersdelight.com/about-summer-cdh-tst/\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      36.67,
+      -81.21
+    ]
   },
   {
     "typical_month": "7",
@@ -1603,7 +1755,11 @@
     "date": "8/11/2017",
     "location": "Gainesville GA",
     "url": "http://atgaga.com/flythecoop\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      34.3,
+      -83.82
+    ]
   },
   {
     "typical_month": "8",
@@ -1662,7 +1818,11 @@
     "date": "8/11/2017",
     "location": "San Francisco",
     "url": "https://www.bacds.org/camps/btb/\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      37.77,
+      -122.42
+    ]
   },
   {
     "typical_month": "8",
@@ -1673,7 +1833,11 @@
     "date": "8/28/2017",
     "location": "Gerlach NV",
     "url": "http://www.contraburners.org/\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      40.65,
+      -119.36
+    ]
   },
   {
     "typical_month": "9",
@@ -1707,9 +1871,13 @@
     ],
     "roles": "",
     "date": "9/1/2017",
-    "location": "Rhododendron",
+    "location": "Rhododendron OR",
     "url": "http://www.nwpassagedancecamp.org/\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      45.33,
+      -121.91
+    ]
   },
   {
     "typical_month": "9",
@@ -1745,7 +1913,11 @@
     "date": "9/1/2017",
     "location": "Julian CA",
     "url": "http://www.caldancecoop.org/cgi/lddadriver.cgi\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      33.08,
+      -116.6
+    ]
   },
   {
     "typical_month": "9",
@@ -1764,7 +1936,11 @@
     "date": "9/1/2017",
     "location": "Brattleboro VT",
     "url": "http://www.dawndance.org/\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      42.85,
+      -72.56
+    ]
   },
   {
     "typical_month": "9",
@@ -1804,7 +1980,11 @@
     "date": "9/8/2017",
     "location": "High View WV",
     "url": "http://www.footfalldance.com/index.php\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      39.23,
+      -78.41
+    ]
   },
   {
     "typical_month": "9",
@@ -1882,7 +2062,11 @@
     "date": "9/8/2017",
     "location": "Mountain View AR",
     "url": "http://www.arkansascountrydance.org/mtView.htm\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      35.87,
+      -92.12
+    ]
   },
   {
     "typical_month": "9",
@@ -1897,7 +2081,11 @@
     "date": "9/15/2017",
     "location": "Portsmouth NH",
     "url": "http://starisland.org/program/starhampshire/\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      43.07,
+      -70.76
+    ]
   },
   {
     "typical_month": "9",
@@ -1953,7 +2141,11 @@
     "date": "9/22/2017",
     "location": "Chehalis BC",
     "url": "http://www.vcn.bc.ca/vcountry/chehalis/\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      49.3,
+      -121.9
+    ]
   },
   {
     "typical_month": "9",
@@ -2081,7 +2273,11 @@
     "date": "10/6/2017",
     "location": "Lansing MI",
     "url": "http://www.lgmaa.org/lg_festival.html\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      42.73,
+      -84.56
+    ]
   },
   {
     "typical_month": "10",
@@ -2139,7 +2335,11 @@
     "date": "10/13/2017",
     "location": "Indianapolis IN",
     "url": "http://www.indycontra.org/gypsy-moon-ball/\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      39.77,
+      -86.16
+    ]
   },
   {
     "typical_month": "10",
@@ -2284,7 +2484,11 @@
     "date": "10/27/2017",
     "location": "Springfield MO",
     "url": "http://www.springfieldcontra.org/solefest.htm\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      37.21,
+      -93.29
+    ]
   },
   {
     "typical_month": "10",
@@ -2509,7 +2713,11 @@
     "date": "11/10/2017",
     "location": "Eugene OR",
     "url": "http://danceablefeast.org/\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      44.05,
+      -123.09
+    ]
   },
   {
     "typical_month": "11",
@@ -2670,7 +2878,11 @@
     "date": "11/10/2017",
     "location": "Fayetteville AR",
     "url": "http://www.nwacontra.org/november-weekend.html\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      36.06,
+      -94.16
+    ]
   },
   {
     "typical_month": "12",
@@ -2710,7 +2922,11 @@
     "date": "12/26/2017",
     "location": "Morgantown WV",
     "url": "http://www.contradancersdelight.com/\n",
-    "year": 2017
+    "year": 2017,
+    "latlng": [
+      39.63,
+      -79.96
+    ]
   },
   {
     "typical_month": "1",
@@ -2748,7 +2964,11 @@
     "date": "1/12/2018",
     "location": "Mesa AZ",
     "url": "https://phxtmd.org/frolics\n",
-    "year": 2018
+    "year": 2018,
+    "latlng": [
+      33.42,
+      -111.83
+    ]
   },
   {
     "typical_month": "1",
@@ -2767,7 +2987,11 @@
     "date": "1/12/2018",
     "location": "Daytona FL",
     "url": "http://www.orangeblossomcontra.com/\n",
-    "year": 2018
+    "year": 2018,
+    "latlng": [
+      29.21,
+      -81.02
+    ]
   },
   {
     "typical_month": "1",
@@ -2889,7 +3113,11 @@
     "date": "1/26/2018",
     "location": "Bozeman MT",
     "url": "http://www.bozemanfolklore.org/wintergreen.html\n",
-    "year": 2018
+    "year": 2018,
+    "latlng": [
+      45.68,
+      -111.03
+    ]
   },
   {
     "typical_month": "2",
@@ -3033,7 +3261,11 @@
     "date": "2/16/2018",
     "location": "Laurel Highlands PA",
     "url": "skidance.com\n",
-    "year": 2018
+    "year": 2018,
+    "latlng": [
+      40.24,
+      -79.24
+    ]
   },
   {
     "typical_month": "2",
@@ -3069,7 +3301,11 @@
     "date": "2/22/2018",
     "location": "Buena Vista CO",
     "url": "http://www.stellardaysandnights.org/\n",
-    "year": 2018
+    "year": 2018,
+    "latlng": [
+      38.84,
+      -106.13
+    ]
   },
   {
     "typical_month": "2",
@@ -3108,7 +3344,11 @@
     "date": "3/2/2018",
     "location": "Cape Girardeau MO",
     "url": "http://chance-dance.angelfire.com/\n",
-    "year": 2018
+    "year": 2018,
+    "latlng": [
+      37.31,
+      -89.52
+    ]
   },
   {
     "typical_month": "2",
@@ -3125,7 +3365,11 @@
     "date": "2/23/2018",
     "location": "Gainesville FL",
     "url": "http://godsdance.org/?q=weekend2018\n",
-    "year": 2018
+    "year": 2018,
+    "latlng": [
+      29.65,
+      -82.32
+    ]
   },
   {
     "typical_month": "3",
@@ -3141,7 +3385,11 @@
     "date": "3/9/2018",
     "location": "Lava Hot Springs ID",
     "url": "http://www.lavameltdown.info/\n",
-    "year": 2018
+    "year": 2018,
+    "latlng": [
+      42.62,
+      -112.01
+    ]
   },
   {
     "typical_month": "3",
@@ -3158,7 +3406,11 @@
     "date": "3/23/2018",
     "location": "Cincinattia OH",
     "url": "http://www.cincinnaticontradance.org/pigtown.htm\n",
-    "year": 2018
+    "year": 2018,
+    "latlng": [
+      39.1,
+      -84.51
+    ]
   },
   {
     "typical_month": "3",
@@ -3194,7 +3446,11 @@
     "date": "3/24/2018",
     "location": "North Manchester IN",
     "url": "http://www.contrafortwayne.org/Appleseed%20Allemande.html\n",
-    "year": 2018
+    "year": 2018,
+    "latlng": [
+      41.0,
+      -85.77
+    ]
   },
   {
     "typical_month": "3",
@@ -3213,7 +3469,11 @@
     "date": "3/24/2018",
     "location": "Topsham ME",
     "url": "http://www.deffa.org/festival/\n",
-    "year": 2018
+    "year": 2018,
+    "latlng": [
+      43.93,
+      -69.98
+    ]
   },
   {
     "typical_month": "4",
@@ -3272,7 +3532,11 @@
     "date": "4/27/2018",
     "location": "Edgewater MD",
     "url": "http://www.chesapeakedanceweekend.org/\n",
-    "year": 2018
+    "year": 2018,
+    "latlng": [
+      38.94,
+      -76.56
+    ]
   },
   {
     "typical_month": "4",
@@ -3287,7 +3551,11 @@
     "date": "4/13/2018",
     "location": "Richmond VA",
     "url": "http://tadamsva.org/springforth/\n",
-    "year": 2018
+    "year": 2018,
+    "latlng": [
+      37.54,
+      -77.44
+    ]
   },
   {
     "typical_month": "4",
@@ -3324,7 +3592,11 @@
     "date": "4/27/2018",
     "location": "Chapel Hill NC",
     "url": "https://springdanceromance.org/\n",
-    "year": 2018
+    "year": 2018,
+    "latlng": [
+      35.91,
+      -79.06
+    ]
   },
   {
     "typical_month": "4",
@@ -3341,7 +3613,11 @@
     "date": "4/13/2018",
     "location": "Charleston SC",
     "url": "http://charlestonfolk.weebly.com/palmetto-bug-stomp.html\n",
-    "year": 2018
+    "year": 2018,
+    "latlng": [
+      32.78,
+      -79.93
+    ]
   },
   {
     "typical_month": "4",
@@ -3356,7 +3632,11 @@
     "date": "4/20/2018",
     "location": "Dallas TX",
     "url": "http://www.nttds.org/wids.html\n",
-    "year": 2018
+    "year": 2018,
+    "latlng": [
+      32.78,
+      -96.8
+    ]
   },
   {
     "typical_month": "4",
@@ -3371,7 +3651,11 @@
     "date": "4/20/2018",
     "location": "Mansfield MA",
     "url": "https://www.neffa.org/folk-festival/new-england-folk-festival/\n",
-    "year": 2018
+    "year": 2018,
+    "latlng": [
+      42.03,
+      -71.22
+    ]
   },
   {
     "typical_month": "4",
@@ -3388,7 +3672,11 @@
     "date": "4/13/2018",
     "location": "Toronto ON",
     "url": "http://ieee.uwaterloo.ca/~tcd/thaw.php\n",
-    "year": 2018
+    "year": 2018,
+    "latlng": [
+      43.65,
+      -79.38
+    ]
   },
   {
     "typical_month": "4",
@@ -3526,7 +3814,11 @@
     "date": "5/4/2018",
     "location": "Owen Sound ON",
     "url": "http://fiddlefern.ca/spring-fling/\n",
-    "year": 2018
+    "year": 2018,
+    "latlng": [
+      44.57,
+      -80.94
+    ]
   },
   {
     "typical_month": "4",
@@ -3541,7 +3833,11 @@
     "date": "5/4/2018",
     "location": "Bloomington IA",
     "url": "http://bloomingtoncontra.org/mad-robin-romp/\n",
-    "year": 2018
+    "year": 2018,
+    "latlng": [
+      39.17,
+      -86.53
+    ]
   },
   {
     "typical_month": "5",
@@ -3556,7 +3852,11 @@
     "date": "5/4/2018",
     "location": "Woodstock CT",
     "url": "http://lcfd.org/lcfd/lcfd-spring-dance-camp/\n",
-    "year": 2018
+    "year": 2018,
+    "latlng": [
+      41.95,
+      -71.97
+    ]
   },
   {
     "typical_month": "5",
@@ -3617,7 +3917,11 @@
     "date": "4/27/2018",
     "location": "Clarkdale AZ",
     "url": "http://www.danceinaz.org/\n",
-    "year": 2018
+    "year": 2018,
+    "latlng": [
+      34.77,
+      -112.06
+    ]
   },
   {
     "typical_month": "5",
@@ -3636,7 +3940,11 @@
     "date": "5/17/2018",
     "location": "Darlington MD",
     "url": "https://sites.google.com/site/ahsince1988/home\n",
-    "year": 2018
+    "year": 2018,
+    "latlng": [
+      39.64,
+      -76.2
+    ]
   },
   {
     "typical_month": "5",
@@ -3733,7 +4041,11 @@
     "date": "5/25/2018",
     "location": "Arcadia CA",
     "url": "http://www.caldancecoop.org/cgi/studriver.cgi\n",
-    "year": 2018
+    "year": 2018,
+    "latlng": [
+      34.14,
+      -118.04
+    ]
   },
   {
     "typical_month": "5",
@@ -3751,7 +4063,11 @@
     "date": "5/25/2018",
     "location": "Clarkston GA",
     "url": "http://butterflywhirl.com/\n",
-    "year": 2018
+    "year": 2018,
+    "latlng": [
+      33.81,
+      -84.24
+    ]
   },
   {
     "typical_month": "5",
@@ -3770,7 +4086,11 @@
     "date": "5/27/2018",
     "location": "Brattleboro VT",
     "url": "http://www.dawndance.org/\n",
-    "year": 2018
+    "year": 2018,
+    "latlng": [
+      42.85,
+      -72.56
+    ]
   },
   {
     "typical_month": "6",
@@ -3785,7 +4105,11 @@
     "date": "6/8/2018",
     "location": "Lexington KY",
     "url": "http://www.dancetrance.ltda.ws/\n",
-    "year": 2018
+    "year": 2018,
+    "latlng": [
+      38.04,
+      -84.5
+    ]
   },
   {
     "typical_month": "6",
@@ -3841,7 +4165,11 @@
     "date": "6/15/2018",
     "location": "Santa Rosa CA",
     "url": "http://nbcds.org/faultline-frolic/\n",
-    "year": 2018
+    "year": 2018,
+    "latlng": [
+      38.44,
+      -122.71
+    ]
   },
   {
     "typical_month": "6",
@@ -3858,7 +4186,11 @@
     "date": "6/22/2018",
     "location": "Asheville NC",
     "url": "http://www.ashevillecontra.com/\n",
-    "year": 2018
+    "year": 2018,
+    "latlng": [
+      35.6,
+      -82.55
+    ]
   },
   {
     "typical_month": "6",
@@ -3959,7 +4291,11 @@
     "date": "6/8/2018",
     "location": "Richmond QC",
     "url": "http://oohlaladance.com/\n",
-    "year": 2018
+    "year": 2018,
+    "latlng": [
+      45.67,
+      -72.15
+    ]
   },
   {
     "typical_month": "7",
@@ -3976,7 +4312,11 @@
     "date": "6/29/2018",
     "location": "Delafield WI",
     "url": "http://www.delafieldcontra.com/Delafield_Contra_Weekend.html\n",
-    "year": 2018
+    "year": 2018,
+    "latlng": [
+      43.06,
+      -88.4
+    ]
   },
   {
     "typical_month": "7",
@@ -3996,7 +4336,11 @@
     "date": "6/29/2018",
     "location": "Grayson County VA",
     "url": "http://www.contradancersdelight.com/about-summer-cdh-tst/\n",
-    "year": 2018
+    "year": 2018,
+    "latlng": [
+      36.67,
+      -81.21
+    ]
   },
   {
     "typical_month": "7",
@@ -4182,7 +4526,11 @@
     "date": "8/10/2018",
     "location": "San Francisco",
     "url": "https://www.bacds.org/camps/btb/\n",
-    "year": 2018
+    "year": 2018,
+    "latlng": [
+      37.77,
+      -122.42
+    ]
   },
   {
     "typical_month": "8",
@@ -4197,7 +4545,11 @@
     "date": "8/26/2018",
     "location": "Gerlach NV",
     "url": "http://www.contraburners.org/\n",
-    "year": 2018
+    "year": 2018,
+    "latlng": [
+      40.65,
+      -119.36
+    ]
   },
   {
     "typical_month": "9",
@@ -4253,7 +4605,11 @@
     "date": "8/31/2018",
     "location": "Julian CA",
     "url": "http://www.caldancecoop.org/cgi/lddadriver.cgi\n",
-    "year": 2018
+    "year": 2018,
+    "latlng": [
+      33.08,
+      -116.6
+    ]
   },
   {
     "typical_month": "9",
@@ -4272,7 +4628,11 @@
     "date": "9/2/2018",
     "location": "Brattleboro VT",
     "url": "http://www.dawndance.org/\n",
-    "year": 2018
+    "year": 2018,
+    "latlng": [
+      42.85,
+      -72.56
+    ]
   },
   {
     "typical_month": "9",
@@ -4310,7 +4670,11 @@
     "date": "9/7/2018",
     "location": "High View WV",
     "url": "http://www.footfalldance.com/index.php\n",
-    "year": 2018
+    "year": 2018,
+    "latlng": [
+      39.23,
+      -78.41
+    ]
   },
   {
     "typical_month": "9",
@@ -4366,7 +4730,11 @@
     "date": "9/7/2018",
     "location": "Mountain View AR",
     "url": "http://www.arkansascountrydance.org/ozark.htm\n",
-    "year": 2018
+    "year": 2018,
+    "latlng": [
+      35.87,
+      -92.12
+    ]
   },
   {
     "typical_month": "9",
@@ -4380,7 +4748,11 @@
     "date": "9/14/2018",
     "location": "Portsmouth NH",
     "url": "http://starisland.org/program/starhampshire/\n",
-    "year": 2018
+    "year": 2018,
+    "latlng": [
+      43.07,
+      -70.76
+    ]
   },
   {
     "typical_month": "9",
@@ -4437,7 +4809,11 @@
     "date": "9/21/2018",
     "location": "Chehalis BC",
     "url": "http://www.vcn.bc.ca/vcountry/chehalis/\n",
-    "year": 2018
+    "year": 2018,
+    "latlng": [
+      49.3,
+      -121.9
+    ]
   },
   {
     "typical_month": "9",
@@ -4558,7 +4934,11 @@
     "date": "10/5/2018",
     "location": "Lansing MI",
     "url": "http://www.lgmaa.org/lg_festival.html\n",
-    "year": 2018
+    "year": 2018,
+    "latlng": [
+      42.73,
+      -84.56
+    ]
   },
   {
     "typical_month": "10",
@@ -4619,7 +4999,11 @@
     "date": "10/12/2018",
     "location": "Indianapolis IN",
     "url": "http://www.indycontra.org/hoosierpartner/\n",
-    "year": 2018
+    "year": 2018,
+    "latlng": [
+      39.77,
+      -86.16
+    ]
   },
   {
     "typical_month": "10",
@@ -4928,7 +5312,11 @@
     "date": "11/9/2018",
     "location": "Fall Creek OR",
     "url": "http://www.eugenefolklore.org/CascadeContras\n",
-    "year": 2018
+    "year": 2018,
+    "latlng": [
+      43.96,
+      -122.82
+    ]
   },
   {
     "typical_month": "11",
@@ -5155,7 +5543,11 @@
     "date": "12/7/2018",
     "location": "Los Angeles CA",
     "url": "https://www.facebook.com/events/1860064614297988/\n",
-    "year": 2018
+    "year": 2018,
+    "latlng": [
+      34.05,
+      -118.24
+    ]
   },
   {
     "typical_month": "12",
@@ -5176,7 +5568,11 @@
     "date": "12/26/2018",
     "location": "Morgantown WV",
     "url": "http://www.contradancersdelight.com/\n",
-    "year": 2018
+    "year": 2018,
+    "latlng": [
+      39.63,
+      -79.96
+    ]
   },
   {
     "typical_month": "1",
@@ -5214,7 +5610,11 @@
     "date": "1/11/2019",
     "location": "Mesa AZ",
     "url": "https://phxtmd.org/winter-frolic-2019\n",
-    "year": 2019
+    "year": 2019,
+    "latlng": [
+      33.42,
+      -111.83
+    ]
   },
   {
     "typical_month": "1",
@@ -5233,7 +5633,11 @@
     "date": "1/18/2019",
     "location": "Daytona FL",
     "url": "http://www.orangeblossomcontra.com/\n",
-    "year": 2019
+    "year": 2019,
+    "latlng": [
+      29.21,
+      -81.02
+    ]
   },
   {
     "typical_month": "1",
@@ -5267,7 +5671,11 @@
     "date": "1/18/2019",
     "location": "Dayton VA",
     "url": "https://www.facebook.com/events/dayton-learning-center/shenandoah-valley-contra-dream-2019/520915284994734/\n",
-    "year": 2019
+    "year": 2019,
+    "latlng": [
+      38.41,
+      -78.94
+    ]
   },
   {
     "typical_month": "1",
@@ -5373,7 +5781,11 @@
     "date": "1/25/2019",
     "location": "Bozeman MT",
     "url": "http://www.bozemanfolklore.org/wintergreen.html\n",
-    "year": 2019
+    "year": 2019,
+    "latlng": [
+      45.68,
+      -111.03
+    ]
   },
   {
     "typical_month": "2",
@@ -5535,7 +5947,11 @@
     "date": "2/15/2019",
     "location": "Laurel Highlands PA",
     "url": "skidance.com\n",
-    "year": 2019
+    "year": 2019,
+    "latlng": [
+      40.24,
+      -79.24
+    ]
   },
   {
     "typical_month": "2",
@@ -5561,7 +5977,11 @@
     "date": "",
     "location": "Buena Vista CO",
     "url": "CANCELLED\n",
-    "year": 2019
+    "year": 2019,
+    "latlng": [
+      38.84,
+      -106.13
+    ]
   },
   {
     "typical_month": "2",
@@ -5598,7 +6018,11 @@
     "date": "3/1/2019",
     "location": "Cape Girardeau MO",
     "url": "http://chance-dance.angelfire.com/\n",
-    "year": 2019
+    "year": 2019,
+    "latlng": [
+      37.31,
+      -89.52
+    ]
   },
   {
     "typical_month": "2",
@@ -5615,7 +6039,11 @@
     "date": "2/22/2019",
     "location": "Gainesville FL",
     "url": "http://godsdance.org/?q=weekend2019\n",
-    "year": 2019
+    "year": 2019,
+    "latlng": [
+      29.65,
+      -82.32
+    ]
   },
   {
     "typical_month": "3",
@@ -5630,7 +6058,11 @@
     "date": "3/1/2019",
     "location": "Lava Hot Springs ID",
     "url": "https://lavameltdown.dance/\n",
-    "year": 2019
+    "year": 2019,
+    "latlng": [
+      42.62,
+      -112.01
+    ]
   },
   {
     "typical_month": "3",
@@ -5647,7 +6079,11 @@
     "date": "3/29/2019",
     "location": "Cincinattia OH",
     "url": "http://www.cincinnaticontradance.org/pigtown.htm\n",
-    "year": 2019
+    "year": 2019,
+    "latlng": [
+      39.1,
+      -84.51
+    ]
   },
   {
     "typical_month": "3",
@@ -5684,7 +6120,11 @@
     "date": "3/23/2019",
     "location": "North Manchester IN",
     "url": "http://www.contrafortwayne.org/Appleseed%20Allemande.html\n",
-    "year": 2019
+    "year": 2019,
+    "latlng": [
+      41.0,
+      -85.77
+    ]
   },
   {
     "typical_month": "3",
@@ -5726,7 +6166,11 @@
     "date": "3/29/2019",
     "location": "Topsham ME",
     "url": "http://www.deffa.org/festival/\n",
-    "year": 2019
+    "year": 2019,
+    "latlng": [
+      43.93,
+      -69.98
+    ]
   },
   {
     "typical_month": "4",
@@ -5786,7 +6230,11 @@
     "date": "4/26/2019",
     "location": "Edgewater MD",
     "url": "http://www.chesapeakedanceweekend.org/\n",
-    "year": 2019
+    "year": 2019,
+    "latlng": [
+      38.94,
+      -76.56
+    ]
   },
   {
     "typical_month": "4",
@@ -5801,7 +6249,11 @@
     "date": "4/12/2019",
     "location": "Richmond VA",
     "url": "http://tadamsva.org/springforth/\n",
-    "year": 2019
+    "year": 2019,
+    "latlng": [
+      37.54,
+      -77.44
+    ]
   },
   {
     "typical_month": "4",
@@ -5839,7 +6291,11 @@
     "date": "4/26/2019",
     "location": "Chapel Hill NC",
     "url": "https://springdanceromance.org/\n",
-    "year": 2019
+    "year": 2019,
+    "latlng": [
+      35.91,
+      -79.06
+    ]
   },
   {
     "typical_month": "4",
@@ -5856,7 +6312,11 @@
     "date": "4/5/2019",
     "location": "Charleston SC",
     "url": "http://charlestonfolk.weebly.com/palmetto-bug-stomp.html\n",
-    "year": 2019
+    "year": 2019,
+    "latlng": [
+      32.78,
+      -79.93
+    ]
   },
   {
     "typical_month": "4",
@@ -5871,7 +6331,11 @@
     "date": "4/26/2019",
     "location": "Dallas TX",
     "url": "http://www.nttds.org/wids.html\n",
-    "year": 2019
+    "year": 2019,
+    "latlng": [
+      32.78,
+      -96.8
+    ]
   },
   {
     "typical_month": "4",
@@ -5886,7 +6350,11 @@
     "date": "",
     "location": "Mansfield MA",
     "url": "https://www.neffa.org/folk-festival/new-england-folk-festival/\n",
-    "year": 2019
+    "year": 2019,
+    "latlng": [
+      42.03,
+      -71.22
+    ]
   },
   {
     "typical_month": "4",
@@ -5903,7 +6371,11 @@
     "date": "4/12/2019",
     "location": "Toronto ON",
     "url": "http://ieee.uwaterloo.ca/~tcd/thaw.php\n",
-    "year": 2019
+    "year": 2019,
+    "latlng": [
+      43.65,
+      -79.38
+    ]
   },
   {
     "typical_month": "4",
@@ -6043,7 +6515,11 @@
     "date": "4/26/2019",
     "location": "Phoenix AZ",
     "url": "http://www.danceinaz.org/\n",
-    "year": 2019
+    "year": 2019,
+    "latlng": [
+      33.45,
+      -112.07
+    ]
   },
   {
     "typical_month": "4",
@@ -6060,7 +6536,11 @@
     "date": "5/3/2019",
     "location": "Owen Sound ON",
     "url": "http://fiddlefern.ca/spring-fling/\n",
-    "year": 2019
+    "year": 2019,
+    "latlng": [
+      44.57,
+      -80.94
+    ]
   },
   {
     "typical_month": "4",
@@ -6075,7 +6555,11 @@
     "date": "5/4/2019",
     "location": "Bloomington IA",
     "url": "http://bloomingtoncontra.org/mad-robin-romp/\n",
-    "year": 2019
+    "year": 2019,
+    "latlng": [
+      39.17,
+      -86.53
+    ]
   },
   {
     "typical_month": "5",
@@ -6090,7 +6574,11 @@
     "date": "5/3/2019",
     "location": "Woodstock CT",
     "url": "http://lcfd.org/lcfd/lcfd-spring-dance-camp/\n",
-    "year": 2019
+    "year": 2019,
+    "latlng": [
+      41.95,
+      -71.97
+    ]
   },
   {
     "typical_month": "5",
@@ -6148,7 +6636,11 @@
     "date": "4/26/2019",
     "location": "Clarkdale AZ",
     "url": "http://www.danceinaz.org/\n",
-    "year": 2019
+    "year": 2019,
+    "latlng": [
+      34.77,
+      -112.06
+    ]
   },
   {
     "typical_month": "5",
@@ -6165,7 +6657,11 @@
     "date": "5/17/2019",
     "location": "Darlington MD",
     "url": "https://sites.google.com/site/ahsince1988/home\n",
-    "year": 2019
+    "year": 2019,
+    "latlng": [
+      39.64,
+      -76.2
+    ]
   },
   {
     "typical_month": "5",
@@ -6255,7 +6751,11 @@
     "date": "5/24/2019",
     "location": "Arcadia CA",
     "url": "http://www.caldancecoop.org/camp-sturtevant/\n",
-    "year": 2019
+    "year": 2019,
+    "latlng": [
+      34.14,
+      -118.04
+    ]
   },
   {
     "typical_month": "5",
@@ -6274,7 +6774,11 @@
     "date": "5/24/2019",
     "location": "Clarkston GA",
     "url": "http://butterflywhirl.com/\n",
-    "year": 2019
+    "year": 2019,
+    "latlng": [
+      33.81,
+      -84.24
+    ]
   },
   {
     "typical_month": "5",
@@ -6293,7 +6797,11 @@
     "date": "5/26/2019",
     "location": "Brattleboro VT",
     "url": "http://www.dawndance.org/\n",
-    "year": 2019
+    "year": 2019,
+    "latlng": [
+      42.85,
+      -72.56
+    ]
   },
   {
     "typical_month": "6",
@@ -6309,7 +6817,11 @@
     "date": "6/7/2019",
     "location": "Pinellas Park FL",
     "url": "https://www.facebook.com/events/pinellas-park-auditorium/june-bug-bash/284762719071796/\n",
-    "year": 2019
+    "year": 2019,
+    "latlng": [
+      27.84,
+      -82.7
+    ]
   },
   {
     "typical_month": "6",
@@ -6325,7 +6837,11 @@
     "date": "6/7/2019",
     "location": "Lexington KY",
     "url": "http://www.dancetrance.ltda.ws/\n",
-    "year": 2019
+    "year": 2019,
+    "latlng": [
+      38.04,
+      -84.5
+    ]
   },
   {
     "typical_month": "6",
@@ -6381,7 +6897,11 @@
     "date": "6/21/2019",
     "location": "Santa Rosa CA",
     "url": "https://nbcds.org/faultline-frolic-2019/\n",
-    "year": 2019
+    "year": 2019,
+    "latlng": [
+      38.44,
+      -122.71
+    ]
   },
   {
     "typical_month": "6",
@@ -6399,7 +6919,11 @@
     "date": "6/21/2019",
     "location": "Asheville NC",
     "url": "http://www.ashevillecontra.com/\n",
-    "year": 2019
+    "year": 2019,
+    "latlng": [
+      35.6,
+      -82.55
+    ]
   },
   {
     "typical_month": "6",
@@ -6505,7 +7029,11 @@
     "date": "7/5/2019",
     "location": "Richmond QC",
     "url": "http://oohlaladance.com/\n",
-    "year": 2019
+    "year": 2019,
+    "latlng": [
+      45.67,
+      -72.15
+    ]
   },
   {
     "typical_month": "7",
@@ -6522,7 +7050,11 @@
     "date": "7/5/2019",
     "location": "Delafield WI",
     "url": "http://www.delafieldcontra.com/Delafield_Contra_Weekend.html\n",
-    "year": 2019
+    "year": 2019,
+    "latlng": [
+      43.06,
+      -88.4
+    ]
   },
   {
     "typical_month": "7",
@@ -6538,7 +7070,11 @@
     "date": "6/28/2019",
     "location": "Grayson County VA",
     "url": "http://www.contradancersdelight.com/about-summer-cdh-tst/\n",
-    "year": 2019
+    "year": 2019,
+    "latlng": [
+      36.67,
+      -81.21
+    ]
   },
   {
     "typical_month": "7",
@@ -6724,7 +7260,11 @@
     "date": "8/9/2019",
     "location": "San Francisco",
     "url": "https://www.bacds.org/camps/btb/\n",
-    "year": 2019
+    "year": 2019,
+    "latlng": [
+      37.77,
+      -122.42
+    ]
   },
   {
     "typical_month": "8",
@@ -6735,7 +7275,11 @@
     "date": "8/25/2019",
     "location": "Gerlach NV",
     "url": "http://www.contraburners.org/\n",
-    "year": 2019
+    "year": 2019,
+    "latlng": [
+      40.65,
+      -119.36
+    ]
   },
   {
     "typical_month": "9",
@@ -6791,7 +7335,11 @@
     "date": "8/30/2019",
     "location": "Julian CA",
     "url": "http://www.caldancecoop.org/labor-day-dance-away/\n",
-    "year": 2019
+    "year": 2019,
+    "latlng": [
+      33.08,
+      -116.6
+    ]
   },
   {
     "typical_month": "9",
@@ -6810,7 +7358,11 @@
     "date": "9/1/2019",
     "location": "Brattleboro VT",
     "url": "http://www.dawndance.org/\n",
-    "year": 2019
+    "year": 2019,
+    "latlng": [
+      42.85,
+      -72.56
+    ]
   },
   {
     "typical_month": "9",
@@ -6848,7 +7400,11 @@
     "date": "8/31/2019",
     "location": "High View WV",
     "url": "http://www.footfalldance.com/index.php\n",
-    "year": 2019
+    "year": 2019,
+    "latlng": [
+      39.23,
+      -78.41
+    ]
   },
   {
     "typical_month": "9",
@@ -6905,7 +7461,11 @@
     "date": "9/13/2019",
     "location": "Mountain View AR",
     "url": "http://www.arkansascountrydance.org/ozark.htm\n",
-    "year": 2019
+    "year": 2019,
+    "latlng": [
+      35.87,
+      -92.12
+    ]
   },
   {
     "typical_month": "9",
@@ -6916,7 +7476,11 @@
     "date": "",
     "location": "Portsmouth NH",
     "url": "DEFUNCT\n",
-    "year": 2019
+    "year": 2019,
+    "latlng": [
+      43.07,
+      -70.76
+    ]
   },
   {
     "typical_month": "9",
@@ -6973,7 +7537,11 @@
     "date": "9/20/2019",
     "location": "Chehalis BC",
     "url": "http://www.vcn.bc.ca/vcountry/chehalis/\n",
-    "year": 2019
+    "year": 2019,
+    "latlng": [
+      49.3,
+      -121.9
+    ]
   },
   {
     "typical_month": "9",
@@ -7092,7 +7660,11 @@
     "date": "10/18/2019",
     "location": "Lansing MI",
     "url": "http://www.lgmaa.org/lg_festival.html\n",
-    "year": 2019
+    "year": 2019,
+    "latlng": [
+      42.73,
+      -84.56
+    ]
   },
   {
     "typical_month": "10",
@@ -7449,7 +8021,11 @@
     "date": "10/18/2019",
     "location": "Fall Creek OR",
     "url": "http://www.eugenefolklore.org/CascadeContras.html\n",
-    "year": 2019
+    "year": 2019,
+    "latlng": [
+      43.96,
+      -122.82
+    ]
   },
   {
     "typical_month": "11",
@@ -7679,7 +8255,11 @@
     "date": "11/15/2019",
     "location": "Los Angeles CA",
     "url": "https://www.catalinadanceweekend.com/\n",
-    "year": 2019
+    "year": 2019,
+    "latlng": [
+      34.05,
+      -118.24
+    ]
   },
   {
     "typical_month": "12",
@@ -7698,7 +8278,11 @@
     "date": "12/26/2019",
     "location": "Morgantown WV",
     "url": "http://www.contradancersdelight.com/\n",
-    "year": 2019
+    "year": 2019,
+    "latlng": [
+      39.63,
+      -79.96
+    ]
   },
   {
     "typical_month": "1",
