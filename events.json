@@ -12393,6 +12393,27 @@
     ]
   },
   {
+    "typical_month": "7",
+    "name": "Summergreen",
+    "callers": [
+      "Will Mentor",
+      "Derek Gallagher"
+    ],
+    "bands": [
+      "Lighthouse",
+      "Drovers Grove"
+    ],
+    "roles": "",
+    "date": "7/7/2023",
+    "location": "Livingston MT",
+    "url": "https://bozemanfolklore.org/summergreen/",
+    "year": 2023,
+    "latlng": [
+      45.66,
+      -110.56
+    ]
+  },
+  {
     "typical_month": "8",
     "name": "Sugar Hill Dance Weekend",
     "callers": [],
@@ -12820,7 +12841,9 @@
     "typical_month": "10",
     "name": "ContraStock",
     "callers": [],
-    "bands": [],
+    "bands": [
+      "Kingfisher"
+    ],
     "roles": "",
     "date": "10/15/2023",
     "location": "Glen Echo MD",
@@ -12936,8 +12959,13 @@
   {
     "typical_month": "10",
     "name": "Phylla Mae Fall Fest",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Bev Bernbaum"
+    ],
+    "bands": [
+      "Ostara",
+      "Sister Haggis"
+    ],
     "roles": "",
     "date": "10/20/2023",
     "location": "Fayetteville NY",
@@ -13220,12 +13248,18 @@
   {
     "typical_month": "11",
     "name": "Head for the Hills Dance Weekend",
-    "callers": [],
+    "callers": [
+      "Alex Deis-Lauby",
+      "Michael Karcher",
+      "Donna Hunt",
+      "Anna Rain"
+    ],
     "bands": [
       "Joyful Noise",
-      "Raise the Roof"
+      "Raise the Roof",
+      "Brooklyn Swing Ensemble"
     ],
-    "roles": "",
+    "roles": "Larks/ Robins",
     "date": "11/10/2023",
     "location": "Kresgeville PA",
     "url": "http://www.princetoncountrydancers.org/about-hfth",
@@ -13274,12 +13308,18 @@
   {
     "typical_month": "11",
     "name": "Fleur-de-Lis Fling",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Gaye Fifer",
+      "Seth Tepfer"
+    ],
+    "bands": [
+      "the Engine Room",
+      "Tea and Whiskey"
+    ],
     "roles": "",
-    "date": "",
+    "date": "11/17/2023",
     "location": "Louisville KY",
-    "url": "http://www.loukyfleurfling.org/",
+    "url": "http://www.louisvillecountrydancers.org/fleur-de-lis-fling",
     "year": 2023,
     "latlng": [
       38.25,
@@ -13389,8 +13429,14 @@
   {
     "typical_month": "12",
     "name": "Winter Warmup Dance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Diane Silver",
+      "Darlene Underwood"
+    ],
+    "bands": [
+      "Hot Coffee Breakdown",
+      "Rosenthorns"
+    ],
     "roles": "",
     "date": "12/1/2023",
     "location": "Worthington OH",
@@ -13973,10 +14019,12 @@
   {
     "typical_month": "5",
     "name": "Dancing Bear Dance Camp",
-    "callers": [],
+    "callers": [
+      "George Marshall"
+    ],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "5/24/2024",
     "location": "Wasilla AK",
     "url": "http://www.thedancingbears.com/Dance-Camp.html",
     "year": 2024,
@@ -14176,7 +14224,7 @@
     "name": "Contradancers Delight Holiday (Summer)",
     "callers": [],
     "bands": [],
-    "roles": "",
+    "roles": "Ladies/Gents",
     "date": "",
     "location": "Mountain City, TN",
     "url": "http://www.contradancersdelight.com/about-summer-cdh-tst/",
@@ -14289,6 +14337,21 @@
     "latlng": [
       41.96,
       -70.67
+    ]
+  },
+  {
+    "typical_month": "7",
+    "name": "Summergreen",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Livingston MT",
+    "url": "https://bozemanfolklore.org/summergreen/",
+    "year": 2024,
+    "latlng": [
+      45.66,
+      -110.56
     ]
   },
   {
@@ -15019,7 +15082,7 @@
     "roles": "",
     "date": "",
     "location": "Louisville KY",
-    "url": "http://www.loukyfleurfling.org/",
+    "url": "http://www.louisvillecountrydancers.org/fleur-de-lis-fling",
     "year": 2024,
     "latlng": [
       38.25,
@@ -15119,10 +15182,19 @@
   {
     "typical_month": "12",
     "name": "Contradancers Delight Holiday (Winter)",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
+    "callers": [
+      "Bob Isaacs",
+      "Terry Doyle",
+      "Warren Doyle"
+    ],
+    "bands": [
+      "Toss the Possum",
+      "Drive Train",
+      "the Buzz Band",
+      "George Paul"
+    ],
+    "roles": "Ladies/Gents",
+    "date": "12/26 -1/1",
     "location": "Kingsport, TN ",
     "url": "http://www.contradancersdelight.com/about-winter-cdh",
     "year": 2024,
