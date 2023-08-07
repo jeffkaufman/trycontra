@@ -324,8 +324,11 @@ function refresh_list() {
   let target_m = null;
   let target_d = null;
 
+  const params = new URLSearchParams();
+
   input_date.classList.remove("error");
   if (input_date.value) {
+    let date_error = false;
     if (/^20\d\d-?$/.test(input_date.value)) {
       target_y = Number(input_date.value.replace(/-?$/, ''));
     } else if (/^20\d\d-\d\d?-?$/.test(input_date.value)) {
@@ -339,6 +342,10 @@ function refresh_list() {
       target_d = Number(target_d) || null;
     } else {
       input_date.classList.add("error");
+      date_error = true;
+    }
+    if (!date_error) {
+      params.append("date", input_date.value);
     }
   }
 
@@ -348,9 +355,17 @@ function refresh_list() {
     input_state.value = input_state.value.toUpperCase();
     if (/^[A-Z][A-Z]$/.test(input_state.value)) {
       target_state = input_state.value;
+      params.append("state", input_state.value);
     } else {
       input_state.classList.add("error");
     }
+  }
+
+  if (input_band.value) {
+    params.append("band", input_band.value);
+  }
+  if (input_caller.value) {
+    params.append("caller", input_caller.value);
   }
 
   const marker_info = {}; // location_json -> [ [y, m, d, dance], ... ]
@@ -438,6 +453,10 @@ function refresh_list() {
     us_bounds.extend({lat: 24, lng: -72});
     map.fitBounds(us_bounds);
   }
+
+  if (params.size) {
+    history.pushState(null,null,'#' + params);
+  }
 }
 
 document.body.onload = load_all;
@@ -454,7 +473,7 @@ document.body.onload = load_all;
   <div id=filters>
 
   <form id=filter_form>
-  <input id=input_date name=state placeholder="date: 1937-01-01 or 1937-01 or 1937">
+  <input id=input_date name=date placeholder="date: 1937-01-01 or 1937-01 or 1937">
   <input id=input_state name=state placeholder="state: NC">
   <input id=input_band name=band placeholder="band: Yankee Ingenuity">
   <input id=input_caller name=caller placeholder="caller: Ted Sanella">
@@ -487,7 +506,14 @@ document.body.onload = load_all;
 </div>
 </div>
 <script>
+  let in_params = new URLSearchParams();
+  if (location.hash) {
+    in_params = new URLSearchParams(location.hash.slice(1));
+  }
   for (const input of document.getElementsByTagName("input")) {
+    if (input.name && in_params.has(input.name)) {
+      input.value = in_params.get(input.name);
+    }
     input.oninput = refresh_list;
   }
   function select_mode(is_map) {
