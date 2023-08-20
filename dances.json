@@ -223,7 +223,7 @@
   ["https://concordnhcontra.wordpress.com/", "Concord NH", "Saturdays", 10, "", false],
   ["http://www.monadnockfolk.org/?page_id=30", "Peterborough NH", "Saturdays", 12, "", true],
   ["https://www.facebook.com/Milford-Contra-Dance-920139244691079/", "Milford NH", "Fridays", 12, "", true],
-  ["http://seacoastcontra.com/", "Newfields NH", "Fridays", 12, "", false],
+  ["https://seacoastcontra.com/", "Newfields NH", "Fridays", 12, "", true],
 
   ["http://www.princetoncountrydancers.org/", "Princeton NJ", "Wednesdays", 52, "", true],
   ["https://folkproject.org/swingin-tern/", "Chatham NJ", "Saturdays", 24, "", true],
