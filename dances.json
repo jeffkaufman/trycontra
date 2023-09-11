@@ -363,6 +363,8 @@
   ["https://www.facebook.com/CornwallContraDance", "Cornwall VT", "Saturdays", 8, "", true],
   ["https://www.facebook.com/Tinmouthcontradance/", "Tinmouth VT", "Fridays", 9, "", false],
   ["https://www.facebook.com/NorwichContraDance", "Norwich VT", "Saturdays", 24, "", true],
+  ["https://www.facebook.com/Cabotcontradance", "Cabot VT", "Fridays", 10, "GF", true],
+
 
   ["https://www.facebook.com/pages/San-Juan-Islands-Contra-Dance/275816592483130", "Friday Harbor WA", "Saturdays", 8, "", true],
   ["http://spokanefolklore.org/contra.html", "Spokane WA", "Wednesdays", 40, "", true],
