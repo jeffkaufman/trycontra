@@ -12948,6 +12948,25 @@
   },
   {
     "typical_month": "10",
+    "name": "Wasatch Wiggle",
+    "callers": [
+      "Frannie Marr"
+    ],
+    "bands": [
+      "Audacious"
+    ],
+    "roles": "",
+    "date": "10/20/2023",
+    "location": "Salt Lake City UT",
+    "url": "https://wasatchcontras.org/ww/",
+    "year": 2023,
+    "latlng": [
+      40.76,
+      -111.89
+    ]
+  },
+  {
+    "typical_month": "10",
     "name": "Lake Eden Arts Festival - Fall",
     "callers": [],
     "bands": [],
@@ -12987,7 +13006,9 @@
     "callers": [
       "Lisa Greenleaf"
     ],
-    "bands": [],
+    "bands": [
+      "Lighthouse"
+    ],
     "roles": "",
     "date": "10/27/2023",
     "location": "Nashville TN",
@@ -13275,6 +13296,21 @@
     "latlng": [
       42.05,
       -87.69
+    ]
+  },
+  {
+    "typical_month": "11",
+    "name": "Turkey Quickly",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Chatanooga TN",
+    "url": "https://contranooga.us/",
+    "year": 2023,
+    "latlng": [
+      35.05,
+      -85.31
     ]
   },
   {
