@@ -171,6 +171,7 @@
   ["https://www.huntandallison.net/", "Monson ME", "Saturdays", 12, "", true],
   ["https://deffa.org/event/east-vassalboro-grange-5th-saturday-contra-dance-series-2023/", "Vassalboro ME", "Saturdays", 4, "", true],
   ["https://www.facebook.com/MooseIslandContradance", "Eastport ME", "Fridays and Saturdays", 4, "", true],
+  ["https://www.hackmatackplayhouse.org/", "Berwick, ME", "Saturdays", 4, "", true],
 
   ["https://www.facebook.com/groups/46753138765/", "Holland MI", "Fridays", 9, "", false],
   ["http://aactmad.org/contra/", "Ann Arbor MI", "Saturdays", 36, "", true],
@@ -194,6 +195,7 @@
   ["http://childgrove.org/about-dances/calling-party", "Creve Coeur MO", "Wednesdays", 50, "", false],
   ["http://www.jeromegrisanti.com/maryvilledance.htm", "Maryville MO", "Fridays", 15, "", false],
 
+  ["https://www.meetup.com/bay-saint-louis-contra-dance-meetup-group/", "Bay St Louis MS", "Saturdays", 12, "", true],  
 
   ["https://bozemanfolklore.org/contra-dance/", "Bozeman MT", "Fridays and Saturdays", 18, "", true],
   ["https://www.missoulafolk.org/", "Missoula MT", "Saturdays", 16, "", true],
@@ -283,7 +285,7 @@
   ["http://scissortail.org/where-we-dance/norman/", "Norman OK", "Fridays", 10, "", false],
 
 
-  ["http://socontra.org/", "Ashland OR", "Saturdays", 9, "", false],
+  ["https://socontra.org/", "Ashland OR", "Saturdays", 9, "", true],
   ["http://corvallisfolklore.org/home/contradancing/", "Corvallis OR", "Saturdays", 20, "", true],
   ["https://portlandcountrydance.org/pdxcontra-info/", "Portland OR", "Saturdays", 50, "GF", true],
   ["http://joyride.erikweberg.com/first-wednesdays/", "Portland OR", "Wednesdays", 10, "", true],
@@ -322,7 +324,7 @@
   ["https://www.knoxvillecontra.org/", "Oak Ridge TN", "Saturdays", 12, "", true],
   ["http://www.nashvillecountrydancers.org/", "Nashville TN", "Fridays", 24, "", true],
   ["https://www.facebook.com/groups/108316512542084/", "Memphis TN", "Fridays", 12, "", true],
-  ["http://contranooga.weebly.com/", "Chattanooga TN", "Saturdays", 18, "", true],
+  ["https://contranooga.us/", "Chattanooga TN", "Saturdays", 24, "", true],
   ["https://www.facebook.com/groups/HistoricJonesboroughDanceSociety/", "Jonesborough TN", "Saturdays", 27, "", true],
 
 
@@ -361,6 +363,8 @@
   ["https://www.facebook.com/CornwallContraDance", "Cornwall VT", "Saturdays", 8, "", true],
   ["https://www.facebook.com/Tinmouthcontradance/", "Tinmouth VT", "Fridays", 9, "", false],
   ["https://www.facebook.com/NorwichContraDance", "Norwich VT", "Saturdays", 24, "", true],
+  ["https://www.facebook.com/Cabotcontradance", "Cabot VT", "Fridays", 10, "GF", true],
+
 
   ["https://www.facebook.com/pages/San-Juan-Islands-Contra-Dance/275816592483130", "Friday Harbor WA", "Saturdays", 8, "", true],
   ["http://spokanefolklore.org/contra.html", "Spokane WA", "Wednesdays", 40, "", true],
@@ -394,7 +398,7 @@
   ["https://www.facebook.com/EdinburghContra/", "Edinburgh Scotland", "Saturdays", 12, "GF", true],
 
   ["https://www.facebook.com/HalifaxContraDances/", "Halifax Canada", "Saturdays", 12, "GF", true],
-  ["https://www.facebook.com/groups/422944181102487/", "Calgary Canada", "Saturdays", 12, "", false],
+  ["https://contradancecalgary.weebly.com/", "Calgary Canada", "Fridays", 8, "", true],
   ["https://www.facebook.com/drumlincontradances/", "Fergus Canada", "Fridays", 12, "", true],
   ["https://www.facebook.com/HamiltonFridayContradance/", "Hamilton Canada", "Fridays", 12, "", true],
   ["https://www.ottawacontra.ca/", "Ottawa Canada", "Saturdays", 24, "GF", true],

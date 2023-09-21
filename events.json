@@ -12521,21 +12521,6 @@
   },
   {
     "typical_month": "8",
-    "name": "Splash Dance Weekend",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Hendersonville, NC",
-    "url": "https://www.splashdance.org/",
-    "year": 2023,
-    "latlng": [
-      35.32,
-      -82.46
-    ]
-  },
-  {
-    "typical_month": "8",
     "name": "Balance the Bay",
     "callers": [
       "Lisa Greenleaf",
@@ -12595,6 +12580,27 @@
     "latlng": [
       29.71,
       -82.05
+    ]
+  },
+  {
+    "typical_month": "9",
+    "name": "Contravana",
+    "callers": [
+      "Katy Heine",
+      "Nils Fredland"
+    ],
+    "bands": [
+      "Elixir",
+      "Ostara"
+    ],
+    "roles": "",
+    "date": "9/10/2023",
+    "location": "Rochester NY",
+    "url": "https://cdrochester.org/events/contravana-weekend-with-elixir-and-ostara/",
+    "year": 2023,
+    "latlng": [
+      43.16,
+      -77.61
     ]
   },
   {
@@ -12722,8 +12728,12 @@
   {
     "typical_month": "9",
     "name": "Squirrel Moon Contra Dance weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Bev Bernbaum"
+    ],
+    "bands": [
+      "Boys of the Noise"
+    ],
     "roles": "",
     "date": "9/22/2023",
     "location": "Dodgeville WI",
@@ -12840,9 +12850,14 @@
   {
     "typical_month": "10",
     "name": "ContraStock",
-    "callers": [],
+    "callers": [
+      "Janine Smith",
+      "Bob Isaacs",
+      "Diane Silver"
+    ],
     "bands": [
-      "Kingfisher"
+      "Kingfisher",
+      "Live Wire"
     ],
     "roles": "",
     "date": "10/15/2023",
@@ -12869,21 +12884,6 @@
     "latlng": [
       41.96,
       -70.67
-    ]
-  },
-  {
-    "typical_month": "10",
-    "name": "Wasatch Wiggle",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Salt Lake City UT",
-    "url": "https://wasatchcontras.org/wiggle/",
-    "year": 2023,
-    "latlng": [
-      40.76,
-      -111.89
     ]
   },
   {
@@ -12928,36 +12928,6 @@
   },
   {
     "typical_month": "10",
-    "name": "Mountain Madness Contra Dance Weekend",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Jonesborough TN",
-    "url": "https://www.facebook.com/groups/HistoricJonesboroughDanceSociety",
-    "year": 2023,
-    "latlng": [
-      36.29,
-      -82.47
-    ]
-  },
-  {
-    "typical_month": "10",
-    "name": "Gender-Free Dance Camp (Fall)",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Becket MA",
-    "url": "https://www.lcfd.org/lcfd/",
-    "year": 2023,
-    "latlng": [
-      42.33,
-      -73.08
-    ]
-  },
-  {
-    "typical_month": "10",
     "name": "Phylla Mae Fall Fest",
     "callers": [
       "Bev Bernbaum"
@@ -12974,6 +12944,25 @@
     "latlng": [
       43.03,
       -76.0
+    ]
+  },
+  {
+    "typical_month": "10",
+    "name": "Wasatch Wiggle",
+    "callers": [
+      "Frannie Marr"
+    ],
+    "bands": [
+      "Audacious"
+    ],
+    "roles": "",
+    "date": "10/20/2023",
+    "location": "Salt Lake City UT",
+    "url": "https://wasatchcontras.org/ww/",
+    "year": 2023,
+    "latlng": [
+      40.76,
+      -111.89
     ]
   },
   {
@@ -13013,26 +13002,13 @@
   },
   {
     "typical_month": "10",
-    "name": "Tree Town Stomp",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Ann Arbor MI",
-    "url": "https://aactmad.org/tree-town-stomp",
-    "year": 2023,
-    "latlng": [
-      42.28,
-      -83.74
-    ]
-  },
-  {
-    "typical_month": "10",
     "name": "Music City Masquerade",
     "callers": [
       "Lisa Greenleaf"
     ],
-    "bands": [],
+    "bands": [
+      "Lighthouse"
+    ],
     "roles": "",
     "date": "10/27/2023",
     "location": "Nashville TN",
@@ -13045,62 +13021,22 @@
   },
   {
     "typical_month": "10",
-    "name": "Dancing Leaves",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Charlottesville VA",
-    "url": "https://contracorners.com/cville_fall_festival",
-    "year": 2023,
-    "latlng": [
-      38.03,
-      -78.48
-    ]
-  },
-  {
-    "typical_month": "10",
     "name": "Fire Ant Frolic",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Bob Isaacs"
+    ],
+    "bands": [
+      "Playing with Fyre",
+      "Contraverts"
+    ],
     "roles": "",
-    "date": "",
+    "date": "11/17/2023",
     "location": "Austin TX",
     "url": "http://www.fireantfrolic.org/",
     "year": 2023,
     "latlng": [
       30.27,
       -97.74
-    ]
-  },
-  {
-    "typical_month": "10",
-    "name": "Florida Fall Ball",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Tampa FL",
-    "url": "http://www.tampabaycontra.com/",
-    "year": 2023,
-    "latlng": [
-      27.95,
-      -82.46
-    ]
-  },
-  {
-    "typical_month": "10",
-    "name": "Next Generation Dance Camp",
-    "callers": [],
-    "bands": [],
-    "roles": "Larks / Robins",
-    "date": "",
-    "location": "Portland OR",
-    "url": "next in 2020",
-    "year": 2023,
-    "latlng": [
-      45.52,
-      -122.68
     ]
   },
   {
@@ -13156,36 +13092,6 @@
     "latlng": [
       40.68,
       -73.94
-    ]
-  },
-  {
-    "typical_month": "11",
-    "name": "Hey Fever Dance Weekend",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Ottawa ON",
-    "url": "http://www.ottawacontra.ca/heyFever/",
-    "year": 2023,
-    "latlng": [
-      45.42,
-      -75.7
-    ]
-  },
-  {
-    "typical_month": "11",
-    "name": "Twilight Twirl",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Seattle WA",
-    "url": "http://twilighttwirl.com",
-    "year": 2023,
-    "latlng": [
-      47.61,
-      -122.33
     ]
   },
   {
@@ -13292,21 +13198,6 @@
   },
   {
     "typical_month": "11",
-    "name": "Contra Fest",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Albany NY",
-    "url": "https://www.danceflurry.org/event/contrafest/",
-    "year": 2023,
-    "latlng": [
-      42.65,
-      -73.76
-    ]
-  },
-  {
-    "typical_month": "11",
     "name": "Fleur-de-Lis Fling",
     "callers": [
       "Gaye Fifer",
@@ -13405,6 +13296,21 @@
     "latlng": [
       42.05,
       -87.69
+    ]
+  },
+  {
+    "typical_month": "11",
+    "name": "Turkey Quickly",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Chatanooga TN",
+    "url": "https://contranooga.us/",
+    "year": 2023,
+    "latlng": [
+      35.05,
+      -85.31
     ]
   },
   {
