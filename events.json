@@ -12968,8 +12968,15 @@
   {
     "typical_month": "10",
     "name": "Lake Eden Arts Festival - Fall",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Will Mentor",
+      "River Abel"
+    ],
+    "bands": [
+      "Genticorum",
+      "the Dam Beavers",
+      "Contraforce"
+    ],
     "roles": "",
     "date": "10/19/2023",
     "location": "Black Mountain NC",
@@ -13082,8 +13089,14 @@
   {
     "typical_month": "11",
     "name": "ContraShock",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Will Mentor",
+      "Lisa Greenleaf"
+    ],
+    "bands": [
+      "Stomp Rocket",
+      "Some Assembly Required"
+    ],
     "roles": "",
     "date": "11/3/2023",
     "location": "Brooklyn NY",
@@ -13139,8 +13152,15 @@
   {
     "typical_month": "11",
     "name": "Pittsburgh Fall Dance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Gaye Fifer",
+      "Janine Smith",
+      "Michael Karcher"
+    ],
+    "bands": [
+      "Stomp Rocket",
+      "Supertrad"
+    ],
     "roles": "",
     "date": "10/27/2023",
     "location": "Pittsburgh PA",
@@ -13219,51 +13239,6 @@
   },
   {
     "typical_month": "11",
-    "name": "Pilgrim's Progression Dance Weekend",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Lawrence KS",
-    "url": "https://lawrencecontra.wordpress.com/dance-weekend/",
-    "year": 2023,
-    "latlng": [
-      38.97,
-      -95.24
-    ]
-  },
-  {
-    "typical_month": "11",
-    "name": "Rochester Thanksgiving Dance Weekend",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Rochester, NY",
-    "url": "https://cdrochester.org/events/2019-tg/",
-    "year": 2023,
-    "latlng": [
-      43.16,
-      -77.61
-    ]
-  },
-  {
-    "typical_month": "11",
-    "name": "ContraCopia",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Philadelphia PA",
-    "url": "http://www.thursdaycontra.com/contracopia/",
-    "year": 2023,
-    "latlng": [
-      39.95,
-      -75.17
-    ]
-  },
-  {
-    "typical_month": "11",
     "name": "Catalina Dance Weekend",
     "callers": [
       "Will Mentor",
@@ -13296,21 +13271,6 @@
     "latlng": [
       42.05,
       -87.69
-    ]
-  },
-  {
-    "typical_month": "11",
-    "name": "Turkey Quickly",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Chatanooga TN",
-    "url": "https://contranooga.us/",
-    "year": 2023,
-    "latlng": [
-      35.05,
-      -85.31
     ]
   },
   {
@@ -13356,8 +13316,16 @@
   {
     "typical_month": "12",
     "name": "Contradancers Delight Holiday (Winter)",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Terry Doyle",
+      "Warren Doyle",
+      "Bob Isaacs"
+    ],
+    "bands": [
+      "Drive Train",
+      "Toss the Possum",
+      "the Buzz Band"
+    ],
     "roles": "",
     "date": "12/26/2023",
     "location": "Kingsport TN ",
@@ -13455,7 +13423,7 @@
     "roles": "",
     "date": "",
     "location": "Durham NH",
-    "url": "https://www.neffa.org/ralph-page/32nd-annual-ralph-page-dance-weekend-january-17-19-2020/",
+    "url": "https://www.neffa.org/ralph-page/36th-rpde/",
     "year": 2024,
     "latlng": [
       43.13,
@@ -14491,7 +14459,7 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "9/6/2024",
     "location": "Rollins MT",
     "url": "https://www.missoulafolk.org/bearhug",
     "year": 2024,
@@ -14613,7 +14581,7 @@
     "roles": "",
     "date": "",
     "location": "Salt Lake City UT",
-    "url": "https://wasatchcontras.org/wiggle/",
+    "url": "https://wasatchcontras.org/ww/",
     "year": 2024,
     "latlng": [
       40.76,
@@ -15100,7 +15068,7 @@
       "George Paul"
     ],
     "roles": "Ladies/Gents",
-    "date": "12/26 -1/1",
+    "date": "12/26/2024",
     "location": "Kingsport, TN ",
     "url": "http://www.contradancersdelight.com/about-winter-cdh",
     "year": 2024,
