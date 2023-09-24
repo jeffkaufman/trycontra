@@ -178,20 +178,14 @@ function tidy_dances() {
     dance.y = null;
     dance.m = null;
     dance.d = null;
-    dance.projected = false;
     if (dance.date) {
       [dance.m, dance.d, dance.y] = dance.date.split("/");
       dance.y = Number(dance.y);
       dance.m = Number(dance.m);
       dance.d = Number(dance.d);
 
-      dance.in_future =
-          (dance.y > today_y) ||
-          (dance.y == today_y && dance.m > today_m) ||
-          (dance.y == today_y && dance.m == today_m && dance.d > today_d);
-      if (!dance.in_future) {
-        dance.y += 1
-        dance.projected = true;
+      if (dance.y != dance.year && dance.year > 2020) {
+        console.log("Bad year", dance.y, dance.year, dance);
       }
     } else {
       // If we don't know when the dance is, go with the middle of the
@@ -200,11 +194,15 @@ function tidy_dances() {
       if (dance.m > today_m) {
         dance.y = today_y;
       } else {
-        dance.y = today_y + 1;
+        dance.y = dance.year
       }
       dance.d = 15;
-      dance.in_future = true;
     }
+
+    dance.in_future =
+      (dance.y > today_y) ||
+      (dance.y == today_y && dance.m > today_m) ||
+      (dance.y == today_y && dance.m == today_m && dance.d > today_d);
   }
 
   const to_remove = [];
@@ -216,7 +214,7 @@ function tidy_dances() {
       to_remove.push(i);
     } else if (dance.name in seen) {
       const seen_dance = dances[seen[dance.name]];
-      if (seen_dance.in_future || (seen_dance.projected && dance.projected)) {
+      if (seen_dance.in_future) {
         to_remove.push(i);
       } else {
         to_remove.push(seen[dance.name]);
@@ -277,7 +275,7 @@ function dance_html(y, m, d, dance) {
   location.classList.add("dance-location");
   dance_div.appendChild(location);
 
-  if (!dance.projected && (dance.callers || dance.bands)) {
+  if (dance.callers || dance.bands) {
     let performers_text = "";
     if (dance.callers.length) {
       performers_text += list_format_en.format(dance.callers) + " calling";
@@ -382,13 +380,15 @@ function refresh_list() {
     // in 2020-01, still include it.
     if (target_d != null && dance.date && target_d != dance.d) continue;
 
-    if (dance.projected) {
-      if (input_band.value || input_caller.value) continue;
-    } else {
-      if (input_band.value &&
-          !(""+dance.bands).toLowerCase().includes(input_band.value.toLowerCase())) continue;
-      if (input_caller.value &&
-          !(""+dance.callers).toLowerCase().includes(input_caller.value.toLowerCase())) continue;
+    if (input_band.value &&
+        !(""+dance.bands).toLowerCase().includes(
+          input_band.value.toLowerCase())) {
+      continue;
+    }
+    if (input_caller.value &&
+        !(""+dance.callers).toLowerCase().includes(
+          input_caller.value.toLowerCase())) {
+      continue;
     }
 
     const lat = dance.latlng[0];
