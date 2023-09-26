@@ -260,7 +260,7 @@ function dance_html(y, m, d, dance) {
   dance_div.target = "_blank";
 
   let date_text = dance.date;
-  if (!dance.in_future || !dance.date) {
+  if (!dance.date) {
     date_text = m + "/" + y + "?";
   }
   const date = e("div", date_text)
@@ -371,6 +371,8 @@ function refresh_list() {
   const bounds = new google.maps.LatLngBounds();
   for (const dance of dances) {
     if (!dance.latlng || !dance.name || !dance.url) continue;
+
+    if (!dance.in_future) continue;
 
     let exclude_by_location = target_state && !dance.location.endsWith(target_state);
 
