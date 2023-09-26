@@ -14317,10 +14317,16 @@
   {
     "typical_month": "7",
     "name": "Summergreen",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Alex Deis-Lauby",
+      "Rab Cummings"
+    ],
+    "bands": [
+      "the Dam Beavers",
+      "Drovers Grove"
+    ],
     "roles": "",
-    "date": "",
+    "date": "7/19/2024",
     "location": "Livingston MT",
     "url": "https://bozemanfolklore.org/summergreen/",
     "year": 2024,
@@ -14507,6 +14513,21 @@
     "latlng": [
       29.71,
       -82.05
+    ]
+  },
+  {
+    "typical_month": "9",
+    "name": "Contravana",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Rochester NY",
+    "url": "https://cdrochester.org/",
+    "year": 2024,
+    "latlng": [
+      43.16,
+      -77.61
     ]
   },
   {
