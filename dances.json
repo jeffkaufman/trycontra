@@ -228,7 +228,7 @@
   ["https://seacoastcontra.com/", "Newfields NH", "Fridays", 12, "", true],
 
   ["http://www.princetoncountrydancers.org/", "Princeton NJ", "Wednesdays", 52, "", true],
-  ["https://folkproject.org/swingin-tern/", "Chatham NJ", "Saturdays", 24, "", true],
+  ["https://folkproject.org/swingin-tern/", "Chatham NJ", "Saturdays", 24, "GF", true],
 
 
   ["http://www.snmmds.org/", "Mesilla NM", "Fridays", 10, "", false],
