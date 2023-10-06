@@ -245,7 +245,7 @@
  ["http://contraremix.com/", "Portland OR", "Sundays", 12, 45.52, -122.68, "GF", false],
  ["https://www.meetup.com/Hillsboro-Dance-Lessons-Meetup/", "Hillsboro OR", "Fridays", 12, 45.51, -122.94, "", false],
  ["https://www.facebook.com/toppish/", "Meadville PA", "Wednesdays", 12, 41.64, -80.15, "", true],
- ["http://www.thursdaycontra.com/", "Mt. Airy PA", "Thursdays", 52, 40.04, -75.19, "", true],
+ ["http://www.thursdaycontra.com/", "Mt. Airy PA", "Thursdays", 52, 40.04, -75.19, "GF", true],
  ["http://pittsburghcontra.org/", "Pittsburgh PA", "Fridays", 28, 40.44, -80.0, "", true],
  ["https://sites.google.com/site/cpcdapublic/home", "State College PA", "Fridays", 9, 40.79, -77.86, "", false],
  ["http://www.thursdaycontra.com/ThirdSaturday.html", "Mt. Airy PA", "Saturdays", 9, 40.04, -75.19, "", true],

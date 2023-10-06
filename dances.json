@@ -298,7 +298,7 @@
 
 
   ["https://www.facebook.com/toppish/", "Meadville PA", "Wednesdays", 12, "", true],
-  ["http://www.thursdaycontra.com/", "Mt. Airy PA", "Thursdays", 52, "", true],
+  ["http://www.thursdaycontra.com/", "Mt. Airy PA", "Thursdays", 52, "GF", true],
   ["http://pittsburghcontra.org/", "Pittsburgh PA", "Fridays", 28, "", true],
   ["https://sites.google.com/site/cpcdapublic/home", "State College PA", "Fridays", 9, "", false],
   ["http://www.thursdaycontra.com/ThirdSaturday.html", "Mt. Airy PA", "Saturdays", 9, "", true],
