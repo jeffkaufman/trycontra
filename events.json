@@ -15314,5 +15314,81 @@
       39.31,
       -77.48
     ]
+  },
+  {
+    "typical_month": "2",
+    "name": "IVFDF",
+    "callers": [],
+    "bands": [],
+    "roles": "Larks / Robins",
+    "date": "2/16/2024",
+    "location": "York, UK",
+    "url": "https://ivfdf2024.org.uk/",
+    "year": 2024,
+    "latlng": [
+      53.94,
+      -1.05
+    ]
+  },
+  {
+    "typical_month": "4",
+    "name": "Contra Camp",
+    "callers": ["Lousie Siddons", "Heather McAslan"],
+    "bands": ["WillPower"],
+    "roles": "",
+    "date": "4/5/2024",
+    "location": "Halsway, UK",
+    "url": "https://halswaymanor.org.uk/event/contra-camp-2024/",
+    "year": 2024,
+    "latlng": [
+      51.14,
+      -3.25
+    ]
+  },
+  {
+    "typical_month": "5",
+    "name": "May Heydays at Evesham",
+    "callers": [
+      "Will Mentor",
+      "Charlie Turner",
+      "Charlotte Rich-Griffin",
+      "Frances Richardson",
+      "Lynne Render",
+      "Rhodri Davies",
+      "Trevor Monson"
+    ],
+    "bands": [
+      "Lighthouse",
+      "Contrasaurus",
+      "Eclectic Regency",
+      "Keeping Thyme",
+      "Mollie & Dave",
+      "Momentum",
+      "Ygra"
+    ],
+    "roles": "",
+    "date": "5/3/2024",
+    "location": "Evesham, UK",
+    "url": "http://mayheydays.org.uk/",
+    "year": 2024,
+    "latlng": [
+      52.09,
+      -1.95
+    ]
+  },
+  {
+    "typical_month": "6",
+    "name": "Stegastomp",
+    "callers": ["Charlie Turner", "Andrew Swaine"],
+    "bands": ["Contrasaurus"],
+    "roles": "Larks / Robins",
+    "date": "6/28/2024",
+    "location": "Harbury, UK",
+    "url": "https://www.contrasaurus.com/stegastomp.html",
+    "year": 2024,
+    "latlng": [
+      52.23,
+      -1.46
+    ]
   }
 ]
