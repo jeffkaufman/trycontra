@@ -12175,6 +12175,26 @@
     ]
   },
   {
+    "typical_month": "6",
+    "name": "Stegastomp",
+    "callers": [
+      "Bob Morgan",
+      "Rachel Shapiro-Wallace"
+    ],
+    "bands": [
+      "Contrasaurus"
+    ],
+    "roles": "",
+    "date": "6/30/2023",
+    "location": "Harbury UK",
+    "url": "https://www.contrasaurus.com/stegastomp.html",
+    "year": 2023,
+    "latlng": [
+      52.24,
+      -1.46
+    ]
+  },
+  {
     "typical_month": "7",
     "name": "Dancing Fish: July",
     "callers": [
@@ -13491,6 +13511,21 @@
   },
   {
     "typical_month": "2",
+    "name": "IVFDF",
+    "callers": [],
+    "bands": [],
+    "roles": "Larks / Robins",
+    "date": "2/16/2024",
+    "location": "York UK",
+    "url": "https://ivfdf2024.org.uk/",
+    "year": 2024,
+    "latlng": [
+      53.96,
+      -1.07
+    ]
+  },
+  {
+    "typical_month": "2",
     "name": "Dancing Fish: February",
     "callers": [
       "Mary Wesley"
@@ -13701,6 +13736,26 @@
   },
   {
     "typical_month": "4",
+    "name": "Contra Camp",
+    "callers": [
+      "Louise Siddons",
+      "Heather McAslan"
+    ],
+    "bands": [
+      "WillPower"
+    ],
+    "roles": "",
+    "date": "4/5/2024",
+    "location": "Halsway UK",
+    "url": "https://halswaymanor.org.uk/event/contra-camp-2024/",
+    "year": 2024,
+    "latlng": [
+      51.13,
+      -3.25
+    ]
+  },
+  {
+    "typical_month": "4",
     "name": "Dancing Fish: April",
     "callers": [
       "Janine Smith"
@@ -13880,6 +13935,30 @@
   },
   {
     "typical_month": "5",
+    "name": "May Heydays at Evesham",
+    "callers": [
+      "Will Mentor",
+      "Charlie Turner",
+      "Lynne Render",
+      "Rhodri Davies"
+    ],
+    "bands": [
+      "Lighthouse",
+      "Contrasaurus",
+      "Eclectic Regency"
+    ],
+    "roles": "",
+    "date": "5/3/2024",
+    "location": "Evesham UK",
+    "url": "http://mayheydays.org.uk/",
+    "year": 2024,
+    "latlng": [
+      52.09,
+      -1.95
+    ]
+  },
+  {
+    "typical_month": "5",
     "name": "Dancing Fish: May",
     "callers": [
       "Alex Deis-Lauby"
@@ -14008,6 +14087,26 @@
     "latlng": [
       47.61,
       -122.33
+    ]
+  },
+  {
+    "typical_month": "6",
+    "name": "Stegastomp",
+    "callers": [
+      "Charlie Turner",
+      "Andrew Swaine"
+    ],
+    "bands": [
+      "Contrasaurus"
+    ],
+    "roles": "",
+    "date": "6/28/2024",
+    "location": "Harbury UK",
+    "url": "https://www.contrasaurus.com/stegastomp.html",
+    "year": 2024,
+    "latlng": [
+      52.24,
+      -1.46
     ]
   },
   {
