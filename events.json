@@ -13361,7 +13361,7 @@
     "name": "Bash on Vashon",
     "callers": [],
     "bands": [],
-    "roles": "",
+    "roles": "Larks / Robins",
     "date": "12/29/2023",
     "location": "Vashon Island WA",
     "url": "https://bashonvashon.org/",
@@ -13375,6 +13375,7 @@
     "typical_month": "12",
     "name": "Berea Christmas Country Dance School",
     "callers": [
+      "Darlene Underwood",
       "Darlene Underwood"
     ],
     "bands": [],
@@ -13391,8 +13392,13 @@
   {
     "typical_month": "12",
     "name": "Terpsichore's Holiday",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Luke Donforth",
+      "Adina Gordon"
+    ],
+    "bands": [
+      "Wake Up Robin"
+    ],
     "roles": "",
     "date": "12/27/2023",
     "location": "Adamstown MD",
