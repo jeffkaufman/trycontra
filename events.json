@@ -13650,10 +13650,16 @@
   {
     "typical_month": "2",
     "name": "Supersonic",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Seth Tepfer",
+      "Will Mentor"
+    ],
+    "bands": [
+      "Notorious",
+      "Playing with Fyre"
+    ],
     "roles": "Larks / Robins",
-    "date": "",
+    "date": "2/2/2024",
     "location": "Seattle WA",
     "url": "http://www.supersoniccontra.com/",
     "year": 2024,
@@ -14559,21 +14565,6 @@
   },
   {
     "typical_month": "8",
-    "name": "Splash Dance Weekend",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Hendersonville, NC",
-    "url": "https://www.splashdance.org/",
-    "year": 2024,
-    "latlng": [
-      35.32,
-      -82.46
-    ]
-  },
-  {
-    "typical_month": "8",
     "name": "Balance the Bay",
     "callers": [],
     "bands": [],
@@ -14889,21 +14880,6 @@
   },
   {
     "typical_month": "10",
-    "name": "Mountain Madness Contra Dance Weekend",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Jonesborough TN",
-    "url": "https://www.facebook.com/groups/HistoricJonesboroughDanceSociety",
-    "year": 2024,
-    "latlng": [
-      36.29,
-      -82.47
-    ]
-  },
-  {
-    "typical_month": "10",
     "name": "Gender-Free Dance Camp (Fall)",
     "callers": [],
     "bands": [],
@@ -14979,21 +14955,6 @@
   },
   {
     "typical_month": "10",
-    "name": "Tree Town Stomp",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Ann Arbor MI",
-    "url": "https://aactmad.org/tree-town-stomp",
-    "year": 2024,
-    "latlng": [
-      42.28,
-      -83.74
-    ]
-  },
-  {
-    "typical_month": "10",
     "name": "Music City Masquerade",
     "callers": [],
     "bands": [],
@@ -15009,21 +14970,6 @@
   },
   {
     "typical_month": "10",
-    "name": "Dancing Leaves",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Charlottesville VA",
-    "url": "https://contracorners.com/cville_fall_festival",
-    "year": 2024,
-    "latlng": [
-      38.03,
-      -78.48
-    ]
-  },
-  {
-    "typical_month": "10",
     "name": "Fire Ant Frolic",
     "callers": [],
     "bands": [],
@@ -15035,36 +14981,6 @@
     "latlng": [
       30.27,
       -97.74
-    ]
-  },
-  {
-    "typical_month": "10",
-    "name": "Florida Fall Ball",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Tampa FL",
-    "url": "http://www.tampabaycontra.com/",
-    "year": 2024,
-    "latlng": [
-      27.95,
-      -82.46
-    ]
-  },
-  {
-    "typical_month": "10",
-    "name": "Next Generation Dance Camp",
-    "callers": [],
-    "bands": [],
-    "roles": "Larks / Robins",
-    "date": "",
-    "location": "Portland OR",
-    "url": "next in 2020",
-    "year": 2024,
-    "latlng": [
-      45.52,
-      -122.68
     ]
   },
   {
@@ -15125,21 +15041,6 @@
     "latlng": [
       45.42,
       -75.7
-    ]
-  },
-  {
-    "typical_month": "11",
-    "name": "Twilight Twirl",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Seattle WA",
-    "url": "http://twilighttwirl.com",
-    "year": 2024,
-    "latlng": [
-      47.61,
-      -122.33
     ]
   },
   {
@@ -15245,36 +15146,6 @@
     "latlng": [
       38.25,
       -85.76
-    ]
-  },
-  {
-    "typical_month": "11",
-    "name": "Pilgrim's Progression Dance Weekend",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Lawrence KS",
-    "url": "https://lawrencecontra.wordpress.com/dance-weekend/",
-    "year": 2024,
-    "latlng": [
-      38.97,
-      -95.24
-    ]
-  },
-  {
-    "typical_month": "11",
-    "name": "Rochester Thanksgiving Dance Weekend",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Rochester, NY",
-    "url": "https://cdrochester.org/events/2019-tg/",
-    "year": 2024,
-    "latlng": [
-      43.16,
-      -77.61
     ]
   },
   {
