@@ -13548,7 +13548,11 @@
     "location": "York UK",
     "url": "https://ivfdf2024.org.uk/",
     "year": 2024,
-    "date_end": "2/18/2024"
+    "date_end": "2/18/2024",
+    "latlng": [
+      53.96,
+      -1.07
+    ]
   },
   {
     "typical_month": "2",
@@ -13740,7 +13744,11 @@
     "date": "",
     "location": "Lake Wylie SC",
     "url": "https://www.charlottecontradance.org/carolina-meltdown",
-    "year": 2024
+    "year": 2024,
+    "latlng": [
+      35.11,
+      -81.04
+    ]
   },
   {
     "typical_month": "3",
@@ -13767,6 +13775,7 @@
     "location": "Cambridge MA",
     "url": "https://www.beantownstomp.com",
     "year": 2024,
+    "date_end": "3/17/2024",
     "latlng": [
       42.37,
       -71.11
@@ -13801,7 +13810,11 @@
     "date": "4/5/2024",
     "location": "Halsway UK",
     "url": "https://halswaymanor.org.uk/event/contra-camp-2024/",
-    "year": 2024
+    "year": 2024,
+    "latlng": [
+      51.13,
+      -3.25
+    ]
   },
   {
     "typical_month": "4",
@@ -14003,7 +14016,11 @@
     "date": "5/3/2024",
     "location": "Evesham UK",
     "url": "http://mayheydays.org.uk/",
-    "year": 2024
+    "year": 2024,
+    "latlng": [
+      52.09,
+      -1.95
+    ]
   },
   {
     "typical_month": "5",
@@ -14812,7 +14829,11 @@
     "date": "",
     "location": "Surrey BC",
     "url": "http://www.vcn.bc.ca/vcountry/chehalis/",
-    "year": 2024
+    "year": 2024,
+    "latlng": [
+      49.19,
+      -122.85
+    ]
   },
   {
     "typical_month": "9",
@@ -15078,7 +15099,11 @@
     "date": "",
     "location": "New York NY",
     "url": "http://contrashock.org/",
-    "year": 2024
+    "year": 2024,
+    "latlng": [
+      40.71,
+      -74.01
+    ]
   },
   {
     "typical_month": "11",
@@ -15293,7 +15318,11 @@
     "date": "12/26/2024",
     "location": "Kingsport, TN ",
     "url": "http://www.contradancersdelight.com/about-winter-cdh",
-    "year": 2024
+    "year": 2024,
+    "latlng": [
+      36.55,
+      -82.56
+    ]
   },
   {
     "typical_month": "12",
