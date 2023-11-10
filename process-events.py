@@ -25,26 +25,48 @@ for year, fname in [
             if n == 0:
                 continue
 
-            (typical_month,
-             name,
-             caller1,
-             caller2,
-             caller3,
-             caller4,
-             caller5,
-             caller6,
-             band1,
-             band2,
-             band3,
-             band4,
-             band5,
-             band6,
-             roles,
-             date,
-             location,
-             url,
-             *_) = line.split("\t")
-
+            if year <= 2023:
+                (typical_month,
+                 name,
+                 caller1,
+                 caller2,
+                 caller3,
+                 caller4,
+                 caller5,
+                 caller6,
+                 band1,
+                 band2,
+                 band3,
+                 band4,
+                 band5,
+                 band6,
+                 roles,
+                 date,
+                 location,
+                 url,
+                 *_) = line.split("\t")
+                date_end = ""
+            else:
+                (typical_month,
+                 name,
+                 caller1,
+                 caller2,
+                 caller3,
+                 caller4,
+                 caller5,
+                 caller6,
+                 band1,
+                 band2,
+                 band3,
+                 band4,
+                 band5,
+                 band6,
+                 roles,
+                 date,
+                 date_end,
+                 location,
+                 url,
+                 *_) = line.split("\t")
 
             if not name:
                 continue
@@ -73,18 +95,20 @@ for year, fname in [
                 "the " + band if band in bands_add_the else band
                 for band in bands]
 
-            records.append(
-                {"typical_month": typical_month,
-                 "name": name,
-                 "callers": callers,
-                 "bands": bands,
-                 "roles": roles,
-                 "date": date,
-                 "location": location,
-                 "url": url,
-                 "year": year,
-                 }
-            )
+            rec = {
+                "typical_month": typical_month,
+                "name": name,
+                "callers": callers,
+                "bands": bands,
+                "roles": roles,
+                "date": date,
+                "location": location,
+                "url": url,
+                "year": year,
+            }
+            if date_end:
+                rec["date_end"] = date_end
+            records.append(rec)
 
 with open("events.json") as inf:
     old_records = json.load(inf)

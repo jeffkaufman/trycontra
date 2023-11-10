@@ -13421,9 +13421,14 @@
     ],
     "roles": "",
     "date": "1/5/2024",
-    "location": "1/6/2024",
-    "url": "Melrose FL",
-    "year": 2024
+    "location": "Melrose FL",
+    "url": "https://dancingfish.dance/",
+    "year": 2024,
+    "date_end": "1/6/2024",
+    "latlng": [
+      29.71,
+      -82.05
+    ]
   },
   {
     "typical_month": "1",
@@ -13440,9 +13445,14 @@
     ],
     "roles": "Larks / Robins",
     "date": "1/5/2024",
-    "location": "1/7/2024",
-    "url": "Urbana IL",
-    "year": 2024
+    "location": "Urbana IL",
+    "url": "http://www.urbana-contra.org/jan_jam.html",
+    "year": 2024,
+    "date_end": "1/7/2024",
+    "latlng": [
+      40.11,
+      -88.21
+    ]
   },
   {
     "typical_month": "1",
@@ -13458,9 +13468,14 @@
     ],
     "roles": "",
     "date": "1/12/2024",
-    "location": "1/13/2024",
-    "url": "Durham NH",
-    "year": 2024
+    "location": "Durham NH",
+    "url": "https://www.neffa.org/ralph-page/rpde/",
+    "year": 2024,
+    "date_end": "1/13/2024",
+    "latlng": [
+      43.13,
+      -70.93
+    ]
   },
   {
     "typical_month": "1",
@@ -13477,9 +13492,14 @@
     ],
     "roles": "Larks / Robins",
     "date": "1/12/2024",
-    "location": "1/14/2024",
-    "url": "San Louis Obispo CA",
-    "year": 2024
+    "location": "San Louis Obispo CA",
+    "url": "https://contracarnivale.org/",
+    "year": 2024,
+    "date_end": "1/14/2024",
+    "latlng": [
+      35.28,
+      -120.66
+    ]
   },
   {
     "typical_month": "1",
@@ -13488,9 +13508,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Berea KY",
-    "year": 2024
+    "location": "Berea KY",
+    "url": "https://www.swingshift.ltda.us/",
+    "year": 2024,
+    "latlng": [
+      37.57,
+      -84.3
+    ]
   },
   {
     "typical_month": "1",
@@ -13505,9 +13529,14 @@
     ],
     "roles": "",
     "date": "1/26/2024",
-    "location": "1/28/2024",
-    "url": "Gulfport FL",
-    "year": 2024
+    "location": "Gulfport FL",
+    "url": "http://floridasnowball.tampabaycontra.com/",
+    "year": 2024,
+    "date_end": "1/28/2024",
+    "latlng": [
+      27.75,
+      -82.7
+    ]
   },
   {
     "typical_month": "2",
@@ -13516,9 +13545,10 @@
     "bands": [],
     "roles": "Larks / Robins",
     "date": "2/16/2024",
-    "location": "2/18/2024",
-    "url": "York UK",
-    "year": 2024
+    "location": "York UK",
+    "url": "https://ivfdf2024.org.uk/",
+    "year": 2024,
+    "date_end": "2/18/2024"
   },
   {
     "typical_month": "2",
@@ -13529,9 +13559,14 @@
     "bands": [],
     "roles": "",
     "date": "2/2/2024",
-    "location": "2/3/2024",
-    "url": "Melrose FL",
-    "year": 2024
+    "location": "Melrose FL",
+    "url": "https://dancingfish.dance/",
+    "year": 2024,
+    "date_end": "2/3/2024",
+    "latlng": [
+      29.71,
+      -82.05
+    ]
   },
   {
     "typical_month": "2",
@@ -13545,9 +13580,14 @@
     ],
     "roles": "",
     "date": "2/7/2024",
-    "location": "2/14/2024",
-    "url": "St Croix",
-    "year": 2024
+    "location": "St Croix",
+    "url": "https://www.tropicaldancevacation.com/contra-week.html",
+    "year": 2024,
+    "date_end": "2/14/2024",
+    "latlng": [
+      17.72,
+      -64.83
+    ]
   },
   {
     "typical_month": "2",
@@ -13562,9 +13602,14 @@
     ],
     "roles": "Larks / Robins",
     "date": "2/16/2024",
-    "location": "2/18/2024",
-    "url": "Corvallis OR",
-    "year": 2024
+    "location": "Corvallis OR",
+    "url": "http://corvallisfolklore.org/ccw/",
+    "year": 2024,
+    "date_end": "2/18/2024",
+    "latlng": [
+      44.56,
+      -123.26
+    ]
   },
   {
     "typical_month": "2",
@@ -13578,9 +13623,14 @@
     ],
     "roles": "",
     "date": "2/9/2024",
-    "location": "2/11/2024",
-    "url": "Knoxville TN",
-    "year": 2024
+    "location": "Knoxville TN",
+    "url": "https://www.knoxvillecontra.org/cfschedule",
+    "year": 2024,
+    "date_end": "2/11/2024",
+    "latlng": [
+      35.96,
+      -83.92
+    ]
   },
   {
     "typical_month": "2",
@@ -13589,9 +13639,14 @@
     "bands": [],
     "roles": "",
     "date": "2/16/2024",
-    "location": "2/18/2024",
-    "url": "Saratoa Springs NY",
-    "year": 2024
+    "location": "Saratoa Springs NY",
+    "url": "http://www.flurryfestival.org/",
+    "year": 2024,
+    "date_end": "2/18/2024",
+    "latlng": [
+      43.08,
+      -73.78
+    ]
   },
   {
     "typical_month": "2",
@@ -13604,9 +13659,14 @@
     ],
     "roles": "",
     "date": "2/9/2024",
-    "location": "2/11/2024",
-    "url": "Houston TX",
-    "year": 2024
+    "location": "Houston TX",
+    "url": "http://www.bayoubedlam.org/",
+    "year": 2024,
+    "date_end": "2/11/2024",
+    "latlng": [
+      29.76,
+      -95.37
+    ]
   },
   {
     "typical_month": "2",
@@ -13621,9 +13681,14 @@
     ],
     "roles": "Larks / Robins",
     "date": "2/23/2024",
-    "location": "2/25/2024",
-    "url": "Pasadena CA",
-    "year": 2024
+    "location": "Pasadena CA",
+    "url": "https://www.caldancecoop.org/special-events/fiddling-frog/",
+    "year": 2024,
+    "date_end": "2/25/2024",
+    "latlng": [
+      34.15,
+      -118.14
+    ]
   },
   {
     "typical_month": "2",
@@ -13638,9 +13703,13 @@
     ],
     "roles": "Larks / Robins",
     "date": "2/2/2024",
-    "location": "",
-    "url": "Seattle WA",
-    "year": 2024
+    "location": "Seattle WA",
+    "url": "http://www.supersoniccontra.com/",
+    "year": 2024,
+    "latlng": [
+      47.61,
+      -122.33
+    ]
   },
   {
     "typical_month": "3",
@@ -13653,9 +13722,14 @@
     ],
     "roles": "",
     "date": "3/1/2024",
-    "location": "3/2/2024",
-    "url": "Melrose FL",
-    "year": 2024
+    "location": "Melrose FL",
+    "url": "https://dancingfish.dance/",
+    "year": 2024,
+    "date_end": "3/2/2024",
+    "latlng": [
+      29.71,
+      -82.05
+    ]
   },
   {
     "typical_month": "3",
@@ -13664,8 +13738,8 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Lake Wylie SC",
+    "location": "Lake Wylie SC",
+    "url": "https://www.charlottecontradance.org/carolina-meltdown",
     "year": 2024
   },
   {
@@ -13675,9 +13749,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Columbia MO",
-    "year": 2024
+    "location": "Columbia MO",
+    "url": "https://mmtd.wordpress.com/dance-weekend-2023/",
+    "year": 2024,
+    "latlng": [
+      38.95,
+      -92.33
+    ]
   },
   {
     "typical_month": "3",
@@ -13686,9 +13764,13 @@
     "bands": [],
     "roles": "Larks / Robins",
     "date": "3/15/2024",
-    "location": "",
-    "url": "Cambridge MA",
-    "year": 2024
+    "location": "Cambridge MA",
+    "url": "https://www.beantownstomp.com",
+    "year": 2024,
+    "latlng": [
+      42.37,
+      -71.11
+    ]
   },
   {
     "typical_month": "3",
@@ -13697,9 +13779,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Helena GA",
-    "year": 2024
+    "location": "Helena GA",
+    "url": "https://www.snca.org/contra/danceWeekend/pageWeekend.php",
+    "year": 2024,
+    "latlng": [
+      32.07,
+      -82.91
+    ]
   },
   {
     "typical_month": "4",
@@ -13713,8 +13799,8 @@
     ],
     "roles": "",
     "date": "4/5/2024",
-    "location": "",
-    "url": "Halsway UK",
+    "location": "Halsway UK",
+    "url": "https://halswaymanor.org.uk/event/contra-camp-2024/",
     "year": 2024
   },
   {
@@ -13728,9 +13814,14 @@
     ],
     "roles": "",
     "date": "4/5/2024",
-    "location": "4/6/2024",
-    "url": "Melrose FL",
-    "year": 2024
+    "location": "Melrose FL",
+    "url": "https://dancingfish.dance/",
+    "year": 2024,
+    "date_end": "4/6/2024",
+    "latlng": [
+      29.71,
+      -82.05
+    ]
   },
   {
     "typical_month": "4",
@@ -13743,9 +13834,14 @@
     ],
     "roles": "",
     "date": "4/19/2024",
-    "location": "4/21/2024",
-    "url": "Melrose FL",
-    "year": 2024
+    "location": "Melrose FL",
+    "url": "https://dancingfish.dance/",
+    "year": 2024,
+    "date_end": "4/21/2024",
+    "latlng": [
+      29.71,
+      -82.05
+    ]
   },
   {
     "typical_month": "4",
@@ -13754,9 +13850,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Ely, England",
-    "year": 2024
+    "location": "Ely, England",
+    "url": "https://contraholiday.net/",
+    "year": 2024,
+    "latlng": [
+      52.4,
+      0.26
+    ]
   },
   {
     "typical_month": "4",
@@ -13771,9 +13871,13 @@
     ],
     "roles": "Larks / Robins",
     "date": "4/5/2024",
-    "location": "",
-    "url": "Mill Valley CA",
-    "year": 2024
+    "location": "Mill Valley CA",
+    "url": "https://nbcds.org/epicenter-2023/",
+    "year": 2024,
+    "latlng": [
+      37.91,
+      -122.54
+    ]
   },
   {
     "typical_month": "4",
@@ -13782,9 +13886,13 @@
     "bands": [],
     "roles": "Larks / Robins",
     "date": "4/12/2024",
-    "location": "",
-    "url": "Aptos CA",
-    "year": 2024
+    "location": "Aptos CA",
+    "url": "https://www.queercontradance.org/queercamp.html",
+    "year": 2024,
+    "latlng": [
+      36.98,
+      -121.9
+    ]
   },
   {
     "typical_month": "4",
@@ -13793,9 +13901,13 @@
     "bands": [],
     "roles": "",
     "date": "4/12/2024",
-    "location": "",
-    "url": "Minneapolis MN",
-    "year": 2024
+    "location": "Minneapolis MN",
+    "url": "https://www.tapestryfolkdance.org/call-of-the-loon.html",
+    "year": 2024,
+    "latlng": [
+      44.98,
+      -93.27
+    ]
   },
   {
     "typical_month": "4",
@@ -13804,9 +13916,14 @@
     "bands": [],
     "roles": "Larks / Robins",
     "date": "4/19/2024",
-    "location": "4/21/2024",
-    "url": "Marlborogh MA",
-    "year": 2024
+    "location": "Marlborogh MA",
+    "url": "https://www.neffa.org/",
+    "year": 2024,
+    "date_end": "4/21/2024",
+    "latlng": [
+      42.35,
+      -71.55
+    ]
   },
   {
     "typical_month": "4",
@@ -13815,9 +13932,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Ithaca NY",
-    "year": 2024
+    "location": "Ithaca NY",
+    "url": "http://www.hands4dancers.org/upcoming-dances/2023/4/1/fiddlehead-frolic",
+    "year": 2024,
+    "latlng": [
+      42.44,
+      -76.5
+    ]
   },
   {
     "typical_month": "4",
@@ -13826,9 +13947,13 @@
     "bands": [],
     "roles": "",
     "date": "4/26/2024",
-    "location": "",
-    "url": "Berea KY",
-    "year": 2024
+    "location": "Berea KY",
+    "url": "https://www.hands4-berea.com/",
+    "year": 2024,
+    "latlng": [
+      37.57,
+      -84.3
+    ]
   },
   {
     "typical_month": "4",
@@ -13837,9 +13962,13 @@
     "bands": [],
     "roles": "Larks / Robins",
     "date": "",
-    "location": "",
-    "url": "Oberlin OH",
-    "year": 2024
+    "location": "Oberlin OH",
+    "url": "https://www.oberlin.edu/events/dandelion_romp_8198",
+    "year": 2024,
+    "latlng": [
+      41.29,
+      -82.22
+    ]
   },
   {
     "typical_month": "4",
@@ -13848,9 +13977,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Dowling MI",
-    "year": 2024
+    "location": "Dowling MI",
+    "url": "https://michigandanceheritage.org/trilliumtwirl/",
+    "year": 2024,
+    "latlng": [
+      42.52,
+      -85.25
+    ]
   },
   {
     "typical_month": "5",
@@ -13868,8 +14001,8 @@
     ],
     "roles": "",
     "date": "5/3/2024",
-    "location": "",
-    "url": "Evesham UK",
+    "location": "Evesham UK",
+    "url": "http://mayheydays.org.uk/",
     "year": 2024
   },
   {
@@ -13883,9 +14016,14 @@
     ],
     "roles": "",
     "date": "5/3/2024",
-    "location": "5/4/2024",
-    "url": "Melrose FL",
-    "year": 2024
+    "location": "Melrose FL",
+    "url": "https://dancingfish.dance/",
+    "year": 2024,
+    "date_end": "5/4/2024",
+    "latlng": [
+      29.71,
+      -82.05
+    ]
   },
   {
     "typical_month": "5",
@@ -13894,9 +14032,13 @@
     "bands": [],
     "roles": "",
     "date": "5/3/2024",
-    "location": "",
-    "url": "Fayetteville WV",
-    "year": 2024
+    "location": "Fayetteville WV",
+    "url": "https://www.footmad.org/whirl",
+    "year": 2024,
+    "latlng": [
+      38.05,
+      -81.1
+    ]
   },
   {
     "typical_month": "5",
@@ -13905,9 +14047,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Black Mountain NC",
-    "year": 2024
+    "location": "Black Mountain NC",
+    "url": "https://theleaf.org/",
+    "year": 2024,
+    "latlng": [
+      35.62,
+      -82.32
+    ]
   },
   {
     "typical_month": "5",
@@ -13916,9 +14062,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Kirkwood MO",
-    "year": 2024
+    "location": "Kirkwood MO",
+    "url": "https://childgrove.org/stl-dance-weekends/meetmeinstlouis",
+    "year": 2024,
+    "latlng": [
+      38.58,
+      -90.41
+    ]
   },
   {
     "typical_month": "5",
@@ -13927,9 +14077,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Soccoro NM",
-    "year": 2024
+    "location": "Soccoro NM",
+    "url": "http://folkmads.org/events/camps/folkmadness/",
+    "year": 2024,
+    "latlng": [
+      34.06,
+      -106.89
+    ]
   },
   {
     "typical_month": "5",
@@ -13940,9 +14094,13 @@
     "bands": [],
     "roles": "",
     "date": "5/24/2024",
-    "location": "",
-    "url": "Wasilla AK",
-    "year": 2024
+    "location": "Wasilla AK",
+    "url": "http://www.thedancingbears.com/Dance-Camp.html",
+    "year": 2024,
+    "latlng": [
+      61.58,
+      -149.44
+    ]
   },
   {
     "typical_month": "5",
@@ -13957,9 +14115,13 @@
     ],
     "roles": "Larks / Robins",
     "date": "5/24/2024",
-    "location": "",
-    "url": "Carrboro, NC",
-    "year": 2024
+    "location": "Carrboro, NC",
+    "url": "https://tcdancers.org/sdr",
+    "year": 2024,
+    "latlng": [
+      35.91,
+      -79.08
+    ]
   },
   {
     "typical_month": "5",
@@ -13968,9 +14130,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Seattle WA",
-    "year": 2024
+    "location": "Seattle WA",
+    "url": "https://nwfolklife.org/festival/home.html",
+    "year": 2024,
+    "latlng": [
+      47.61,
+      -122.33
+    ]
   },
   {
     "typical_month": "6",
@@ -13984,9 +14150,13 @@
     ],
     "roles": "",
     "date": "6/28/2024",
-    "location": "",
-    "url": "Harbury UK",
-    "year": 2024
+    "location": "Harbury UK",
+    "url": "https://www.contrasaurus.com/stegastomp.html",
+    "year": 2024,
+    "latlng": [
+      52.24,
+      -1.46
+    ]
   },
   {
     "typical_month": "6",
@@ -13999,9 +14169,14 @@
     ],
     "roles": "",
     "date": "6/7/2024",
-    "location": "6/8/2024",
-    "url": "Melrose FL",
-    "year": 2024
+    "location": "Melrose FL",
+    "url": "https://dancingfish.dance/",
+    "year": 2024,
+    "date_end": "6/8/2024",
+    "latlng": [
+      29.71,
+      -82.05
+    ]
   },
   {
     "typical_month": "6",
@@ -14010,9 +14185,13 @@
     "bands": [],
     "roles": "Larks / Robins",
     "date": "",
-    "location": "",
-    "url": "Plymouth MA",
-    "year": 2024
+    "location": "Plymouth MA",
+    "url": "https://www.lcfd.org/spring-camp-2023.html",
+    "year": 2024,
+    "latlng": [
+      41.96,
+      -70.67
+    ]
   },
   {
     "typical_month": "6",
@@ -14021,9 +14200,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Oaklahoma City OK",
-    "year": 2024
+    "location": "Oaklahoma City OK",
+    "url": "http://scissortail.org/special-events/flamingo-fling/",
+    "year": 2024,
+    "latlng": [
+      35.47,
+      -97.52
+    ]
   },
   {
     "typical_month": "6",
@@ -14032,9 +14215,13 @@
     "bands": [],
     "roles": "Larks / Robins",
     "date": "",
-    "location": "",
-    "url": "Plymouth MA",
-    "year": 2024
+    "location": "Plymouth MA",
+    "url": "http://www.swingintosummer.org/",
+    "year": 2024,
+    "latlng": [
+      41.96,
+      -70.67
+    ]
   },
   {
     "typical_month": "6",
@@ -14043,9 +14230,13 @@
     "bands": [],
     "roles": "Larks / Robins",
     "date": "",
-    "location": "",
-    "url": "Harrison, ID",
-    "year": 2024
+    "location": "Harrison, ID",
+    "url": "http://www.ladyofthelake.org/june-week/",
+    "year": 2024,
+    "latlng": [
+      47.45,
+      -116.79
+    ]
   },
   {
     "typical_month": "6",
@@ -14054,9 +14245,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Voorheesville NY",
-    "year": 2024
+    "location": "Voorheesville NY",
+    "url": "http://festival.oldsongs.org/",
+    "year": 2024,
+    "latlng": [
+      42.65,
+      -73.93
+    ]
   },
   {
     "typical_month": "6",
@@ -14065,9 +14260,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "La Honda CA",
-    "year": 2024
+    "location": "La Honda CA",
+    "url": "https://www.bacds.org/familyweek/",
+    "year": 2024,
+    "latlng": [
+      37.32,
+      -122.27
+    ]
   },
   {
     "typical_month": "6",
@@ -14076,9 +14275,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Bloomery WV",
-    "year": 2024
+    "location": "Bloomery WV",
+    "url": "https://www.buffalogapretreat.com/general-5-2",
+    "year": 2024,
+    "latlng": [
+      39.39,
+      -78.37
+    ]
   },
   {
     "typical_month": "6",
@@ -14087,9 +14290,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Lexington MI",
-    "year": 2024
+    "location": "Lexington MI",
+    "url": "https://camp.cdss.org/camp-weeks/dance-music-spice-at-cavell/",
+    "year": 2024,
+    "latlng": [
+      43.27,
+      -82.53
+    ]
   },
   {
     "typical_month": "7",
@@ -14102,9 +14309,14 @@
     ],
     "roles": "",
     "date": "7/4/2024",
-    "location": "7/6/2024",
-    "url": "Melrose FL",
-    "year": 2024
+    "location": "Melrose FL",
+    "url": "https://dancingfish.dance/",
+    "year": 2024,
+    "date_end": "7/6/2024",
+    "latlng": [
+      29.71,
+      -82.05
+    ]
   },
   {
     "typical_month": "7",
@@ -14113,9 +14325,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Pleasantville TN",
-    "year": 2024
+    "location": "Pleasantville TN",
+    "url": "https://camp.cumberlanddanceweek.org/",
+    "year": 2024,
+    "latlng": [
+      35.67,
+      -87.7
+    ]
   },
   {
     "typical_month": "7",
@@ -14124,9 +14340,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Plymouth MA",
-    "year": 2024
+    "location": "Plymouth MA",
+    "url": "https://cds-boston-j4weekend.weebly.com/",
+    "year": 2024,
+    "latlng": [
+      41.96,
+      -70.67
+    ]
   },
   {
     "typical_month": "7",
@@ -14135,9 +14355,13 @@
     "bands": [],
     "roles": "Ladies/Gents",
     "date": "",
-    "location": "",
-    "url": "Mountain City, TN",
-    "year": 2024
+    "location": "Mountain City, TN",
+    "url": "http://www.contradancersdelight.com/about-summer-cdh-tst/",
+    "year": 2024,
+    "latlng": [
+      36.47,
+      -81.8
+    ]
   },
   {
     "typical_month": "7",
@@ -14146,9 +14370,13 @@
     "bands": [],
     "roles": "Larks / Robins",
     "date": "",
-    "location": "",
-    "url": "Glen Echo MD",
-    "year": 2024
+    "location": "Glen Echo MD",
+    "url": "https://fsgw.org/hashtag-dance-weekend",
+    "year": 2024,
+    "latlng": [
+      38.97,
+      -77.14
+    ]
   },
   {
     "typical_month": "7",
@@ -14157,9 +14385,13 @@
     "bands": [],
     "roles": "Larks / Robins",
     "date": "",
-    "location": "",
-    "url": "Plymouth MA",
-    "year": 2024
+    "location": "Plymouth MA",
+    "url": "https://rscdsboston.org/pinewoods-esc.html",
+    "year": 2024,
+    "latlng": [
+      41.96,
+      -70.67
+    ]
   },
   {
     "typical_month": "7",
@@ -14168,9 +14400,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Salem VA",
-    "year": 2024
+    "location": "Salem VA",
+    "url": "http://www.roanokerailroader.com/",
+    "year": 2024,
+    "latlng": [
+      37.29,
+      -80.05
+    ]
   },
   {
     "typical_month": "7",
@@ -14179,9 +14415,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Coshocton OH",
-    "year": 2024
+    "location": "Coshocton OH",
+    "url": "http://www.riverrendezvous.com/",
+    "year": 2024,
+    "latlng": [
+      40.27,
+      -81.86
+    ]
   },
   {
     "typical_month": "7",
@@ -14190,9 +14430,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Olivebridge NY",
-    "year": 2024
+    "location": "Olivebridge NY",
+    "url": "https://ashokancenter.org/product/northern-week-2023/",
+    "year": 2024,
+    "latlng": [
+      41.93,
+      -74.22
+    ]
   },
   {
     "typical_month": "7",
@@ -14201,9 +14445,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Plymouth MA",
-    "year": 2024
+    "location": "Plymouth MA",
+    "url": "https://camp.cdss.org/camp-weeks/american-dance-music-week-2/",
+    "year": 2024,
+    "latlng": [
+      41.96,
+      -70.67
+    ]
   },
   {
     "typical_month": "7",
@@ -14212,9 +14460,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Plymouth MA",
-    "year": 2024
+    "location": "Plymouth MA",
+    "url": "https://camp.cdss.org/camp-weeks/harmony-of-song-dance-at-pinewoods/",
+    "year": 2024,
+    "latlng": [
+      41.96,
+      -70.67
+    ]
   },
   {
     "typical_month": "7",
@@ -14229,9 +14481,13 @@
     ],
     "roles": "",
     "date": "7/19/2024",
-    "location": "",
-    "url": "Livingston MT",
-    "year": 2024
+    "location": "Livingston MT",
+    "url": "https://bozemanfolklore.org/summergreen/",
+    "year": 2024,
+    "latlng": [
+      45.66,
+      -110.56
+    ]
   },
   {
     "typical_month": "8",
@@ -14240,9 +14496,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Melrose FL",
-    "year": 2024
+    "location": "Melrose FL",
+    "url": "https://dancingfish.dance/",
+    "year": 2024,
+    "latlng": [
+      29.71,
+      -82.05
+    ]
   },
   {
     "typical_month": "8",
@@ -14251,9 +14511,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Bloomington IN",
-    "year": 2024
+    "location": "Bloomington IN",
+    "url": "http://bloomingtoncontra.org/sugar-hill/",
+    "year": 2024,
+    "latlng": [
+      39.17,
+      -86.53
+    ]
   },
   {
     "typical_month": "8",
@@ -14262,9 +14526,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Poland ME",
-    "year": 2024
+    "location": "Poland ME",
+    "url": "https://camp.cdss.org/camp-weeks/family-week-at-agassiz-village-2/",
+    "year": 2024,
+    "latlng": [
+      44.06,
+      -70.39
+    ]
   },
   {
     "typical_month": "8",
@@ -14274,7 +14542,7 @@
     "roles": "",
     "date": "",
     "location": "",
-    "url": "",
+    "url": "https://camp.cdss.org/camp-weeks/cascade-of-music-dance-at-louise/",
     "year": 2024
   },
   {
@@ -14284,9 +14552,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Plymouth MA",
-    "year": 2024
+    "location": "Plymouth MA",
+    "url": "https://camp.cdss.org/camp-weeks/campers-week-at-pinewoods/",
+    "year": 2024,
+    "latlng": [
+      41.96,
+      -70.67
+    ]
   },
   {
     "typical_month": "8",
@@ -14295,9 +14567,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Goshen CT",
-    "year": 2024
+    "location": "Goshen CT",
+    "url": "http://falconridgefolk.com/",
+    "year": 2024,
+    "latlng": [
+      41.83,
+      -73.22
+    ]
   },
   {
     "typical_month": "8",
@@ -14306,9 +14582,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Juneau AK",
-    "year": 2024
+    "location": "Juneau AK",
+    "url": "http://www.juneaucontras.org/dance_camp_2023_stay_tuned.html",
+    "year": 2024,
+    "latlng": [
+      58.3,
+      -134.42
+    ]
   },
   {
     "typical_month": "8",
@@ -14317,9 +14597,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Mentone AL",
-    "year": 2024
+    "location": "Mentone AL",
+    "url": "http://www.footmadbirmingham.org/mentone.html",
+    "year": 2024,
+    "latlng": [
+      34.58,
+      -85.59
+    ]
   },
   {
     "typical_month": "8",
@@ -14328,9 +14612,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "San Francisco CA",
-    "year": 2024
+    "location": "San Francisco CA",
+    "url": "https://www.bacds.org/camps/btb/",
+    "year": 2024,
+    "latlng": [
+      37.77,
+      -122.42
+    ]
   },
   {
     "typical_month": "8",
@@ -14339,9 +14627,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Harrison, ID",
-    "year": 2024
+    "location": "Harrison, ID",
+    "url": "https://ladyofthelake.org/dancesmore",
+    "year": 2024,
+    "latlng": [
+      47.45,
+      -116.79
+    ]
   },
   {
     "typical_month": "9",
@@ -14352,9 +14644,14 @@
     ],
     "roles": "",
     "date": "9/6/2024",
-    "location": "9/7/2024",
-    "url": "Melrose FL",
-    "year": 2024
+    "location": "Melrose FL",
+    "url": "https://dancingfish.dance/",
+    "year": 2024,
+    "date_end": "9/7/2024",
+    "latlng": [
+      29.71,
+      -82.05
+    ]
   },
   {
     "typical_month": "9",
@@ -14363,9 +14660,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Rochester NY",
-    "year": 2024
+    "location": "Rochester NY",
+    "url": "https://cdrochester.org/",
+    "year": 2024,
+    "latlng": [
+      43.16,
+      -77.61
+    ]
   },
   {
     "typical_month": "9",
@@ -14374,9 +14675,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Boulder CO",
-    "year": 2024
+    "location": "Boulder CO",
+    "url": "https://cfootmad.org/rendezvous",
+    "year": 2024,
+    "latlng": [
+      40.01,
+      -105.27
+    ]
   },
   {
     "typical_month": "9",
@@ -14385,9 +14690,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Lexington MI",
-    "year": 2024
+    "location": "Lexington MI",
+    "url": "https://michigandanceheritage.org/fall/",
+    "year": 2024,
+    "latlng": [
+      43.27,
+      -82.53
+    ]
   },
   {
     "typical_month": "9",
@@ -14396,9 +14705,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Fairbanks AK",
-    "year": 2024
+    "location": "Fairbanks AK",
+    "url": "https://contraborealis.org/2023-dance-camp-north-talent/",
+    "year": 2024,
+    "latlng": [
+      64.84,
+      -147.72
+    ]
   },
   {
     "typical_month": "9",
@@ -14407,9 +14720,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Pickens SC",
-    "year": 2024
+    "location": "Pickens SC",
+    "url": "https://moondancesc.weebly.com/",
+    "year": 2024,
+    "latlng": [
+      34.88,
+      -82.71
+    ]
   },
   {
     "typical_month": "9",
@@ -14418,9 +14735,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Ellerbe NC",
-    "year": 2024
+    "location": "Ellerbe NC",
+    "url": "https://www.feetretreat.com/feet-retreat-dance-weekend-2023/",
+    "year": 2024,
+    "latlng": [
+      35.07,
+      -79.76
+    ]
   },
   {
     "typical_month": "9",
@@ -14429,9 +14750,13 @@
     "bands": [],
     "roles": "",
     "date": "9/6/2024",
-    "location": "",
-    "url": "Rollins MT",
-    "year": 2024
+    "location": "Rollins MT",
+    "url": "https://www.missoulafolk.org/bearhug",
+    "year": 2024,
+    "latlng": [
+      47.91,
+      -114.2
+    ]
   },
   {
     "typical_month": "9",
@@ -14440,9 +14765,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Dodgeville WI",
-    "year": 2024
+    "location": "Dodgeville WI",
+    "url": "http://www.squirrelmoon.org/",
+    "year": 2024,
+    "latlng": [
+      42.96,
+      -90.13
+    ]
   },
   {
     "typical_month": "9",
@@ -14451,9 +14780,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Camp Sacremento",
-    "year": 2024
+    "location": "Camp Sacremento",
+    "url": "https://sactocds.wordpress.com/special-events/echo-summit-dance-camp-2023/",
+    "year": 2024,
+    "latlng": [
+      38.8,
+      -120.12
+    ]
   },
   {
     "typical_month": "9",
@@ -14462,9 +14795,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Julian CA",
-    "year": 2024
+    "location": "Julian CA",
+    "url": "https://www.caldancecoop.org/special-events/labor-day-dance-away-2021/",
+    "year": 2024,
+    "latlng": [
+      33.08,
+      -116.6
+    ]
   },
   {
     "typical_month": "9",
@@ -14473,8 +14810,8 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Surrey BC",
+    "location": "Surrey BC",
+    "url": "http://www.vcn.bc.ca/vcountry/chehalis/",
     "year": 2024
   },
   {
@@ -14484,9 +14821,13 @@
     "bands": [],
     "roles": "Larks / Robins",
     "date": "",
-    "location": "",
-    "url": "Weston VT",
-    "year": 2024
+    "location": "Weston VT",
+    "url": "http://youthdanceweekend.org/",
+    "year": 2024,
+    "latlng": [
+      43.29,
+      -72.79
+    ]
   },
   {
     "typical_month": "9",
@@ -14495,9 +14836,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Silver Bay NY",
-    "year": 2024
+    "location": "Silver Bay NY",
+    "url": "https://www.danceflurry.org/adirondack-dance-weekend/",
+    "year": 2024,
+    "latlng": [
+      43.7,
+      -73.51
+    ]
   },
   {
     "typical_month": "10",
@@ -14506,9 +14851,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Melrose FL",
-    "year": 2024
+    "location": "Melrose FL",
+    "url": "https://dancingfish.dance/",
+    "year": 2024,
+    "latlng": [
+      29.71,
+      -82.05
+    ]
   },
   {
     "typical_month": "10",
@@ -14517,9 +14866,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Glen Echo MD",
-    "year": 2024
+    "location": "Glen Echo MD",
+    "url": "https://fsgw.org/contrastock",
+    "year": 2024,
+    "latlng": [
+      38.97,
+      -77.14
+    ]
   },
   {
     "typical_month": "9",
@@ -14528,9 +14881,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Plymouth MA",
-    "year": 2024
+    "location": "Plymouth MA",
+    "url": "https://facone.org/labor-day-weekend/labor-day-weekend.html",
+    "year": 2024,
+    "latlng": [
+      41.96,
+      -70.67
+    ]
   },
   {
     "typical_month": "10",
@@ -14539,9 +14896,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Salt Lake City UT",
-    "year": 2024
+    "location": "Salt Lake City UT",
+    "url": "https://wasatchcontras.org/ww/",
+    "year": 2024,
+    "latlng": [
+      40.76,
+      -111.89
+    ]
   },
   {
     "typical_month": "10",
@@ -14550,9 +14911,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Harrison, ID",
-    "year": 2024
+    "location": "Harrison, ID",
+    "url": "http://www.ladyofthelake.org/fallwend/",
+    "year": 2024,
+    "latlng": [
+      47.45,
+      -116.79
+    ]
   },
   {
     "typical_month": "10",
@@ -14561,9 +14926,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Santa Barbara CA",
-    "year": 2024
+    "location": "Santa Barbara CA",
+    "url": "http://www.sbcds.org/hm/",
+    "year": 2024,
+    "latlng": [
+      34.42,
+      -119.7
+    ]
   },
   {
     "typical_month": "10",
@@ -14572,9 +14941,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Becket MA",
-    "year": 2024
+    "location": "Becket MA",
+    "url": "https://www.lcfd.org/lcfd/",
+    "year": 2024,
+    "latlng": [
+      42.33,
+      -73.08
+    ]
   },
   {
     "typical_month": "10",
@@ -14583,9 +14956,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Fayetteville NY",
-    "year": 2024
+    "location": "Fayetteville NY",
+    "url": "https://syracusecountrydancers.org/special-events/phylla-mae-fall-fest/",
+    "year": 2024,
+    "latlng": [
+      43.03,
+      -76.0
+    ]
   },
   {
     "typical_month": "10",
@@ -14594,9 +14971,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Peterborough NH",
-    "year": 2024
+    "location": "Peterborough NH",
+    "url": "http://www.monadnockfolk.org/?tribe_events=%E2%98%BC-%E2%98%BC-%E2%98%BC-peterborough-fall-ball-2019",
+    "year": 2024,
+    "latlng": [
+      42.87,
+      -71.95
+    ]
   },
   {
     "typical_month": "10",
@@ -14605,9 +14986,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Black Mountain NC",
-    "year": 2024
+    "location": "Black Mountain NC",
+    "url": "https://theleaf.org/",
+    "year": 2024,
+    "latlng": [
+      35.62,
+      -82.32
+    ]
   },
   {
     "typical_month": "10",
@@ -14616,9 +15001,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Jemez Springs NM",
-    "year": 2024
+    "location": "Jemez Springs NM",
+    "url": "https://folkmads.org/events/camps/boo-camp-2023/",
+    "year": 2024,
+    "latlng": [
+      35.77,
+      -106.69
+    ]
   },
   {
     "typical_month": "10",
@@ -14627,9 +15016,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Nashville TN",
-    "year": 2024
+    "location": "Nashville TN",
+    "url": "http://nashvillecountrydancers.org/music-city-masquerade/",
+    "year": 2024,
+    "latlng": [
+      36.16,
+      -86.78
+    ]
   },
   {
     "typical_month": "10",
@@ -14638,9 +15031,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Austin TX",
-    "year": 2024
+    "location": "Austin TX",
+    "url": "http://www.fireantfrolic.org/",
+    "year": 2024,
+    "latlng": [
+      30.27,
+      -97.74
+    ]
   },
   {
     "typical_month": "11",
@@ -14649,9 +15046,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Melrose FL",
-    "year": 2024
+    "location": "Melrose FL",
+    "url": "https://dancingfish.dance/",
+    "year": 2024,
+    "latlng": [
+      29.71,
+      -82.05
+    ]
   },
   {
     "typical_month": "11",
@@ -14660,9 +15061,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Monterey CA",
-    "year": 2024
+    "location": "Monterey CA",
+    "url": "http://montereycontradance.org/foggy-moon.html",
+    "year": 2024,
+    "latlng": [
+      36.6,
+      -121.89
+    ]
   },
   {
     "typical_month": "11",
@@ -14671,8 +15076,8 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "New York NY",
+    "location": "New York NY",
+    "url": "http://contrashock.org/",
     "year": 2024
   },
   {
@@ -14682,9 +15087,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Ottawa ON",
-    "year": 2024
+    "location": "Ottawa ON",
+    "url": "http://www.ottawacontra.ca/heyFever/",
+    "year": 2024,
+    "latlng": [
+      45.42,
+      -75.7
+    ]
   },
   {
     "typical_month": "11",
@@ -14693,9 +15102,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Springfield OR",
-    "year": 2024
+    "location": "Springfield OR",
+    "url": "https://eugenefolklore.org/cascade-contras/",
+    "year": 2024,
+    "latlng": [
+      44.05,
+      -123.02
+    ]
   },
   {
     "typical_month": "11",
@@ -14704,9 +15117,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Oracle AZ",
-    "year": 2024
+    "location": "Oracle AZ",
+    "url": "https://tucsoncontradancers.org/tucson-contra-dancers/dance-in-the-desert-2023/",
+    "year": 2024,
+    "latlng": [
+      32.61,
+      -110.77
+    ]
   },
   {
     "typical_month": "11",
@@ -14715,9 +15132,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Pittsburgh PA",
-    "year": 2024
+    "location": "Pittsburgh PA",
+    "url": "http://pittsburghcontra.org/fdw/",
+    "year": 2024,
+    "latlng": [
+      40.44,
+      -80.0
+    ]
   },
   {
     "typical_month": "11",
@@ -14726,9 +15147,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Kresgeville PA",
-    "year": 2024
+    "location": "Kresgeville PA",
+    "url": "http://www.princetoncountrydancers.org/about-hfth",
+    "year": 2024,
+    "latlng": [
+      40.9,
+      -75.5
+    ]
   },
   {
     "typical_month": "11",
@@ -14737,9 +15162,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Atlanta GA",
-    "year": 2024
+    "location": "Atlanta GA",
+    "url": "https://adw.contradance.org/",
+    "year": 2024,
+    "latlng": [
+      33.75,
+      -84.39
+    ]
   },
   {
     "typical_month": "11",
@@ -14748,9 +15177,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Albany NY",
-    "year": 2024
+    "location": "Albany NY",
+    "url": "https://www.danceflurry.org/event/contrafest/",
+    "year": 2024,
+    "latlng": [
+      42.65,
+      -73.76
+    ]
   },
   {
     "typical_month": "11",
@@ -14759,9 +15192,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Louisville KY",
-    "year": 2024
+    "location": "Louisville KY",
+    "url": "http://www.louisvillecountrydancers.org/fleur-de-lis-fling",
+    "year": 2024,
+    "latlng": [
+      38.25,
+      -85.76
+    ]
   },
   {
     "typical_month": "11",
@@ -14770,9 +15207,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Philadelphia PA",
-    "year": 2024
+    "location": "Philadelphia PA",
+    "url": "http://www.thursdaycontra.com/contracopia/",
+    "year": 2024,
+    "latlng": [
+      39.95,
+      -75.17
+    ]
   },
   {
     "typical_month": "11",
@@ -14781,9 +15222,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Evanston IL",
-    "year": 2024
+    "location": "Evanston IL",
+    "url": "https://www.breakingupthanksgiving.com/",
+    "year": 2024,
+    "latlng": [
+      42.05,
+      -87.69
+    ]
   },
   {
     "typical_month": "11",
@@ -14792,9 +15237,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Catalina Island CA",
-    "year": 2024
+    "location": "Catalina Island CA",
+    "url": "https://www.catalinadanceweekend.com/",
+    "year": 2024,
+    "latlng": [
+      33.39,
+      -118.42
+    ]
   },
   {
     "typical_month": "12",
@@ -14803,9 +15252,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Melrose FL",
-    "year": 2024
+    "location": "Melrose FL",
+    "url": "https://dancingfish.dance/",
+    "year": 2024,
+    "latlng": [
+      29.71,
+      -82.05
+    ]
   },
   {
     "typical_month": "12",
@@ -14814,9 +15267,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Worthington OH",
-    "year": 2024
+    "location": "Worthington OH",
+    "url": "https://bigscioty.com/winterwarmup/",
+    "year": 2024,
+    "latlng": [
+      40.09,
+      -83.02
+    ]
   },
   {
     "typical_month": "12",
@@ -14834,8 +15291,8 @@
     ],
     "roles": "Ladies/Gents",
     "date": "12/26/2024",
-    "location": "",
-    "url": "Kingsport, TN ",
+    "location": "Kingsport, TN ",
+    "url": "http://www.contradancersdelight.com/about-winter-cdh",
     "year": 2024
   },
   {
@@ -14845,9 +15302,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Vashon Island WA",
-    "year": 2024
+    "location": "Vashon Island WA",
+    "url": "https://bashonvashon.org/",
+    "year": 2024,
+    "latlng": [
+      47.45,
+      -122.46
+    ]
   },
   {
     "typical_month": "12",
@@ -14856,9 +15317,13 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Berea KY",
-    "year": 2024
+    "location": "Berea KY",
+    "url": "https://bereaccds.org/",
+    "year": 2024,
+    "latlng": [
+      37.57,
+      -84.3
+    ]
   },
   {
     "typical_month": "12",
@@ -14867,8 +15332,12 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "",
-    "url": "Adamstown MD",
-    "year": 2024
+    "location": "Adamstown MD",
+    "url": "https://terpsichore.lloydshaw.org/",
+    "year": 2024,
+    "latlng": [
+      39.31,
+      -77.48
+    ]
   }
 ]
