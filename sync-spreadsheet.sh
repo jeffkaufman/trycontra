@@ -1,19 +1,23 @@
 #!/usr/bin/env bash
+
+# Usage: ./sync-spreadsheet.sh <Google Sheet key>
+# The Google Sheet key is a 44-character long alphanumeric string which you can get from the URL of
+# the spreadsheet.
+
+set -e
+
 git pull
 
-any_changed=false
-for i in {2000..2100}; do
-    in_fname=~/Downloads/Dance\ Weekends,\ Festivals,\ and\ Long\ Dances\ -\ $i.tsv
-    if [ -e "$in_fname" ] ; then
-        mv "$in_fname" events-raw-$i.tsv
-        any_changed=true
-    fi
+for i in 2017 2018 2019 2023 2024; do
+    wget "https://docs.google.com/spreadsheets/d/$1/gviz/tq?tqx=out:csv&sheet=$i" -O - \
+    | csvformat -T > events-raw-$i.tsv
+    unix2dos events-raw-$i.tsv
 done
-if $any_changed; then
+
+if [ -n "$(git status --porcelain --untracked-files=no)" ]; then
     ./process-events.py
     ./lookup_locs.py
+
     git commit events-raw-*.tsv events.json -m "sync with spreadsheet"
     git push
 fi
-
-
