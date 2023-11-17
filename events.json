@@ -13752,6 +13752,28 @@
   },
   {
     "typical_month": "3",
+    "name": "Pigtown Fling",
+    "callers": [
+      "Nils Fredland",
+      "Darlene Underwood"
+    ],
+    "bands": [
+      "Elixir",
+      "Trillium"
+    ],
+    "roles": "",
+    "date": "3/22/2024",
+    "location": "Cincinattia OH",
+    "url": "http://www.cincinnaticontradance.org/pigtown.htm",
+    "year": 2024,
+    "date_end": "3/24/2024",
+    "latlng": [
+      39.1,
+      -84.51
+    ]
+  },
+  {
+    "typical_month": "3",
     "name": "Spring Breakdown Dance Weekend",
     "callers": [],
     "bands": [],
