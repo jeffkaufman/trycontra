@@ -13376,7 +13376,6 @@
     "typical_month": "12",
     "name": "Berea Christmas Country Dance School",
     "callers": [
-      "Darlene Underwood",
       "Darlene Underwood"
     ],
     "bands": [],
@@ -13539,6 +13538,21 @@
     ]
   },
   {
+    "typical_month": "1",
+    "name": "Wintergreen Dance Weekend",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Bozeman MT",
+    "url": "https://bozemanfolklore.org/wintergreen-2024/",
+    "year": 2024,
+    "latlng": [
+      45.68,
+      -111.03
+    ]
+  },
+  {
     "typical_month": "2",
     "name": "IVFDF",
     "callers": [],
@@ -13552,6 +13566,26 @@
     "latlng": [
       53.96,
       -1.07
+    ]
+  },
+  {
+    "typical_month": "2",
+    "name": "Phoenix Winter Frolic",
+    "callers": [
+      "Christine Merryman"
+    ],
+    "bands": [
+      "Joyance"
+    ],
+    "roles": "",
+    "date": "2/9/2024",
+    "location": "Mesa AZ",
+    "url": "https://phxtmd.org/winter-frolic-2024",
+    "year": 2024,
+    "date_end": "2/10/2024",
+    "latlng": [
+      33.42,
+      -111.83
     ]
   },
   {
@@ -13738,13 +13772,20 @@
   {
     "typical_month": "3",
     "name": "Carolina Meltdown",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Seth Tepfer",
+      "Diane Silver"
+    ],
+    "bands": [
+      "the Syncopaths",
+      "Drive Train"
+    ],
     "roles": "",
-    "date": "",
+    "date": "3/8/2024",
     "location": "Lake Wylie SC",
     "url": "https://www.charlottecontradance.org/carolina-meltdown",
     "year": 2024,
+    "date_end": "3/10/2024",
     "latlng": [
       35.11,
       -81.04
@@ -13774,6 +13815,21 @@
   },
   {
     "typical_month": "3",
+    "name": "DownEast Country Dance Festival",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Topsham ME",
+    "url": "http://www.deffa.org/festival/",
+    "year": 2024,
+    "latlng": [
+      43.93,
+      -69.98
+    ]
+  },
+  {
+    "typical_month": "3",
     "name": "Spring Breakdown Dance Weekend",
     "callers": [],
     "bands": [],
@@ -13790,8 +13846,14 @@
   {
     "typical_month": "3",
     "name": "Beantown Stomp",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Maia McCormick",
+      "Will Mentor"
+    ],
+    "bands": [
+      "the Mean Lids",
+      "the FIgments"
+    ],
     "roles": "Larks / Robins",
     "date": "3/15/2024",
     "location": "Cambridge MA",
@@ -13942,12 +14004,12 @@
     "typical_month": "4",
     "name": "Call of the Loon Dance Weekend",
     "callers": [
-      "The Stringrays",
-      "Northern Aire"
-    ],
-    "bands": [
       "Will Mentor",
       "Ted Hodapp"
+    ],
+    "bands": [
+      "the Stringrays",
+      "Northern Aire"
     ],
     "roles": "",
     "date": "4/12/2024",
@@ -13958,6 +14020,26 @@
     "latlng": [
       44.98,
       -93.27
+    ]
+  },
+  {
+    "typical_month": "4",
+    "name": "Springforth Ball",
+    "callers": [
+      "Gaye Fifer"
+    ],
+    "bands": [
+      "Drive Train"
+    ],
+    "roles": "",
+    "date": "4/12/2024",
+    "location": "Richmond VA",
+    "url": "https://tadamsva.org/springforth-2024/",
+    "year": 2024,
+    "date_end": "4/14/2024",
+    "latlng": [
+      37.54,
+      -77.44
     ]
   },
   {
@@ -14045,6 +14127,28 @@
     "latlng": [
       42.52,
       -85.25
+    ]
+  },
+  {
+    "typical_month": "4",
+    "name": "Portland Raindance Weekend",
+    "callers": [
+      "Lisa Greenleaf",
+      "Will Mentor"
+    ],
+    "bands": [
+      "Drive Train",
+      "the Stringrays"
+    ],
+    "roles": "",
+    "date": "4/26/2024",
+    "location": "Portland OR",
+    "url": "http://www.portlandraindance.org/",
+    "year": 2024,
+    "date_end": "4/28/2024",
+    "latlng": [
+      45.52,
+      -122.68
     ]
   },
   {
