@@ -203,7 +203,7 @@
   ["http://www.squaredancemontana.com/contra-dance.html", "Billings MT", "Fridays", 14, "", false],
 
   ["https://www.charlottecontradance.org/", "Charlotte NC", "Fridays and Saturdays", 12, "", true],
-  ["https://www.folkschool.org/event.php?event_type_id=2", "Brasstown NC", "Tuesdays", 45, "", false],
+  ["https://www.folkschool.org/calendar/", "Brasstown NC", "Tuesdays", 45, "", true],
   ["http://www.boonecountrydancers.org/", "Boone NC", "Saturdays", 12, "", true],
   ["http://feetretreat.com/", "Greensboro NC", "3rd Saturdays", 12, "", true],
   ["http://feetretreat.com/", "Winston-Salem NC", "Tuesdays", 12, "", true],
