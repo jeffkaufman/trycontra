@@ -193,7 +193,7 @@
  ["http://www.snmmds.org/", "Mesilla NM", "Fridays", 10, 32.27, -106.8, "", false],
  ["http://folkmads.org/events/albuquerque-events/", "Albuquerque NM", "Saturdays", 24, 35.11, -106.61, "", true],
  ["http://folkmads.org/events/santa-fe-events/", "Santa Fe NM", "Saturdays", 24, 35.69, -105.94, "", true],
- ["http://www.lasvegascountrydance.org/contradance.html", "Las Vegas NV", "Saturdays", 15, 36.11, -115.17, "", false],
+ ["http://www.lasvegascountrydance.org/contradance.html", "Las Vegas NV", "Saturdays", 12, 36.11, -115.17, "", true],
  ["http://sierracontra.org/", "Reno NV", "Saturdays", 10, 39.53, -119.81, "", false],
  ["http://www.cdrochester.org/", "Rochester NY", "Thursdays", 52, 43.16, -77.61, "", true],
  ["http://www.qccd.org/", "Buffalo NY", "Fridays", 12, 42.89, -78.88, "", true],
