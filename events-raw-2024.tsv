@@ -3,9 +3,9 @@ typical month	name	caller1	caller2	caller3	caller4	caller5	caller6	band1	band2	b
 1	Chambana Jan Jam	Sarah Kaiser	Georges Augustin	Nedra McNeil				Eupohr	Turnip the Beet	Meadowhawk				Larks / Robins	1/5/2024	1/7/2024	Urbana IL	http://www.urbana-contra.org/jan_jam.html	
 1	Ralph Page Dance Legacy Weekend	Tod Whittemore	Lisa Greenleaf	Dudley Laufman				Sugar River Band	Canterbury Dance Orchestra						1/12/2024	1/13/2024	Worcester MA	https://www.neffa.org/ralph-page/rpde/	
 1	Contra Carnivale	Nils Fredland	Cis Hinkle	Susan Petrick				Elixir	The Syncopaths	Eloise &co				Larks / Robins	1/12/2024	1/14/2024	San Luis Obispo CA	https://contracarnivale.org/	
-1	Contra Swing Shift Weekend																Berea KY	https://www.swingshift.ltda.us/	
+1	Contra Swing Shift Weekend	Charley Harvey						Meadowhawk							1/26/2024	1/27/2024	Berea KY	https://www.swingshift.ltda.us/	
 1	Florida Snow Ball	Janine Smith	Will Mentor					Kingfisher	Nova						1/26/2024	1/28/2024	Gulfport FL	http://floridasnowball.tampabaycontra.com/	
-1	Wintergreen Dance Weekend																Bozeman MT	https://bozemanfolklore.org/wintergreen-2024/	
+1	Peterbough Snow Ball	Mary Wesley	Will Mentor	Lisa Greenleaf	Steve Zakon-Anderson			Moving Violations	Stomp Rocket						1/20/2024	1/20/2024	Peterborough NH	https://www.monadnockfolk.org/?p=11577	
 2	IVFDF													Larks / Robins	2/16/2024	2/18/2024	York UK	https://ivfdf2024.org.uk/	
 2	Phoenix Winter Frolic	Christine Merryman						Joyance							2/9/2024	2/10/2024	Mesa AZ	https://phxtmd.org/winter-frolic-2024	
 2	Dancing Fish: February	Mary Wesley						Unnamed							2/2/2024	2/3/2024	Melrose FL	https://dancingfish.dance/	
@@ -23,7 +23,7 @@ typical month	name	caller1	caller2	caller3	caller4	caller5	caller6	band1	band2	b
 3	Spring Breakdown Dance Weekend																Columbia MO	https://mmtd.wordpress.com/dance-weekend-2023/	
 3	Beantown Stomp	Maia McCormick	Will Mentor					The Mean Lids	The FIgments					Larks / Robins	3/15/2024	3/17/2024	Cambridge MA	https://www.beantownstomp.com	
 3	Spring @ Sautee																Helena GA	https://www.snca.org/contra/danceWeekend/pageWeekend.php	
-3	Hash Dance Weekend													Larks / Robins	3/9/2024	3/10/2024	Glen Echo MD	https://fsgw.org/hashtag-dance-weekend	
+3	Hash Dance Weekend	Will Mentor	Alex Deis-Lauby					River Road	The Ice Cream Truckers					Larks / Robins	3/9/2024	3/10/2024	Glen Echo MD	https://fsgw.org/hashtag-dance-weekend	
 4	Contra Camp	Louise Siddons	Heather McAslan					WillPower						Larks / Robins	4/5/2024	4/7/2024	Halsway UK	https://halswaymanor.org.uk/event/contra-camp-2024/	
 4	Dancing Fish: April	Janine Smith						Stomp Rocket							4/5/2024	4/6/2024	Melrose FL	https://dancingfish.dance/	
 4	Dancing Fish: Wild Asparagus	George Marshall						Wild Asparagus							4/19/2024	4/21/2024	Melrose FL	https://dancingfish.dance/	
@@ -50,7 +50,7 @@ typical month	name	caller1	caller2	caller3	caller4	caller5	caller6	band1	band2	b
 6	Stegastomp	Charlie Turner	Andrew Swaine					Contrasaurus							6/28/2024		Harbury UK	https://www.contrasaurus.com/stegastomp.html	
 6	Dancing Fish: June	Steve Zakon-Anderson						Eloise &co.							6/7/2024	6/8/2024	Melrose FL	https://dancingfish.dance/	
 6	Gender-Free Dance Camp (Spring)													Larks / Robins			Plymouth MA	https://www.lcfd.org/spring-camp-2023.html	
-6	Flamingo Fling Weekend																Oaklahoma City OK	http://scissortail.org/special-events/flamingo-fling/	
+6	Flamingo Fling Weekend	Seth Tepfer						Playing with Fyre							6/7/2024	6/9/2024	Oklahoma City OK	http://scissortail.org/special-events/flamingo-fling/	
 6	Swing into Summer													Larks / Robins			Plymouth MA	http://www.swingintosummer.org/	
 6	Lady of the Lake June Week													Larks / Robins			Harrison, ID	http://www.ladyofthelake.org/june-week/	
 6	Old Songs Festival																Voorheesville NY	http://festival.oldsongs.org/	
@@ -129,6 +129,7 @@ typical month	name	caller1	caller2	caller3	caller4	caller5	caller6	band1	band2	b
 1	Orange Blossom Ball																Daytona FL	http://www.orangeblossomcontra.com/	
 1	Contra Dream																Dayton VA	https://shenandoahvalleycontradance.weebly.com/contra-dream-2020.html	
 1	Peterborough Snow Ball																Peterborough NH	http://www.monadnockfolk.org/?tribe_events=%E2%98%BC-%E2%98%BC-%E2%98%BC-peterborough-snow-ball-2018	
+1	Wintergreen Dance Weekend																Bozeman MT	https://bozemanfolklore.org/wintergreen-2024/	
 2	Fairbanks Winter Weekend																Fairbanks AK	https://contraborealis.org/winter-dance-weekend-2019/	
 2	Chance Dance Weekend																Cape Girardeau MO	http://chance-dance.angelfire.com/	
 2	Dancing with the GODS																Gainesville FL	http://godsdance.org/?q=weekend2019	

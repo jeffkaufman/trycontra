@@ -13503,13 +13503,18 @@
   {
     "typical_month": "1",
     "name": "Contra Swing Shift Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Charley Harvey"
+    ],
+    "bands": [
+      "Meadowhawk"
+    ],
     "roles": "",
-    "date": "",
+    "date": "1/26/2024",
     "location": "Berea KY",
     "url": "https://www.swingshift.ltda.us/",
     "year": 2024,
+    "date_end": "1/27/2024",
     "latlng": [
       37.57,
       -84.3
@@ -13539,17 +13544,26 @@
   },
   {
     "typical_month": "1",
-    "name": "Wintergreen Dance Weekend",
-    "callers": [],
-    "bands": [],
+    "name": "Peterbough Snow Ball",
+    "callers": [
+      "Mary Wesley",
+      "Will Mentor",
+      "Lisa Greenleaf",
+      "Steve Zakon-Anderson"
+    ],
+    "bands": [
+      "the Moving Violations",
+      "Stomp Rocket"
+    ],
     "roles": "",
-    "date": "",
-    "location": "Bozeman MT",
-    "url": "https://bozemanfolklore.org/wintergreen-2024/",
+    "date": "1/20/2024",
+    "location": "Peterborough NH",
+    "url": "https://www.monadnockfolk.org/?p=11577",
     "year": 2024,
+    "date_end": "1/20/2024",
     "latlng": [
-      45.68,
-      -111.03
+      42.87,
+      -71.95
     ]
   },
   {
@@ -13883,8 +13897,14 @@
   {
     "typical_month": "3",
     "name": "Hash Dance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Will Mentor",
+      "Alex Deis-Lauby"
+    ],
+    "bands": [
+      "River Road",
+      "the Ice Cream Truckers"
+    ],
     "roles": "Larks / Robins",
     "date": "3/9/2024",
     "location": "Glen Echo MD",
@@ -14386,13 +14406,18 @@
   {
     "typical_month": "6",
     "name": "Flamingo Fling Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Seth Tepfer"
+    ],
+    "bands": [
+      "Playing with Fyre"
+    ],
     "roles": "",
-    "date": "",
-    "location": "Oaklahoma City OK",
+    "date": "6/7/2024",
+    "location": "Oklahoma City OK",
     "url": "http://scissortail.org/special-events/flamingo-fling/",
     "year": 2024,
+    "date_end": "6/9/2024",
     "latlng": [
       35.47,
       -97.52
