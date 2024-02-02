@@ -11610,7 +11610,7 @@
     "name": "Spring @ Sautee",
     "callers": [
       "Terry Doyle",
-      "Deanna Polumbo"
+      "Deanna Palumbo"
     ],
     "bands": [
       "Contraforce",
@@ -12175,6 +12175,26 @@
     ]
   },
   {
+    "typical_month": "6",
+    "name": "Stegastomp",
+    "callers": [
+      "Bob Morgan",
+      "Rachel Shapiro-Wallace"
+    ],
+    "bands": [
+      "Contrasaurus"
+    ],
+    "roles": "",
+    "date": "6/30/2023",
+    "location": "Harbury UK",
+    "url": "https://www.contrasaurus.com/stegastomp.html",
+    "year": 2023,
+    "latlng": [
+      52.24,
+      -1.46
+    ]
+  },
+  {
     "typical_month": "7",
     "name": "Dancing Fish: July",
     "callers": [
@@ -12237,7 +12257,7 @@
   },
   {
     "typical_month": "7",
-    "name": "Hashtag Dance Weekend",
+    "name": "Hash Dance Weekend",
     "callers": [
       "Will Mentor",
       "Frannie Marr"
@@ -12281,11 +12301,12 @@
     "callers": [
       "Bob Isaacs",
       "Emily Rush",
-      "Deanna Palumbo "
+      "Deanna Palumbo"
     ],
     "bands": [
       "Toss the Possum",
-      "Bullet Train"
+      "Bullet Train",
+      "Rushfest"
     ],
     "roles": "",
     "date": "7/6/2023",
@@ -12594,7 +12615,7 @@
       "Ostara"
     ],
     "roles": "",
-    "date": "9/10/2023",
+    "date": "9/8/2023",
     "location": "Rochester NY",
     "url": "https://cdrochester.org/events/contravana-weekend-with-elixir-and-ostara/",
     "year": 2023,
@@ -12917,7 +12938,7 @@
       "Eloise &co"
     ],
     "roles": "",
-    "date": "10/23/2023",
+    "date": "10/13/2023",
     "location": "Santa Barbara CA",
     "url": "http://www.sbcds.org/hm/",
     "year": 2023,
@@ -12968,8 +12989,15 @@
   {
     "typical_month": "10",
     "name": "Lake Eden Arts Festival - Fall",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Will Mentor",
+      "River Abel"
+    ],
+    "bands": [
+      "Genticorum",
+      "the Dam Beavers",
+      "Contraforce"
+    ],
     "roles": "",
     "date": "10/19/2023",
     "location": "Black Mountain NC",
@@ -13082,8 +13110,14 @@
   {
     "typical_month": "11",
     "name": "ContraShock",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Will Mentor",
+      "Lisa Greenleaf"
+    ],
+    "bands": [
+      "Stomp Rocket",
+      "Some Assembly Required"
+    ],
     "roles": "",
     "date": "11/3/2023",
     "location": "Brooklyn NY",
@@ -13139,8 +13173,15 @@
   {
     "typical_month": "11",
     "name": "Pittsburgh Fall Dance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Gaye Fifer",
+      "Janine Smith",
+      "Michael Karcher"
+    ],
+    "bands": [
+      "Stomp Rocket",
+      "Supertrad"
+    ],
     "roles": "",
     "date": "10/27/2023",
     "location": "Pittsburgh PA",
@@ -13219,51 +13260,6 @@
   },
   {
     "typical_month": "11",
-    "name": "Pilgrim's Progression Dance Weekend",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Lawrence KS",
-    "url": "https://lawrencecontra.wordpress.com/dance-weekend/",
-    "year": 2023,
-    "latlng": [
-      38.97,
-      -95.24
-    ]
-  },
-  {
-    "typical_month": "11",
-    "name": "Rochester Thanksgiving Dance Weekend",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Rochester, NY",
-    "url": "https://cdrochester.org/events/2019-tg/",
-    "year": 2023,
-    "latlng": [
-      43.16,
-      -77.61
-    ]
-  },
-  {
-    "typical_month": "11",
-    "name": "ContraCopia",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Philadelphia PA",
-    "url": "http://www.thursdaycontra.com/contracopia/",
-    "year": 2023,
-    "latlng": [
-      39.95,
-      -75.17
-    ]
-  },
-  {
-    "typical_month": "11",
     "name": "Catalina Dance Weekend",
     "callers": [
       "Will Mentor",
@@ -13296,21 +13292,6 @@
     "latlng": [
       42.05,
       -87.69
-    ]
-  },
-  {
-    "typical_month": "11",
-    "name": "Turkey Quickly",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Chatanooga TN",
-    "url": "https://contranooga.us/",
-    "year": 2023,
-    "latlng": [
-      35.05,
-      -85.31
     ]
   },
   {
@@ -13356,8 +13337,16 @@
   {
     "typical_month": "12",
     "name": "Contradancers Delight Holiday (Winter)",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Terry Doyle",
+      "Warren Doyle",
+      "Bob Isaacs"
+    ],
+    "bands": [
+      "Drive Train",
+      "Toss the Possum",
+      "the Buzz Band"
+    ],
     "roles": "",
     "date": "12/26/2023",
     "location": "Kingsport TN ",
@@ -13373,7 +13362,7 @@
     "name": "Bash on Vashon",
     "callers": [],
     "bands": [],
-    "roles": "",
+    "roles": "Larks / Robins",
     "date": "12/29/2023",
     "location": "Vashon Island WA",
     "url": "https://bashonvashon.org/",
@@ -13403,8 +13392,13 @@
   {
     "typical_month": "12",
     "name": "Terpsichore's Holiday",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Luke Donforth",
+      "Adina Gordon"
+    ],
+    "bands": [
+      "Wake up Robin"
+    ],
     "roles": "",
     "date": "12/27/2023",
     "location": "Adamstown MD",
@@ -13421,12 +13415,15 @@
     "callers": [
       "Frannie Marr"
     ],
-    "bands": [],
+    "bands": [
+      "Audacious"
+    ],
     "roles": "",
     "date": "1/5/2024",
     "location": "Melrose FL",
     "url": "https://dancingfish.dance/",
     "year": 2024,
+    "date_end": "1/6/2024",
     "latlng": [
       29.71,
       -82.05
@@ -13435,13 +13432,22 @@
   {
     "typical_month": "1",
     "name": "Chambana Jan Jam",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Sarah Kaiser",
+      "Georges Augustin",
+      "Nedra McNeil"
+    ],
+    "bands": [
+      "Eupohr",
+      "Turnip the Beet",
+      "Meadowhawk"
+    ],
     "roles": "Larks / Robins",
-    "date": "",
+    "date": "1/5/2024",
     "location": "Urbana IL",
     "url": "http://www.urbana-contra.org/jan_jam.html",
     "year": 2024,
+    "date_end": "1/7/2024",
     "latlng": [
       40.11,
       -88.21
@@ -13450,16 +13456,24 @@
   {
     "typical_month": "1",
     "name": "Ralph Page Dance Legacy Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Tod Whittemore",
+      "Lisa Greenleaf",
+      "Dudley Laufman"
+    ],
+    "bands": [
+      "Sugar River Band",
+      "Canterbury Dance Orchestra"
+    ],
     "roles": "",
-    "date": "",
-    "location": "Durham NH",
-    "url": "https://www.neffa.org/ralph-page/32nd-annual-ralph-page-dance-weekend-january-17-19-2020/",
+    "date": "1/12/2024",
+    "location": "Worcester MA",
+    "url": "https://www.neffa.org/ralph-page/rpde/",
     "year": 2024,
+    "date_end": "1/13/2024",
     "latlng": [
-      43.13,
-      -70.93
+      42.26,
+      -71.8
     ]
   },
   {
@@ -13477,9 +13491,10 @@
     ],
     "roles": "Larks / Robins",
     "date": "1/12/2024",
-    "location": "San Louis Obispo CA",
+    "location": "San Luis Obispo CA",
     "url": "https://contracarnivale.org/",
     "year": 2024,
+    "date_end": "1/14/2024",
     "latlng": [
       35.28,
       -120.66
@@ -13488,13 +13503,18 @@
   {
     "typical_month": "1",
     "name": "Contra Swing Shift Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Charley Harvey"
+    ],
+    "bands": [
+      "Meadowhawk"
+    ],
     "roles": "",
-    "date": "",
+    "date": "1/26/2024",
     "location": "Berea KY",
     "url": "https://www.swingshift.ltda.us/",
     "year": 2024,
+    "date_end": "1/27/2024",
     "latlng": [
       37.57,
       -84.3
@@ -13516,21 +13536,85 @@
     "location": "Gulfport FL",
     "url": "http://floridasnowball.tampabaycontra.com/",
     "year": 2024,
+    "date_end": "1/28/2024",
     "latlng": [
       27.75,
       -82.7
     ]
   },
   {
+    "typical_month": "1",
+    "name": "Peterbough Snow Ball",
+    "callers": [
+      "Mary Wesley",
+      "Will Mentor",
+      "Lisa Greenleaf",
+      "Steve Zakon-Anderson"
+    ],
+    "bands": [
+      "the Moving Violations",
+      "Stomp Rocket"
+    ],
+    "roles": "",
+    "date": "1/20/2024",
+    "location": "Peterborough NH",
+    "url": "https://www.monadnockfolk.org/?p=11577",
+    "year": 2024,
+    "date_end": "1/20/2024",
+    "latlng": [
+      42.87,
+      -71.95
+    ]
+  },
+  {
     "typical_month": "2",
-    "name": "Dancing Fish: February",
+    "name": "IVFDF",
     "callers": [],
     "bands": [],
+    "roles": "Larks / Robins",
+    "date": "2/16/2024",
+    "location": "York UK",
+    "url": "https://ivfdf2024.org.uk/",
+    "year": 2024,
+    "date_end": "2/18/2024",
+    "latlng": [
+      53.96,
+      -1.07
+    ]
+  },
+  {
+    "typical_month": "2",
+    "name": "Phoenix Winter Frolic",
+    "callers": [
+      "Christine Merryman"
+    ],
+    "bands": [
+      "Joyance"
+    ],
     "roles": "",
-    "date": "",
+    "date": "2/9/2024",
+    "location": "Mesa AZ",
+    "url": "https://phxtmd.org/winter-frolic-2024",
+    "year": 2024,
+    "date_end": "2/10/2024",
+    "latlng": [
+      33.42,
+      -111.83
+    ]
+  },
+  {
+    "typical_month": "2",
+    "name": "Dancing Fish: February",
+    "callers": [
+      "Mary Wesley"
+    ],
+    "bands": [],
+    "roles": "",
+    "date": "2/2/2024",
     "location": "Melrose FL",
     "url": "https://dancingfish.dance/",
     "year": 2024,
+    "date_end": "2/3/2024",
     "latlng": [
       29.71,
       -82.05
@@ -13539,13 +13623,19 @@
   {
     "typical_month": "2",
     "name": "Tropical Dance Vacation: St Croix",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "George Marshall",
+      "Lisa Greenleaf"
+    ],
+    "bands": [
+      "Wild Asparagus"
+    ],
     "roles": "",
-    "date": "",
+    "date": "2/7/2024",
     "location": "St Croix",
     "url": "https://www.tropicaldancevacation.com/contra-week.html",
     "year": 2024,
+    "date_end": "2/14/2024",
     "latlng": [
       17.72,
       -64.83
@@ -13554,13 +13644,20 @@
   {
     "typical_month": "2",
     "name": "Corvallis Contra Dance Weekend",
-    "callers": [],
-    "bands": [],
-    "roles": "",
+    "callers": [
+      "Frannie Marr",
+      "Julian Blechner"
+    ],
+    "bands": [
+      "Riptide",
+      "the Fiddle Hellions"
+    ],
+    "roles": "Larks / Robins",
     "date": "2/16/2024",
     "location": "Corvallis OR",
     "url": "http://corvallisfolklore.org/ccw/",
     "year": 2024,
+    "date_end": "2/18/2024",
     "latlng": [
       44.56,
       -123.26
@@ -13581,6 +13678,7 @@
     "location": "Knoxville TN",
     "url": "https://www.knoxvillecontra.org/cfschedule",
     "year": 2024,
+    "date_end": "2/11/2024",
     "latlng": [
       35.96,
       -83.92
@@ -13593,9 +13691,10 @@
     "bands": [],
     "roles": "",
     "date": "2/16/2024",
-    "location": "Saratoa Springs NY",
+    "location": "Saratoga Springs NY",
     "url": "http://www.flurryfestival.org/",
     "year": 2024,
+    "date_end": "2/18/2024",
     "latlng": [
       43.08,
       -73.78
@@ -13615,6 +13714,7 @@
     "location": "Houston TX",
     "url": "http://www.bayoubedlam.org/",
     "year": 2024,
+    "date_end": "2/11/2024",
     "latlng": [
       29.76,
       -95.37
@@ -13623,13 +13723,20 @@
   {
     "typical_month": "2",
     "name": "Fiddling Frog Dance Festival",
-    "callers": [],
-    "bands": [],
-    "roles": "",
+    "callers": [
+      "Lisa Greenleaf",
+      "Susan Michaels"
+    ],
+    "bands": [
+      "Stomp Rocket",
+      "the Engine Room"
+    ],
+    "roles": "Larks / Robins",
     "date": "2/23/2024",
     "location": "Pasadena CA",
     "url": "https://www.caldancecoop.org/special-events/fiddling-frog/",
     "year": 2024,
+    "date_end": "2/25/2024",
     "latlng": [
       34.15,
       -118.14
@@ -13638,10 +13745,16 @@
   {
     "typical_month": "2",
     "name": "Supersonic",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Seth Tepfer",
+      "Will Mentor"
+    ],
+    "bands": [
+      "Notorious",
+      "Playing with Fyre"
+    ],
     "roles": "Larks / Robins",
-    "date": "",
+    "date": "2/2/2024",
     "location": "Seattle WA",
     "url": "http://www.supersoniccontra.com/",
     "year": 2024,
@@ -13656,12 +13769,15 @@
     "callers": [
       "Will Mentor"
     ],
-    "bands": [],
+    "bands": [
+      "the Old-Time Superstars"
+    ],
     "roles": "",
     "date": "3/1/2024",
     "location": "Melrose FL",
     "url": "https://dancingfish.dance/",
     "year": 2024,
+    "date_end": "3/2/2024",
     "latlng": [
       29.71,
       -82.05
@@ -13670,16 +13786,60 @@
   {
     "typical_month": "3",
     "name": "Carolina Meltdown",
+    "callers": [
+      "Seth Tepfer",
+      "Diane Silver"
+    ],
+    "bands": [
+      "the Syncopaths",
+      "Drive Train"
+    ],
+    "roles": "",
+    "date": "3/8/2024",
+    "location": "Lake Wylie SC",
+    "url": "https://www.charlottecontradance.org/carolina-meltdown",
+    "year": 2024,
+    "date_end": "3/10/2024",
+    "latlng": [
+      35.11,
+      -81.04
+    ]
+  },
+  {
+    "typical_month": "3",
+    "name": "Pigtown Fling",
+    "callers": [
+      "Nils Fredland",
+      "Darlene Underwood"
+    ],
+    "bands": [
+      "Elixir",
+      "Trillium"
+    ],
+    "roles": "",
+    "date": "3/22/2024",
+    "location": "Cincinattia OH",
+    "url": "http://www.cincinnaticontradance.org/pigtown.htm",
+    "year": 2024,
+    "date_end": "3/24/2024",
+    "latlng": [
+      39.1,
+      -84.51
+    ]
+  },
+  {
+    "typical_month": "3",
+    "name": "DownEast Country Dance Festival",
     "callers": [],
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "Tega Cay SC",
-    "url": "https://www.charlottecontradance.org/carolina-meltdown",
+    "location": "Topsham ME",
+    "url": "http://www.deffa.org/festival/",
     "year": 2024,
     "latlng": [
-      35.02,
-      -81.03
+      43.93,
+      -69.98
     ]
   },
   {
@@ -13700,13 +13860,20 @@
   {
     "typical_month": "3",
     "name": "Beantown Stomp",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Maia McCormick",
+      "Will Mentor"
+    ],
+    "bands": [
+      "the Mean Lids",
+      "the FIgments"
+    ],
     "roles": "Larks / Robins",
     "date": "3/15/2024",
     "location": "Cambridge MA",
     "url": "https://www.beantownstomp.com",
     "year": 2024,
+    "date_end": "3/17/2024",
     "latlng": [
       42.37,
       -71.11
@@ -13728,30 +13895,105 @@
     ]
   },
   {
-    "typical_month": "4",
-    "name": "Contra Holiday in Medieval England",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Ely, England",
-    "url": "https://contraholiday.net/",
+    "typical_month": "3",
+    "name": "Hash Dance Weekend",
+    "callers": [
+      "Will Mentor",
+      "Alex Deis-Lauby"
+    ],
+    "bands": [
+      "River Road",
+      "the Ice Cream Truckers"
+    ],
+    "roles": "Larks / Robins",
+    "date": "3/9/2024",
+    "location": "Glen Echo MD",
+    "url": "https://fsgw.org/hashtag-dance-weekend",
     "year": 2024,
+    "date_end": "3/10/2024",
     "latlng": [
-      52.4,
-      0.26
+      38.97,
+      -77.14
+    ]
+  },
+  {
+    "typical_month": "4",
+    "name": "Contra Camp",
+    "callers": [
+      "Louise Siddons",
+      "Heather McAslan"
+    ],
+    "bands": [
+      "WillPower"
+    ],
+    "roles": "Larks / Robins",
+    "date": "4/5/2024",
+    "location": "Halsway UK",
+    "url": "https://halswaymanor.org.uk/event/contra-camp-2024/",
+    "year": 2024,
+    "date_end": "4/7/2024",
+    "latlng": [
+      51.13,
+      -3.25
+    ]
+  },
+  {
+    "typical_month": "4",
+    "name": "Dancing Fish: April",
+    "callers": [
+      "Janine Smith"
+    ],
+    "bands": [
+      "Stomp Rocket"
+    ],
+    "roles": "",
+    "date": "4/5/2024",
+    "location": "Melrose FL",
+    "url": "https://dancingfish.dance/",
+    "year": 2024,
+    "date_end": "4/6/2024",
+    "latlng": [
+      29.71,
+      -82.05
+    ]
+  },
+  {
+    "typical_month": "4",
+    "name": "Dancing Fish: Wild Asparagus",
+    "callers": [
+      "George Marshall"
+    ],
+    "bands": [
+      "Wild Asparagus"
+    ],
+    "roles": "",
+    "date": "4/19/2024",
+    "location": "Melrose FL",
+    "url": "https://dancingfish.dance/",
+    "year": 2024,
+    "date_end": "4/21/2024",
+    "latlng": [
+      29.71,
+      -82.05
     ]
   },
   {
     "typical_month": "4",
     "name": "Epicenter dance weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Seth Tepfer",
+      "Alex Deis-Lauby"
+    ],
+    "bands": [
+      "the Free Raisins",
+      "Genticorum"
+    ],
     "roles": "Larks / Robins",
     "date": "4/5/2024",
     "location": "Mill Valley CA",
-    "url": "https://nbcds.org/epicenter-2023/",
+    "url": "https://nbcds.org/epicenter-2024/",
     "year": 2024,
+    "date_end": "4/7/2024",
     "latlng": [
       37.91,
       -122.54
@@ -13760,13 +14002,19 @@
   {
     "typical_month": "4",
     "name": "SF Bay Queer Contra Dance Camp",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Chris Ricciotti",
+      "Maia McCormick"
+    ],
+    "bands": [
+      "the Mean Lids"
+    ],
     "roles": "Larks / Robins",
     "date": "4/12/2024",
     "location": "Aptos CA",
     "url": "https://www.queercontradance.org/queercamp.html",
     "year": 2024,
+    "date_end": "4/14/2024",
     "latlng": [
       36.98,
       -121.9
@@ -13775,16 +14023,43 @@
   {
     "typical_month": "4",
     "name": "Call of the Loon Dance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Will Mentor",
+      "Ted Hodapp"
+    ],
+    "bands": [
+      "the Stringrays",
+      "Northern Aire"
+    ],
     "roles": "",
     "date": "4/12/2024",
     "location": "Minneapolis MN",
     "url": "https://www.tapestryfolkdance.org/call-of-the-loon.html",
     "year": 2024,
+    "date_end": "4/14/2024",
     "latlng": [
       44.98,
       -93.27
+    ]
+  },
+  {
+    "typical_month": "4",
+    "name": "Springforth Ball",
+    "callers": [
+      "Gaye Fifer"
+    ],
+    "bands": [
+      "Drive Train"
+    ],
+    "roles": "",
+    "date": "4/12/2024",
+    "location": "Richmond VA",
+    "url": "https://tadamsva.org/springforth-2024/",
+    "year": 2024,
+    "date_end": "4/14/2024",
+    "latlng": [
+      37.54,
+      -77.44
     ]
   },
   {
@@ -13794,9 +14069,10 @@
     "bands": [],
     "roles": "Larks / Robins",
     "date": "4/19/2024",
-    "location": "Marlborogh MA",
+    "location": "Marlborough MA",
     "url": "https://www.neffa.org/",
     "year": 2024,
+    "date_end": "4/21/2024",
     "latlng": [
       42.35,
       -71.55
@@ -13820,13 +14096,19 @@
   {
     "typical_month": "4",
     "name": "Hands Four Spring Dance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Terry Doyle",
+      "Sarah Kaiser"
+    ],
+    "bands": [
+      "Playing with Fyre"
+    ],
     "roles": "",
     "date": "4/26/2024",
     "location": "Berea KY",
     "url": "https://www.hands4-berea.com/",
     "year": 2024,
+    "date_end": "4/28/2024",
     "latlng": [
       37.57,
       -84.3
@@ -13850,16 +14132,110 @@
   {
     "typical_month": "4",
     "name": "Trillium Twirl",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Bob Isaacs"
+    ],
+    "bands": [
+      "Hot Coffee Breakdown"
+    ],
     "roles": "",
-    "date": "",
+    "date": "4/26/2024",
     "location": "Dowling MI",
     "url": "https://michigandanceheritage.org/trilliumtwirl/",
     "year": 2024,
+    "date_end": "4/28/2024",
     "latlng": [
       42.52,
       -85.25
+    ]
+  },
+  {
+    "typical_month": "4",
+    "name": "Portland Raindance Weekend",
+    "callers": [
+      "Lisa Greenleaf",
+      "Will Mentor"
+    ],
+    "bands": [
+      "Drive Train",
+      "the Stringrays"
+    ],
+    "roles": "",
+    "date": "4/26/2024",
+    "location": "Portland OR",
+    "url": "http://www.portlandraindance.org/",
+    "year": 2024,
+    "date_end": "4/28/2024",
+    "latlng": [
+      45.52,
+      -122.68
+    ]
+  },
+  {
+    "typical_month": "4",
+    "name": "NexGen Contra Weekend",
+    "callers": [
+      "Katie Zanders",
+      "River Rainbowface"
+    ],
+    "bands": [
+      "Starling",
+      "Pimento Mori"
+    ],
+    "roles": "",
+    "date": "4/12/2024",
+    "location": "Ann Arbor MI",
+    "url": "https://aactmad.org/nexgen-contra",
+    "year": 2024,
+    "date_end": "4/14/2024",
+    "latlng": [
+      42.28,
+      -83.74
+    ]
+  },
+  {
+    "typical_month": "5",
+    "name": "May Heydays at Evesham",
+    "callers": [
+      "Will Mentor",
+      "Charlie Turner",
+      "Lynne Render",
+      "Rhodri Davies"
+    ],
+    "bands": [
+      "Lighthouse",
+      "Contrasaurus",
+      "Eclectic Regency"
+    ],
+    "roles": "",
+    "date": "5/3/2024",
+    "location": "Evesham UK",
+    "url": "http://mayheydays.org.uk/",
+    "year": 2024,
+    "date_end": "5/6/2024",
+    "latlng": [
+      52.09,
+      -1.95
+    ]
+  },
+  {
+    "typical_month": "5",
+    "name": "Dancing Fish: May",
+    "callers": [
+      "Alex Deis-Lauby"
+    ],
+    "bands": [
+      "River Road"
+    ],
+    "roles": "",
+    "date": "5/3/2024",
+    "location": "Melrose FL",
+    "url": "https://dancingfish.dance/",
+    "year": 2024,
+    "date_end": "5/4/2024",
+    "latlng": [
+      29.71,
+      -82.05
     ]
   },
   {
@@ -13872,6 +14248,7 @@
     "location": "Fayetteville WV",
     "url": "https://www.footmad.org/whirl",
     "year": 2024,
+    "date_end": "5/5/2024",
     "latlng": [
       38.05,
       -81.1
@@ -13952,9 +14329,10 @@
     ],
     "roles": "Larks / Robins",
     "date": "5/24/2024",
-    "location": "Carrboro, NC",
+    "location": "Carrboro NC",
     "url": "https://tcdancers.org/sdr",
     "year": 2024,
+    "date_end": "5/26/2024",
     "latlng": [
       35.91,
       -79.08
@@ -13966,13 +14344,70 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "5/24/2024",
     "location": "Seattle WA",
     "url": "https://nwfolklife.org/festival/home.html",
     "year": 2024,
+    "date_end": "5/27/2024",
     "latlng": [
       47.61,
       -122.33
+    ]
+  },
+  {
+    "typical_month": "5",
+    "name": "Contradancers Delight Holiday (Summer)",
+    "callers": [],
+    "bands": [],
+    "roles": "Ladies/Gents",
+    "date": "5/10/2024",
+    "location": "Mountain City TN",
+    "url": "http://www.contradancersdelight.com/about-summer-cdh-tst/",
+    "year": 2024,
+    "date_end": "5/17/2024",
+    "latlng": [
+      36.47,
+      -81.8
+    ]
+  },
+  {
+    "typical_month": "6",
+    "name": "Stegastomp",
+    "callers": [
+      "Charlie Turner",
+      "Andrew Swaine"
+    ],
+    "bands": [
+      "Contrasaurus"
+    ],
+    "roles": "",
+    "date": "6/28/2024",
+    "location": "Harbury UK",
+    "url": "https://www.contrasaurus.com/stegastomp.html",
+    "year": 2024,
+    "latlng": [
+      52.24,
+      -1.46
+    ]
+  },
+  {
+    "typical_month": "6",
+    "name": "Dancing Fish: June",
+    "callers": [
+      "Steve Zakon-Anderson"
+    ],
+    "bands": [
+      "Eloise &co."
+    ],
+    "roles": "",
+    "date": "6/7/2024",
+    "location": "Melrose FL",
+    "url": "https://dancingfish.dance/",
+    "year": 2024,
+    "date_end": "6/8/2024",
+    "latlng": [
+      29.71,
+      -82.05
     ]
   },
   {
@@ -13993,13 +14428,18 @@
   {
     "typical_month": "6",
     "name": "Flamingo Fling Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Seth Tepfer"
+    ],
+    "bands": [
+      "Playing with Fyre"
+    ],
     "roles": "",
-    "date": "",
-    "location": "Oaklahoma City OK",
+    "date": "6/7/2024",
+    "location": "Oklahoma City OK",
     "url": "http://scissortail.org/special-events/flamingo-fling/",
     "year": 2024,
+    "date_end": "6/9/2024",
     "latlng": [
       35.47,
       -97.52
@@ -14086,13 +14526,34 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "6/15/2024",
     "location": "Lexington MI",
     "url": "https://camp.cdss.org/camp-weeks/dance-music-spice-at-cavell/",
     "year": 2024,
+    "date_end": "6/22/2024",
     "latlng": [
       43.27,
       -82.53
+    ]
+  },
+  {
+    "typical_month": "7",
+    "name": "Dancing Fish: July",
+    "callers": [
+      "Bob Isaacs"
+    ],
+    "bands": [
+      "the Dam Beavers"
+    ],
+    "roles": "",
+    "date": "7/4/2024",
+    "location": "Melrose FL",
+    "url": "https://dancingfish.dance/",
+    "year": 2024,
+    "date_end": "7/6/2024",
+    "latlng": [
+      29.71,
+      -82.05
     ]
   },
   {
@@ -14101,10 +14562,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "6/30/2024",
     "location": "Pleasantville TN",
     "url": "https://camp.cumberlanddanceweek.org/",
     "year": 2024,
+    "date_end": "7/5/2024",
     "latlng": [
       35.67,
       -87.7
@@ -14127,44 +14589,15 @@
   },
   {
     "typical_month": "7",
-    "name": "Contradancers Delight Holiday (Summer)",
-    "callers": [],
-    "bands": [],
-    "roles": "Ladies/Gents",
-    "date": "",
-    "location": "Mountain City, TN",
-    "url": "http://www.contradancersdelight.com/about-summer-cdh-tst/",
-    "year": 2024,
-    "latlng": [
-      36.47,
-      -81.8
-    ]
-  },
-  {
-    "typical_month": "7",
-    "name": "Hashtag Dance Weekend",
-    "callers": [],
-    "bands": [],
-    "roles": "Larks / Robins",
-    "date": "",
-    "location": "Glen Echo MD",
-    "url": "https://fsgw.org/hashtag-dance-weekend",
-    "year": 2024,
-    "latlng": [
-      38.97,
-      -77.14
-    ]
-  },
-  {
-    "typical_month": "7",
     "name": "Pinewoods English-Scottish-Contra",
     "callers": [],
     "bands": [],
     "roles": "Larks / Robins",
-    "date": "",
+    "date": "7/1/2024",
     "location": "Plymouth MA",
     "url": "https://rscdsboston.org/pinewoods-esc.html",
     "year": 2024,
+    "date_end": "7/5/2024",
     "latlng": [
       41.96,
       -70.67
@@ -14206,10 +14639,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "7/14/2024",
     "location": "Olivebridge NY",
-    "url": "https://ashokancenter.org/product/northern-week-2023/",
+    "url": "https://ashokancenter.org/product/northern-week-2024/",
     "year": 2024,
+    "date_end": "7/20/2024",
     "latlng": [
       41.93,
       -74.22
@@ -14221,10 +14655,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "7/20/2024",
     "location": "Plymouth MA",
     "url": "https://camp.cdss.org/camp-weeks/american-dance-music-week-2/",
     "year": 2024,
+    "date_end": "7/27/2024",
     "latlng": [
       41.96,
       -70.67
@@ -14236,10 +14671,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "7/27/2024",
     "location": "Plymouth MA",
     "url": "https://camp.cdss.org/camp-weeks/harmony-of-song-dance-at-pinewoods/",
     "year": 2024,
+    "date_end": "8/5/2024",
     "latlng": [
       41.96,
       -70.67
@@ -14248,16 +14684,38 @@
   {
     "typical_month": "7",
     "name": "Summergreen",
+    "callers": [
+      "Alex Deis-Lauby",
+      "Rab Cummings"
+    ],
+    "bands": [
+      "the Dam Beavers",
+      "Drovers Grove"
+    ],
+    "roles": "",
+    "date": "7/19/2024",
+    "location": "Livingston MT",
+    "url": "https://bozemanfolklore.org/summergreen/",
+    "year": 2024,
+    "date_end": "7/21/2024",
+    "latlng": [
+      45.66,
+      -110.56
+    ]
+  },
+  {
+    "typical_month": "8",
+    "name": "Dancing Fish: August",
     "callers": [],
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "Livingston MT",
-    "url": "https://bozemanfolklore.org/summergreen/",
+    "location": "Melrose FL",
+    "url": "https://dancingfish.dance/",
     "year": 2024,
     "latlng": [
-      45.66,
-      -110.56
+      29.71,
+      -82.05
     ]
   },
   {
@@ -14281,10 +14739,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "8/11/2024",
     "location": "Poland ME",
     "url": "https://camp.cdss.org/camp-weeks/family-week-at-agassiz-village-2/",
     "year": 2024,
+    "date_end": "8/17/2024",
     "latlng": [
       44.06,
       -70.39
@@ -14296,10 +14755,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "8/12/2024",
     "location": "Cascade MD",
     "url": "https://camp.cdss.org/camp-weeks/cascade-of-music-dance-at-louise/",
     "year": 2024,
+    "date_end": "8/18/2024",
     "latlng": [
       39.71,
       -77.5
@@ -14311,10 +14771,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "8/17/2024",
     "location": "Plymouth MA",
     "url": "https://camp.cdss.org/camp-weeks/campers-week-at-pinewoods/",
     "year": 2024,
+    "date_end": "8/24/2024",
     "latlng": [
       41.96,
       -70.67
@@ -14356,28 +14817,14 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "8/16/2024",
     "location": "Mentone AL",
     "url": "http://www.footmadbirmingham.org/mentone.html",
     "year": 2024,
+    "date_end": "8/18/2024",
     "latlng": [
       34.58,
       -85.59
-    ]
-  },
-  {
-    "typical_month": "8",
-    "name": "Splash Dance Weekend",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Hendersonville, NC",
-    "url": "https://www.splashdance.org/",
-    "year": 2024,
-    "latlng": [
-      35.32,
-      -82.46
     ]
   },
   {
@@ -14408,6 +14855,39 @@
     "latlng": [
       47.45,
       -116.79
+    ]
+  },
+  {
+    "typical_month": "9",
+    "name": "Dancing Fish: September",
+    "callers": [],
+    "bands": [
+      "Kingfisher"
+    ],
+    "roles": "",
+    "date": "9/6/2024",
+    "location": "Melrose FL",
+    "url": "https://dancingfish.dance/",
+    "year": 2024,
+    "date_end": "9/7/2024",
+    "latlng": [
+      29.71,
+      -82.05
+    ]
+  },
+  {
+    "typical_month": "9",
+    "name": "Contravana",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Rochester NY",
+    "url": "https://cdrochester.org/",
+    "year": 2024,
+    "latlng": [
+      43.16,
+      -77.61
     ]
   },
   {
@@ -14491,7 +14971,7 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "9/6/2024",
     "location": "Rollins MT",
     "url": "https://www.missoulafolk.org/bearhug",
     "year": 2024,
@@ -14503,13 +14983,18 @@
   {
     "typical_month": "9",
     "name": "Squirrel Moon Contra Dance weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Bev Bernbaum"
+    ],
+    "bands": [
+      "Boys of the Noise"
+    ],
     "roles": "",
-    "date": "",
+    "date": "9/20/2024",
     "location": "Dodgeville WI",
     "url": "http://www.squirrelmoon.org/",
     "year": 2024,
+    "date_end": "9/22/2024",
     "latlng": [
       42.96,
       -90.13
@@ -14528,6 +15013,21 @@
     "latlng": [
       38.8,
       -120.12
+    ]
+  },
+  {
+    "typical_month": "9",
+    "name": "Labor Day Dance Away",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Julian CA",
+    "url": "https://www.caldancecoop.org/special-events/labor-day-dance-away-2021/",
+    "year": 2024,
+    "latlng": [
+      33.08,
+      -116.6
     ]
   },
   {
@@ -14566,13 +15066,29 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "9/27/2024",
     "location": "Silver Bay NY",
     "url": "https://www.danceflurry.org/adirondack-dance-weekend/",
     "year": 2024,
+    "date_end": "9/29/2024",
     "latlng": [
       43.7,
       -73.51
+    ]
+  },
+  {
+    "typical_month": "10",
+    "name": "Dancing Fish: October",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Melrose FL",
+    "url": "https://dancingfish.dance/",
+    "year": 2024,
+    "latlng": [
+      29.71,
+      -82.05
     ]
   },
   {
@@ -14613,7 +15129,7 @@
     "roles": "",
     "date": "",
     "location": "Salt Lake City UT",
-    "url": "https://wasatchcontras.org/wiggle/",
+    "url": "https://wasatchcontras.org/ww/",
     "year": 2024,
     "latlng": [
       40.76,
@@ -14648,21 +15164,6 @@
     "latlng": [
       34.42,
       -119.7
-    ]
-  },
-  {
-    "typical_month": "10",
-    "name": "Mountain Madness Contra Dance Weekend",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Jonesborough TN",
-    "url": "https://www.facebook.com/groups/HistoricJonesboroughDanceSociety",
-    "year": 2024,
-    "latlng": [
-      36.29,
-      -82.47
     ]
   },
   {
@@ -14742,21 +15243,6 @@
   },
   {
     "typical_month": "10",
-    "name": "Tree Town Stomp",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Ann Arbor MI",
-    "url": "https://aactmad.org/tree-town-stomp",
-    "year": 2024,
-    "latlng": [
-      42.28,
-      -83.74
-    ]
-  },
-  {
-    "typical_month": "10",
     "name": "Music City Masquerade",
     "callers": [],
     "bands": [],
@@ -14768,21 +15254,6 @@
     "latlng": [
       36.16,
       -86.78
-    ]
-  },
-  {
-    "typical_month": "10",
-    "name": "Dancing Leaves",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Charlottesville VA",
-    "url": "https://contracorners.com/cville_fall_festival",
-    "year": 2024,
-    "latlng": [
-      38.03,
-      -78.48
     ]
   },
   {
@@ -14801,33 +15272,18 @@
     ]
   },
   {
-    "typical_month": "10",
-    "name": "Florida Fall Ball",
+    "typical_month": "11",
+    "name": "Dancing Fish: November",
     "callers": [],
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "Tampa FL",
-    "url": "http://www.tampabaycontra.com/",
+    "location": "Melrose FL",
+    "url": "https://dancingfish.dance/",
     "year": 2024,
     "latlng": [
-      27.95,
-      -82.46
-    ]
-  },
-  {
-    "typical_month": "10",
-    "name": "Next Generation Dance Camp",
-    "callers": [],
-    "bands": [],
-    "roles": "Larks / Robins",
-    "date": "",
-    "location": "Portland OR",
-    "url": "next in 2020",
-    "year": 2024,
-    "latlng": [
-      45.52,
-      -122.68
+      29.71,
+      -82.05
     ]
   },
   {
@@ -14852,12 +15308,12 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "Brooklyn NY",
+    "location": "New York NY",
     "url": "http://contrashock.org/",
     "year": 2024,
     "latlng": [
-      40.68,
-      -73.94
+      40.71,
+      -74.01
     ]
   },
   {
@@ -14873,21 +15329,6 @@
     "latlng": [
       45.42,
       -75.7
-    ]
-  },
-  {
-    "typical_month": "11",
-    "name": "Twilight Twirl",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Seattle WA",
-    "url": "http://twilighttwirl.com",
-    "year": 2024,
-    "latlng": [
-      47.61,
-      -122.33
     ]
   },
   {
@@ -14997,36 +15438,6 @@
   },
   {
     "typical_month": "11",
-    "name": "Pilgrim's Progression Dance Weekend",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Lawrence KS",
-    "url": "https://lawrencecontra.wordpress.com/dance-weekend/",
-    "year": 2024,
-    "latlng": [
-      38.97,
-      -95.24
-    ]
-  },
-  {
-    "typical_month": "11",
-    "name": "Rochester Thanksgiving Dance Weekend",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Rochester, NY",
-    "url": "https://cdrochester.org/events/2019-tg/",
-    "year": 2024,
-    "latlng": [
-      43.16,
-      -77.61
-    ]
-  },
-  {
-    "typical_month": "11",
     "name": "ContraCopia",
     "callers": [],
     "bands": [],
@@ -15072,6 +15483,21 @@
   },
   {
     "typical_month": "12",
+    "name": "Dancing Fish: December",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Melrose FL",
+    "url": "https://dancingfish.dance/",
+    "year": 2024,
+    "latlng": [
+      29.71,
+      -82.05
+    ]
+  },
+  {
+    "typical_month": "12",
     "name": "Winter Warmup Dance Weekend",
     "callers": [],
     "bands": [],
@@ -15100,7 +15526,7 @@
       "George Paul"
     ],
     "roles": "Ladies/Gents",
-    "date": "12/26 -1/1",
+    "date": "12/26/2024",
     "location": "Kingsport, TN ",
     "url": "http://www.contradancersdelight.com/about-winter-cdh",
     "year": 2024,
