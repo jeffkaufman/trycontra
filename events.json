@@ -13570,7 +13570,10 @@
     "typical_month": "2",
     "name": "IVFDF",
     "callers": [],
-    "bands": [],
+    "bands": [
+      "Contrary Faeries",
+      "Bearded Dragons"
+    ],
     "roles": "Larks / Robins",
     "date": "2/16/2024",
     "location": "York UK",
@@ -13687,8 +13690,19 @@
   {
     "typical_month": "2",
     "name": "Dance Flurry Festival",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Adina Gordon",
+      "Bob Isaacs",
+      "Liz Nelson",
+      "Isaac Banner",
+      "Lisa Greenleaf"
+    ],
+    "bands": [
+      "Countercurrent",
+      "the Engine Room",
+      "River Road",
+      "Supertrad"
+    ],
     "roles": "",
     "date": "2/16/2024",
     "location": "Saratoga Springs NY",
@@ -13845,13 +13859,19 @@
   {
     "typical_month": "3",
     "name": "Spring Breakdown Dance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Emily Rush"
+    ],
+    "bands": [
+      "Nova",
+      "Rushfest"
+    ],
     "roles": "",
-    "date": "",
+    "date": "3/15/2024",
     "location": "Columbia MO",
-    "url": "https://mmtd.wordpress.com/dance-weekend-2023/",
+    "url": "https://mmtd.wordpress.com/dance-weekend-2024/",
     "year": 2024,
+    "date_end": "3/17/2024",
     "latlng": [
       38.95,
       -92.33
@@ -13882,13 +13902,21 @@
   {
     "typical_month": "3",
     "name": "Spring @ Sautee",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Terry Doyle",
+      "Seth Tepfer"
+    ],
+    "bands": [
+      "Hot Coffee Breakdown",
+      "Contraforce",
+      "DJ TacoShel"
+    ],
     "roles": "",
-    "date": "",
+    "date": "3/22/2024",
     "location": "Helena GA",
-    "url": "https://www.snca.org/contra/danceWeekend/pageWeekend.php",
+    "url": "https://www.snca.org/contra/danceWeekend/page.php",
     "year": 2024,
+    "date_end": "3/24/2024",
     "latlng": [
       32.07,
       -82.91
@@ -14368,6 +14396,30 @@
     "latlng": [
       36.47,
       -81.8
+    ]
+  },
+  {
+    "typical_month": "6",
+    "name": "Summer Soiree",
+    "callers": [
+      "Nils Fredland",
+      "Cis Hinkle",
+      "Emily Rush"
+    ],
+    "bands": [
+      "Supertrad",
+      "the Ice Cream Truckers",
+      "Rushfest"
+    ],
+    "roles": "",
+    "date": "6/14/2024",
+    "location": "Asheville NC",
+    "url": "https://ashevillecontra.wixsite.com/summer-soiree-2024",
+    "year": 2024,
+    "date_end": "6/16/2024",
+    "latlng": [
+      35.6,
+      -82.55
     ]
   },
   {
