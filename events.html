@@ -359,11 +359,11 @@ function refresh_list() {
     }
   }
 
-  if (input_band.value) {
-    params.append("band", input_band.value);
+  if (input_performer.value) {
+    params.append("performer", input_performer.value);
   }
-  if (input_caller.value) {
-    params.append("caller", input_caller.value);
+  if (input_name.value) {
+    params.append("name", input_name.value);
   }
 
   const marker_info = {}; // location_json -> [ [y, m, d, dance], ... ]
@@ -382,14 +382,16 @@ function refresh_list() {
     // in 2020-01, still include it.
     if (target_d != null && dance.date && target_d != dance.d) continue;
 
-    if (input_band.value &&
+    if (input_performer.value &&
         !(""+dance.bands).toLowerCase().includes(
-          input_band.value.toLowerCase())) {
+          input_performer.value.toLowerCase()) &&
+        !(""+dance.callers).toLowerCase().includes(
+          input_performer.value.toLowerCase())) {
       continue;
     }
-    if (input_caller.value &&
-        !(""+dance.callers).toLowerCase().includes(
-          input_caller.value.toLowerCase())) {
+    if (input_name.value &&
+        !(""+dance.name).toLowerCase().includes(
+          input_name.value.toLowerCase())) {
       continue;
     }
 
@@ -477,8 +479,8 @@ document.body.onload = load_all;
   <form id=filter_form>
   <input id=input_date name=date placeholder="date: 1937-01-01 or 1937-01 or 1937">
   <input id=input_state name=state placeholder="state: NC">
-  <input id=input_band name=band placeholder="band: Yankee Ingenuity">
-  <input id=input_caller name=caller placeholder="caller: Ted Sanella">
+  <input id=input_performer name=performer placeholder="performer: Yankee Ingenuity or Ted Sanella">
+  <input id=input_name name=name placeholder="name: NEFFA">
 
   </form>
 
