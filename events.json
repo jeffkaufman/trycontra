@@ -13569,7 +13569,10 @@
   {
     "typical_month": "2",
     "name": "IVFDF",
-    "callers": [],
+    "callers": [
+      "Charlie Turner",
+      "Sam Tetley Smith"
+    ],
     "bands": [
       "Contrary Faeries",
       "Bearded Dragons"
@@ -14109,13 +14112,18 @@
   {
     "typical_month": "4",
     "name": "Fiddlehead Frolic",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Mary Wesley"
+    ],
+    "bands": [
+      "Eloise &co."
+    ],
     "roles": "",
-    "date": "",
+    "date": "3/30/2024",
     "location": "Ithaca NY",
-    "url": "http://www.hands4dancers.org/upcoming-dances/2023/4/1/fiddlehead-frolic",
+    "url": "http://www.hands4dancers.org/upcoming-dances/2024/3/30/fiddlehead-frolic",
     "year": 2024,
+    "date_end": "3/30/2024",
     "latlng": [
       42.44,
       -76.5
@@ -14145,13 +14153,20 @@
   {
     "typical_month": "4",
     "name": "Dandelion Romp",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Adina Gordon",
+      "Nils Fredland"
+    ],
+    "bands": [
+      "Elixir",
+      "the Engine Room"
+    ],
     "roles": "Larks / Robins",
-    "date": "",
+    "date": "4/19/2024",
     "location": "Oberlin OH",
-    "url": "https://www.oberlin.edu/events/dandelion_romp_8198",
+    "url": "https://advance.oberlin.edu/events/2024/04/19/dandelion-romp-2024",
     "year": 2024,
+    "date_end": "4/21/2024",
     "latlng": [
       41.29,
       -82.22
@@ -14269,8 +14284,14 @@
   {
     "typical_month": "5",
     "name": "Whitewater Whirl",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Gaye Fifer",
+      "Janine Smith"
+    ],
+    "bands": [
+      "Hot Coffee Breakdown",
+      "Brazenkeys"
+    ],
     "roles": "",
     "date": "5/3/2024",
     "location": "Fayetteville WV",
@@ -14380,6 +14401,27 @@
     "latlng": [
       47.61,
       -122.33
+    ]
+  },
+  {
+    "typical_month": "5",
+    "name": "Moulin d\u2019And\u00e9 Weekend",
+    "callers": [
+      "Kappy Lanning",
+      "Janine Smith"
+    ],
+    "bands": [
+      "Nozzy"
+    ],
+    "roles": "Hommes/Femmes",
+    "date": "5/24/2024",
+    "location": "Moulin d'Ande, Normandy, France",
+    "url": "https://sites.google.com/site/americancontradanceinparis/",
+    "year": 2024,
+    "date_end": "5/26/2024",
+    "latlng": [
+      49.24,
+      1.25
     ]
   },
   {
