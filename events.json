@@ -14034,11 +14034,12 @@
     "typical_month": "4",
     "name": "SF Bay Queer Contra Dance Camp",
     "callers": [
-      "Chris Ricciotti",
-      "Maia McCormick"
+      "Andy Shore",
+      "Isaac Banner"
     ],
     "bands": [
-      "the Mean Lids"
+      "Nimbus",
+      "River Road"
     ],
     "roles": "Larks / Robins",
     "date": "4/12/2024",
@@ -14237,6 +14238,28 @@
     ]
   },
   {
+    "typical_month": "4",
+    "name": "Palmetto Bug Stomp",
+    "callers": [
+      "George Marshall",
+      "Seth Tepfer"
+    ],
+    "bands": [
+      "Wild Asparagus",
+      "Contraforce"
+    ],
+    "roles": "",
+    "date": "4/26/2024",
+    "location": "Charleston SC",
+    "url": "http://charlestonfolk.weebly.com/palmetto-bug-stomp.html",
+    "year": 2024,
+    "date_end": "4/28/2024",
+    "latlng": [
+      32.78,
+      -79.93
+    ]
+  },
+  {
     "typical_month": "5",
     "name": "May Heydays at Evesham",
     "callers": [
@@ -14321,13 +14344,19 @@
   {
     "typical_month": "5",
     "name": "Meet Me in St Louis Dance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Bob Isaacs"
+    ],
+    "bands": [
+      "Audacious",
+      "Roger Wilco"
+    ],
     "roles": "",
-    "date": "",
+    "date": "4/25/2024",
     "location": "Kirkwood MO",
     "url": "https://childgrove.org/stl-dance-weekends/meetmeinstlouis",
     "year": 2024,
+    "date_end": "5/27/2024",
     "latlng": [
       38.58,
       -90.41
@@ -14336,13 +14365,20 @@
   {
     "typical_month": "5",
     "name": "FolkMADness Music & Dance Camp",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Jeremy Korr",
+      "Lo Peckman"
+    ],
+    "bands": [
+      "Whirlwing",
+      "Toss the Possum"
+    ],
     "roles": "",
-    "date": "",
+    "date": "5/24/2024",
     "location": "Soccoro NM",
     "url": "http://folkmads.org/events/camps/folkmadness/",
     "year": 2024,
+    "date_end": "5/27/2024",
     "latlng": [
       34.06,
       -106.89
@@ -14352,14 +14388,19 @@
     "typical_month": "5",
     "name": "Dancing Bear Dance Camp",
     "callers": [
-      "George Marshall"
+      "George Marshall",
+      "Louise Siddons"
     ],
-    "bands": [],
+    "bands": [
+      "the Stringrays",
+      "the Sail Away Ladies"
+    ],
     "roles": "",
     "date": "5/24/2024",
     "location": "Wasilla AK",
     "url": "http://www.thedancingbears.com/Dance-Camp.html",
     "year": 2024,
+    "date_end": "5/27/2024",
     "latlng": [
       61.58,
       -149.44
@@ -14426,13 +14467,23 @@
   },
   {
     "typical_month": "5",
-    "name": "Contradancers Delight Holiday (Summer)",
-    "callers": [],
-    "bands": [],
+    "name": "Contradancers Delight Holiday (Spring)",
+    "callers": [
+      "Bob isaacs",
+      "Terry Doyle",
+      "Devin Pohly",
+      "Warren Doyle"
+    ],
+    "bands": [
+      "Toss the Possum",
+      "Drive Train",
+      "Buzz Band",
+      "George Paul"
+    ],
     "roles": "Ladies/Gents",
     "date": "5/10/2024",
     "location": "Mountain City TN",
-    "url": "http://www.contradancersdelight.com/about-summer-cdh-tst/",
+    "url": "https://www.contradancersdelight.com/",
     "year": 2024,
     "date_end": "5/17/2024",
     "latlng": [
@@ -14507,13 +14558,17 @@
   {
     "typical_month": "6",
     "name": "Gender-Free Dance Camp (Spring)",
-    "callers": [],
+    "callers": [
+      "Maia McCormick",
+      "Scott Higgs"
+    ],
     "bands": [],
     "roles": "Larks / Robins",
-    "date": "",
+    "date": "6/7/2024",
     "location": "Plymouth MA",
-    "url": "https://www.lcfd.org/spring-camp-2023.html",
+    "url": "https://www.lcfd.org/spring-camp-2024.html",
     "year": 2024,
+    "date_end": "6/9/2024",
     "latlng": [
       41.96,
       -70.67
@@ -14542,13 +14597,18 @@
   {
     "typical_month": "6",
     "name": "Swing into Summer",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Gaye Fifer"
+    ],
+    "bands": [
+      "Countercurrent"
+    ],
     "roles": "Larks / Robins",
-    "date": "",
+    "date": "6/14/2024",
     "location": "Plymouth MA",
     "url": "http://www.swingintosummer.org/",
     "year": 2024,
+    "date_end": "6/16/2024",
     "latlng": [
       41.96,
       -70.67
@@ -14557,13 +14617,21 @@
   {
     "typical_month": "6",
     "name": "Lady of the Lake June Week",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Susan Petrick",
+      "Wendy Graham"
+    ],
+    "bands": [
+      "Constellation",
+      "Countercurrent",
+      "the Canote Brothers"
+    ],
     "roles": "Larks / Robins",
-    "date": "",
+    "date": "6/23/2024",
     "location": "Harrison, ID",
     "url": "http://www.ladyofthelake.org/june-week/",
     "year": 2024,
+    "date_end": "6/29/2024",
     "latlng": [
       47.45,
       -116.79
@@ -14587,13 +14655,16 @@
   {
     "typical_month": "6",
     "name": "BACDS Family Week",
-    "callers": [],
+    "callers": [
+      "Yoyo Zhou"
+    ],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "6/23/2024",
     "location": "La Honda CA",
     "url": "https://www.bacds.org/familyweek/",
     "year": 2024,
+    "date_end": "6/29/2024",
     "latlng": [
       37.32,
       -122.27
@@ -14607,7 +14678,7 @@
     "roles": "",
     "date": "",
     "location": "Bloomery WV",
-    "url": "https://www.buffalogapretreat.com/general-5-2",
+    "url": "",
     "year": 2024,
     "latlng": [
       39.39,
@@ -14617,7 +14688,9 @@
   {
     "typical_month": "6",
     "name": "Dance, Music & Spice at Cavell",
-    "callers": [],
+    "callers": [
+      "Will Mentor"
+    ],
     "bands": [],
     "roles": "",
     "date": "6/15/2024",
@@ -14653,8 +14726,13 @@
   {
     "typical_month": "7",
     "name": "Cumberland Dance Week",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Seth Tepfer",
+      "Wendy Graham Settle"
+    ],
+    "bands": [
+      "the Cosmic Otters"
+    ],
     "roles": "",
     "date": "6/30/2024",
     "location": "Pleasantville TN",
@@ -14669,13 +14747,16 @@
   {
     "typical_month": "7",
     "name": "July Fourth at Pinewoods",
-    "callers": [],
+    "callers": [
+      "Lisa Greenleaf"
+    ],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "6/27/2024",
     "location": "Plymouth MA",
     "url": "https://cds-boston-j4weekend.weebly.com/",
     "year": 2024,
+    "date_end": "7/1/2024",
     "latlng": [
       41.96,
       -70.67
@@ -14684,8 +14765,12 @@
   {
     "typical_month": "7",
     "name": "Pinewoods English-Scottish-Contra",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Michael Karcher"
+    ],
+    "bands": [
+      "River Road"
+    ],
     "roles": "Larks / Robins",
     "date": "7/1/2024",
     "location": "Plymouth MA",
@@ -14700,13 +14785,20 @@
   {
     "typical_month": "7",
     "name": "Roanoke Railroader",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Will Mentor",
+      "Gaye Fifer"
+    ],
+    "bands": [
+      "Toss the Possum",
+      "the Latter Day Lizards"
+    ],
     "roles": "",
-    "date": "",
+    "date": "7/4/2024",
     "location": "Salem VA",
     "url": "http://www.roanokerailroader.com/",
     "year": 2024,
+    "date_end": "7/7/2024",
     "latlng": [
       37.29,
       -80.05
@@ -14715,13 +14807,20 @@
   {
     "typical_month": "7",
     "name": "River Rendezvous",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Terry Doyle",
+      "Devin Pohly"
+    ],
+    "bands": [
+      "Toss the Possum",
+      "Drive Train"
+    ],
     "roles": "",
-    "date": "",
+    "date": "7/12/2024",
     "location": "Coshocton OH",
     "url": "http://www.riverrendezvous.com/",
     "year": 2024,
+    "date_end": "7/14/2024",
     "latlng": [
       40.27,
       -81.86
@@ -14730,7 +14829,11 @@
   {
     "typical_month": "7",
     "name": "Ashokan Northern Week",
-    "callers": [],
+    "callers": [
+      "Will Mentor",
+      "Susan Kevra",
+      "John Krumm"
+    ],
     "bands": [],
     "roles": "",
     "date": "7/14/2024",
@@ -14746,7 +14849,10 @@
   {
     "typical_month": "7",
     "name": "American Dance & Music Week at Pinewoods",
-    "callers": [],
+    "callers": [
+      "Lisa Greenleaf",
+      "Will Mentor"
+    ],
     "bands": [],
     "roles": "",
     "date": "7/20/2024",
@@ -14762,7 +14868,10 @@
   {
     "typical_month": "7",
     "name": "Harmony of Song & Dance at Pinewoods",
-    "callers": [],
+    "callers": [
+      "Lisa Greenleaf",
+      "Seth Tepfer"
+    ],
     "bands": [],
     "roles": "",
     "date": "7/27/2024",
@@ -14987,13 +15096,20 @@
   {
     "typical_month": "9",
     "name": "Rendezvous Dance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Gaye Fifer",
+      "Will Mentor"
+    ],
+    "bands": [
+      "Nova",
+      "the Dam Beavers"
+    ],
     "roles": "",
-    "date": "",
+    "date": "8/30/2024",
     "location": "Boulder CO",
     "url": "https://cfootmad.org/rendezvous",
     "year": 2024,
+    "date_end": "9/2/2024",
     "latlng": [
       40.01,
       -105.27
