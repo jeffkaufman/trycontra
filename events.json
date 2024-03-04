@@ -15213,13 +15213,20 @@
   {
     "typical_month": "9",
     "name": "Echo Summit",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Jessee Edgarton",
+      "Wendy Graham"
+    ],
+    "bands": [
+      "the Figments",
+      "Toss the Possum"
+    ],
     "roles": "",
-    "date": "",
+    "date": "9/13/2024",
     "location": "Camp Sacremento",
-    "url": "https://sactocds.wordpress.com/special-events/echo-summit-dance-camp-2023/",
+    "url": "https://sactocds.wordpress.com/echo-summit-dance-camp-2024/",
     "year": 2024,
+    "date_end": "9/15/2024",
     "latlng": [
       38.8,
       -120.12
@@ -15559,13 +15566,20 @@
   {
     "typical_month": "11",
     "name": "Dance in the Desert",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Lisa Greenleaf",
+      "Susan Petrick"
+    ],
+    "bands": [
+      "Playing with Fyre",
+      "Stomp Rocket"
+    ],
     "roles": "",
-    "date": "",
+    "date": "11/8/2024",
     "location": "Oracle AZ",
     "url": "https://tucsoncontradancers.org/tucson-contra-dancers/dance-in-the-desert-2023/",
     "year": 2024,
+    "date_end": "11/10/2024",
     "latlng": [
       32.61,
       -110.77
