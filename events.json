@@ -14097,8 +14097,21 @@
   {
     "typical_month": "4",
     "name": "NEFFA",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Alex Deis-Lauby",
+      "Rick Mohr",
+      "Ben Sachs-Hamilton",
+      "Bob Isaacs",
+      "Michael Karcher",
+      "Dereck Kalish"
+    ],
+    "bands": [
+      "Live Wire",
+      "Kingfisher",
+      "Torrent",
+      "Good Company",
+      "Dogtown"
+    ],
     "roles": "Larks / Robins",
     "date": "4/19/2024",
     "location": "Marlborough MA",
@@ -14639,13 +14652,20 @@
   {
     "typical_month": "6",
     "name": "Old Songs Festival",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Dave Eisenstadter",
+      "Adina Gordon"
+    ],
+    "bands": [
+      "the Moving Violations",
+      "Stove Dragon"
+    ],
     "roles": "",
-    "date": "",
+    "date": "6/28/2024",
     "location": "Voorheesville NY",
     "url": "http://festival.oldsongs.org/",
     "year": 2024,
+    "date_end": "6/30/2024",
     "latlng": [
       42.65,
       -73.93
@@ -15535,13 +15555,20 @@
   {
     "typical_month": "11",
     "name": "Hey Fever Dance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Alex Deis-Lauby",
+      "Nils Fredland"
+    ],
+    "bands": [
+      "Elixir",
+      "TBD"
+    ],
     "roles": "",
-    "date": "",
+    "date": "11/1/2024",
     "location": "Ottawa ON",
     "url": "http://www.ottawacontra.ca/heyFever/",
     "year": 2024,
+    "date_end": "11/3/2024",
     "latlng": [
       45.42,
       -75.7
