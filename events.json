@@ -14342,13 +14342,18 @@
   {
     "typical_month": "5",
     "name": "Lake Eden Arts Festival - Spring",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Claire Takemori"
+    ],
+    "bands": [
+      "Playing with Fyre"
+    ],
     "roles": "",
-    "date": "",
+    "date": "5/10/2024",
     "location": "Black Mountain NC",
     "url": "https://theleaf.org/",
     "year": 2024,
+    "date_end": "5/11/2024",
     "latlng": [
       35.62,
       -82.32
@@ -14889,7 +14894,7 @@
     "name": "Harmony of Song & Dance at Pinewoods",
     "callers": [
       "Lisa Greenleaf",
-      "Seth Tepfer"
+      "Brooke Friendly"
     ],
     "bands": [],
     "roles": "",
@@ -15450,13 +15455,20 @@
   {
     "typical_month": "10",
     "name": "Lake Eden Arts Festival - Fall",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Bob Isaacs",
+      "Sarah Kaiser"
+    ],
+    "bands": [
+      "Red Dog",
+      "Spintuition"
+    ],
     "roles": "",
-    "date": "",
+    "date": "10/17/2024",
     "location": "Black Mountain NC",
     "url": "https://theleaf.org/",
     "year": 2024,
+    "date_end": "10/20/2024",
     "latlng": [
       35.62,
       -82.32
@@ -15644,13 +15656,20 @@
   {
     "typical_month": "11",
     "name": "Atlanta Dance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Will Mentor",
+      "Seth Tepfer"
+    ],
+    "bands": [
+      "the Faux Paws",
+      "Drive Train"
+    ],
     "roles": "",
-    "date": "",
+    "date": "11/8/2024",
     "location": "Atlanta GA",
     "url": "https://adw.contradance.org/",
     "year": 2024,
+    "date_end": "11/10/2024",
     "latlng": [
       33.75,
       -84.39
