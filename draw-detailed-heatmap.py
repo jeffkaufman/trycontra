@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 
 import json
+import matplotlib
 import numpy as np
 import cartopy.crs as ccrs
-import matplotlib
+from datetime import datetime
 import matplotlib.pyplot as plt
 import matplotlib.colors as colors
 import cartopy.feature as cfeature
@@ -25,8 +26,36 @@ with open("dances_locs.json") as inf:
             ys.append(lat)
             xs.append(lng)
 
-def myplot(x, y, s, bins=4000):
-    heatmap, xedges, yedges = np.histogram2d(x, y, bins=bins)
+with open("events.json") as inf:
+    for record in json.load(inf):
+        if record["year"] != 2024:
+            continue
+        if not record["latlng"]:
+            continue
+        lat, lng = record["latlng"]
+        if record["date"] and record.get("date_end"):
+            start_date = datetime.strptime(record["date"], "%m/%d/%Y")
+            end_date = datetime.strptime(record["date_end"], "%m/%d/%Y")
+            duration = (end_date - start_date).days
+        else:
+            duration = 3
+
+        # Count one day of dance weekend as three nights of dancing.  But if
+        # it's three or more days count the first day as 1/3 and the last day
+        # as 2/3, and if it's two days count the first day as 1/3.
+        if duration >= 3:
+            duration -= 1
+        elif duration >= 2:
+            duration -= 2/3
+        duration = round(duration * 3)
+            
+        for n in range(duration):
+            ys.append(lat)
+            xs.append(lng)
+            
+            
+def myplot(x, y, s, bins=6000):
+    heatmap, xedges, yedges = np.histogram2d(x, y, bins=[bins, round(bins*0.35)])
     heatmap = gaussian_filter(heatmap, sigma=s)
 
     extent = [xedges[0], xedges[-1], yedges[0], yedges[-1]]
@@ -36,7 +65,7 @@ def myplot(x, y, s, bins=4000):
 fig = plt.figure(figsize=(10,4.1))
 ax = fig.add_subplot(1, 1, 1, projection=ccrs.PlateCarree())
 
-s = 64
+s = 32
 
 ax.set_axis_off()
 
