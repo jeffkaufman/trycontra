@@ -15627,13 +15627,20 @@
   {
     "typical_month": "11",
     "name": "Pittsburgh Fall Dance Weekend",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
+    "callers": [
+      "Gaye Fifer",
+      "River Rainbowface Abel"
+    ],
+    "bands": [
+      "the Engine Room",
+      "Hot Coffee Breakdown"
+    ],
+    "roles": "Larks / Robins",
+    "date": "10/25/2024",
     "location": "Pittsburgh PA",
     "url": "http://pittsburghcontra.org/fdw/",
     "year": 2024,
+    "date_end": "10/27/2024",
     "latlng": [
       40.44,
       -80.0
@@ -15772,10 +15779,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "12/6/2024",
     "location": "Worthington OH",
     "url": "https://bigscioty.com/winterwarmup/",
     "year": 2024,
+    "date_end": "12/8/2024",
     "latlng": [
       40.09,
       -83.02
