@@ -15086,6 +15086,22 @@
     ]
   },
   {
+    "typical_month": "8",
+    "name": "TradMaD",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "8/24/2024",
+    "location": "Plymouth MA",
+    "url": "http://minstrelrecords.com/tradmad/",
+    "year": 2024,
+    "date_end": "8/30/2024",
+    "latlng": [
+      41.96,
+      -70.67
+    ]
+  },
+  {
     "typical_month": "9",
     "name": "Dancing Fish: September",
     "callers": [],
