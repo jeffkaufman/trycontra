@@ -15109,11 +15109,11 @@
       "Kingfisher"
     ],
     "roles": "",
-    "date": "9/6/2024",
+    "date": "8/30/2024",
     "location": "Melrose FL",
     "url": "https://dancingfish.dance/",
     "year": 2024,
-    "date_end": "9/7/2024",
+    "date_end": "9/2/2024",
     "latlng": [
       29.71,
       -82.05
@@ -15235,10 +15235,10 @@
     "typical_month": "9",
     "name": "Squirrel Moon Contra Dance weekend",
     "callers": [
-      "Bev Bernbaum"
+      "Alex Deis-Lauby"
     ],
     "bands": [
-      "Boys of the Noise"
+      "Hillbilly Diaspora"
     ],
     "roles": "",
     "date": "9/20/2024",
@@ -15306,13 +15306,19 @@
   {
     "typical_month": "9",
     "name": "Youth Dance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Alex Deis-Lauby",
+      "Lindsey Dono"
+    ],
+    "bands": [
+      "Calico"
+    ],
     "roles": "Larks / Robins",
-    "date": "",
+    "date": "9/6/2024",
     "location": "Weston VT",
     "url": "http://youthdanceweekend.org/",
     "year": 2024,
+    "date_end": "9/8/2024",
     "latlng": [
       43.29,
       -72.79
@@ -15457,8 +15463,12 @@
   {
     "typical_month": "10",
     "name": "Peterbough Fall Ball",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Alex Deis-Lauby"
+    ],
+    "bands": [
+      "River Road"
+    ],
     "roles": "",
     "date": "",
     "location": "Peterborough NH",
