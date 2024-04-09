@@ -24,7 +24,7 @@
  ["http://www.nbcds.org/", "San Rafael CA", "Saturdays", 12, 37.97, -122.53, "", true],
  ["http://montereycontradance.org", "Monterey CA", "Saturdays", 20, 36.6, -121.89, "GF", true],
  ["http://www.sactocds.org/", "Sacramento CA", "Fridays and Saturdays", 24, 38.58, -121.49, "GF", true],
- ["http://www.sandiegocontra.org/", "San Diego CA", "Fridays and Saturdays", 27, 32.72, -117.16, "", true],
+ ["https://sdfolkheritage.org/contradance/", "San Diego CA", "Wednesdays and Saturdays", 27, 32.72, -117.16, "GF", true],
  ["http://www.cccds.org/", "San Luis Obispo CA", "Saturdays", 12, 35.28, -120.66, "", true],
  ["https://www.evobluestein.com/central-california-community-dance/", "Fresno CA", "Saturdays", 12, 36.74, -119.77, "", true],
  ["https://www.meetup.com/alameda-contra-dance-community-dance-with-live-music/", "Alameda CA", "Saturdays", 12, 37.78, -122.28, "", true],
