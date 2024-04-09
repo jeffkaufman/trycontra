@@ -65,7 +65,10 @@
   ["http://www.contradance.org", "Decatur GA", "Fridays", 52, "", true],
   ["http://atgaga.com/", "Gainesville GA", "Saturdays", 22, "", false],
   ["https://www.savannahfolk.org/dance-events/", "Savannah GA", "Saturdays", 10, "", true],
-  ["https://snca.org/contra/home.php", "Sautee Nacoochee GA", "Saturdays", 12, "", true],
+  ["https://snca.org/contra/home.php", "Sautee Nacoochee GA", "Saturdays", 12,
+   "", true],
+  ["https://www.northgeorgiafolkfestival.org/contradances", "Athens GA",
+   "Saturdays", 12, "", true],
 
   ["http://contradancehi.weebly.com/", "Honolulu HI", "Saturdays", 24, "", true],
 
