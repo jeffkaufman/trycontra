@@ -14487,7 +14487,7 @@
     "typical_month": "5",
     "name": "Contradancers Delight Holiday (Spring)",
     "callers": [
-      "Bob isaacs",
+      "Bob Isaacs",
       "Terry Doyle",
       "Devin Pohly",
       "Warren Doyle"
@@ -14496,7 +14496,8 @@
       "Toss the Possum",
       "Drive Train",
       "Buzz Band",
-      "George Paul"
+      "George Paul",
+      "Taco Shel "
     ],
     "roles": "Ladies/Gents",
     "date": "5/10/2024",
@@ -15207,7 +15208,7 @@
     "typical_month": "9",
     "name": "Bear Hug Dance Camp",
     "callers": [
-      "Sesan Petrick",
+      "Susan Petrick",
       "Christa Torrens"
     ],
     "bands": [
@@ -15904,24 +15905,23 @@
     "typical_month": "12",
     "name": "Contradancers Delight Holiday (Winter)",
     "callers": [
-      "Bob Isaacs",
       "Terry Doyle",
       "Warren Doyle"
     ],
     "bands": [
       "Toss the Possum",
-      "Drive Train",
       "the Buzz Band",
       "George Paul"
     ],
     "roles": "Ladies/Gents",
     "date": "12/26/2024",
-    "location": "Kingsport, TN ",
+    "location": "Morgantown, WV",
     "url": "http://www.contradancersdelight.com/about-winter-cdh",
     "year": 2024,
+    "date_end": "1/1/2025",
     "latlng": [
-      36.55,
-      -82.56
+      39.63,
+      -79.96
     ]
   },
   {
