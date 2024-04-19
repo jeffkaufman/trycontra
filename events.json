@@ -14933,29 +14933,19 @@
   },
   {
     "typical_month": "8",
-    "name": "Dancing Fish: August",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Melrose FL",
-    "url": "https://dancingfish.dance/",
-    "year": 2024,
-    "latlng": [
-      29.71,
-      -82.05
-    ]
-  },
-  {
-    "typical_month": "8",
     "name": "Sugar Hill Dance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Open Calling"
+    ],
+    "bands": [
+      "Open Band"
+    ],
     "roles": "",
-    "date": "",
+    "date": "8/23/2024",
     "location": "Bloomington IN",
     "url": "http://bloomingtoncontra.org/sugar-hill/",
     "year": 2024,
+    "date_end": "8/25/2024",
     "latlng": [
       39.17,
       -86.53
@@ -14964,7 +14954,9 @@
   {
     "typical_month": "8",
     "name": "Family Week at Agassiz Village",
-    "callers": [],
+    "callers": [
+      "Mary Wesley"
+    ],
     "bands": [],
     "roles": "",
     "date": "8/11/2024",
@@ -14980,7 +14972,10 @@
   {
     "typical_month": "8",
     "name": "Cascade of Music & Dance at Louise",
-    "callers": [],
+    "callers": [
+      "Wendy Graham Settle",
+      "Gaye Fifer"
+    ],
     "bands": [],
     "roles": "",
     "date": "8/12/2024",
@@ -14996,7 +14991,9 @@
   {
     "typical_month": "8",
     "name": "Campers\u2019 Week at Pinewoods",
-    "callers": [],
+    "callers": [
+      "Sue Rosen"
+    ],
     "bands": [],
     "roles": "",
     "date": "8/17/2024",
@@ -15015,10 +15012,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "7/26/2024",
     "location": "Goshen CT",
     "url": "http://falconridgefolk.com/",
     "year": 2024,
+    "date_end": "7/28/2024",
     "latlng": [
       41.83,
       -73.22
@@ -15042,8 +15040,13 @@
   {
     "typical_month": "8",
     "name": "Mentone",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Cis Hinkle"
+    ],
+    "bands": [
+      "the Mean Lids",
+      "the Yellow Dandies"
+    ],
     "roles": "",
     "date": "8/16/2024",
     "location": "Mentone AL",
@@ -15058,13 +15061,20 @@
   {
     "typical_month": "8",
     "name": "Balance the Bay",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Jacqui Grennan",
+      "Maia McCormick"
+    ],
+    "bands": [
+      "Riptide",
+      "Countercurrent"
+    ],
     "roles": "",
-    "date": "",
+    "date": "8/16/2024",
     "location": "San Francisco CA",
     "url": "https://www.bacds.org/camps/btb/",
     "year": 2024,
+    "date_end": "8/18/2024",
     "latlng": [
       37.77,
       -122.42
@@ -15072,23 +15082,10 @@
   },
   {
     "typical_month": "8",
-    "name": "Dance S\u2019More",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Harrison, ID",
-    "url": "https://ladyofthelake.org/dancesmore",
-    "year": 2024,
-    "latlng": [
-      47.45,
-      -116.79
-    ]
-  },
-  {
-    "typical_month": "8",
     "name": "TradMaD",
-    "callers": [],
+    "callers": [
+      "Alex Cumming"
+    ],
     "bands": [],
     "roles": "",
     "date": "8/24/2024",
@@ -15104,7 +15101,9 @@
   {
     "typical_month": "9",
     "name": "Dancing Fish: September",
-    "callers": [],
+    "callers": [
+      "Dereck Kalish"
+    ],
     "bands": [
       "Kingfisher"
     ],
@@ -15159,13 +15158,16 @@
   {
     "typical_month": "9",
     "name": "Michigan Dance Heritage Fall Weekend",
-    "callers": [],
+    "callers": [
+      "Susan Kevra"
+    ],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "9/27/2024",
     "location": "Lexington MI",
     "url": "https://michigandanceheritage.org/fall/",
     "year": 2024,
+    "date_end": "9/29/2024",
     "latlng": [
       43.27,
       -82.53
@@ -15179,26 +15181,11 @@
     "roles": "",
     "date": "",
     "location": "Fairbanks AK",
-    "url": "https://contraborealis.org/2023-dance-camp-north-talent/",
+    "url": "https://contraborealis.org/dance-camp-north/",
     "year": 2024,
     "latlng": [
       64.84,
       -147.72
-    ]
-  },
-  {
-    "typical_month": "9",
-    "name": "Moondance Dance Weekend",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Pickens SC",
-    "url": "https://moondancesc.weebly.com/",
-    "year": 2024,
-    "latlng": [
-      34.88,
-      -82.71
     ]
   },
   {
@@ -15209,7 +15196,7 @@
     "roles": "",
     "date": "",
     "location": "Ellerbe NC",
-    "url": "https://www.feetretreat.com/feet-retreat-dance-weekend-2023/",
+    "url": "https://www.feetretreat.com/",
     "year": 2024,
     "latlng": [
       35.07,
@@ -15219,13 +15206,20 @@
   {
     "typical_month": "9",
     "name": "Bear Hug Dance Camp",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Sesan Petrick",
+      "Christa Torrens"
+    ],
+    "bands": [
+      "Contra Sutra",
+      "Swiftcurrent"
+    ],
     "roles": "",
     "date": "9/6/2024",
     "location": "Rollins MT",
     "url": "https://www.missoulafolk.org/bearhug",
     "year": 2024,
+    "date_end": "9/8/2024",
     "latlng": [
       47.91,
       -114.2
@@ -15290,14 +15284,39 @@
   },
   {
     "typical_month": "9",
-    "name": "Chehalis Dance Weekend",
-    "callers": [],
+    "name": "Pinewoods Labor Day Weekend",
+    "callers": [
+      "Ben Sachs-Hamilton"
+    ],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "8/30/2024",
+    "location": "Plymouth MA",
+    "url": "https://facone.org/labor-day-weekend/labor-day-weekend.html",
+    "year": 2024,
+    "date_end": "9/2/2024",
+    "latlng": [
+      41.96,
+      -70.67
+    ]
+  },
+  {
+    "typical_month": "9",
+    "name": "Chehalis Dance Weekend",
+    "callers": [
+      "Will Mentor",
+      "Koren Wake"
+    ],
+    "bands": [
+      "the Syncopaths",
+      "Countercurrent"
+    ],
+    "roles": "",
+    "date": "9/20/2024",
     "location": "Surrey BC",
     "url": "http://www.vcn.bc.ca/vcountry/chehalis/",
     "year": 2024,
+    "date_end": "9/22/2024",
     "latlng": [
       49.19,
       -122.85
@@ -15341,6 +15360,50 @@
     ]
   },
   {
+    "typical_month": "9",
+    "name": "Cascade Contras Dance Camp",
+    "callers": [
+      "Cis Hinkle",
+      "Laurel Thomas"
+    ],
+    "bands": [
+      "the Engine Room",
+      "Contra Sutra"
+    ],
+    "roles": "",
+    "date": "9/27/2024",
+    "location": "Springfield OR",
+    "url": "https://eugenefolklore.org/cascade-contras/",
+    "year": 2024,
+    "date_end": "9/29/2024",
+    "latlng": [
+      44.05,
+      -123.02
+    ]
+  },
+  {
+    "typical_month": "10",
+    "name": "Moondance Dance Weekend",
+    "callers": [
+      "Bob Isaacs",
+      "Seth Tepfer"
+    ],
+    "bands": [
+      "Lighthouse",
+      "Good & Plenty"
+    ],
+    "roles": "",
+    "date": "10/4/2024",
+    "location": "Pickens SC",
+    "url": "https://moondancesc.weebly.com/",
+    "year": 2024,
+    "date_end": "10/6/2024",
+    "latlng": [
+      34.88,
+      -82.71
+    ]
+  },
+  {
     "typical_month": "10",
     "name": "Dancing Fish: October",
     "callers": [],
@@ -15361,28 +15424,14 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "10/20/2024",
     "location": "Glen Echo MD",
     "url": "https://fsgw.org/contrastock",
     "year": 2024,
+    "date_end": "10/20/2024",
     "latlng": [
       38.97,
       -77.14
-    ]
-  },
-  {
-    "typical_month": "9",
-    "name": "Pinewoods Labor Day Weekend",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Plymouth MA",
-    "url": "https://facone.org/labor-day-weekend/labor-day-weekend.html",
-    "year": 2024,
-    "latlng": [
-      41.96,
-      -70.67
     ]
   },
   {
@@ -15403,13 +15452,18 @@
   {
     "typical_month": "10",
     "name": "Lady of the Lake Fall Camp",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Jesse Partridge"
+    ],
+    "bands": [
+      "3 Wheel Drive"
+    ],
     "roles": "",
-    "date": "",
+    "date": "10/4/2024",
     "location": "Harrison, ID",
     "url": "http://www.ladyofthelake.org/fallwend/",
     "year": 2024,
+    "date_end": "10/6/2024",
     "latlng": [
       47.45,
       -116.79
@@ -15418,13 +15472,20 @@
   {
     "typical_month": "10",
     "name": "Harvest Moon Dance Festival",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Lisa Greenleaf",
+      "George Marshall"
+    ],
+    "bands": [
+      "the Latter Day Lizards",
+      "Wild Asparagus"
+    ],
     "roles": "",
-    "date": "",
+    "date": "10/4/2024",
     "location": "Santa Barbara CA",
     "url": "http://www.sbcds.org/hm/",
     "year": 2024,
+    "date_end": "10/6/2024",
     "latlng": [
       34.42,
       -119.7
@@ -15436,13 +15497,14 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
-    "location": "Becket MA",
+    "date": "10/18/2024",
+    "location": "Olivebridge NY",
     "url": "https://www.lcfd.org/lcfd/",
     "year": 2024,
+    "date_end": "10/20/2024",
     "latlng": [
-      42.33,
-      -73.08
+      41.93,
+      -74.22
     ]
   },
   {
@@ -15504,13 +15566,19 @@
   {
     "typical_month": "10",
     "name": "Boo Camp",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Jacqui Grennan"
+    ],
+    "bands": [
+      "Panda Stomp",
+      "the Cheap Shots"
+    ],
     "roles": "",
-    "date": "",
+    "date": "10/25/2024",
     "location": "Jemez Springs NM",
-    "url": "https://folkmads.org/events/camps/boo-camp-2023/",
+    "url": "https://folkmads.org/2023/10/31/boo-camp/",
     "year": 2024,
+    "date_end": "10/27/2024",
     "latlng": [
       35.77,
       -106.69
@@ -15519,13 +15587,18 @@
   {
     "typical_month": "10",
     "name": "Music City Masquerade",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Cis Hinkle"
+    ],
+    "bands": [
+      "Eloise &co."
+    ],
     "roles": "",
-    "date": "",
+    "date": "10/25/2024",
     "location": "Nashville TN",
     "url": "http://nashvillecountrydancers.org/music-city-masquerade/",
     "year": 2024,
+    "date_end": "10/27/2024",
     "latlng": [
       36.16,
       -86.78
@@ -15564,13 +15637,20 @@
   {
     "typical_month": "11",
     "name": "Foggy Moon Dance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Will Mentor",
+      "Jacqui Grennan"
+    ],
+    "bands": [
+      "Joyride",
+      "Stomp Rocket"
+    ],
     "roles": "",
-    "date": "",
+    "date": "11/1/2024",
     "location": "Monterey CA",
     "url": "http://montereycontradance.org/foggy-moon.html",
     "year": 2024,
+    "date_end": "11/3/2024",
     "latlng": [
       36.6,
       -121.89
@@ -15582,10 +15662,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "11/15/2024",
     "location": "New York NY",
     "url": "http://contrashock.org/",
     "year": 2024,
+    "date_end": "11/17/2024",
     "latlng": [
       40.71,
       -74.01
@@ -15600,7 +15681,7 @@
     ],
     "bands": [
       "Elixir",
-      "TBD"
+      "Peach Jam"
     ],
     "roles": "",
     "date": "11/1/2024",
@@ -15611,21 +15692,6 @@
     "latlng": [
       45.42,
       -75.7
-    ]
-  },
-  {
-    "typical_month": "11",
-    "name": "Cascade Contras Dance Camp",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Springfield OR",
-    "url": "https://eugenefolklore.org/cascade-contras/",
-    "year": 2024,
-    "latlng": [
-      44.05,
-      -123.02
     ]
   },
   {
@@ -15678,10 +15744,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "11/8/2024",
     "location": "Kresgeville PA",
     "url": "http://www.princetoncountrydancers.org/about-hfth",
     "year": 2024,
+    "date_end": "11/11/2024",
     "latlng": [
       40.9,
       -75.5
@@ -15757,13 +15824,18 @@
   {
     "typical_month": "11",
     "name": "Breaking Up Thanksgiving",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Open calling"
+    ],
+    "bands": [
+      "Open band"
+    ],
     "roles": "",
-    "date": "",
+    "date": "11/29/2024",
     "location": "Evanston IL",
     "url": "https://www.breakingupthanksgiving.com/",
     "year": 2024,
+    "date_end": "12/1/2024",
     "latlng": [
       42.05,
       -87.69
@@ -15772,13 +15844,20 @@
   {
     "typical_month": "11",
     "name": "Catalina Dance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Will Mentor",
+      "Terry Doyle"
+    ],
+    "bands": [
+      "Nova",
+      "the Offbeats"
+    ],
     "roles": "",
-    "date": "",
+    "date": "11/15/2024",
     "location": "Catalina Island CA",
     "url": "https://www.catalinadanceweekend.com/",
     "year": 2024,
+    "date_end": "11/17/2024",
     "latlng": [
       33.39,
       -118.42
@@ -15802,8 +15881,14 @@
   {
     "typical_month": "12",
     "name": "Winter Warmup Dance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Will Mentor",
+      "Liz Burkhart"
+    ],
+    "bands": [
+      "Notorious",
+      "the Hollertones"
+    ],
     "roles": "",
     "date": "12/6/2024",
     "location": "Worthington OH",
@@ -15845,10 +15930,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "12/29/2024",
     "location": "Vashon Island WA",
     "url": "https://bashonvashon.org/",
     "year": 2024,
+    "date_end": "1/1/2025",
     "latlng": [
       47.45,
       -122.46
