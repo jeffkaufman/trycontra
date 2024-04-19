@@ -1,7 +1,7 @@
 typical month	name	caller1	caller2	caller3	caller4	caller5	caller6	band1	band2	band3	band4	band5	band6	roles	date	location	url							
 1	A New Year's Affair	Jesse Edgerton	Charlotte Crittenden					Playing with Fyre	Buddy System						1/2/2016	Jonesborough TN	http://www.historicjonesboroughdancesociety.com/site/calendar/							
 1	Phoenix Winter Frolic	Adina Gordon						The Stringrays							1/8/2016	Mesa AZ	http://www.phxtmd.org/frolics-main.html							
-1	Chambana Jan Jam	Dugan Murphy	Anne Huber	Scott Meyer	Jonathan Silver'			Ripples	Mean Lids						1/8/2016	Urbana IL	http://www.urbana-contra.org/jan_jam.html							
+1	Chambana Jan Jam	Dugan Murphy	Anne Huber	Scott Meyer	Jonathan Silver			Ripples	Mean Lids						1/8/2016	Urbana IL	http://www.urbana-contra.org/jan_jam.html							
 1	Orange Blossom Ball	Bev Bernbaum	Susan Kevra	Jeremy Korr				The Avant Gardeners	The Moving Violations						1/15/2016	Daytona FL	http://www.orangeblossomcontra.com/							
 1	Ralph Page Dance Legacy Weekend	Dave Eisenstadter	Chrissy Fowler	Tony Parkes				Old Grey Goose	Pete's Posse						1/15/2016	Durham NH	http://ralphpage.neffa.org/							
 1	Shenandoah Shindig	Will Mentor	Sarah VanNorstrand					Great Bear	Maivish	Buddy System					1/15/2016	Dayton VA	http://daytoncontradance.wix.com/shenandoah-shindig							
@@ -35,7 +35,7 @@ typical month	name	caller1	caller2	caller3	caller4	caller5	caller6	band1	band2	b
 3	DownEast Country Dance Festival	Bill Olson	Linda Leslie					Nor'Easter	Barefoot						3/25/2016	Topsham ME	http://www.deffa.org/festival/							
 4	Epicenter dance weekend	Lisa Greenleaf	Nils Fredland					JigJazz	Elixir						4/1/2016	Mill Valley CA	http://nbcds.org/epicenter2016/index.html							
 4	University of Chicago Dance Weekend	Maggie Jo Saylor	Sarah VanNorstrand					Great Bear	Buddy System						4/1/2016	Chicago IL	http://uchicagofac.wix.com/contra#!danceweekend/c2414							
-4	Cascade Contras Dance Camp	Cis Hinkle	Lindsey Miller Dono					Notorious	Nettles						4/8/2016	Fall Creek OR	http://www.eugenefolklore.org/CascadeContras							
+4	Cascade Contras Dance Camp	Cis Hinkle	Lindsey Dono					Notorious	Nettles						4/8/2016	Fall Creek OR	http://www.eugenefolklore.org/CascadeContras							
 4	SF Bay Queer Contra Dance Camp	Frannie Marr						Syncopaths							4/8/2016	Aptos CA	http://www.lcfd.org/sf/DanceCamp/wcamp.html							
 4	Chesapeake Dance Weekend	Lisa Greenleaf	Larry Edelman					Stringrays	Hogwire Stringband						4/8/2016	Edgewater MD	http://www.chesapeakedanceweekend.org/							
 4	Springforth Ball	Nils Fredland						Elixir							4/8/2016	Richmond VA	http://tadamsva.org/springforth/							
@@ -55,7 +55,7 @@ typical month	name	caller1	caller2	caller3	caller4	caller5	caller6	band1	band2	b
 5	Gender-Free Dance Camp (Spring)	Andy Shore						Frost and Fire							5/6/2016	Woodstock CT	http://lcfd.org/lcfd/lcfd-spring-dance-camp/							
 5	Whitewater Whirl	Gaye Fifer	Tom Hinds					Maivish	Contrarians	Rushfest					5/6/2016	Fayetteville WV	http://www.whitewaterwhirl.org/							
 5	Lake Eden Arts Festival - Spring	Steve Zakon-Anderson	Will Mentor					The Stringrays	Nova	Buddy System					5/12/2016	Black Mountain NC	http://www.theleaf.org/the-festival/							
-5	May Madness Dance Weekend	Bev Bernbaum	Jeremey Korr					Joyride	Maivish						5/13/2016	Clarkdale AZ	http://www.danceinaz.org/							
+5	May Madness Dance Weekend	Bev Bernbaum	Jeremy Korr					Joyride	Maivish						5/13/2016	Clarkdale AZ	http://www.danceinaz.org/							
 5	Almost Heaven Dance Weekend	George Marshall	Janine Smith					Great Bear	Coffee Zombies	Rushfest					5/19/2016	Darlington MD	https://sites.google.com/site/ahsince1988/home							
 5	Blue Moon Dance Weekend	Susan Michaels						Nor'Easter	unnamed						5/20/2016	Huntsville AL	http://huntsvillecontra.dance/BlueMoon/							
 5	Butterfly Whirl	Cis Hinkle	Seth Tepfer	Janet Shepard				Latter Day Lizzards	Mean Lids	Contrazz					5/27/2016	Clarkston GA	http://butterflywhirl.com/							
@@ -134,7 +134,7 @@ typical month	name	caller1	caller2	caller3	caller4	caller5	caller6	band1	band2	b
 11	Rochester Thanksgiving Dance Weekend	Mary Wesley	David Smulker	Rebecca McCallum				Pete's Posse	Tempest						11/25/2016	Rochester, NY	https://www.cdrochester.org/?page_id=388							
 12	Winter Warmup Dance Weekend	Cis Hinkle	Frank Buschelmann					Stringrays	The Ripples						12/2/2016	Worthington OH	http://bigscioty.com/warmup.html							
 12	Contradancers Delight Holiday (Winter)	Beth Molaro	Dugan Murphy					Lift Ticket	Buddy System	Toss the Possum	Barefoot				12/26/2016	Morgantown WV	http://www.contradancersdelight.com/							
-11	Atlanta Dance Weekend	Cis Hinkle	Sarah VanNorstrand	Deanna Polumbo				Great Bear	Barefoot	The Stuff					11/11/2016	Atlanta GA	http://www.contradance.org/html/weekend/							
+11	Atlanta Dance Weekend	Cis Hinkle	Sarah VanNorstrand	Deanna Palumbo				Great Bear	Barefoot	The Stuff					11/11/2016	Atlanta GA	http://www.contradance.org/html/weekend/							
 5	Catapult!															Atlanta GA	not happening in 2016							
 11	Fire Ant Frolic	Susan Petrick						unnamed	Rushfest						11/11/2016	Austin TX	http://www.fireantfrolic.org/							
 10	Gypsy Moon Ball	Cis Hinkle	Bradley Smith					Party of Three	Mulberry Street						10/21/2016	Indianapolis IN	http://www.indycontra.org/gypsy-moon-ball/							
