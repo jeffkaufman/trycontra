@@ -13360,7 +13360,9 @@
   {
     "typical_month": "12",
     "name": "Bash on Vashon",
-    "callers": [],
+    "callers": [
+      "Open calling"
+    ],
     "bands": [],
     "roles": "Larks / Robins",
     "date": "12/29/2023",
@@ -14731,6 +14733,27 @@
   },
   {
     "typical_month": "7",
+    "name": "AmWeek",
+    "callers": [
+      "Alex Deis-Lauby",
+      "Chris Page"
+    ],
+    "bands": [
+      "Potent Brew"
+    ],
+    "roles": "",
+    "date": "6/30/2024",
+    "location": "Ben Lomond CA",
+    "url": "https://amweek.camp/",
+    "year": 2024,
+    "date_end": "7/5/2024",
+    "latlng": [
+      37.09,
+      -122.09
+    ]
+  },
+  {
+    "typical_month": "7",
     "name": "Dancing Fish: July",
     "callers": [
       "Bob Isaacs"
@@ -15927,7 +15950,9 @@
   {
     "typical_month": "12",
     "name": "Bash on Vashon",
-    "callers": [],
+    "callers": [
+      "Open calling"
+    ],
     "bands": [],
     "roles": "",
     "date": "12/29/2024",
