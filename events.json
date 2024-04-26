@@ -14756,10 +14756,12 @@
     "typical_month": "7",
     "name": "Dancing Fish: July",
     "callers": [
-      "Bob Isaacs"
+      "Bob Isaacs",
+      "Katie Zanders"
     ],
     "bands": [
-      "the Dam Beavers"
+      "the Dam Beavers",
+      "Wind that Shakes the Barley"
     ],
     "roles": "",
     "date": "7/4/2024",
@@ -15430,8 +15432,12 @@
   {
     "typical_month": "10",
     "name": "Dancing Fish: October",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Claire Takemori"
+    ],
+    "bands": [
+      "ContraPositive"
+    ],
     "roles": "",
     "date": "",
     "location": "Melrose FL",
@@ -15646,8 +15652,12 @@
   {
     "typical_month": "11",
     "name": "Dancing Fish: November",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Janet Shepherd"
+    ],
+    "bands": [
+      "Frenzy"
+    ],
     "roles": "",
     "date": "",
     "location": "Melrose FL",
@@ -15890,7 +15900,9 @@
   {
     "typical_month": "12",
     "name": "Dancing Fish: December",
-    "callers": [],
+    "callers": [
+      "Terry Doyle"
+    ],
     "bands": [],
     "roles": "",
     "date": "",
