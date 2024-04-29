@@ -14732,6 +14732,28 @@
     ]
   },
   {
+    "typical_month": "6",
+    "name": "Dance Trance Weekend",
+    "callers": [
+      "Gaye Fifer",
+      "Joe Wilkie"
+    ],
+    "bands": [
+      "Hot Coffee Breakdown",
+      "Dreamdance"
+    ],
+    "roles": "",
+    "date": "6/7/2024",
+    "location": "Lexington KY",
+    "url": "https://www.dancetrance.ltda.us/",
+    "year": 2024,
+    "date_end": "6/9/2024",
+    "latlng": [
+      38.04,
+      -84.5
+    ]
+  },
+  {
     "typical_month": "7",
     "name": "AmWeek",
     "callers": [
