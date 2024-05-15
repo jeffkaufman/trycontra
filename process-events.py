@@ -19,6 +19,7 @@ for year, fname in [
         (2019, "events-raw-2019.tsv"),
         (2023, "events-raw-2023.tsv"),
         (2024, "events-raw-2024.tsv"),
+        (2025, "events-raw-2025.tsv"),
 ]:
     with open(fname) as inf:
         for n, line in enumerate(inf):
