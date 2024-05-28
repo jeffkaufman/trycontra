@@ -15764,7 +15764,7 @@
     "roles": "",
     "date": "11/8/2024",
     "location": "Oracle AZ",
-    "url": "https://tucsoncontradancers.org/tucson-contra-dancers/dance-in-the-desert-2023/",
+    "url": "https://tucsoncontradancers.org/tucson-contra-dancers/dance-in-the-desert-2024/",
     "year": 2024,
     "date_end": "11/10/2024",
     "latlng": [
@@ -16683,7 +16683,11 @@
     "location": "Ely UK",
     "url": "www.contraholiday.net",
     "year": 2025,
-    "date_end": "4/9/2025"
+    "date_end": "4/9/2025",
+    "latlng": [
+      52.4,
+      0.26
+    ]
   },
   {
     "typical_month": "5",
@@ -17818,7 +17822,7 @@
     "roles": "",
     "date": "",
     "location": "Oracle AZ",
-    "url": "https://tucsoncontradancers.org/tucson-contra-dancers/dance-in-the-desert-2023/",
+    "url": "https://tucsoncontradancers.org/tucson-contra-dancers/dance-in-the-desert-2024/",
     "year": 2025,
     "latlng": [
       32.61,
