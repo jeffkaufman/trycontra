@@ -16151,6 +16151,28 @@
     ]
   },
   {
+    "typical_month": "1",
+    "name": "Stellar Days and Nights",
+    "callers": [
+      "Seth Tepfer",
+      "Wendy Graham"
+    ],
+    "bands": [
+      "Countercurrent",
+      "Harken!"
+    ],
+    "roles": "",
+    "date": "1/17/2025",
+    "location": "Buena Vista CO",
+    "url": "https://rockymountainranchdance.com",
+    "year": 2025,
+    "date_end": "1/20/2025",
+    "latlng": [
+      38.84,
+      -106.13
+    ]
+  },
+  {
     "typical_month": "2",
     "name": "IVFDF",
     "callers": [],
