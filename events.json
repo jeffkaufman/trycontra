@@ -14451,8 +14451,22 @@
   {
     "typical_month": "5",
     "name": "Northwest Folklife",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Susan Michaels",
+      "Charlie Fenton",
+      "Isaac Banner",
+      "Jessee Partridge",
+      "Susan Petrick",
+      "Koren Wake"
+    ],
+    "bands": [
+      "Countercurrent",
+      "Chicken Feathers",
+      "Good Company",
+      "3 Wheel Drive",
+      "SonoOnos",
+      "Play for Keeps +1"
+    ],
     "roles": "",
     "date": "5/24/2024",
     "location": "Seattle WA",
@@ -14700,21 +14714,6 @@
   },
   {
     "typical_month": "6",
-    "name": "American Buffalo Contra Dance Weekend",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Bloomery WV",
-    "url": "",
-    "year": 2024,
-    "latlng": [
-      39.39,
-      -78.37
-    ]
-  },
-  {
-    "typical_month": "6",
     "name": "Dance, Music & Spice at Cavell",
     "callers": [
       "Will Mentor"
@@ -14751,6 +14750,26 @@
     "latlng": [
       38.04,
       -84.5
+    ]
+  },
+  {
+    "typical_month": "6",
+    "name": "Contra Dance at O'Bannon Woods",
+    "callers": [
+      "Greer Hannan"
+    ],
+    "bands": [
+      "Tom Cunningham & Friends"
+    ],
+    "roles": "",
+    "date": "6/14/2024",
+    "location": "Corydon IN",
+    "url": "https://www.facebook.com/events/s/contradance-obannon-woods/811008967657755/",
+    "year": 2024,
+    "date_end": "6/15/2024",
+    "latlng": [
+      38.21,
+      -86.12
     ]
   },
   {
@@ -15224,13 +15243,18 @@
   {
     "typical_month": "9",
     "name": "Dance Camp North",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Susan Petrick"
+    ],
+    "bands": [
+      "Eloise &co"
+    ],
     "roles": "",
-    "date": "",
+    "date": "8/30/2024",
     "location": "Fairbanks AK",
-    "url": "https://contraborealis.org/dance-camp-north/",
+    "url": "https://contraborealis.org/dance-camp-north/dance-camp-north-2024/",
     "year": 2024,
+    "date_end": "9/2/2024",
     "latlng": [
       64.84,
       -147.72
@@ -15394,8 +15418,13 @@
   {
     "typical_month": "9",
     "name": "Adirondack Dance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Mary Wesley"
+    ],
+    "bands": [
+      "Stomp Rocket",
+      "the Moving Violations"
+    ],
     "roles": "",
     "date": "9/27/2024",
     "location": "Silver Bay NY",
@@ -15866,12 +15895,16 @@
     "typical_month": "11",
     "name": "ContraCopia",
     "callers": [],
-    "bands": [],
+    "bands": [
+      "Ice Cream Truckers",
+      "Stove Dragon"
+    ],
     "roles": "",
-    "date": "",
+    "date": "11/30/2024",
     "location": "Philadelphia PA",
     "url": "http://www.thursdaycontra.com/contracopia/",
     "year": 2024,
+    "date_end": "11/30/2024",
     "latlng": [
       39.95,
       -75.17
@@ -15900,14 +15933,8 @@
   {
     "typical_month": "11",
     "name": "Catalina Dance Weekend",
-    "callers": [
-      "Will Mentor",
-      "Terry Doyle"
-    ],
-    "bands": [
-      "Nova",
-      "the Offbeats"
-    ],
+    "callers": [],
+    "bands": [],
     "roles": "",
     "date": "11/15/2024",
     "location": "Catalina Island CA",
