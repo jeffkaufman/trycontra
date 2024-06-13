@@ -13340,12 +13340,14 @@
     "callers": [
       "Terry Doyle",
       "Warren Doyle",
-      "Bob Isaacs"
+      "Bob Isaacs",
+      "Devin Pohly"
     ],
     "bands": [
-      "Drive Train",
+      "Spintuition",
       "Toss the Possum",
-      "the Buzz Band"
+      "the Buzz Band",
+      "George Paul"
     ],
     "roles": "",
     "date": "12/26/2023",
@@ -15894,15 +15896,20 @@
   {
     "typical_month": "11",
     "name": "ContraCopia",
-    "callers": [],
+    "callers": [
+      "Gaye Fifer",
+      "Alex Deis-Lauby",
+      "Ben Sachs Hamilton"
+    ],
     "bands": [
       "Ice Cream Truckers",
-      "Stove Dragon"
+      "Stove Dragon",
+      "Millserati"
     ],
     "roles": "",
     "date": "11/30/2024",
     "location": "Philadelphia PA",
-    "url": "http://www.thursdaycontra.com/contracopia/",
+    "url": "https://www.facebook.com/events/1940775709692052",
     "year": 2024,
     "date_end": "11/30/2024",
     "latlng": [
@@ -15933,8 +15940,15 @@
   {
     "typical_month": "11",
     "name": "Catalina Dance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Alex Deis-Lauby",
+      "Gaye Fifer"
+    ],
+    "bands": [
+      "the Faux Paws",
+      "the Engine Room",
+      "Countercurrent"
+    ],
     "roles": "",
     "date": "11/15/2024",
     "location": "Catalina Island CA",
