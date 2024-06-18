@@ -15811,6 +15811,28 @@
   },
   {
     "typical_month": "11",
+    "name": "Rose City Dance-a-Rama",
+    "callers": [
+      "Lindsey Dono",
+      "George Marshall"
+    ],
+    "bands": [
+      "Wild Asparagus",
+      "Joyride"
+    ],
+    "roles": "",
+    "date": "11/15/2024",
+    "location": "Portland OR",
+    "url": "https://www.dancearama.org/",
+    "year": 2024,
+    "date_end": "11/17/2024",
+    "latlng": [
+      45.52,
+      -122.68
+    ]
+  },
+  {
+    "typical_month": "11",
     "name": "Pittsburgh Fall Dance Weekend",
     "callers": [
       "Gaye Fifer",
@@ -17926,6 +17948,21 @@
     "latlng": [
       40.9,
       -75.5
+    ]
+  },
+  {
+    "typical_month": "11",
+    "name": "Rose City Dance-a-Rama",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Portland OR",
+    "url": "https://www.dancearama.org/",
+    "year": 2025,
+    "latlng": [
+      45.52,
+      -122.68
     ]
   },
   {
