@@ -15108,6 +15108,26 @@
   },
   {
     "typical_month": "8",
+    "name": "Good Life Gallup",
+    "callers": [
+      "Kate McBride"
+    ],
+    "bands": [
+      "Kaw Creek"
+    ],
+    "roles": "",
+    "date": "8/2/2024",
+    "location": "Omaha NE",
+    "url": "https://www.thegoodlifegallop.org/",
+    "year": 2024,
+    "date_end": "8/4/2024",
+    "latlng": [
+      41.26,
+      -95.93
+    ]
+  },
+  {
+    "typical_month": "8",
     "name": "Mentone",
     "callers": [
       "Cis Hinkle"
