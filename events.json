@@ -15637,7 +15637,7 @@
     "roles": "",
     "date": "",
     "location": "Peterborough NH",
-    "url": "http://www.monadnockfolk.org/?tribe_events=%E2%98%BC-%E2%98%BC-%E2%98%BC-peterborough-fall-ball-2019",
+    "url": "https://www.monadnockfolk.org/event/%E2%98%BC-%E2%98%BC-%E2%98%BC-peterborough-fall-ball-2024/",
     "year": 2024,
     "latlng": [
       42.87,
@@ -15658,7 +15658,7 @@
     "roles": "",
     "date": "10/17/2024",
     "location": "Black Mountain NC",
-    "url": "https://theleaf.org/",
+    "url": "",
     "year": 2024,
     "date_end": "10/20/2024",
     "latlng": [
@@ -15679,7 +15679,7 @@
     "roles": "",
     "date": "10/25/2024",
     "location": "Jemez Springs NM",
-    "url": "https://folkmads.org/2023/10/31/boo-camp/",
+    "url": "",
     "year": 2024,
     "date_end": "10/27/2024",
     "latlng": [
@@ -17398,6 +17398,21 @@
     "latlng": [
       58.3,
       -134.42
+    ]
+  },
+  {
+    "typical_month": "8",
+    "name": "Good Life Gallup",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Omaha NE",
+    "url": "https://www.thegoodlifegallop.org/",
+    "year": 2025,
+    "latlng": [
+      41.26,
+      -95.93
     ]
   },
   {
