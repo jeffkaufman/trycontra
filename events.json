@@ -15188,6 +15188,28 @@
     ]
   },
   {
+    "typical_month": "8",
+    "name": "Susquehanna Folk Festival",
+    "callers": [
+      "Janine Smith",
+      "Bob Nicholson"
+    ],
+    "bands": [
+      "the Contra Rebels",
+      "the Dead Sea Squirrels"
+    ],
+    "roles": "",
+    "date": "8/9/2024",
+    "location": "York PA",
+    "url": "https://www.sfmsfolk.org/festival/SusquehannaFolkFestival.html",
+    "year": 2024,
+    "date_end": "8/11/2024",
+    "latlng": [
+      39.96,
+      -76.73
+    ]
+  },
+  {
     "typical_month": "9",
     "name": "Dancing Fish: September",
     "callers": [
@@ -17458,6 +17480,21 @@
     "latlng": [
       41.96,
       -70.67
+    ]
+  },
+  {
+    "typical_month": "8",
+    "name": "Susquehanna Folk Festival",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "York PA",
+    "url": "https://www.sfmsfolk.org/festival/SusquehannaFolkFestival.html",
+    "year": 2025,
+    "latlng": [
+      39.96,
+      -76.73
     ]
   },
   {
