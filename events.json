@@ -16453,6 +16453,25 @@
     ]
   },
   {
+    "typical_month": "2",
+    "name": "Galhalla",
+    "callers": [
+      "Sarah Kaiser",
+      "Lo Peckman"
+    ],
+    "bands": [],
+    "roles": "Larks / Robins",
+    "date": "2/21/2025",
+    "location": "St Louis MO",
+    "url": "https://www.shedances.org/galhalla",
+    "year": 2025,
+    "date_end": "2/23/2025",
+    "latlng": [
+      38.63,
+      -90.2
+    ]
+  },
+  {
     "typical_month": "3",
     "name": "Dancing Fish: March",
     "callers": [],
