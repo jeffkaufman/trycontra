@@ -13779,6 +13779,7 @@
     "location": "Seattle WA",
     "url": "http://www.supersoniccontra.com/",
     "year": 2024,
+    "date_end": "2/4/2024",
     "latlng": [
       47.61,
       -122.33
@@ -14945,7 +14946,8 @@
     "name": "American Dance & Music Week at Pinewoods",
     "callers": [
       "Lisa Greenleaf",
-      "Will Mentor"
+      "Will Mentor",
+      "Lindsey Dono"
     ],
     "bands": [],
     "roles": "",
@@ -15078,8 +15080,12 @@
   {
     "typical_month": "8",
     "name": "Falcon Ridge Folk Festival",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "George Marshall"
+    ],
+    "bands": [
+      "the Gaslight Tinkers"
+    ],
     "roles": "",
     "date": "7/26/2024",
     "location": "Goshen CT",
@@ -15231,21 +15237,6 @@
   },
   {
     "typical_month": "9",
-    "name": "Contravana",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Rochester NY",
-    "url": "https://cdrochester.org/",
-    "year": 2024,
-    "latlng": [
-      43.16,
-      -77.61
-    ]
-  },
-  {
-    "typical_month": "9",
     "name": "Rendezvous Dance Weekend",
     "callers": [
       "Gaye Fifer",
@@ -15307,13 +15298,20 @@
   {
     "typical_month": "9",
     "name": "Feet Retreat",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Bob Isaacs",
+      "Emily Rush"
+    ],
+    "bands": [
+      "Hotpoint Stringband",
+      "the Dam Beavers"
+    ],
     "roles": "",
-    "date": "",
+    "date": "9/20/2024",
     "location": "Ellerbe NC",
-    "url": "https://www.feetretreat.com/",
+    "url": "https://www.feetretreat.com/feet-retreat-2024/",
     "year": 2024,
+    "date_end": "9/22/2024",
     "latlng": [
       35.07,
       -79.76
@@ -15546,8 +15544,16 @@
   {
     "typical_month": "10",
     "name": "ContraStock",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Will Mentor",
+      "Beth Molaro",
+      "Scott Higgs"
+    ],
+    "bands": [
+      "the Engine Room",
+      "the Dam Beavers",
+      "Handspring"
+    ],
     "roles": "",
     "date": "10/20/2024",
     "location": "Glen Echo MD",
@@ -15619,8 +15625,12 @@
   {
     "typical_month": "10",
     "name": "Gender-Free Dance Camp (Fall)",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Ben Sachs-Hamilton"
+    ],
+    "bands": [
+      "Thunderwing"
+    ],
     "roles": "",
     "date": "10/18/2024",
     "location": "Olivebridge NY",
@@ -15651,7 +15661,8 @@
     "typical_month": "10",
     "name": "Peterbough Fall Ball",
     "callers": [
-      "Alex Deis-Lauby"
+      "Alex Deis-Lauby",
+      "Maia McCormick"
     ],
     "bands": [
       "River Road"
@@ -15794,8 +15805,14 @@
   {
     "typical_month": "11",
     "name": "ContraShock",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Liz Nelson",
+      "Will Mentor"
+    ],
+    "bands": [
+      "Stove Dragon",
+      "River Road"
+    ],
     "roles": "",
     "date": "11/15/2024",
     "location": "New York NY",
@@ -15936,8 +15953,12 @@
   {
     "typical_month": "11",
     "name": "Contra Fest",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Alex Dies-Lauby"
+    ],
+    "bands": [
+      "River Road"
+    ],
     "roles": "",
     "date": "",
     "location": "Albany NY",
@@ -16671,7 +16692,9 @@
     "typical_month": "4",
     "name": "Call of the Loon Dance Weekend",
     "callers": [],
-    "bands": [],
+    "bands": [
+      "the Dam Beavers"
+    ],
     "roles": "",
     "date": "",
     "location": "Minneapolis MN",
@@ -16839,6 +16862,26 @@
     "latlng": [
       52.4,
       0.26
+    ]
+  },
+  {
+    "typical_month": "4",
+    "name": "When In Doubt, Swing! ",
+    "callers": [
+      "Jeremy Korr"
+    ],
+    "bands": [
+      "Steam!"
+    ],
+    "roles": "",
+    "date": "4/25/2025",
+    "location": "Dallas TX",
+    "url": "https://www.nttds.org/wids/home.html",
+    "year": 2025,
+    "date_end": "4/27/2025",
+    "latlng": [
+      32.78,
+      -96.8
     ]
   },
   {
@@ -17115,7 +17158,9 @@
     "typical_month": "6",
     "name": "Lady of the Lake June Week",
     "callers": [],
-    "bands": [],
+    "bands": [
+      "the Dam Beavers"
+    ],
     "roles": "Larks / Robins",
     "date": "",
     "location": "Harrison, ID",
@@ -17264,8 +17309,15 @@
   {
     "typical_month": "7",
     "name": "Roanoke Railroader",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Will Mentor",
+      "Gaye Fifer"
+    ],
+    "bands": [
+      "Toss the Possum",
+      "the Latter Day Lizards",
+      "Rushfest"
+    ],
     "roles": "",
     "date": "",
     "location": "Salem VA",
