@@ -14,8 +14,8 @@
   ["https://tucsoncontradancers.org/", "Tucson AZ", "Saturdays", 20, "", true],
 
   ["http://www.thelivingtradition.org/tltbodydance.html", "Anaheim CA", "Saturdays", 11, "", true],
-  ["http://www.caldancecoop.org/california-twirl/", "Los Angeles CA", "Fridays", 12, "GF", true],
-  ["http://www.caldancecoop.org/events/event/5th-saturday-contradance/", "Pasadena CA", "Saturdays", 3, "", true],
+  ["https://www.sccdc.org/contra/california-twirl/", "Los Angeles CA", "Fridays", 12, "GF", true],
+  ["https://www.sccdc.org/contra/", "Pasadena CA", "Saturdays", 27, "", true],
   ["https://www.facebook.com/groups/contrasantacruz/", "Santa Cruz CA", "Fridays", 12, "GF", true],
   ["http://www.bacds.org/series/contra/berkeley_wed/", "Berkeley CA", "Thursdays", 27, "GF", true],
   ["http://www.bacds.org/series/contra/san_francisco/", "San Francisco CA", "Fridays and Saturdays", 24, "", false],
