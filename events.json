@@ -14776,6 +14776,29 @@
     ]
   },
   {
+    "typical_month": "6",
+    "name": "Taste of Haven",
+    "callers": [
+      "Darlene Underwood",
+      "Dwayne Johnson",
+      "Jo Mortland"
+    ],
+    "bands": [
+      "Critter du Jour",
+      "Pimento Mori"
+    ],
+    "roles": "",
+    "date": "6/7/2024",
+    "location": "Syracuse IN",
+    "url": "https://www.contracorners.net/events/taste-of-haven-2024/",
+    "year": 2024,
+    "date_end": "6/9/2024",
+    "latlng": [
+      41.43,
+      -85.75
+    ]
+  },
+  {
     "typical_month": "7",
     "name": "AmWeek",
     "callers": [
@@ -15762,6 +15785,28 @@
     ]
   },
   {
+    "typical_month": "10",
+    "name": "Mountain Madness",
+    "callers": [
+      "Terry Doyle",
+      "David Winston"
+    ],
+    "bands": [
+      "Lagomorph",
+      "Playing with Fyre"
+    ],
+    "roles": "",
+    "date": "10/12/2024",
+    "location": "Jonesborough TN",
+    "url": "https://historicjonesboroughdancesocie.ticketspice.com/mountain-madness-2024?",
+    "year": 2024,
+    "date_end": "10/12/2024",
+    "latlng": [
+      36.29,
+      -82.47
+    ]
+  },
+  {
     "typical_month": "11",
     "name": "Dancing Fish: November",
     "callers": [
@@ -16604,10 +16649,11 @@
     "callers": [],
     "bands": [],
     "roles": "Larks / Robins",
-    "date": "",
+    "date": "3/29/2025",
     "location": "Glen Echo MD",
     "url": "https://fsgw.org/hashtag-dance-weekend",
     "year": 2025,
+    "date_end": "3/30/2025",
     "latlng": [
       38.97,
       -77.14
@@ -17229,6 +17275,22 @@
     "latlng": [
       43.27,
       -82.53
+    ]
+  },
+  {
+    "typical_month": "6",
+    "name": "Taste of Haven",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "6/6/2025",
+    "location": "Syracuse IN",
+    "url": "https://www.contracorners.net/events/taste-of-haven-2024/",
+    "year": 2025,
+    "date_end": "6/8/2025",
+    "latlng": [
+      41.43,
+      -85.75
     ]
   },
   {
@@ -17986,6 +18048,21 @@
     "latlng": [
       30.27,
       -97.74
+    ]
+  },
+  {
+    "typical_month": "10",
+    "name": "Mountain Madness",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Jonesborough TN",
+    "url": "https://historicjonesboroughdancesocie.ticketspice.com/mountain-madness-2024?",
+    "year": 2025,
+    "latlng": [
+      36.29,
+      -82.47
     ]
   },
   {
