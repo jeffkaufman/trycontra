@@ -15678,16 +15678,19 @@
     "name": "Lake Eden Arts Festival - Fall",
     "callers": [
       "Bob Isaacs",
-      "Sarah Kaiser"
+      "Sarah Kaiser",
+      "Kenny Greer"
     ],
     "bands": [
       "Red Dog",
-      "Spintuition"
+      "Spintuition",
+      "Lagomorph Quartet",
+      "the Flying Howes"
     ],
     "roles": "",
     "date": "10/17/2024",
     "location": "Black Mountain NC",
-    "url": "",
+    "url": "https://theleaf.org/leaf-october-festival/",
     "year": 2024,
     "date_end": "10/20/2024",
     "latlng": [
@@ -17301,6 +17304,21 @@
     "latlng": [
       37.09,
       -122.09
+    ]
+  },
+  {
+    "typical_month": "7",
+    "name": "Southern Aire: Dawn Dance",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Mountain City TN",
+    "url": "https://joyboundliving.com/dawn-dance",
+    "year": 2025,
+    "latlng": [
+      36.47,
+      -81.8
     ]
   },
   {
