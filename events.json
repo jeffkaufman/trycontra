@@ -15122,21 +15122,6 @@
   },
   {
     "typical_month": "8",
-    "name": "Camp Damp",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Juneau AK",
-    "url": "http://www.juneaucontras.org/dance_camp_2023_stay_tuned.html",
-    "year": 2024,
-    "latlng": [
-      58.3,
-      -134.42
-    ]
-  },
-  {
-    "typical_month": "8",
     "name": "Good Life Gallup",
     "callers": [
       "Kate McBride"
@@ -15242,10 +15227,12 @@
     "typical_month": "9",
     "name": "Dancing Fish: September",
     "callers": [
-      "Dereck Kalish"
+      "Dereck Kalish",
+      "Terry Doyle"
     ],
     "bands": [
-      "Kingfisher"
+      "Kingfisher",
+      "Playing with Fyre"
     ],
     "roles": "",
     "date": "8/30/2024",
@@ -15406,21 +15393,6 @@
   },
   {
     "typical_month": "9",
-    "name": "Labor Day Dance Away",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Julian CA",
-    "url": "https://www.caldancecoop.org/special-events/labor-day-dance-away-2021/",
-    "year": 2024,
-    "latlng": [
-      33.08,
-      -116.6
-    ]
-  },
-  {
-    "typical_month": "9",
     "name": "Pinewoods Labor Day Weekend",
     "callers": [
       "Ben Sachs-Hamilton"
@@ -15555,10 +15527,11 @@
       "ContraPositive"
     ],
     "roles": "",
-    "date": "",
+    "date": "10/4/2024",
     "location": "Melrose FL",
     "url": "https://dancingfish.dance/",
     "year": 2024,
+    "date_end": "10/5/2024",
     "latlng": [
       29.71,
       -82.05
@@ -15810,16 +15783,19 @@
     "typical_month": "11",
     "name": "Dancing Fish: November",
     "callers": [
-      "Janet Shepherd"
+      "Janet Shepherd",
+      "Rick Mohr"
     ],
     "bands": [
-      "Frenzy"
+      "Frenzy",
+      "Drive Train"
     ],
     "roles": "",
-    "date": "",
+    "date": "11/1/2024",
     "location": "Melrose FL",
     "url": "https://dancingfish.dance/",
     "year": 2024,
+    "date_end": "11/3/2024",
     "latlng": [
       29.71,
       -82.05
@@ -15960,8 +15936,16 @@
   {
     "typical_month": "11",
     "name": "Head for the Hills Dance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Donna Hunt",
+      "Scott Higgs",
+      "Gaye Fifer"
+    ],
+    "bands": [
+      "Raise the Roof",
+      "Brooklyn Swing Ensemble",
+      "A Joyful Noise"
+    ],
     "roles": "",
     "date": "11/8/2024",
     "location": "Kresgeville PA",
@@ -16005,10 +15989,11 @@
       "River Road"
     ],
     "roles": "",
-    "date": "",
+    "date": "11/8/2024",
     "location": "Albany NY",
-    "url": "https://www.danceflurry.org/event/contrafest/",
+    "url": "https://www.danceflurry.org/event/albany-contrafest/",
     "year": 2024,
+    "date_end": "11/9/2024",
     "latlng": [
       42.65,
       -73.76
@@ -16017,13 +16002,20 @@
   {
     "typical_month": "11",
     "name": "Fleur-de-Lis Fling",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Bob Isaacs",
+      "River Rainbowface"
+    ],
+    "bands": [
+      "Electric Eel",
+      "Double Trouble"
+    ],
     "roles": "",
-    "date": "",
+    "date": "11/15/2024",
     "location": "Louisville KY",
     "url": "http://www.louisvillecountrydancers.org/fleur-de-lis-fling",
     "year": 2024,
+    "date_end": "11/17/2024",
     "latlng": [
       38.25,
       -85.76
@@ -16100,14 +16092,17 @@
     "typical_month": "12",
     "name": "Dancing Fish: December",
     "callers": [
-      "Terry Doyle"
+      "Gaye Fifer"
     ],
-    "bands": [],
+    "bands": [
+      "Hot Coffee Breakdown"
+    ],
     "roles": "",
-    "date": "",
+    "date": "12/6/2024",
     "location": "Melrose FL",
     "url": "https://dancingfish.dance/",
     "year": 2024,
+    "date_end": "12/7/2024",
     "latlng": [
       29.71,
       -82.05
