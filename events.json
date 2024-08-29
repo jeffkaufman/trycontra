@@ -15564,13 +15564,18 @@
   {
     "typical_month": "10",
     "name": "Wasatch Wiggle",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Susan Petrick"
+    ],
+    "bands": [
+      "Playing with Fyre"
+    ],
     "roles": "",
-    "date": "",
+    "date": "10/18/2024",
     "location": "Salt Lake City UT",
     "url": "https://wasatchcontras.org/ww/",
     "year": 2024,
+    "date_end": "10/20/2024",
     "latlng": [
       40.76,
       -111.89
