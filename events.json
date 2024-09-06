@@ -16212,13 +16212,19 @@
   {
     "typical_month": "1",
     "name": "Chambana Jan Jam",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Bev Bernbaum"
+    ],
+    "bands": [
+      "Brazenkeys",
+      "the Mean Lids"
+    ],
     "roles": "Larks / Robins",
-    "date": "",
+    "date": "1/10/2025",
     "location": "Urbana IL",
-    "url": "http://www.urbana-contra.org/jan_jam.html",
+    "url": "https://www.facebook.com/events/1566272547606915",
     "year": 2025,
+    "date_end": "1/12/2025",
     "latlng": [
       40.11,
       -88.21
@@ -16308,6 +16314,28 @@
     ]
   },
   {
+    "typical_month": "1",
+    "name": "Wintergreen",
+    "callers": [
+      "Gaye Fifer",
+      "Koren Wake"
+    ],
+    "bands": [
+      "Turnip the Beet",
+      "Northern Aire"
+    ],
+    "roles": "",
+    "date": "1/24/2024",
+    "location": "Bozeman MT",
+    "url": "https://bozemanfolklore.org/wintergreen-2025/",
+    "year": 2025,
+    "date_end": "1/26/2024",
+    "latlng": [
+      45.68,
+      -111.03
+    ]
+  },
+  {
     "typical_month": "2",
     "name": "Phoenix Winter Frolic",
     "callers": [],
@@ -16315,7 +16343,7 @@
     "roles": "",
     "date": "2/7/2025",
     "location": "Mesa AZ",
-    "url": "https://phxtmd.org/winter-frolic-2024",
+    "url": "https://phxtmd.org/winter-frolic-2025",
     "year": 2025,
     "date_end": "2/8/2025",
     "latlng": [
