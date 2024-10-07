@@ -14598,7 +14598,8 @@
     "name": "Gender-Free Dance Camp (Spring)",
     "callers": [
       "Maia McCormick",
-      "Scott Higgs"
+      "Scott Higgs",
+      "Stephanie Marie"
     ],
     "bands": [],
     "roles": "Larks / Robins",
@@ -15680,31 +15681,6 @@
   },
   {
     "typical_month": "10",
-    "name": "Lake Eden Arts Festival - Fall",
-    "callers": [
-      "Bob Isaacs",
-      "Sarah Kaiser",
-      "Kenny Greer"
-    ],
-    "bands": [
-      "Red Dog",
-      "Spintuition",
-      "Lagomorph Quartet",
-      "the Flying Howes"
-    ],
-    "roles": "",
-    "date": "10/17/2024",
-    "location": "Black Mountain NC",
-    "url": "https://theleaf.org/leaf-october-festival/",
-    "year": 2024,
-    "date_end": "10/20/2024",
-    "latlng": [
-      35.62,
-      -82.32
-    ]
-  },
-  {
-    "typical_month": "10",
     "name": "Boo Camp",
     "callers": [
       "Jacqui Grennan"
@@ -15755,11 +15731,11 @@
       "Lake Effect"
     ],
     "roles": "",
-    "date": "11/7/2024",
+    "date": "11/8/2024",
     "location": "Austin TX",
     "url": "http://www.fireantfrolic.org/",
     "year": 2024,
-    "date_end": "11/9/2024",
+    "date_end": "11/10/2024",
     "latlng": [
       30.27,
       -97.74
@@ -16521,10 +16497,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "3/14/2025",
     "location": "Columbia MO",
     "url": "https://mmtd.wordpress.com/dance-weekend-2024/",
     "year": 2025,
+    "date_end": "3/16/2025",
     "latlng": [
       38.95,
       -92.33
@@ -16659,10 +16636,11 @@
       "the Dam Beavers"
     ],
     "roles": "",
-    "date": "",
+    "date": "4/11/2025",
     "location": "Minneapolis MN",
-    "url": "https://www.tapestryfolkdance.org/call-of-the-loon.html",
+    "url": "https://www.tapestryfolkdance.org/starofthenorth-1-1",
     "year": 2025,
+    "date_end": "4/13/2025",
     "latlng": [
       44.98,
       -93.27
@@ -16716,13 +16694,20 @@
   {
     "typical_month": "4",
     "name": "Hands Four Spring Dance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Timothy Kline",
+      "Chris Bischoff"
+    ],
+    "bands": [
+      "Hot Coffee Breakdown",
+      "Berea Castoffs"
+    ],
     "roles": "",
-    "date": "",
+    "date": "4/25/2025",
     "location": "Berea KY",
     "url": "https://www.hands4-berea.com/",
     "year": 2025,
+    "date_end": "4/27/2025",
     "latlng": [
       37.57,
       -84.3
