@@ -15636,7 +15636,7 @@
     "roles": "",
     "date": "10/18/2024",
     "location": "Olivebridge NY",
-    "url": "https://www.lcfd.org/lcfd/",
+    "url": "https://www.lcfd.org/fall-camp.html",
     "year": 2024,
     "date_end": "10/20/2024",
     "latlng": [
@@ -15647,13 +15647,22 @@
   {
     "typical_month": "10",
     "name": "Phylla Mae Fall Fest",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Sarah VanNorstrand",
+      "Katy Heine",
+      "Dave Smulker",
+      "Rita Wood"
+    ],
+    "bands": [
+      "Contranella",
+      "Anadama"
+    ],
     "roles": "",
-    "date": "",
+    "date": "10/18/2024",
     "location": "Fayetteville NY",
     "url": "https://syracusecountrydancers.org/special-events/phylla-mae-fall-fest/",
     "year": 2024,
+    "date_end": "10/19/2024",
     "latlng": [
       43.03,
       -76.0
@@ -15670,10 +15679,11 @@
       "River Road"
     ],
     "roles": "",
-    "date": "",
+    "date": "10/19/2024",
     "location": "Peterborough NH",
     "url": "https://www.monadnockfolk.org/event/%E2%98%BC-%E2%98%BC-%E2%98%BC-peterborough-fall-ball-2024/",
     "year": 2024,
+    "date_end": "10/19/2024",
     "latlng": [
       42.87,
       -71.95
@@ -15692,7 +15702,7 @@
     "roles": "",
     "date": "10/25/2024",
     "location": "Jemez Springs NM",
-    "url": "",
+    "url": "https://folkmads.org/events/camps/boo-camp/",
     "year": 2024,
     "date_end": "10/27/2024",
     "latlng": [
@@ -16212,10 +16222,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "1/10/2025",
     "location": "Worcester MA",
-    "url": "https://www.neffa.org/36th-annual-ralph-page-dance-event/",
+    "url": "https://www.neffa.org/annual-ralph-page-dance-event/",
     "year": 2025,
+    "date_end": "1/11/2025",
     "latlng": [
       42.26,
       -71.8
@@ -16314,8 +16325,12 @@
   {
     "typical_month": "2",
     "name": "Phoenix Winter Frolic",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Jacqui Grennan"
+    ],
+    "bands": [
+      "Playing with Fyre"
+    ],
     "roles": "",
     "date": "2/7/2025",
     "location": "Mesa AZ",
@@ -16325,6 +16340,28 @@
     "latlng": [
       33.42,
       -111.83
+    ]
+  },
+  {
+    "typical_month": "2",
+    "name": "Supersonic",
+    "callers": [
+      "Seth Tepfer",
+      "Cis Hinkle"
+    ],
+    "bands": [
+      "Gallimaufry",
+      "Joyride"
+    ],
+    "roles": "",
+    "date": "2/7/2025",
+    "location": "Seattle WA",
+    "url": "https://www.supersoniccontra.com/",
+    "year": 2025,
+    "date_end": "2/9/2025",
+    "latlng": [
+      47.61,
+      -122.33
     ]
   },
   {
@@ -17575,13 +17612,22 @@
   {
     "typical_month": "9",
     "name": "Feet Retreat",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Will Mentor",
+      "Cis Hinkle",
+      "Emily Rush",
+      "Gaye Fifer"
+    ],
+    "bands": [
+      "Supertrad",
+      "River Road"
+    ],
     "roles": "",
-    "date": "",
+    "date": "9/19/2025",
     "location": "Ellerbe NC",
     "url": "https://www.feetretreat.com/",
     "year": 2025,
+    "date_end": "9/21/2025",
     "latlng": [
       35.07,
       -79.76
