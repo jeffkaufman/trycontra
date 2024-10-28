@@ -18,7 +18,7 @@
   ["https://www.sccdc.org/contra/", "Pasadena CA", "Saturdays", 27, "", true],
   ["https://www.facebook.com/groups/contrasantacruz/", "Santa Cruz CA", "Fridays", 12, "GF", true],
   ["http://www.bacds.org/series/contra/berkeley_wed/", "Berkeley CA", "Thursdays", 27, "GF", true],
-  ["http://www.bacds.org/series/contra/san_francisco/", "San Francisco CA", "Fridays and Saturdays", 24, "", false],
+  ["https://bacds.org/series/contra/san_francisco_wed/", "San Francisco CA", "Wednesdays", 24, "GF", true],
   ["http://www.bacds.org/series/contra/palo_alto/", "Palo Alto CA", "Saturdays", 27, "GF", true],
   ["http://www.bacds.org/series/contra/san_jose/", "San Jose CA", "Sundays", 11, "GF", false],
   ["https://sfbaycontra.org/", "Hayward CA", "Sundays", 15, "GF", true],
