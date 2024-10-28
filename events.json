@@ -16312,14 +16312,36 @@
       "Northern Aire"
     ],
     "roles": "",
-    "date": "1/24/2024",
+    "date": "1/24/2025",
     "location": "Bozeman MT",
     "url": "https://bozemanfolklore.org/wintergreen-2025/",
     "year": 2025,
-    "date_end": "1/26/2024",
+    "date_end": "1/26/2025",
     "latlng": [
       45.68,
       -111.03
+    ]
+  },
+  {
+    "typical_month": "1",
+    "name": "Chattaboogie",
+    "callers": [
+      "Timothy Klein",
+      "Vicki Herndon"
+    ],
+    "bands": [
+      "Turnip the Beet",
+      "Kingfisher"
+    ],
+    "roles": "",
+    "date": "1/10/2025",
+    "location": "Chattanooga TN",
+    "url": "https://contranooga.us/page/ctdscalendar",
+    "year": 2025,
+    "date_end": "1/12/2025",
+    "latlng": [
+      35.05,
+      -85.31
     ]
   },
   {
@@ -16566,12 +16588,12 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "Helena GA",
+    "location": "Sautee Nacoochee GA",
     "url": "https://www.snca.org/contra/danceWeekend/page.php",
     "year": 2025,
     "latlng": [
-      32.07,
-      -82.91
+      34.68,
+      -83.67
     ]
   },
   {
@@ -17216,12 +17238,16 @@
     "typical_month": "7",
     "name": "Southern Aire: Dawn Dance",
     "callers": [],
-    "bands": [],
+    "bands": [
+      "Playing with Fyre",
+      "Howe and Company"
+    ],
     "roles": "",
-    "date": "",
+    "date": "7/25/2024",
     "location": "Mountain City TN",
     "url": "https://joyboundliving.com/dawn-dance",
     "year": 2025,
+    "date_end": "7/27/2024",
     "latlng": [
       36.47,
       -81.8
