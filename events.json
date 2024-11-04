@@ -15673,10 +15673,15 @@
     "name": "Peterbough Fall Ball",
     "callers": [
       "Alex Deis-Lauby",
-      "Maia McCormick"
+      "Maia McCormick",
+      "Steve Zakon-Anderson",
+      "George Marshall"
     ],
     "bands": [
-      "River Road"
+      "River Road",
+      "Lake Effect",
+      "Wild Asparagus",
+      "Daybreak Trio"
     ],
     "roles": "",
     "date": "10/19/2024",
@@ -16128,11 +16133,14 @@
     "typical_month": "12",
     "name": "Contradancers Delight Holiday (Winter)",
     "callers": [
+      "Bob Isaacs",
       "Terry Doyle",
-      "Warren Doyle"
+      "Warren Doyle",
+      "Devin Pohly"
     ],
     "bands": [
       "Toss the Possum",
+      "Spintuition",
       "the Buzz Band",
       "George Paul"
     ],
@@ -16153,7 +16161,9 @@
     "callers": [
       "Open calling"
     ],
-    "bands": [],
+    "bands": [
+      "Open Band"
+    ],
     "roles": "",
     "date": "12/29/2024",
     "location": "Vashon Island WA",
@@ -16168,13 +16178,17 @@
   {
     "typical_month": "12",
     "name": "Berea Christmas Country Dance School",
-    "callers": [],
+    "callers": [
+      "Chris Bischoff",
+      "Darlene Underwood"
+    ],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "12/26/2024",
     "location": "Berea KY",
     "url": "https://bereaccds.org/",
     "year": 2024,
+    "date_end": "1/1/2025",
     "latlng": [
       37.57,
       -84.3
@@ -16183,13 +16197,19 @@
   {
     "typical_month": "12",
     "name": "Terpsichore's Holiday",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Gaye Fifer",
+      "Adina Gordon"
+    ],
+    "bands": [
+      "Countercurrent"
+    ],
     "roles": "",
-    "date": "",
+    "date": "12/27/2024",
     "location": "Adamstown MD",
     "url": "https://terpsichore.lloydshaw.org/",
     "year": 2024,
+    "date_end": "1/1/2024",
     "latlng": [
       39.31,
       -77.48
