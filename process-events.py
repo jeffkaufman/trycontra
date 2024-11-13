@@ -109,7 +109,12 @@ for year, fname in [
             }
             if date_end:
                 rec["date_end"] = date_end
-            records.append(rec)
+
+            if name == "continued":
+                records[-1]["callers"].extend(callers)
+                records[-1]["bands"].extend(bands)
+            else:
+                records.append(rec)
 
 with open("events.json") as inf:
     old_records = json.load(inf)
