@@ -16421,6 +16421,53 @@
     ]
   },
   {
+    "typical_month": "1",
+    "name": "Peterbough Snow Ball",
+    "callers": [
+      "Bob Isaacs",
+      "Will Mentor",
+      "Lisa Greenleaf",
+      "Steve Zakon-Anderson"
+    ],
+    "bands": [
+      "Red Case Band",
+      "Stove Dragon",
+      "the Dam Beavers"
+    ],
+    "roles": "",
+    "date": "1/25/2025",
+    "location": "Peterborough NH",
+    "url": "https://www.monadnockfolk.org/event/%e2%98%bc-%e2%98%bc-%e2%98%bc-peterborough-snow-ball-2025/",
+    "year": 2025,
+    "date_end": "1/25/2025",
+    "latlng": [
+      42.87,
+      -71.95
+    ]
+  },
+  {
+    "typical_month": "2",
+    "name": "Fiddling Frog Dance Festival",
+    "callers": [
+      "Susan Petrick",
+      "Lindey Dono"
+    ],
+    "bands": [
+      "the Syncopaths",
+      "River Road"
+    ],
+    "roles": "Larks / Robins",
+    "date": "2/21/2025",
+    "location": "Pasadena CA",
+    "url": "https://www.sccdc.org/special-events/fiddling-frog/",
+    "year": 2025,
+    "date_end": "2/23/2025",
+    "latlng": [
+      34.15,
+      -118.14
+    ]
+  },
+  {
     "typical_month": "2",
     "name": "Phoenix Winter Frolic",
     "callers": [
@@ -16465,13 +16512,18 @@
   {
     "typical_month": "2",
     "name": "Dancing Fish: February",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Steve Zakon-Anderson"
+    ],
+    "bands": [
+      "Stomp Rocket"
+    ],
     "roles": "",
-    "date": "",
+    "date": "1/31/2025",
     "location": "Melrose FL",
     "url": "https://dancingfish.dance/",
     "year": 2025,
+    "date_end": "2/1/2025",
     "latlng": [
       29.71,
       -82.05
@@ -17121,13 +17173,20 @@
   {
     "typical_month": "6",
     "name": "Summer Soiree",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Steve Zakon-Anderson",
+      "Adina Gordon"
+    ],
+    "bands": [
+      "the Mean Lids",
+      "Kingfisher"
+    ],
     "roles": "",
-    "date": "",
+    "date": "6/12/2025",
     "location": "Asheville NC",
-    "url": "https://ashevillecontra.wixsite.com/summer-soiree-2024",
+    "url": "https://www.ashevillecontra.com/",
     "year": 2025,
+    "date_end": "6/15/2025",
     "latlng": [
       35.6,
       -82.55
@@ -17340,11 +17399,11 @@
       "Howe and Company"
     ],
     "roles": "",
-    "date": "7/25/2024",
+    "date": "7/25/2025",
     "location": "Mountain City TN",
     "url": "https://joyboundliving.com/dawn-dance",
     "year": 2025,
-    "date_end": "7/27/2024",
+    "date_end": "7/27/2025",
     "latlng": [
       36.47,
       -81.8
@@ -17353,13 +17412,20 @@
   {
     "typical_month": "7",
     "name": "Dancing Fish: July",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Luke Donforth",
+      "Bob Isaacs"
+    ],
+    "bands": [
+      "Kingfisher",
+      "Crossover"
+    ],
     "roles": "",
-    "date": "",
+    "date": "7/4/2025",
     "location": "Melrose FL",
     "url": "https://dancingfish.dance/",
     "year": 2025,
+    "date_end": "7/5/2025",
     "latlng": [
       29.71,
       -82.05
