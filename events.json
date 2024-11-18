@@ -14424,6 +14424,7 @@
       "Lo Peckman"
     ],
     "bands": [
+      "Thunderwing",
       "Toss the Possum"
     ],
     "roles": "",
@@ -16553,13 +16554,19 @@
   {
     "typical_month": "2",
     "name": "Cabin Fever",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Claire Takemori"
+    ],
+    "bands": [
+      "Spintuition",
+      "Ice Cream Truckers"
+    ],
     "roles": "",
-    "date": "",
+    "date": "2/7/2025",
     "location": "Knoxville TN",
     "url": "https://www.knoxvillecontra.org/cfschedule",
     "year": 2025,
+    "date_end": "2/9/2025",
     "latlng": [
       35.96,
       -83.92
@@ -16607,7 +16614,10 @@
       "Sarah Kaiser",
       "Lo Peckman"
     ],
-    "bands": [],
+    "bands": [
+      "Baba Yaga's Stew",
+      "Alyssa Catlin Band"
+    ],
     "roles": "Larks / Robins",
     "date": "2/21/2025",
     "location": "St Louis MO",
