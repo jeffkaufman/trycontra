@@ -1,5 +1,5 @@
 typical month	name	caller1	caller2	caller3	caller4	caller5	caller6	band1	band2	band3	band4	band5	band6	roles	date	location	url
-1	Chambana Jan Jam	Jo Mortland	Scot Meyer	Jonathan Sivier				Mean Lids	Sassafras Stomp	Big Bluestem					1/5/2018	Urbana IL	http://www.urbana-contra.org/jan_jam.html
+1	Chambana Jan Jam	Jo Mortland	Scot Meyer	Jonathan Silver				Mean Lids	Sassafras Stomp	Big Bluestem					1/5/2018	Urbana IL	http://www.urbana-contra.org/jan_jam.html
 1	Phoenix Winter Frolic	Carol Ormand						Free Raisins							1/12/2018	Mesa AZ	https://phxtmd.org/frolics
 1	Orange Blossom Ball	Seth Tepfer	Donna Hunt	Janine Smith				Lift Ticket	Morrison Brothers	Sound Traveler					1/12/2018	Daytona FL	http://www.orangeblossomcontra.com/
 1	Ralph Page Dance Legacy Weekend	Lisa Greenleaf	Steve Zakon-Anderson					unnamed							1/12/2018	Durham NH	http://ralphpage.neffa.org/
@@ -40,8 +40,8 @@ typical month	name	caller1	caller2	caller3	caller4	caller5	caller6	band1	band2	b
 4	Hands Four Spring Dance Weekend	George Marshall						Wild Asparagus							4/27/2018	Berea KY	http://www.hands4-berea.com/Workshops.html
 4	Dandelion Romp	Dana Parkinson	Cis Hinkle					Pete's Posse	Great Bear	Oshima Brothers				Larks / Ravens	4/6/2018	Oberlin OH	http://oberlin.edu/stuorg/dromp/
 4	Portland Raindance Weekend	Cis Hinkle	Ron Buchanan					Notorious	Latter Day Lizards						4/27/2018	Portland OR	http://www.portlandraindance.org/
-4	Trillium Twirl	Sarah Van Norstrand						Changeling							4/27/2018	Dowling MI	https://sites.google.com/site/trilliumtwirl/
-4	Spring Fling Owen Sound	Sarah Van Norstrand	Frank Francalanza					Scatter the Cats	Unnamed						5/4/2018	Owen Sound ON	http://fiddlefern.ca/spring-fling/
+4	Trillium Twirl	Sarah VanNorstrand						Changeling							4/27/2018	Dowling MI	https://sites.google.com/site/trilliumtwirl/
+4	Spring Fling Owen Sound	Sarah VanNorstrand	Frank Francalanza					Scatter the Cats	Unnamed						5/4/2018	Owen Sound ON	http://fiddlefern.ca/spring-fling/
 4	Mad Robin Romp	Alex Deis-Lauby						Countercurrent							5/4/2018	Bloomington IA	http://bloomingtoncontra.org/mad-robin-romp/
 5	Gender-Free Dance Camp (Spring)	Maia McCormick						Free Raisins						Larks / Ravens	5/4/2018	Woodstock CT	http://lcfd.org/lcfd/lcfd-spring-dance-camp/
 5	Whitewater Whirl	Cary Ravitz	Gaye Fifer					Contrarians	Ripples						5/4/2018	Fayetteville WV	http://www.whitewaterwhirl.org/
@@ -57,12 +57,12 @@ typical month	name	caller1	caller2	caller3	caller4	caller5	caller6	band1	band2	b
 5	Memorial Day Dawndance	Lisa Greenleaf	Frannie Marr	Luke Donforth				Eloise &co	Russet Trio	Barefoot					5/27/2018	Brattleboro VT	http://www.dawndance.org/
 6	Dance Trance Weekend	Gaye Fifer						Toss the Possum							6/8/2018	Lexington KY	http://www.dancetrance.ltda.ws/
 6	Flamingo Fling Weekend	Lisa Greenleaf						Stringrays							6/8/2018	Oaklahoma City OK	http://scissortail.org/special-events/flamingo-fling/
-6	Swing into Summer	Sarah Van Norstrand	Dan Blim					Faux Paws	Alchemy	Vox Hunters				Larks / Ravens	6/15/2018	Plymouth MA	http://www.swingintosummer.org/
+6	Swing into Summer	Sarah VanNorstrand	Dan Blim					Faux Paws	Alchemy	Vox Hunters				Larks / Ravens	6/15/2018	Plymouth MA	http://www.swingintosummer.org/
 6	Faultline Frolic	Cis Hinkle						Notorious							6/15/2018	Santa Rosa CA	http://nbcds.org/faultline-frolic/
-6	Asheville Summer Soiree	George Marshall	Rona Wiener					Wild Asparagus	Toss the Possum						6/22/2018	Asheville NC	http://www.ashevillecontra.com/
+6	Asheville Summer Soiree	George Marshall	Roni Wiener					Wild Asparagus	Toss the Possum						6/22/2018	Asheville NC	http://www.ashevillecontra.com/
 6	Lady of the Lake June Week	Will Mentor	Cis Hinkle	Erik Weberg				Spin	Uncle Farmer	Canote Brothers					6/24/2018	Harrison, ID	http://www.ladyofthelake.org/june-week/
-6	Old Songs Festival	Sarah Van Norstrand	Sue Rosen					Maivish	Confluence						6/22/2018	Voorheesville NY	http://festival.oldsongs.org/
-6	BACDS American Dance and Music Week	Gaye Fifer	Sarah Van Norstrand					Syncopaths	Uncle Farmer	Whoots					7/1/2018	La Honda CA	https://www.bacds.org/camps/amweek/
+6	Old Songs Festival	Sarah VanNorstrand	Sue Rosen					Maivish	Confluence						6/22/2018	Voorheesville NY	http://festival.oldsongs.org/
+6	BACDS American Dance and Music Week	Gaye Fifer	Sarah VanNorstrand					Syncopaths	Uncle Farmer	Whoots					7/1/2018	La Honda CA	https://www.bacds.org/camps/amweek/
 7	July Fourth at Pinewoods	Lisa Greenleaf						Unnamed							6/28/2018	Plymouth MA	https://cds-boston-j4weekend.weebly.com/
 7	Ooh La La Dance Weekend	Mary Wesley	Adina Gordon	Steve Zakon-Anderson				Maivish	Stomp Rocket						6/8/2018	Richmond QC	http://oohlaladance.com/
 7	Delafield IndepenDance Daze Weekend	Diane Silver	Katy Heine					Turnip the Beet	Strawberry Space Jam						6/29/2018	Delafield WI	http://www.delafieldcontra.com/Delafield_Contra_Weekend.html
@@ -80,8 +80,8 @@ typical month	name	caller1	caller2	caller3	caller4	caller5	caller6	band1	band2	b
 9	Michigan Dance Heritage Fall Weekend	Scott Higgs	Cathy Stephens					Groovemongers							9/21/2018	Lexington MI	http://mdh-online.org/fall/
 9	Dance Camp North	Lisa Greenleaf						Stringrays							9/1/2018	Fairbanks AK	http://contraborealis.org/dance-camp-north/
 9	Labor Day Dance Away	Seth Tepfer	Terry Doyle					Toss the Possum	Curious George and the ABCs						8/31/2018	Julian CA	http://www.caldancecoop.org/cgi/lddadriver.cgi
-9	Labor Day Dawndance	Will Mentor	Jean Gibson-Gorrido	Hannah Otten				Great Bear	Cloud Ten	Buddy System					9/2/2018	Brattleboro VT	http://www.dawndance.org/
-9	Moondance Dance Weekend	Sarah Van Norstrand	Terry Doyle					Unnamed	Buddy System	Rushfest					9/7/2018	Pickens SC	https://moondancesc.weebly.com/
+9	Labor Day Dawndance	Will Mentor	Jean Gorrindo	Hannah Otten				Great Bear	Cloud Ten	Buddy System					9/2/2018	Brattleboro VT	http://www.dawndance.org/
+9	Moondance Dance Weekend	Sarah VanNorstrand	Terry Doyle					Unnamed	Buddy System	Rushfest					9/7/2018	Pickens SC	https://moondancesc.weebly.com/
 9	Footfall Dance Weekend	Ted Hodapp	Carol Ormand					Ripples	Organic Family Band						9/7/2018	High View WV	http://www.footfalldance.com/index.php
 9	Feet Retreat	Gaye Fifer	Emily Rush					Mean Lids	Faux Paws						9/14/2018	Ellerbe NC	https://www.feetretreat.com/feet-retreat/
 9	Bear Hug Dance Camp	Susan Michaels	Andrea Nettleton					Stringrays							9/7/2018	Rollins MT	https://www.missoulafolk.org/bear-hug-mountain-festival
@@ -97,7 +97,7 @@ typical month	name	caller1	caller2	caller3	caller4	caller5	caller6	band1	band2	b
 10	Wasatch Wiggle	Lindsey Dono						Offbeats	Uncle Farmer						9/28/2018	Salt Lake City UT	https://www.wasatchwiggle.org/home.html
 10	Looking Glass Music and Dance Festival	Beth Molaro						Mean Lids							10/5/2018	Lansing MI	http://www.lgmaa.org/lg_festival.html
 10	Lady of the Lake Fall Camp	Susan Petrick						Uncle Farmer	Northern Contraband						10/5/2018	Harrison, ID	http://www.ladyofthelake.org/fallwend/
-10	Harvest Moon Dance Festival	Sarah Van Norstrand	Gaye Fifer					Great Bear	Buddy System						10/12/2018	Santa Barbara CA	http://www.sbcds.org/hm/
+10	Harvest Moon Dance Festival	Sarah VanNorstrand	Gaye Fifer					Great Bear	Buddy System						10/12/2018	Santa Barbara CA	http://www.sbcds.org/hm/
 10	Hoosier Partner	Maggie Jo Saylor	Alex Deis-Lauby	Lauren Peckman				Baba Yaga's Stew	Meadowhawk	Turnip the Beet	Wild Rumpus				10/12/2018	Indianapolis IN	http://www.indycontra.org/hoosierpartner/
 10	Mountain Madness Contra Dance Weekend	Will Mentor	Susan Michaels					Pete's Posse	Barefoot	Toss the Possum					10/12/2018	Jonesborough TN	http://www.historicjonesboroughdancesociety.com/site/calendar/
 10	Gender-Free Dance Camp (Fall)	Frannie Marr						Dam Beavers						Larks / Ravens	10/19/2018	Becket MA	http://lcfd.org/lcfd/lcfd-fall-dance-camp/
@@ -108,7 +108,7 @@ typical month	name	caller1	caller2	caller3	caller4	caller5	caller6	band1	band2	b
 10	Tree Town Stomp	George Marshall	Laurie Pietravalle					Wild Asparagus	Peregrine Road						10/26/2018	Ann Arbor MI	http://aactmad.org/tts/
 10	Music City Masquerade	Will Mentor						Notorious	Turnip the Beet						10/26/2018	Nashville TN	http://nashvillecountrydancers.org/music-city-masquerade/
 10	Dancing Leaves	Lisa Greenleaf	Alex Deis-Lauby					Latter Day Lizards	Morrison Brothers	Rushfest					10/26/2018	Charlottesville VA	https://contracorners.com/cville_fall_festival
-10	Fire Ant Frolic	Sarah Van Norstrand						Wake up Robin							10/26/2018	Austin TX	http://www.fireantfrolic.org/
+10	Fire Ant Frolic	Sarah VanNorstrand						Wake up Robin							10/26/2018	Austin TX	http://www.fireantfrolic.org/
 10	Florida Fall Ball	Andy Shore						Cloud Ten							10/26/2018	Tampa FL	http://www.tampabaycontra.com/
 10	Next Generation Dance Camp	Yoyo Zhou						Waxwings						Larks / Ravens	10/5/2018	Portland OR	http://www.nextgendancecamp.org/
 11	Foggy Moon Dance Weekend	Yoyo Zhou	Cis Hinkle					Elixir	Dynamix						11/2/2018	Monterey CA	http://montereycontradance.org/foggy-moon.html
@@ -117,7 +117,7 @@ typical month	name	caller1	caller2	caller3	caller4	caller5	caller6	band1	band2	b
 11	Dance in the Desert	Bob Isaacs	Susan Michaels					Supertrad	Privy Tippers	Adobe Brothers						Oracle AZ	https://tucsoncontradancers.org/tucson-contra-dancers-enjoy-dancing-to-live-music-every-other-saturday/dance-in-the-desert-2018/
 11	Pittsburgh Fall Dance Weekend	Will Mentor	Janine Smith					Hotpoint	Sassafras Stomp						11/2/2018	Pittsburgh PA	http://pittsburghcontra.org/fdw/
 11	Head for the Hills Dance Weekend	unnamed						Hold the Mustard	Raise the Roof						11/9/2018	Kresgeville PA	http://www.princetoncountrydancers.org/about-hfth
-11	Atlanta Dance Weekend	Gaye Fifer	Jesse Edgarton	Seth Tepfer				Syncopaths	Toss the Possum	Contraforce					11/9/2018	Atlanta GA	http://www.contradance.org/html/weekend/
+11	Atlanta Dance Weekend	Gaye Fifer	Jesse Edgerton	Seth Tepfer				Syncopaths	Toss the Possum	Contraforce					11/9/2018	Atlanta GA	http://www.contradance.org/html/weekend/
 11	Contra Fest	Will Mentor						Joy Compass							11/9/2018	Albany NY	http://www.danceflurry.org/contrafest.php
 11	Fleur-de-Lis Fling	Lisa Greenleaf	Janine Smith					Latter Day Lizards	Barefoot						11/16/2018	Louisville KY	http://www.loukyfleurfling.org/
 11	Pilgrim's Progression Dance Weekend	Diane Silver						Syncopaths							11/16/2018	Lawrence KS	http://www.lawrencebarndance.org/lbdawknd.htm

@@ -1,4 +1,4 @@
-typical month	name	caller1	caller2	caller3	caller4	caller5	caller6	band1	band2	band3	band4	band5	band6	roles	start date	end date	location	url	
+p	name	caller1	caller2	caller3	caller4	caller5	caller6	band1	band2	band3	band4	band5	band6	roles	start date	end date	location	url	
 1	Dancing Fish: January	Frannie Marr						Audacious							1/5/2024	1/6/2024	Melrose FL	https://dancingfish.dance/	
 1	Chambana Jan Jam	Sarah Kaiser	Georges Augustin	Nedra McNeil				Eupohr	Turnip the Beet	Meadowhawk				Larks / Robins	1/5/2024	1/7/2024	Urbana IL	http://www.urbana-contra.org/jan_jam.html	
 1	Ralph Page Dance Legacy Weekend	Tod Whittemore	Lisa Greenleaf	Dudley Laufman				Sugar River Band	Canterbury Dance Orchestra						1/12/2024	1/13/2024	Worcester MA	https://www.neffa.org/ralph-page/rpde/	
@@ -6,125 +6,137 @@ typical month	name	caller1	caller2	caller3	caller4	caller5	caller6	band1	band2	b
 1	Contra Swing Shift Weekend	Charley Harvey						Meadowhawk							1/26/2024	1/27/2024	Berea KY	https://www.swingshift.ltda.us/	
 1	Florida Snow Ball	Janine Smith	Will Mentor					Kingfisher	Nova						1/26/2024	1/28/2024	Gulfport FL	http://floridasnowball.tampabaycontra.com/	
 1	Peterbough Snow Ball	Mary Wesley	Will Mentor	Lisa Greenleaf	Steve Zakon-Anderson			Moving Violations	Stomp Rocket						1/20/2024	1/20/2024	Peterborough NH	https://www.monadnockfolk.org/?p=11577	
-2	IVFDF													Larks / Robins	2/16/2024	2/18/2024	York UK	https://ivfdf2024.org.uk/	
+2	IVFDF	Charlie Turner	Sam Tetley Smith					Contrary Faeries	Bearded Dragons					Larks / Robins	2/16/2024	2/18/2024	York UK	https://ivfdf2024.org.uk/	
 2	Phoenix Winter Frolic	Christine Merryman						Joyance							2/9/2024	2/10/2024	Mesa AZ	https://phxtmd.org/winter-frolic-2024	
 2	Dancing Fish: February	Mary Wesley						Unnamed							2/2/2024	2/3/2024	Melrose FL	https://dancingfish.dance/	
 2	Tropical Dance Vacation: St Croix	George Marshall	Lisa Greenleaf					Wild Asparagus							2/7/2024	2/14/2024	St Croix	https://www.tropicaldancevacation.com/contra-week.html	
 2	Corvallis Contra Dance Weekend	Frannie Marr	Julian Blechner					Riptide	The Fiddle Hellions					Larks / Robins	2/16/2024	2/18/2024	Corvallis OR	http://corvallisfolklore.org/ccw/	
 2	Cabin Fever	Timothy Klein						Hot Coffee Breakdown	Baba Yaga's Stew						2/9/2024	2/11/2024	Knoxville TN	https://www.knoxvillecontra.org/cfschedule	
-2	Dance Flurry Festival														2/16/2024	2/18/2024	Saratoga Springs NY	http://www.flurryfestival.org/	
+2	Dance Flurry Festival	Adina Gordon	Bob Isaacs	Liz Nelson	Isaac Banner	Lisa Greenleaf		Countercurrent	Engine Room	River Road	Supertrad				2/16/2024	2/18/2024	Saratoga Springs NY	http://www.flurryfestival.org/	
 2	Bayou Bedlam	Gaye Fifer						The Dam Beavers							2/9/2024	2/11/2024	Houston TX	http://www.bayoubedlam.org/	
 2	Fiddling Frog Dance Festival	Lisa Greenleaf	Susan Michaels					Stomp Rocket	The Engine Room					Larks / Robins	2/23/2024	2/25/2024	Pasadena CA	https://www.caldancecoop.org/special-events/fiddling-frog/	
-2	Supersonic	Seth Tepfer	Will Mentor					Notorious	Playing with Fyre					Larks / Robins	2/2/2024		Seattle WA	http://www.supersoniccontra.com/	
+2	Supersonic	Seth Tepfer	Will Mentor					Notorious	Playing with Fyre					Larks / Robins	2/2/2024	2/4/2024	Seattle WA	http://www.supersoniccontra.com/	
 3	Dancing Fish: March	Will Mentor						The Old-Time Superstars							3/1/2024	3/2/2024	Melrose FL	https://dancingfish.dance/	
 3	Carolina Meltdown	Seth Tepfer	Diane Silver					The Syncopaths	Drive Train						3/8/2024	3/10/2024	Lake Wylie SC	https://www.charlottecontradance.org/carolina-meltdown	
 3	Pigtown Fling	Nils Fredland	Darlene Underwood					Elixir	Trillium						3/22/2024	3/24/2024	Cincinattia OH	http://www.cincinnaticontradance.org/pigtown.htm	
 3	DownEast Country Dance Festival																Topsham ME	http://www.deffa.org/festival/	
-3	Spring Breakdown Dance Weekend																Columbia MO	https://mmtd.wordpress.com/dance-weekend-2023/	
+3	Spring Breakdown Dance Weekend	Emily Rush						Nova	Rushfest						3/15/2024	3/17/2024	Columbia MO	https://mmtd.wordpress.com/dance-weekend-2024/	
 3	Beantown Stomp	Maia McCormick	Will Mentor					The Mean Lids	The FIgments					Larks / Robins	3/15/2024	3/17/2024	Cambridge MA	https://www.beantownstomp.com	
-3	Spring @ Sautee																Helena GA	https://www.snca.org/contra/danceWeekend/pageWeekend.php	
+3	Spring @ Sautee	Terry Doyle	Seth Tepfer					Hot Coffee Breakdown	Contraforce	DJ TacoShel					3/22/2024	3/24/2024	Helena GA	https://www.snca.org/contra/danceWeekend/page.php	
 3	Hash Dance Weekend	Will Mentor	Alex Deis-Lauby					River Road	The Ice Cream Truckers					Larks / Robins	3/9/2024	3/10/2024	Glen Echo MD	https://fsgw.org/hashtag-dance-weekend	
 4	Contra Camp	Louise Siddons	Heather McAslan					WillPower						Larks / Robins	4/5/2024	4/7/2024	Halsway UK	https://halswaymanor.org.uk/event/contra-camp-2024/	
 4	Dancing Fish: April	Janine Smith						Stomp Rocket							4/5/2024	4/6/2024	Melrose FL	https://dancingfish.dance/	
 4	Dancing Fish: Wild Asparagus	George Marshall						Wild Asparagus							4/19/2024	4/21/2024	Melrose FL	https://dancingfish.dance/	
 4	Epicenter dance weekend	Seth Tepfer	Alex Deis-Lauby					The Free Raisins	Genticorum					Larks / Robins	4/5/2024	4/7/2024	Mill Valley CA	https://nbcds.org/epicenter-2024/	
-4	SF Bay Queer Contra Dance Camp	Chris Ricciotti	Maia McCormick					The Mean Lids	Unnamed					Larks / Robins	4/12/2024	4/14/2024	Aptos CA	https://www.queercontradance.org/queercamp.html	
+4	SF Bay Queer Contra Dance Camp	Andy Shore	Isaac Banner					Nimbus	River Road					Larks / Robins	4/12/2024	4/14/2024	Aptos CA	https://www.queercontradance.org/queercamp.html	
 4	Call of the Loon Dance Weekend	Will Mentor	Ted Hodapp					The Stringrays	Northern Aire						4/12/2024	4/14/2024	Minneapolis MN	https://www.tapestryfolkdance.org/call-of-the-loon.html	
 4	Springforth Ball	Gaye Fifer						Drive Train							4/12/2024	4/14/2024	Richmond VA	https://tadamsva.org/springforth-2024/	
-4	NEFFA													Larks / Robins	4/19/2024	4/21/2024	Marlborough MA	https://www.neffa.org/	
-4	Fiddlehead Frolic																Ithaca NY	http://www.hands4dancers.org/upcoming-dances/2023/4/1/fiddlehead-frolic	
+4	NEFFA	Alex Deis-Lauby	Rick Mohr	Ben Sachs-Hamilton	Bob Isaacs	Michael Karcher	Dereck Kalish	Live Wire	Kingfisher	Torrent	Good Company	Dogtown		Larks / Robins	4/19/2024	4/21/2024	Marlborough MA	https://www.neffa.org/	
+	continued	Carl Levine	Dylan Simpson	David Millstone	Sue Gola	Liesl Jandrey	Tamar Myers	Roaring Jelly	Cojiro	The Orphans	Unnamed	Open Band							
+	continued	Qwill Duvall	Jeremy Korr	Steve Zakon-Anderson	Donna Hunt	Greg Frock		Raise the Roof	Unnamed	The Dixie Butterhounds	The Midlings	Chimney Swift							
+	continued	Lisa Greenleaf	Cindy Larock	Hannah Chamberlain	Don Veino			Not Enough Fiddles	Rum & Onions	Wissahickon Express	Unnamed								
+	continued							Einstein's Little Homunculus	Les Bijoux Folque Orchestra	Zarkadelphia	Joy Factor								
+4	Fiddlehead Frolic	Mary Wesley						Eloise &co							3/30/2024	3/30/2024	Ithaca NY	http://www.hands4dancers.org/upcoming-dances/2024/3/30/fiddlehead-frolic	
 4	Hands Four Spring Dance Weekend	Terry Doyle	Sarah Kaiser					Playing with Fyre							4/26/2024	4/28/2024	Berea KY	https://www.hands4-berea.com/	
-4	Dandelion Romp													Larks / Robins			Oberlin OH	https://www.oberlin.edu/events/dandelion_romp_8198	
+4	Dandelion Romp	Adina Gordon	Nils Fredland					Elixir	The Engine Room					Larks / Robins	4/19/2024	4/21/2024	Oberlin OH	https://advance.oberlin.edu/events/2024/04/19/dandelion-romp-2024	
 4	Trillium Twirl	Bob Isaacs						Hot Coffee Breakdown							4/26/2024	4/28/2024	Dowling MI	https://michigandanceheritage.org/trilliumtwirl/	
-4	Portland Raindance Weekend	Lisa Greenleaf	Will Mentor					Drive Train	The Stringrays						4/26/2024	4/28/2024	Portland OR	http://www.portlandraindance.org/	
-4	NexGen Contra Weekend	Katie Zanders	River Rainbowface					Starling	Pimento Mori						4/12/2024	4/14/2024	Ann Arbor MI	https://aactmad.org/nexgen-contra	
+4	Portland Raindance Weekend	Lisa Greenleaf	Lindsey Dono					Drive Train	The Stringrays						4/26/2024	4/28/2024	Portland OR	http://www.portlandraindance.org/	
+4	NexGen Contra Weekend	Katie Zanders	River Rainbowface Abel					Starling	Pimento Mori						4/12/2024	4/14/2024	Ann Arbor MI	https://aactmad.org/nexgen-contra	
+4	Palmetto Bug Stomp	George Marshall	Seth Tepfer					Wild Asparagus	Contraforce						4/26/2024	4/28/2024	Charleston SC	http://charlestonfolk.weebly.com/palmetto-bug-stomp.html	
 5	May Heydays at Evesham	Will Mentor	Charlie Turner	Lynne Render	Rhodri Davies			Lighthouse	Contrasaurus	Eclectic Regency					5/3/2024	5/6/2024	Evesham UK	http://mayheydays.org.uk/	
 5	Dancing Fish: May	Alex Deis-Lauby						River Road							5/3/2024	5/4/2024	Melrose FL	https://dancingfish.dance/	
-5	Whitewater Whirl														5/3/2024	5/5/2024	Fayetteville WV	https://www.footmad.org/whirl	
-5	Lake Eden Arts Festival - Spring																Black Mountain NC	https://theleaf.org/	
-5	Meet Me in St Louis Dance Weekend																Kirkwood MO	https://childgrove.org/stl-dance-weekends/meetmeinstlouis	
-5	FolkMADness Music & Dance Camp																Soccoro NM	http://folkmads.org/events/camps/folkmadness/	
-5	Dancing Bear Dance Camp	George Marshall													5/24/2024		Wasilla AK	http://www.thedancingbears.com/Dance-Camp.html	
+5	Whitewater Whirl	Gaye Fifer	Janine Smith					Hot Coffee Breakdown	Brazenkeys						5/3/2024	5/5/2024	Fayetteville WV	https://www.footmad.org/whirl	
+5	Lake Eden Arts Festival - Spring	Claire Takemori						Playing with Fyre							5/10/2024	5/11/2024	Black Mountain NC	https://theleaf.org/	
+5	Meet Me in St Louis Dance Weekend	Bob Isaacs	Open Calling					Audacious	Roger Wilco						5/24/2024	5/27/2024	Webster Groves MO	https://childgrove.org/stl-dance-weekends/meetmeinstlouis	back in Kirkwood MO for 2025
+5	FolkMADness Music & Dance Camp	Jeremy Korr	Lo Peckman					Unnamed	Toss the Possum						5/24/2024	5/27/2024	Soccoro NM	http://folkmads.org/events/camps/folkmadness/	
+5	Dancing Bear Dance Camp	George Marshall	Louise Siddons					The Stringrays	The Sail Away Ladies						5/24/2024	5/27/2024	Wasilla AK	http://www.thedancingbears.com/Dance-Camp.html	
 5	Spring Dance Romance	Gaye Fifer	Alex Deis-Lauby					The Mean Lids	River Road					Larks / Robins	5/24/2024	5/26/2024	Carrboro NC	https://tcdancers.org/sdr	
-5	Northwest Folklife														5/24/2024	5/27/2024	Seattle WA	https://nwfolklife.org/festival/home.html	
-5	Contradancers Delight Holiday (Summer)													Ladies/Gents	5/10/2024	5/17/2024	Mountain City TN	http://www.contradancersdelight.com/about-summer-cdh-tst/	
-6	Stegastomp	Charlie Turner	Andrew Swaine					Contrasaurus							6/28/2024		Harbury UK	https://www.contrasaurus.com/stegastomp.html	
-6	Dancing Fish: June	Steve Zakon-Anderson						Eloise &co.							6/7/2024	6/8/2024	Melrose FL	https://dancingfish.dance/	
-6	Gender-Free Dance Camp (Spring)													Larks / Robins			Plymouth MA	https://www.lcfd.org/spring-camp-2023.html	
+5	Northwest Folklife	Susan Michaels	Charlie Fenton	Isaac Banner	Jessee Partridge	Susan Petrick	Koren Wake	Countercurrent	Chicken Feathers	Good Company	3 Wheel Drive	SonoOnos	Playing for Keeps		5/24/2024	5/27/2024	Seattle WA	https://nwfolklife.org/festival/home.html	
+	continued	Victoria Fox	Ric Goldman	David Kreiss-Tomkins	Abigail Golden	Shannon Horst	William Watson	The Olympia Volunteer String Band	The Hat Band	Unnamed	The Luddite Ramblers	Effervescence	Hot Seat						
+	continued	Elisabeth Monica	Chris Page	Eric Curl	Craig Wolfe	Suzanne Girardot	Shell Stowell	Racoon Carnival	Soundspel	Blue Star	The Sage Thrashers	Red Crow	The Electrodes						
+	continued	Michael Karcher	Lindsey Dono					Mystic Deer	The Reckoners										
+5	Moulin d’Andé Weekend	Kappy Lanning	Janine Smith					Nozzy						Hommes/Femmes	5/24/2024	5/26/2024	Moulin d'Ande, Normandy, France	https://sites.google.com/site/americancontradanceinparis/	
+5	Contradancers Delight Holiday (Spring)	Bob Isaacs	Terry Doyle	Devin Pohly	Warren Doyle			Toss the Possum	Drive Train	Buzz Band	Unnamed	Taco Shel 		Ladies/Gents	5/10/2024	5/17/2024	Mountain City TN	https://www.contradancersdelight.com/	
+6	Summer Soiree	Nils Fredland	Cis Hinkle	Emily Rush				Supertrad	The Ice Cream Truckers	Rushfest					6/14/2024	6/16/2024	Asheville NC	https://ashevillecontra.wixsite.com/summer-soiree-2024	
+6	Stegastomp	Charlie Turner	Andrew Swaine					Contrasaurus							6/28/2024	6/28/2024	Harbury UK	https://www.contrasaurus.com/stegastomp.html	
+6	Dancing Fish: June	Steve Zakon-Anderson						Eloise &co							6/7/2024	6/8/2024	Melrose FL	https://dancingfish.dance/	
+6	Gender-Free Dance Camp (Spring)	Maia McCormick	Scott Higgs	Stephanie Marie				Unnamed						Larks / Robins	6/7/2024	6/9/2024	Plymouth MA	https://www.lcfd.org/spring-camp-2024.html	
 6	Flamingo Fling Weekend	Seth Tepfer						Playing with Fyre							6/7/2024	6/9/2024	Oklahoma City OK	http://scissortail.org/special-events/flamingo-fling/	
-6	Swing into Summer													Larks / Robins			Plymouth MA	http://www.swingintosummer.org/	
-6	Lady of the Lake June Week													Larks / Robins			Harrison, ID	http://www.ladyofthelake.org/june-week/	
-6	Old Songs Festival																Voorheesville NY	http://festival.oldsongs.org/	
-6	BACDS Family Week																La Honda CA	https://www.bacds.org/familyweek/	
-6	American Buffalo Contra Dance Weekend																Bloomery WV	https://www.buffalogapretreat.com/general-5-2	
-6	Dance, Music & Spice at Cavell														6/15/2024	6/22/2024	Lexington MI	https://camp.cdss.org/camp-weeks/dance-music-spice-at-cavell/	
-7	Dancing Fish: July	Bob Isaacs						Dam Beavers							7/4/2024	7/6/2024	Melrose FL	https://dancingfish.dance/	
-7	Cumberland Dance Week														6/30/2024	7/5/2024	Pleasantville TN	https://camp.cumberlanddanceweek.org/	
-7	July Fourth at Pinewoods																Plymouth MA	https://cds-boston-j4weekend.weebly.com/	
-7	Pinewoods English-Scottish-Contra													Larks / Robins	7/1/2024	7/5/2024	Plymouth MA	https://rscdsboston.org/pinewoods-esc.html	
-7	Roanoke Railroader																Salem VA	http://www.roanokerailroader.com/	
-7	River Rendezvous																Coshocton OH	http://www.riverrendezvous.com/	
-7	Ashokan Northern Week														7/14/2024	7/20/2024	Olivebridge NY	https://ashokancenter.org/product/northern-week-2024/	
-7	American Dance & Music Week at Pinewoods														7/20/2024	7/27/2024	Plymouth MA	https://camp.cdss.org/camp-weeks/american-dance-music-week-2/	
-7	Harmony of Song & Dance at Pinewoods														7/27/2024	8/5/2024	Plymouth MA	https://camp.cdss.org/camp-weeks/harmony-of-song-dance-at-pinewoods/	
+6	Swing into Summer	Gaye Fifer						Countercurrent						Larks / Robins	6/14/2024	6/16/2024	Plymouth MA	http://www.swingintosummer.org/	
+6	Lady of the Lake June Week	Susan Petrick	Wendy Graham Settle					Constellation	Countercurrent	The Canote Brothers				Larks / Robins	6/23/2024	6/29/2024	Harrison, ID	http://www.ladyofthelake.org/june-week/	
+6	Old Songs Festival	Dave Eisenstadter	Adina Gordon					The Moving Violations	Stove Dragon						6/28/2024	6/30/2024	Voorheesville NY	http://festival.oldsongs.org/	
+6	BACDS Family Week	Yoyo Zhou						Unnamed							6/23/2024	6/29/2024	La Honda CA	https://www.bacds.org/familyweek/	
+6	Dance, Music & Spice at Cavell	Will Mentor						Unnamed							6/15/2024	6/22/2024	Lexington MI	https://camp.cdss.org/camp-weeks/dance-music-spice-at-cavell/	
+6	Dance Trance Weekend	Gaye Fifer	Joe Wilkie					Hot Coffee Breakdown	Dreamdance						6/7/2024	6/9/2024	Lexington KY	https://www.dancetrance.ltda.us/	
+6	Potato Run Revival	Greer Hannan						Tom Cunningham & Friends							6/14/2024	6/15/2024	Corydon IN	https://www.facebook.com/events/s/contradance-obannon-woods/811008967657755/	
+6	Taste of Haven	Darlene Underwood	Dwayne Johnson	Jo Mortland				Critter du Jour	Pimento Mori						6/7/2024	6/9/2024	Syracuse IN	https://www.contracorners.net/events/taste-of-haven-2024/	
+7	AmWeek	Alex Deis-Lauby	Chris Page					Potent Brew	Unnamed						6/30/2024	7/5/2024	Ben Lomond CA	https://amweek.camp/	
+7	Dancing Fish: July	Bob Isaacs	Katie Zanders					The Dam Beavers	Wind that Shakes the Barley						7/4/2024	7/6/2024	Melrose FL	https://dancingfish.dance/	
+7	Cumberland Dance Week	Seth Tepfer	Wendy Graham Settle					The Cosmic Otters	Unnamed						6/30/2024	7/5/2024	Pleasantville TN	https://camp.cumberlanddanceweek.org/	
+7	July Fourth at Pinewoods	Lisa Greenleaf						Unnamed							6/27/2024	7/1/2024	Plymouth MA	https://cds-boston-j4weekend.weebly.com/	
+7	Pinewoods English-Scottish-Contra	Michael Karcher						River Road						Larks / Robins	7/1/2024	7/5/2024	Plymouth MA	https://rscdsboston.org/pinewoods-esc.html	
+7	Roanoke Railroader	Will Mentor	Gaye Fifer					Toss the Possum	Latter Day Lizards						7/4/2024	7/7/2024	Salem VA	http://www.roanokerailroader.com/	
+7	River Rendezvous	Terry Doyle	Devin Pohly					Toss the Possum	Drive Train						7/12/2024	7/14/2024	Coshocton OH	http://www.riverrendezvous.com/	
+7	Ashokan Northern Week	Will Mentor	Susan Kevra	John Krumm				Unnamed							7/14/2024	7/20/2024	Olivebridge NY	https://ashokancenter.org/product/northern-week-2024/	
+7	American Dance & Music Week at Pinewoods	Lisa Greenleaf	Will Mentor	Lindsey Dono				Unnamed							7/20/2024	7/27/2024	Plymouth MA	https://camp.cdss.org/camp-weeks/american-dance-music-week-2/	
+7	Harmony of Song & Dance at Pinewoods	Lisa Greenleaf	Brooke Friendly												7/27/2024	8/5/2024	Plymouth MA	https://camp.cdss.org/camp-weeks/harmony-of-song-dance-at-pinewoods/	
 7	Summergreen	Alex Deis-Lauby	Rab Cummings					The Dam Beavers	Drovers Grove						7/19/2024	7/21/2024	Livingston MT	https://bozemanfolklore.org/summergreen/	
-8	Dancing Fish: August																Melrose FL	https://dancingfish.dance/	
-8	Sugar Hill Dance Weekend																Bloomington IN	http://bloomingtoncontra.org/sugar-hill/	
-8	Family Week at Agassiz Village														8/11/2024	8/17/2024	Poland ME	https://camp.cdss.org/camp-weeks/family-week-at-agassiz-village-2/	
-8	Cascade of Music & Dance at Louise														8/12/2024	8/18/2024	Cascade MD	https://camp.cdss.org/camp-weeks/cascade-of-music-dance-at-louise/	
-8	Campers’ Week at Pinewoods														8/17/2024	8/24/2024	Plymouth MA	https://camp.cdss.org/camp-weeks/campers-week-at-pinewoods/	
-8	Falcon Ridge Folk Festival																Goshen CT	http://falconridgefolk.com/	
-8	Camp Damp																Juneau AK	http://www.juneaucontras.org/dance_camp_2023_stay_tuned.html	
-8	Mentone														8/16/2024	8/18/2024	Mentone AL	http://www.footmadbirmingham.org/mentone.html	
-8	Balance the Bay																San Francisco CA	https://www.bacds.org/camps/btb/	
-8	Dance S’More																Harrison, ID	https://ladyofthelake.org/dancesmore	
-9	Dancing Fish: September							Kingfisher							9/6/2024	9/7/2024	Melrose FL	https://dancingfish.dance/	
-9	Contravana																Rochester NY	https://cdrochester.org/	
-9	Rendezvous Dance Weekend																Boulder CO	https://cfootmad.org/rendezvous	
-9	Michigan Dance Heritage Fall Weekend																Lexington MI	https://michigandanceheritage.org/fall/	
-9	Dance Camp North																Fairbanks AK	https://contraborealis.org/2023-dance-camp-north-talent/	
-9	Moondance Dance Weekend																Pickens SC	https://moondancesc.weebly.com/	
-9	Feet Retreat																Ellerbe NC	https://www.feetretreat.com/feet-retreat-dance-weekend-2023/	
-9	Bear Hug Dance Camp														9/6/2024		Rollins MT	https://www.missoulafolk.org/bearhug	
-9	Squirrel Moon Contra Dance weekend	Bev Bernbaum						Boys of the Noise							9/20/2024	9/22/2024	Dodgeville WI	http://www.squirrelmoon.org/	
-9	Echo Summit																Camp Sacremento	https://sactocds.wordpress.com/special-events/echo-summit-dance-camp-2023/	
-9	Labor Day Dance Away																Julian CA	https://www.caldancecoop.org/special-events/labor-day-dance-away-2021/	next in 2024
-9	Chehalis Dance Weekend																Surrey BC	http://www.vcn.bc.ca/vcountry/chehalis/	
-9	Youth Dance Weekend													Larks / Robins			Weston VT	http://youthdanceweekend.org/	
-9	Adirondack Dance Weekend														9/27/2024	9/29/2024	Silver Bay NY	https://www.danceflurry.org/adirondack-dance-weekend/	
-10	Dancing Fish: October																Melrose FL	https://dancingfish.dance/	
-10	ContraStock																Glen Echo MD	https://fsgw.org/contrastock	
-9	Pinewoods Labor Day Weekend																Plymouth MA	https://facone.org/labor-day-weekend/labor-day-weekend.html	
-10	Wasatch Wiggle																Salt Lake City UT	https://wasatchcontras.org/ww/	
-10	Lady of the Lake Fall Camp																Harrison, ID	http://www.ladyofthelake.org/fallwend/	
-10	Harvest Moon Dance Festival																Santa Barbara CA	http://www.sbcds.org/hm/	
-10	Gender-Free Dance Camp (Fall)																Becket MA	https://www.lcfd.org/lcfd/	
-10	Phylla Mae Fall Fest																Fayetteville NY	https://syracusecountrydancers.org/special-events/phylla-mae-fall-fest/	
-10	Peterbough Fall Ball																Peterborough NH	http://www.monadnockfolk.org/?tribe_events=%E2%98%BC-%E2%98%BC-%E2%98%BC-peterborough-fall-ball-2019	
-10	Lake Eden Arts Festival - Fall																Black Mountain NC	https://theleaf.org/	
-10	Boo Camp																Jemez Springs NM	https://folkmads.org/events/camps/boo-camp-2023/	
-10	Music City Masquerade																Nashville TN	http://nashvillecountrydancers.org/music-city-masquerade/	
-10	Fire Ant Frolic																Austin TX	http://www.fireantfrolic.org/	
-11	Dancing Fish: November																Melrose FL	https://dancingfish.dance/	
-11	Foggy Moon Dance Weekend																Monterey CA	http://montereycontradance.org/foggy-moon.html	
-11	ContraShock																New York NY	http://contrashock.org/	
-11	Hey Fever Dance Weekend																Ottawa ON	http://www.ottawacontra.ca/heyFever/	
-11	Cascade Contras Dance Camp																Springfield OR	https://eugenefolklore.org/cascade-contras/	
-11	Dance in the Desert																Oracle AZ	https://tucsoncontradancers.org/tucson-contra-dancers/dance-in-the-desert-2023/	
-11	Pittsburgh Fall Dance Weekend																Pittsburgh PA	http://pittsburghcontra.org/fdw/	
-11	Head for the Hills Dance Weekend																Kresgeville PA	http://www.princetoncountrydancers.org/about-hfth	
-11	Atlanta Dance Weekend																Atlanta GA	https://adw.contradance.org/	
-11	Contra Fest																Albany NY	https://www.danceflurry.org/event/contrafest/	
-11	Fleur-de-Lis Fling																Louisville KY	http://www.louisvillecountrydancers.org/fleur-de-lis-fling	
-11	ContraCopia																Philadelphia PA	http://www.thursdaycontra.com/contracopia/	
-11	Breaking Up Thanksgiving																Evanston IL	https://www.breakingupthanksgiving.com/	
-11	Catalina Dance Weekend																Catalina Island CA	https://www.catalinadanceweekend.com/	
-12	Dancing Fish: December																Melrose FL	https://dancingfish.dance/	
-12	Winter Warmup Dance Weekend																Worthington OH	https://bigscioty.com/winterwarmup/	
-12	Contradancers Delight Holiday (Winter)	Bob Isaacs	Terry Doyle	Warren Doyle				Toss the Possum	Drive Train	The Buzz Band	George Paul			Ladies/Gents	12/26/2024		Kingsport, TN 	http://www.contradancersdelight.com/about-winter-cdh	
-12	Bash on Vashon																Vashon Island WA	https://bashonvashon.org/	
-12	Berea Christmas Country Dance School																Berea KY	https://bereaccds.org/	
-12	Terpsichore's Holiday																Adamstown MD	https://terpsichore.lloydshaw.org/	
+8	Sugar Hill Dance Weekend	Open Calling						Open Band							8/23/2024	8/25/2024	Bloomington IN	http://bloomingtoncontra.org/sugar-hill/	
+8	Family Week at Agassiz Village	Mary Wesley						Unnamed							8/11/2024	8/17/2024	Poland ME	https://camp.cdss.org/camp-weeks/family-week-at-agassiz-village-2/	
+8	Cascade of Music & Dance at Louise	Wendy Graham Settle	Gaye Fifer					Unnamed							8/12/2024	8/18/2024	Cascade MD	https://camp.cdss.org/camp-weeks/cascade-of-music-dance-at-louise/	
+8	Campers’ Week at Pinewoods	Sue Rosen						Unnamed							8/17/2024	8/24/2024	Plymouth MA	https://camp.cdss.org/camp-weeks/campers-week-at-pinewoods/	
+8	Falcon Ridge Folk Festival	George Marshall						The Gaslight Tinkers							7/26/2024	7/28/2024	Goshen CT	http://falconridgefolk.com/	
+8	Good Life Gallup	Kate McBride						Kaw Creek							8/2/2024	8/4/2024	Omaha NE	https://www.thegoodlifegallop.org/	
+8	Mentone	Cis Hinkle						The Mean Lids	The Yellow Dandies						8/16/2024	8/18/2024	Mentone AL	http://www.footmadbirmingham.org/mentone.html	
+8	Balance the Bay	Jacqui Grennan	Maia McCormick					Riptide	Countercurrent						8/16/2024	8/18/2024	San Francisco CA	https://www.bacds.org/camps/btb/	
+8	TradMaD	Alex Cumming						Unnamed							8/24/2024	8/30/2024	Plymouth MA	http://minstrelrecords.com/tradmad/	
+8	Susquehanna Folk Festival	Janine Smith	Bob Nicholson					The Contra Rebels	The Dead Sea Squirrels						8/9/2024	8/11/2024	York PA	https://www.sfmsfolk.org/festival/SusquehannaFolkFestival.html	
+9	Dancing Fish: September	Dereck Kalish	Terry Doyle					Kingfisher	Playing with Fyre						8/30/2024	9/2/2024	Melrose FL	https://dancingfish.dance/	
+9	Rendezvous Dance Weekend	Gaye Fifer	Will Mentor					Nova	The Dam Beavers						8/30/2024	9/2/2024	Boulder CO	https://cfootmad.org/rendezvous	
+9	Michigan Dance Heritage Fall Weekend	Susan Kevra						Unnamed							9/27/2024	9/29/2024	Lexington MI	https://michigandanceheritage.org/fall/	
+9	Dance Camp North	Susan Petrick						Eloise &co							8/30/2024	9/2/2024	Fairbanks AK	https://contraborealis.org/dance-camp-north/dance-camp-north-2024/	
+9	Feet Retreat	Bob Isaacs	Emily Rush					Hotpoint Stringband	Dam Beavers						9/20/2024	9/22/2024	Ellerbe NC	https://www.feetretreat.com/feet-retreat-2024/	
+9	Bear Hug Dance Camp	Susan Petrick	Christa Torrens					Contra Sutra	Swiftcurrent						9/6/2024	9/8/2024	Rollins MT	https://www.missoulafolk.org/bearhug	
+9	Squirrel Moon Contra Dance weekend	Alex Deis-Lauby						Hillbilly Diaspora							9/20/2024	9/22/2024	Dodgeville WI	http://www.squirrelmoon.org/	
+9	Echo Summit	Jesse Edgerton	Wendy Graham Settle					The Figments	Toss the Possum						9/13/2024	9/15/2024	Camp Sacremento	https://sactocds.wordpress.com/echo-summit-dance-camp-2024/	
+9	Pinewoods Labor Day Weekend	Ben Sachs-Hamilton						Unnamed							8/30/2024	9/2/2024	Plymouth MA	https://facone.org/labor-day-weekend/labor-day-weekend.html	
+9	Chehalis Dance Weekend	Will Mentor	Koren Wake					Syncopaths	Countercurrent						9/20/2024	9/22/2024	Surrey BC	https://chehalisdancecamp.com/	
+9	Youth Dance Weekend	Alex Deis-Lauby	Lindsey Dono					Calico						Larks / Robins	9/6/2024	9/8/2024	Weston VT	http://youthdanceweekend.org/	
+9	Adirondack Dance Weekend	Mary Wesley						Stomp Rocket	Moving Violations						9/27/2024	9/29/2024	Silver Bay NY	https://www.danceflurry.org/adirondack-dance-weekend/	
+9	Cascade Contras Dance Camp	Cis Hinkle	Laurel Thomas					Engine Room	Contra Sutra						9/27/2024	9/29/2024	Springfield OR	https://eugenefolklore.org/cascade-contras/	
+10	Moondance Dance Weekend	Bob Isaacs	Seth Tepfer					Lighthouse	Good & Plenty						10/4/2024	10/6/2024	Pickens SC	https://moondancesc.weebly.com/	
+10	Dancing Fish: October	Claire Takemori						ContraPositive							10/4/2024	10/5/2024	Melrose FL	https://dancingfish.dance/	
+10	ContraStock	Will Mentor	Beth Molaro	Scott Higgs				Engine Room	The Dam Beavers	Handspring					10/20/2024	10/20/2024	Glen Echo MD	https://fsgw.org/contrastock	
+10	Wasatch Wiggle	Susan Petrick						Playing with Fyre							10/18/2024	10/20/2024	Salt Lake City UT	https://wasatchcontras.org/ww/	
+10	Lady of the Lake Fall Camp	Jesse Partridge						3 Wheel Drive							10/4/2024	10/6/2024	Harrison, ID	http://www.ladyofthelake.org/fallwend/	
+10	Harvest Moon Dance Festival	Lisa Greenleaf	George Marshall					Latter Day Lizards	Wild Asparagus						10/4/2024	10/6/2024	Santa Barbara CA	http://www.sbcds.org/hm/	
+10	Gender-Free Dance Camp (Fall)	Ben Sachs-Hamilton						Thunderwing							10/18/2024	10/20/2024	Olivebridge NY	https://www.lcfd.org/fall-camp.html	
+10	Phylla Mae Fall Fest	Sarah VanNorstrand	Katy Heine	Dave Smulker	Rita Wood			Contranella	Anadama						10/18/2024	10/19/2024	Fayetteville NY	https://syracusecountrydancers.org/special-events/phylla-mae-fall-fest/	
+10	Peterbough Fall Ball	Alex Deis-Lauby	Maia McCormick	Steve Zakon-Anderson	George Marshall			River Road	Lake Effect	Wild Asparagus	Daybreak Trio				10/19/2024	10/19/2024	Peterborough NH	https://www.monadnockfolk.org/event/%E2%98%BC-%E2%98%BC-%E2%98%BC-peterborough-fall-ball-2024/	
+10	Boo Camp	Jacqui Grennan						Panda Stomp	The Cheap Shots						10/25/2024	10/27/2024	Jemez Springs NM	https://folkmads.org/events/camps/boo-camp/	
+10	Music City Masquerade	Cis Hinkle						Eloise &co							10/25/2024	10/27/2024	Nashville TN	http://nashvillecountrydancers.org/music-city-masquerade/	
+10	Fire Ant Frolic	Koren Wake	Rich Goss					Lake Effect							11/8/2024	11/10/2024	Austin TX	http://www.fireantfrolic.org/	
+10	Mountain Madness	Terry Doyle	David Winston					Lagomorph	Playing with Fyre						10/12/2024	10/12/2024	Jonesborough TN	https://historicjonesboroughdancesocie.ticketspice.com/mountain-madness-2024?	
+11	Dancing Fish: November	Janet Shepherd	Rick Mohr					Frenzy	Drive Train						11/1/2024	11/3/2024	Melrose FL	https://dancingfish.dance/	
+11	Foggy Moon Dance Weekend	Will Mentor	Jacqui Grennan					Joyride	Stomp Rocket						11/1/2024	11/3/2024	Monterey CA	http://montereycontradance.org/foggy-moon.html	
+11	ContraShock	Liz Nelson	Will Mentor					Stove Dragon	River Road						11/15/2024	11/17/2024	New York NY	http://contrashock.org/	
+11	Hey Fever Dance Weekend	Alex Deis-Lauby	Nils Fredland					Elixir	Peach Jam						11/1/2024	11/3/2024	Ottawa ON	http://www.ottawacontra.ca/heyFever/	
+11	Dance in the Desert	Lisa Greenleaf	Susan Petrick					Playing with Fyre	Stomp Rocket						11/8/2024	11/10/2024	Oracle AZ	https://tucsoncontradancers.org/tucson-contra-dancers/dance-in-the-desert-2024/	
+11	Rose City Dance-a-Rama	Lindsey Dono	George Marshall					Wild Asparagus	Joyride						11/15/2024	11/17/2024	Portland OR	https://www.dancearama.org/	
+11	Pittsburgh Fall Dance Weekend	Gaye Fifer	River Rainbowface Abel					Engine Room	Hot Coffee Breakdown					Larks / Robins	10/25/2024	10/27/2024	Pittsburgh PA	http://pittsburghcontra.org/fdw/	
+11	Head for the Hills Dance Weekend	Donna Hunt	Scott Higgs	Gaye Fifer				Raise the Roof	Brooklyn Swing Ensemble	A Joyful Noise					11/8/2024	11/11/2024	Kresgeville PA	http://www.princetoncountrydancers.org/about-hfth	
+11	Atlanta Dance Weekend	Will Mentor	Seth Tepfer					Faux Paws	Drive Train						11/8/2024	11/10/2024	Atlanta GA	https://adw.contradance.org/	
+11	Contra Fest	Alex Dies-Lauby						River Road							11/8/2024	11/9/2024	Albany NY	https://www.danceflurry.org/event/albany-contrafest/	
+11	Fleur-de-Lis Fling	Bob Isaacs	River Rainbowface Abel					Electric Eel	Double Trouble						11/15/2024	11/17/2024	Louisville KY	http://www.louisvillecountrydancers.org/fleur-de-lis-fling	
+11	ContraCopia	Gaye Fifer	Alex Deis-Lauby	Ben Sachs Hamilton				Ice Cream Truckers	Stove Dragon	Millserati				Larks / Robins	11/30/2024	11/30/2024	Philadelphia PA	https://thursdaycontra.com/contracopia/	
+11	Breaking Up Thanksgiving	Open calling						Open band							11/29/2024	12/1/2024	Evanston IL	https://www.breakingupthanksgiving.com/	
+11	Catalina Dance Weekend	Alex Deis-Lauby	Gaye Fifer					The Faux Paws	Engine Room	Countercurrent					11/15/2024	11/17/2024	Catalina Island CA	https://www.catalinadanceweekend.com/	
+12	Dancing Fish: December	Gaye Fifer						Hot Coffee Breakdown							12/6/2024	12/7/2024	Melrose FL	https://dancingfish.dance/	
+12	Winter Warmup Dance Weekend	Will Mentor	Liz Burkhart					Notorious	The Hollertones						12/6/2024	12/8/2024	Worthington OH	https://bigscioty.com/winterwarmup/	
+12	Contradancers Delight Holiday (Winter)	Bob Isaacs	Terry Doyle	Warren Doyle	Devin Pohly			Toss the Possum	Spintuition	The Buzz Band	Unnamed			Ladies/Gents	12/26/2024	1/1/2025	Morgantown, WV	http://www.contradancersdelight.com/about-winter-cdh	
+12	Bash on Vashon	Open calling						Open Band							12/29/2024	1/1/2025	Vashon Island WA	https://bashonvashon.org/	
+12	Berea Christmas Country Dance School	Chris Bischoff	Darlene Underwood					Unnamed							12/26/2024	1/1/2025	Berea KY	https://bereaccds.org/	
+12	Terpsichore's Holiday	Gaye Fifer	Adina Gordon					Countercurrent	Unnamed						12/27/2024	1/1/2024	Adamstown MD	https://terpsichore.lloydshaw.org/	
 	end of active list																		
 	check with emily rush to get full gig list																		
 1	Orange Blossom Ball																Daytona FL	http://www.orangeblossomcontra.com/	
@@ -138,7 +150,6 @@ typical month	name	caller1	caller2	caller3	caller4	caller5	caller6	band1	band2	b
 3	Tropical Dance Vacation: Hawaii																Big Island HI	http://www.tropicaldancevacation.com/	
 3	Appleseed Allemande																North Manchester IN	http://www.contrafortwayne.org/Appleseed%20Allemande.html	
 4	Chesapeake Dance Weekend																Edgewater MD	http://www.chesapeakedanceweekend.org/	
-4	Palmetto Bug Stomp																Charleston SC	http://charlestonfolk.weebly.com/palmetto-bug-stomp.html	
 4	When in Doubt Swing																Dallas TX	http://www.nttds.org/wids.html	
 4	Spring Thaw Weekend																Toronto ON	http://ieee.uwaterloo.ca/~tcd/thaw.php	
 4	Desert Spring																Phoenix AZ	http://www.danceinaz.org/	
@@ -149,10 +160,10 @@ typical month	name	caller1	caller2	caller3	caller4	caller5	caller6	band1	band2	b
 5	Form the Ocean													Larks / Robins			Becket MA	next in 2020	
 5	Camp Sturtevant Dance Weekend													Larks / Robins			Arcadia CA	http://www.caldancecoop.org/camp-sturtevant/	
 5	Butterfly Whirl																Clarkston GA	http://butterflywhirl.com/	
-6	Dance Trance Weekend																Lexington KY	http://www.dancetrance.ltda.ws/	
 6	June Bug Bash																Pinellas Park FL	https://www.facebook.com/events/pinellas-park-auditorium/june-bug-bash/284762719071796/	
 6	Faultline Frolic																Santa Rosa CA	https://nbcds.org/faultline-frolic-2019/	
 6	Asheville Summer Soiree																Asheville NC	http://www.ashevillecontra.com/	
+6	American Buffalo Contra Dance Weekend																Bloomery WV		
 7	Ooh La La Dance Weekend																Richmond QC	http://oohlaladance.com/	
 7	Delafield IndepenDance Daze Weekend																Delafield WI	http://www.delafieldcontra.com/Delafield_Contra_Weekend.html	
 	Northfield Winter Stomp																	cancelled for 2017	
@@ -171,13 +182,17 @@ typical month	name	caller1	caller2	caller3	caller4	caller5	caller6	band1	band2	b
 3	Contra Holiday in Medieval England																Ely, England	next happening in 2019	
 3	Phoenix Spring Frolic																Mesa AZ	looks like they only did a winter one this year	
 5	Wheatland Traditional Arts Weekend																Remus, M	no contra	
+8	Camp Damp																Juneau AK	http://www.juneaucontras.org/dance_camp_2023_stay_tuned.html	
+9	Contravana																Rochester NY	https://cdrochester.org/	
 8	Fly the Coop Contra Weekend																Gainesville GA	doesn't seem to be in 2018?	
 9	Oldtone Roots Festival																Hillsdale NY	very little contra in 2018	
 9	Ozark Folk Center Dance Days																Mountain View AR	http://www.arkansascountrydance.org/ozark.htm	
 9	Star Hampshire Traditional Music and Dance Weekend																Portsmouth NH	DEFUNCT	
 9	Footfall Dance Weekend																High View WV	http://www.footfalldance.com/index.php	
+9	Labor Day Dance Away																Julian CA	https://www.caldancecoop.org/special-events/labor-day-dance-away-2021/	next in 2024
 10	Solefest Dance Weekend																Springfield MO	cancelled for 2018	
 9	Northwest Passage Dance Camp																Rhododendron	ecd every other year	
+10	Lake Eden Arts Festival - Fall	Bob Isaacs	Sarah Kaiser	Kenny Greer				Red Dog	Spintuition	Lagomorph Quartet	The Flying Howes				10/17/2024	10/20/2024	Black Mountain NC	https://theleaf.org/leaf-october-festival/	cancelled for 2024
 10	Fine Time at Our House																Fayetteville AR	very little contra	
 5	Blue Moon Dance Weekend																Huntsville AL	doesn't look like it happened in 2018	
 10	Hoosier Partner																Indianapolis IN	not in 2019	

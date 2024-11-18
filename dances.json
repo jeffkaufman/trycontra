@@ -14,11 +14,11 @@
   ["https://tucsoncontradancers.org/", "Tucson AZ", "Saturdays", 20, "", true],
 
   ["http://www.thelivingtradition.org/tltbodydance.html", "Anaheim CA", "Saturdays", 11, "", true],
-  ["http://www.caldancecoop.org/california-twirl/", "Los Angeles CA", "Fridays", 12, "GF", true],
-  ["http://www.caldancecoop.org/events/event/5th-saturday-contradance/", "Pasadena CA", "Saturdays", 3, "", true],
+  ["https://www.sccdc.org/contra/california-twirl/", "Los Angeles CA", "Fridays", 12, "GF", true],
+  ["https://www.sccdc.org/contra/", "Pasadena CA", "Saturdays", 27, "", true],
   ["https://www.facebook.com/groups/contrasantacruz/", "Santa Cruz CA", "Fridays", 12, "GF", true],
   ["http://www.bacds.org/series/contra/berkeley_wed/", "Berkeley CA", "Thursdays", 27, "GF", true],
-  ["http://www.bacds.org/series/contra/san_francisco/", "San Francisco CA", "Fridays and Saturdays", 24, "", false],
+  ["https://bacds.org/series/contra/san_francisco_wed/", "San Francisco CA", "Wednesdays", 24, "GF", true],
   ["http://www.bacds.org/series/contra/palo_alto/", "Palo Alto CA", "Saturdays", 27, "GF", true],
   ["http://www.bacds.org/series/contra/san_jose/", "San Jose CA", "Sundays", 11, "GF", false],
   ["https://sfbaycontra.org/", "Hayward CA", "Sundays", 15, "GF", true],
@@ -29,7 +29,7 @@
   ["http://www.nbcds.org/", "San Rafael CA", "Saturdays", 12, "", true],
   ["http://montereycontradance.org", "Monterey CA", "Saturdays", 20, "GF", true],
   ["http://www.sactocds.org/", "Sacramento CA", "Fridays and Saturdays", 24, "GF", true],
-  ["http://www.sandiegocontra.org/", "San Diego CA", "Fridays and Saturdays", 27, "", true],
+  ["https://sdfolkheritage.org/contradance/", "San Diego CA", "Wednesdays and Saturdays", 27, "GF", true],
   ["http://www.cccds.org/", "San Luis Obispo CA", "Saturdays", 12, "", true],
   ["https://www.evobluestein.com/central-california-community-dance/", "Fresno CA", "Saturdays", 12, "", true],
   ["https://www.meetup.com/alameda-contra-dance-community-dance-with-live-music/", "Alameda CA", "Saturdays", 12, "", true],
@@ -54,18 +54,22 @@
 
   ["https://www.facebook.com/southfloridacontradance/", "Boca Raton FL", "Saturdays", 12, "", true],
   ["https://spacecoastcontra.org/", "Cocoa FL", "Saturdays", 12, "", true],
-  ["http://godsdance.org/", "Gainesville FL", "Saturdays and Sundays", 12, "", true],
+  ["http://godsdance.org/", "Gainesville FL", "Fridays", 12, "", true],
   ["http://www.tallydancer.com/", "Tallahassee FL", "Fridays", 24, "", true],
   ["http://www.tampabaycontra.com/", "Tampa FL", "Fridays and Saturdays", 36, "", true],
   ["https://www.facebook.com/Melrose-Contra-Dance-1631846603752150/", "Melrose FL", "Saturdays", 12, "", true],
   ["http://JaxContra.org", "Jacksonville FL", "Saturdays", 12, "", true],
-  ["https://contraknights.org/", "Orlando FL", "Fridays", 48, "GF", true],
+  ["https://orlandocontra.org/", "Orlando FL", "Fridays", 48, "GF", true],
   ["https://dancingfish.dance/events/", "Melrose FL", "Fridays and Saturdays", 36, "", true],
 
   ["http://www.contradance.org", "Decatur GA", "Fridays", 52, "", true],
   ["http://atgaga.com/", "Gainesville GA", "Saturdays", 22, "", false],
   ["https://www.savannahfolk.org/dance-events/", "Savannah GA", "Saturdays", 10, "", true],
-  ["https://snca.org/contra/home.php", "Sautee Nacoochee GA", "Saturdays", 12, "", true],
+  ["https://snca.org/contra/home.php", "Sautee Nacoochee GA", "Saturdays", 12,
+   "", true],
+  ["https://www.northgeorgiafolkfestival.org/contradances", "Athens GA",
+   "Saturdays", 12, "", true],
+  ["https://reframed.market/products/trolleybarndance", "Atlanta GA", "Tuesdays", 52, "", true],
 
   ["http://contradancehi.weebly.com/", "Honolulu HI", "Saturdays", 24, "", true],
 
@@ -107,15 +111,15 @@
 
 
   ["http://amherstcontra.org", "Amherst MA", "Wednesdays", 12, "GF", true],
-  ["https://www.facebook.com/groups/2368038786", "Greenfield MA", "Fridays and Saturdays", 104, "", true],
+  ["https://guidingstargrange.org/events.html", "Greenfield MA", "Fridays and Saturdays", 104, "GF", true],
   ["http://www.lenoxcontradance.org/", "Lenox MA", "Saturdays", 12, "", true],
   ["http://www.bidadance.org/", "Cambridge MA", "Sundays", 21, "GF", true],
   ["https://www.facebook.com/groups/1311451995547490/", "Northampton MA", "Saturdays", 12, "GF", true],
   ["https://www.facebook.com/groups/876169475813486/", "Woods Hole MA", "Saturdays", 12, "", true],
   ["https://www.facebook.com/outermostcontra/", "Wellfleet MA", "Fridays", 12, "", true],
   ["http://mondaycontras.com/", "Concord MA", "Mondays", 25, "GF", true],
-  ["http://www.neffa.org/Thurs.html", "Concord MA", "Thursdays", 25, "GF", true],
-  ["http://www.lcfd.org/jp/", "Jamaica Plain MA", "Saturdays", 27, "GF", true],
+  ["https://www.neffa.org/thursday-contras/", "Concord MA", "Thursdays", 25, "GF", true],
+  ["http://www.lcfd.org/jp/", "Jamaica Plain MA", "Saturdays", 5, "GF", true],
   ["http://roaringjelly.org/~jc/site/rj/index.cgi", "Lexington MA", "Fridays", 12, "", true],
   ["http://northborocontra.com/", "Northboro MA", "Saturdays", 8, "", true],
   ["https://rehobothcontradance.com", "Rehoboth MA", "Fridays", 24, "", true],
@@ -124,6 +128,7 @@
   ["https://www.facebook.com/CapeAnnContraDance/", "Gloucester MA", "Saturdays", 5, "", true],
   ["https://engage.hampshire.edu/organization/contradancecollective", "Amherst MA", "Wednesdays", 8, "GF", true],
   ["https://northberkshiredance.org/", "Williamstown MA", "Saturdays", 12, "", true],
+  ["https://www.kofc109.com/contra", "Arlington MA", "Sundays", 12, "", true],
   
   ["http://www.bfms.org/squarecontra.php", "Baltimore MD", "Wednesdays", 52, "", true],
   ["http://www.bfms.org/saturdayDance.php", "Baltimore MD", "Saturdays", 12, "", true],
@@ -168,7 +173,7 @@
   ["https://bozemanfolklore.org/contra-dance/", "Bozeman MT", "Fridays and Saturdays", 18, "", true],
   ["https://www.missoulafolk.org/", "Missoula MT", "Saturdays", 16, "", true],
 
-  ["https://www.charlottecontradance.org/", "Charlotte NC", "Fridays and Saturdays", 12, "", true],
+  ["https://www.charlottecontradance.org/", "Charlotte NC", "Wednesdays and Saturdays", 64, "", true],
   ["https://www.folkschool.org/calendar/", "Brasstown NC", "Tuesdays", 45, "", true],
   ["http://www.boonecountrydancers.org/", "Boone NC", "Saturdays", 12, "", true],
   ["http://feetretreat.com/", "Greensboro NC", "3rd Saturdays", 12, "", true],
@@ -178,7 +183,7 @@
   ["http://firstsaturdaycontra.com/", "Carrboro NC", "Saturdays", 12, "GF", true],
   ["https://www.facebook.com/MondayNightContra/", "Asheville NC", "Mondays", 52, "", true],
   ["http://oldfarmersball.com/contra-dances/thursday-dance/", "Asheville NC", "Thursdays", 52, "", true],
-
+  ["https://www.facebook.com/FranklinContra", "Franklin NC", "Saturdays", 12, "", true],
 
   ["https://www.facebook.com/ContraOmaha/", "Omaha NE", "Saturdays", 12, "", true],
   ["https://www.facebook.com/contradancelincoln/", "Lincoln NE", "Saturdays", 12, "", true],
@@ -186,7 +191,7 @@
 
   ["http://www.monadnockfolk.org/?page_id=63", "Nelson NH", "Mondays", 52, "", true],
   ["http://www.wordworthy2.org/Mill_City_Contra_Dance/", "Manchester NH", "Fridays", 12, "", true],
-  ["https://concordnhcontra.wordpress.com/", "Concord NH", "Saturdays", 10, "", false],
+  ["https://concordnhcontra.wordpress.com/", "Concord NH", "Saturdays", 10, "", true],
   ["http://www.monadnockfolk.org/?page_id=30", "Peterborough NH", "Saturdays", 12, "", true],
   ["https://www.facebook.com/Milford-Contra-Dance-920139244691079/", "Milford NH", "Fridays", 12, "", true],
   ["http://seacoastcontra.com/", "Newfields NH", "Fridays", 12, "", true],
@@ -194,7 +199,7 @@
   ["http://www.princetoncountrydancers.org/", "Princeton NJ", "Wednesdays", 52, "", true],
   ["https://folkproject.org/swingin-tern/", "Chatham NJ", "Saturdays", 24, "GF", true],
   ["https://www.facebook.com/groups/1003765254297548", "Dover NH", "Fridays", 12, "", true],
-  
+  ["https://www.facebook.com/groups/1801909466608693", "Canturbury NH", "Sundays", 8, "", true],
 
   ["http://www.snmmds.org/", "Mesilla NM", "Fridays", 10, "", true],
   ["http://folkmads.org/events/albuquerque-events/", "Albuquerque NM", "Saturdays", 24, "", true],
@@ -231,7 +236,7 @@
   ["https://firstuucolumbus.org/connection/all-soles/", "Columbus OH", "Saturdays", 12, "", true],
   ["https://www.woosterdance.com/contra", "Wooster OH", "Saturdays", 10, "", true],
   ["https://www2.oberlin.edu/stuorg/contra/", "Oberlin OH", "Fridays", 13, "GF", true],
-
+  ["https://daytoncontra.org/", "Kettering OH", "Fridays", 7, "", true],
 
   ["http://scissortail.org/where-we-dance/oklahoma-city/", "Oklahoma City OK", "Saturdays", 24, "", true],
   ["https://www.facebook.com/groups/TulsaContraDance", "Tulsa OK", "Saturdays", 10, "", true],
@@ -246,6 +251,7 @@
   ["https://bendcontra.org/", "Bend OR", "Saturdays", 10, "", true],
   ["http://southcoastfolksociety.wordpress.com/contra-dance/", "Coos Bay OR", "Saturdays", 10, "", true],
   ["http://contraremix.com/", "Portland OR", "Sundays", 12, "GF", true],
+  ["https://southcoastfolksociety.wordpress.com/pistol-river-contra/", "Gold Beach OR", "Saturdays", 6, "", true],
 
 
   ["https://www.facebook.com/toppish/", "Meadville PA", "Wednesdays", 12, "", true],
@@ -257,7 +263,7 @@
   ["http://www.valleycontradance.org/", "Bethlehem PA", "Saturdays", 27, "", true],
   ["http://birdsborocontra.org/", "Birdsboro PA", "Saturdays", 10, "", true],
   ["https://thepac.center/events/contra-dance-2023-02-14", "Swarthmore PA", "Tuesdays", 24, "GF", true],
-
+  ["https://lewisburgcontra.wixsite.com/lewisburgcontradance", "Lewisburg PA", "Saturdays", 12, "", true],
 
   ["https://www.facebook.com/ProvidenceCommunityDance/", "Providence RI", "Fridays", 12, "GF", false],
   ["https://www.facebook.com/communitydanceswarwickcenterforthearts/", "Warwick RI", "Saturdays", 8, "", true],
@@ -273,7 +279,7 @@
   ["http://www.nashvillecountrydancers.org/", "Nashville TN", "Fridays", 24, "", true],
   ["https://www.facebook.com/groups/108316512542084/", "Memphis TN", "Fridays", 12, "", true],
   ["https://contranooga.us/", "Chattanooga TN", "Saturdays", 24, "", true],
-  ["https://www.facebook.com/groups/HistoricJonesboroughDanceSociety/", "Jonesborough TN", "Saturdays", 27, "", true],
+  ["https://historicjonesboroughdancesociety.net/events", "Jonesborough TN", "Saturdays", 33, "", true],
 
 
   ["https://www.facebook.com/groups/10253242826/", "Austin TX", "Wednesdays", 12, "", true],
@@ -319,6 +325,7 @@
   ["http://www.delafieldcontra.com/", "Delafield WI", "Saturdays", 10, "", true],
   ["https://www.facebook.com/groups/twincitiesqueercontra", "Minneapolis MN", "Mondays", 12, "GF", true],
   ["https://www.mkecontra.org/", "Milwaukee WI", "Thursdays", 20, "GF", true],
+  ["http://allisonjonjak.com/StoneLakeDance/", "Stone Lake WI", "Saturdays", 12, "GF", true],
   
   ["http://smad.us", "Shepherdstown WV", "Saturdays", 9, "", true],
   ["https://www.footmad.org/", "Charleston WV", "Saturdays", 9, "", true],

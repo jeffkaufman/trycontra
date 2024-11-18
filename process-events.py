@@ -19,6 +19,7 @@ for year, fname in [
         (2019, "events-raw-2019.tsv"),
         (2023, "events-raw-2023.tsv"),
         (2024, "events-raw-2024.tsv"),
+        (2025, "events-raw-2025.tsv"),
 ]:
     with open(fname) as inf:
         for n, line in enumerate(inf):
@@ -108,7 +109,12 @@ for year, fname in [
             }
             if date_end:
                 rec["date_end"] = date_end
-            records.append(rec)
+
+            if name == "continued":
+                records[-1]["callers"].extend(callers)
+                records[-1]["bands"].extend(bands)
+            else:
+                records.append(rec)
 
 with open("events.json") as inf:
     old_records = json.load(inf)
