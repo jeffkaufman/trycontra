@@ -122,7 +122,7 @@
   ["http://www.lcfd.org/jp/", "Jamaica Plain MA", "Saturdays", 5, "GF", true],
   ["http://roaringjelly.org/~jc/site/rj/index.cgi", "Lexington MA", "Fridays", 12, "", true],
   ["http://northborocontra.com/", "Northboro MA", "Saturdays", 8, "", true],
-  ["https://rehobothcontradance.com", "Rehoboth MA", "Fridays", 24, "", true],
+  ["https://rehobothcontradance.com", "Rehoboth MA", "Fridays", 24, "GF", true],
   ["http://sheffieldcontradance.wordpress.com/", "Sheffield MA", "Saturdays", 10, "", true],
   ["http://www.worcesterdance.org/", "Worcester MA", "Saturdays", 9, "", true],
   ["https://www.facebook.com/CapeAnnContraDance/", "Gloucester MA", "Saturdays", 5, "", true],
