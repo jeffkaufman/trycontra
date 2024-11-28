@@ -16609,6 +16609,28 @@
   },
   {
     "typical_month": "2",
+    "name": "Corvallis Contra Weekend",
+    "callers": [
+      "Will Mentor",
+      "Lindsey Dono"
+    ],
+    "bands": [
+      "Root System",
+      "Nova"
+    ],
+    "roles": "Larks / Robins",
+    "date": "2/14/2024",
+    "location": "Corvallis OR",
+    "url": "https://corvallisfolklore.org/home/ccw/",
+    "year": 2025,
+    "date_end": "2/16/2024",
+    "latlng": [
+      44.56,
+      -123.26
+    ]
+  },
+  {
+    "typical_month": "2",
     "name": "Galhalla",
     "callers": [
       "Sarah Kaiser",
@@ -16819,13 +16841,20 @@
   {
     "typical_month": "4",
     "name": "Epicenter dance weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Lisa Greenleaf",
+      "Michael Karcher"
+    ],
+    "bands": [
+      "Supertrad",
+      "the Engine Room"
+    ],
     "roles": "Larks / Robins",
-    "date": "",
+    "date": "4/4/2025",
     "location": "Mill Valley CA",
     "url": "https://nbcds.org/epicenter-2024/",
     "year": 2025,
+    "date_end": "4/6/2025",
     "latlng": [
       37.91,
       -122.54
@@ -16834,13 +16863,20 @@
   {
     "typical_month": "4",
     "name": "SF Bay Queer Contra Dance Camp",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Angela DeCarlis",
+      "Sue Rosen"
+    ],
+    "bands": [
+      "the Sage Thrashers",
+      "Starling"
+    ],
     "roles": "Larks / Robins",
-    "date": "",
+    "date": "4/11/2025",
     "location": "Aptos CA",
     "url": "https://www.queercontradance.org/queercamp.html",
     "year": 2025,
+    "date_end": "4/13/2025",
     "latlng": [
       36.98,
       -121.9
@@ -16849,14 +16885,18 @@
   {
     "typical_month": "4",
     "name": "Call of the Loon Dance Weekend",
-    "callers": [],
+    "callers": [
+      "Seth Tepfer",
+      "Steve Pike"
+    ],
     "bands": [
-      "the Dam Beavers"
+      "the Dam Beavers",
+      "Contratopia"
     ],
     "roles": "",
     "date": "4/11/2025",
     "location": "Minneapolis MN",
-    "url": "https://www.tapestryfolkdance.org/starofthenorth-1-1",
+    "url": "https://www.tapestryfolkdance.org/call-of-the-loon",
     "year": 2025,
     "date_end": "4/13/2025",
     "latlng": [
@@ -16964,13 +17004,20 @@
   {
     "typical_month": "4",
     "name": "Portland Raindance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Will Mentor",
+      "Gaye Fifer"
+    ],
+    "bands": [
+      "Red Case Band",
+      "Riptide"
+    ],
     "roles": "",
-    "date": "",
+    "date": "4/25/2025",
     "location": "Portland OR",
     "url": "http://www.portlandraindance.org/",
     "year": 2025,
+    "date_end": "4/27/2025",
     "latlng": [
       45.52,
       -122.68
@@ -17295,15 +17342,22 @@
   {
     "typical_month": "6",
     "name": "Lady of the Lake June Week",
-    "callers": [],
+    "callers": [
+      "Gaye Fifer",
+      "Lindsey Dono",
+      "Luke Donforth"
+    ],
     "bands": [
-      "the Dam Beavers"
+      "the Dam Beavers",
+      "Fiddle Hellions",
+      "Root System"
     ],
     "roles": "Larks / Robins",
-    "date": "",
+    "date": "6/22/2025",
     "location": "Harrison, ID",
     "url": "http://www.ladyofthelake.org/june-week/",
     "year": 2025,
+    "date_end": "6/28/2025",
     "latlng": [
       47.45,
       -116.79
@@ -18240,13 +18294,20 @@
   {
     "typical_month": "11",
     "name": "Dance in the Desert",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Koren Wake",
+      "Steve Zakon-Anderson"
+    ],
+    "bands": [
+      "the Free Raisins",
+      "the Faux Paws"
+    ],
     "roles": "",
-    "date": "",
+    "date": "11/7/2025",
     "location": "Oracle AZ",
     "url": "https://tucsoncontradancers.org/tucson-contra-dancers/dance-in-the-desert-2024/",
     "year": 2025,
+    "date_end": "11/9/2025",
     "latlng": [
       32.61,
       -110.77
