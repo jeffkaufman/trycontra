@@ -16404,7 +16404,7 @@
     "name": "Chattaboogie",
     "callers": [
       "Timothy Klein",
-      "Vicki Herndon"
+      "Janet Sheperd"
     ],
     "bands": [
       "Turnip the Beet",
@@ -16765,13 +16765,20 @@
   {
     "typical_month": "3",
     "name": "Spring @ Sautee",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Warren Doyle",
+      "Claire Takemori"
+    ],
+    "bands": [
+      "Toss the Possum",
+      "the Dog Walkers"
+    ],
     "roles": "",
-    "date": "",
+    "date": "3/21/2025",
     "location": "Sautee Nacoochee GA",
     "url": "https://www.snca.org/contra/danceWeekend/page.php",
     "year": 2025,
+    "date_end": "3/25/2025",
     "latlng": [
       34.68,
       -83.67
@@ -17225,6 +17232,28 @@
     "latlng": [
       36.47,
       -81.8
+    ]
+  },
+  {
+    "typical_month": "5",
+    "name": "Butterfly Whirl",
+    "callers": [
+      "Jacqui Grennan",
+      "Seth Tepfer"
+    ],
+    "bands": [
+      "Stomp Rocket ",
+      "Thunderwing"
+    ],
+    "roles": "Larks/Robins",
+    "date": "5/23/2025",
+    "location": "Decatur GA",
+    "url": "http://www.dancerhapsody.com/special-events/",
+    "year": 2025,
+    "date_end": "5/25/2025",
+    "latlng": [
+      33.77,
+      -84.3
     ]
   },
   {
