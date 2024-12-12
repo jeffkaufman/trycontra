@@ -16296,8 +16296,14 @@
   {
     "typical_month": "1",
     "name": "Ralph Page Dance Legacy Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Steve Zakon-Anderson",
+      "Sue Rosen",
+      "Tod Whittemore"
+    ],
+    "bands": [
+      "Sugar River Band"
+    ],
     "roles": "",
     "date": "1/10/2025",
     "location": "Worcester MA",
@@ -16722,10 +16728,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "3/28/2025",
     "location": "Topsham ME",
     "url": "http://www.deffa.org/festival/",
     "year": 2025,
+    "date_end": "3/29/2025",
     "latlng": [
       43.93,
       -69.98
@@ -16734,12 +16741,16 @@
   {
     "typical_month": "3",
     "name": "Spring Breakdown Dance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Seth Tepfer"
+    ],
+    "bands": [
+      "Playing with Fyre"
+    ],
     "roles": "",
     "date": "3/14/2025",
     "location": "Columbia MO",
-    "url": "https://mmtd.wordpress.com/dance-weekend-2024/",
+    "url": "https://mmtd.wordpress.com/dance-weekend-2025/",
     "year": 2025,
     "date_end": "3/16/2025",
     "latlng": [
@@ -16750,13 +16761,19 @@
   {
     "typical_month": "3",
     "name": "Beantown Stomp",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Alex Deis-Lauby",
+      "Adina Gordon"
+    ],
+    "bands": [
+      "Stove Dragon"
+    ],
     "roles": "Larks / Robins",
-    "date": "",
+    "date": "3/14/2025",
     "location": "Cambridge MA",
     "url": "https://www.beantownstomp.com",
     "year": 2025,
+    "date_end": "3/16/2025",
     "latlng": [
       42.37,
       -71.11
@@ -16787,8 +16804,14 @@
   {
     "typical_month": "3",
     "name": "Hash Dance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Lisa Greenleaf",
+      "River Rainbowface"
+    ],
+    "bands": [
+      "the Free Raisins",
+      "Bowrider"
+    ],
     "roles": "Larks / Robins",
     "date": "3/29/2025",
     "location": "Glen Echo MD",
@@ -16803,13 +16826,19 @@
   {
     "typical_month": "4",
     "name": "Contra Camp",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Louise Siddons",
+      "Heather McAslan"
+    ],
+    "bands": [
+      "WillPower"
+    ],
     "roles": "Larks / Robins",
-    "date": "",
+    "date": "5/9/2025",
     "location": "Halsway UK",
-    "url": "https://halswaymanor.org.uk/event/contra-camp-2024/",
+    "url": "https://halswaymanor.org.uk/event/contra-camp-2025/",
     "year": 2025,
+    "date_end": "5/11/2025",
     "latlng": [
       51.13,
       -3.25
@@ -16817,29 +16846,19 @@
   },
   {
     "typical_month": "4",
-    "name": "Dancing Fish: April",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Melrose FL",
-    "url": "https://dancingfish.dance/",
-    "year": 2025,
-    "latlng": [
-      29.71,
-      -82.05
-    ]
-  },
-  {
-    "typical_month": "4",
     "name": "Dancing Fish: Wild Asparagus",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "George Marshall"
+    ],
+    "bands": [
+      "Wild Asparagus"
+    ],
     "roles": "",
-    "date": "",
+    "date": "4/18/2025",
     "location": "Melrose FL",
     "url": "https://dancingfish.dance/",
     "year": 2025,
+    "date_end": "4/20/2025",
     "latlng": [
       29.71,
       -82.05
@@ -16914,13 +16933,18 @@
   {
     "typical_month": "4",
     "name": "Springforth Ball",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Bob Isaacs"
+    ],
+    "bands": [
+      "Playing with Fyre"
+    ],
     "roles": "",
-    "date": "",
+    "date": "4/11/2025",
     "location": "Richmond VA",
-    "url": "https://tadamsva.org/springforth-2024/",
+    "url": "https://tadamsva.org/springforth-ball-2025/",
     "year": 2025,
+    "date_end": "4/13/2025",
     "latlng": [
       37.54,
       -77.44
@@ -16947,10 +16971,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "3/29/2025",
     "location": "Ithaca NY",
-    "url": "http://www.hands4dancers.org/upcoming-dances/2024/3/30/fiddlehead-frolic",
+    "url": "https://www.hands4dancers.org/upcoming-dances/2025/3/29/fiddlehead-frolic",
     "year": 2025,
+    "date_end": "3/29/2025",
     "latlng": [
       42.44,
       -76.5
@@ -17177,8 +17202,14 @@
   {
     "typical_month": "5",
     "name": "Spring Dance Romance",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Adina Gordan",
+      "Jacqui Grennan"
+    ],
+    "bands": [
+      "Stomp Rocket",
+      "Countercurrent"
+    ],
     "roles": "Larks / Robins",
     "date": "",
     "location": "Carrboro NC",
