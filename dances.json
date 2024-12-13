@@ -303,11 +303,12 @@
 
 
   ["https://www.facebook.com/BrattleboroContra/", "Brattleboro VT", "Sundays", 12, "", true],
-  ["http://www.queencitycontras.org/", "Burlington VT", "2nd Fridays", 12, "", false],
+  ["http://www.queencitycontras.com/", "Burlington VT", "4th Fridays", 12, "GF", true],
   ["http://capitalcitygrange.org/dancing/contradancing/", "Montpelier VT", "Saturdays", 27, "GF", true],
   ["https://www.facebook.com/CornwallContraDance", "Cornwall VT", "Saturdays", 8, "", true],
   ["https://www.facebook.com/NorwichContraDance", "Norwich VT", "Saturdays", 24, "", true],
   ["https://www.facebook.com/Cabotcontradance", "Cabot VT", "Fridays", 10, "GF", true],
+  ["https://www.facebook.com/people/St-Johnsbury-Community-Contra-Dance/61565419087661/", "St Johnsbury VT", "Some Sundays", 9,"GF",true],
 
 
   ["https://www.facebook.com/pages/San-Juan-Islands-Contra-Dance/275816592483130", "Friday Harbor WA", "Saturdays", 8, "", true],
