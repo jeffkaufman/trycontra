@@ -150,6 +150,7 @@
   ["https://www.facebook.com/MooseIslandContradance", "Eastport ME", "Fridays and Saturdays", 4, "", true],
   ["https://www.hackmatackplayhouse.org/contra-dances", "Berwick, ME", "Sundays", 6, "GF", true],
   ["https://www.facebook.com/groups/25439709349", "Bangor, ME", "Fridays", 12, "GF", true],
+  ["https://deffa.org/series/st-albans-contra-dance/", "St Albans ME", "Fridays", 6, "", true],
 
   ["http://aactmad.org/contra/", "Ann Arbor MI", "Saturdays", 36, "", true],
   ["https://www.countrydancinginkalamazoo.com/", "Kalamazoo MI", "Saturdays", 24, "", true],
@@ -178,7 +179,7 @@
   ["https://www.charlottecontradance.org/", "Charlotte NC", "Wednesdays and Saturdays", 64, "", true],
   ["https://www.folkschool.org/calendar/", "Brasstown NC", "Tuesdays", 45, "", true],
   ["http://www.boonecountrydancers.org/", "Boone NC", "Saturdays", 12, "", true],
-  ["http://feetretreat.com/", "Greensboro NC", "3rd Saturdays", 12, "", true],
+  ["http://feetretreat.com/", "Greensboro NC", "Saturdays", 12, "", true],
   ["http://feetretreat.com/", "Winston-Salem NC", "Tuesdays", 12, "", true],
   ["https://www.facebook.com/WilmingtonContra/", "Wilmington NC", "Tuesdays", 12, "", true],
   ["https://www.tcdancers.org/new-events", "Carrboro NC", "Fridays", 50, "", true],
@@ -303,12 +304,12 @@
 
 
   ["https://www.facebook.com/BrattleboroContra/", "Brattleboro VT", "Sundays", 12, "", true],
-  ["http://www.queencitycontras.org/", "Burlington VT", "2nd Fridays", 12, "", false],
+  ["https://queencitycontras.com/", "Burlington VT", "Fridays", 12, "", true],
   ["http://capitalcitygrange.org/dancing/contradancing/", "Montpelier VT", "Saturdays", 27, "GF", true],
   ["https://www.facebook.com/CornwallContraDance", "Cornwall VT", "Saturdays", 8, "", true],
   ["https://www.facebook.com/NorwichContraDance", "Norwich VT", "Saturdays", 24, "", true],
   ["https://www.facebook.com/Cabotcontradance", "Cabot VT", "Fridays", 10, "GF", true],
-
+  ["https://www.facebook.com/people/St-Johnsbury-Community-Contra-Dance/61565419087661/", "St. Johnsbury VT", "Sundays", 8, "", true],
 
   ["https://www.facebook.com/pages/San-Juan-Islands-Contra-Dance/275816592483130", "Friday Harbor WA", "Saturdays", 8, "", true],
   ["http://spokanefolklore.org/contra.html", "Spokane WA", "Wednesdays", 40, "", true],
