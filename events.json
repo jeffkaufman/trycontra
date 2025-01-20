@@ -17080,21 +17080,6 @@
   },
   {
     "typical_month": "4",
-    "name": "NexGen Contra Weekend",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Ann Arbor MI",
-    "url": "https://aactmad.org/nexgen-contra",
-    "year": 2025,
-    "latlng": [
-      42.28,
-      -83.74
-    ]
-  },
-  {
-    "typical_month": "4",
     "name": "Contra Holiday in Medieval England",
     "callers": [
       "George Marshall",
@@ -17115,6 +17100,28 @@
     "latlng": [
       52.4,
       0.26
+    ]
+  },
+  {
+    "typical_month": "5",
+    "name": "NexGen Contra Weekend",
+    "callers": [
+      "Lisa Greenleaf",
+      "Maeve Devlin"
+    ],
+    "bands": [
+      "River Road",
+      "the Jig Lords"
+    ],
+    "roles": "",
+    "date": "5/9/2025",
+    "location": "Ann Arbor MI",
+    "url": "https://aactmad.org/appleblossombliss",
+    "year": 2025,
+    "date_end": "5/11/2025",
+    "latlng": [
+      42.28,
+      -83.74
     ]
   },
   {
@@ -17342,13 +17349,19 @@
   {
     "typical_month": "6",
     "name": "Dance Trance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Darlene Underwood",
+      "Terry Doyle"
+    ],
+    "bands": [
+      " Toss the Possum"
+    ],
     "roles": "",
-    "date": "",
+    "date": "6/6/2025",
     "location": "Lexington KY",
     "url": "https://www.dancetrance.ltda.us/",
     "year": 2025,
+    "date_end": "6/8/2025",
     "latlng": [
       38.04,
       -84.5
