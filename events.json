@@ -16502,7 +16502,7 @@
       "Cis Hinkle"
     ],
     "bands": [
-      "Gallimaufry",
+      "Potato Factory",
       "Joyride"
     ],
     "roles": "",
@@ -16581,13 +16581,26 @@
   {
     "typical_month": "2",
     "name": "Dance Flurry Festival",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Alex Deis-Lauby",
+      "Maia McCormick",
+      "Steve Zakon-Anderson",
+      "Luke Donforth",
+      "Casey Carr"
+    ],
+    "bands": [
+      "the Faux Paws",
+      "the Dam Beavers",
+      "Good Company",
+      "Stomp Rocket ",
+      "Barefoor"
+    ],
     "roles": "",
-    "date": "",
+    "date": "2/14/2025",
     "location": "Saratoga Springs NY",
     "url": "http://www.flurryfestival.org/",
     "year": 2025,
+    "date_end": "2/16/2025",
     "latlng": [
       43.08,
       -73.78
@@ -17127,13 +17140,18 @@
   {
     "typical_month": "5",
     "name": "Dancing Fish: May",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Angela DeCarlis"
+    ],
+    "bands": [
+      "Lift Ticket"
+    ],
     "roles": "",
-    "date": "",
+    "date": "5/2/2025",
     "location": "Melrose FL",
     "url": "https://dancingfish.dance/",
     "year": 2025,
+    "date_end": "5/3/2025",
     "latlng": [
       29.71,
       -82.05
@@ -17179,13 +17197,19 @@
   {
     "typical_month": "5",
     "name": "Meet Me in St Louis Dance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Emily Rush"
+    ],
+    "bands": [
+      "Supertrad",
+      "Mound City Slickers"
+    ],
     "roles": "",
-    "date": "",
+    "date": "5/23/2025",
     "location": "Webster Groves MO",
     "url": "https://childgrove.org/stl-dance-weekends/meetmeinstlouis",
     "year": 2025,
+    "date_end": "5/26/2025",
     "latlng": [
       38.59,
       -90.36
@@ -17233,10 +17257,11 @@
       "Countercurrent"
     ],
     "roles": "Larks / Robins",
-    "date": "",
+    "date": "4/25/2025",
     "location": "Carrboro NC",
     "url": "https://tcdancers.org/sdr",
     "year": 2025,
+    "date_end": "4/27/2025",
     "latlng": [
       35.91,
       -79.08
@@ -17663,10 +17688,11 @@
       "Rushfest"
     ],
     "roles": "",
-    "date": "",
+    "date": "7/3/2025",
     "location": "Salem VA",
     "url": "http://www.roanokerailroader.com/",
     "year": 2025,
+    "date_end": "7/6/2025",
     "latlng": [
       37.29,
       -80.05

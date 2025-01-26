@@ -9,11 +9,11 @@ typical month	name	caller1	caller2	caller3	caller4	caller5	caller6	band1	band2	b
 1	Peterbough Snow Ball	Bob Isaacs	Will Mentor	Lisa Greenleaf	Steve Zakon-Anderson			Red Case Band	Stove Dragon	Dam Beavers	Unnamed				1/25/2025	1/25/2025	Peterborough NH	https://www.monadnockfolk.org/event/%e2%98%bc-%e2%98%bc-%e2%98%bc-peterborough-snow-ball-2025/	
 2	Fiddling Frog Dance Festival	Susan Petrick	Lindey Dono					The Syncopaths	River Road					Larks / Robins	2/21/2025	2/23/2025	Pasadena CA	https://www.sccdc.org/special-events/fiddling-frog/	
 2	Phoenix Winter Frolic	Jacqui Grennan						Playing with Fyre							2/7/2025	2/8/2025	Mesa AZ	https://phxtmd.org/winter-frolic-2025	
-2	Supersonic	Seth Tepfer	Cis Hinkle					Gallimaufry	Joyride						2/7/2025	2/9/2025	Seattle WA	https://www.supersoniccontra.com/	
+2	Supersonic	Seth Tepfer	Cis Hinkle					Potato Factory	Joyride						2/7/2025	2/9/2025	Seattle WA	https://www.supersoniccontra.com/	
 2	Dancing Fish: February	Steve Zakon-Anderson						Stomp Rocket							1/31/2025	2/1/2025	Melrose FL	https://dancingfish.dance/	
 2	Tropical Dance Vacation: St Croix	George Marshall	Lisa Greenleaf					Wild Asparagus							2/5/2025	2/12/2025	St Croix	https://www.tropicaldancevacation.com/contra-week.html	
 2	Cabin Fever	Claire Takemori						Spintuition	Ice Cream Truckers						2/7/2025	2/9/2025	Knoxville TN	https://www.knoxvillecontra.org/cfschedule	
-2	Dance Flurry Festival																Saratoga Springs NY	http://www.flurryfestival.org/	
+2	Dance Flurry Festival	Alex Deis-Lauby	Maia McCormick	Steve Zakon-Anderson	Luke Donforth	Casey Carr		Faux Paws	The Dam Beavers	Good Company	Stomp Rocket 	Barefoor			2/14/2025	2/16/2025	Saratoga Springs NY	http://www.flurryfestival.org/	
 2	Bayou Bedlam	Lisa Greenleaf						Stringrays							2/21/2025	2/23/2025	Houston TX	http://www.bayoubedlam.org/	
 2	Corvallis Contra Weekend	Will Mentor	Lindsey Dono					Root System	Nova					Larks / Robins	2/14/2024	2/16/2024	Corvallis OR	https://corvallisfolklore.org/home/ccw/	
 2	Galhalla	Sarah Kaiser	Lo Peckman					Baba Yaga's Stew	Alyssa Catlin Band					Larks / Robins	2/21/2025	2/23/2025	St Louis MO	https://www.shedances.org/galhalla	
@@ -40,13 +40,13 @@ typical month	name	caller1	caller2	caller3	caller4	caller5	caller6	band1	band2	b
 4	Portland Raindance Weekend	Will Mentor	Gaye Fifer					Red Case Band	Riptide						4/25/2025	4/27/2025	Portland OR	http://www.portlandraindance.org/	
 4	Contra Holiday in Medieval England	George Marshall	Terry Doyle	Janet Shephard	Charlie Turner			Wild Asparagus	Contrasaurus					Gents / Ladies	4/2/2025	4/9/2025	Ely UK	www.contraholiday.net	
 5	Apple Blossom Bliss	Lisa Greenleaf	Maeve Devlin					River Road	The Jig Lords						5/9/2025	5/11/2025	Ann Arbor MI	https://aactmad.org/appleblossombliss	
-5	Dancing Fish: May																Melrose FL	https://dancingfish.dance/	
+5	Dancing Fish: May	Angela DeCarlis						Lift Ticket							5/2/2025	5/3/2025	Melrose FL	https://dancingfish.dance/	
 5	Whitewater Whirl	Darlene Underwood	Michael Karcher					Supertrad	The Johns						5/2/2025	5/4/2025	Fayetteville WV	https://www.footmad.org/whirl	
 5	Lake Eden Arts Festival - Spring																Black Mountain NC	https://theleaf.org/	
-5	Meet Me in St Louis Dance Weekend																Webster Groves MO	https://childgrove.org/stl-dance-weekends/meetmeinstlouis	back in Kirkwood MO for 2025
+5	Meet Me in St Louis Dance Weekend	Emily Rush						Supertrad	Mound City Slickers						5/23/2025	5/26/2025	Webster Groves MO	https://childgrove.org/stl-dance-weekends/meetmeinstlouis	
 5	FolkMADness Music & Dance Camp																Soccoro NM	http://folkmads.org/events/camps/folkmadness/	
 5	Dancing Bear Dance Camp																Wasilla AK	http://www.thedancingbears.com/Dance-Camp.html	
-5	Spring Dance Romance	Adina Gordan	Jacqui Grennan					Stomp Rocket	Countercurrent					Larks / Robins			Carrboro NC	https://tcdancers.org/sdr	
+5	Spring Dance Romance	Adina Gordan	Jacqui Grennan					Stomp Rocket	Countercurrent					Larks / Robins	4/25/2025	4/27/2025	Carrboro NC	https://tcdancers.org/sdr	
 5	Northwest Folklife																Seattle WA	https://nwfolklife.org/festival/home.html	
 5	Moulin d’Andé Weekend													Hommes/Femmes			Moulin d'Ande, Normandy, France	https://sites.google.com/site/americancontradanceinparis/	
 5	Contradancers Delight Holiday (Spring)													Ladies/Gents			Mountain City TN	https://www.contradancersdelight.com/	
@@ -71,7 +71,7 @@ typical month	name	caller1	caller2	caller3	caller4	caller5	caller6	band1	band2	b
 7	Cumberland Dance Week																Pleasantville TN	https://camp.cumberlanddanceweek.org/	
 7	July Fourth at Pinewoods																Plymouth MA	https://cds-boston-j4weekend.weebly.com/	
 7	Pinewoods English-Scottish-Contra													Larks / Robins			Plymouth MA	https://rscdsboston.org/pinewoods-esc.html	
-7	Roanoke Railroader	Will Mentor	Gaye Fifer					Toss the Possum	Latter Day Lizards	Rushfest							Salem VA	http://www.roanokerailroader.com/	
+7	Roanoke Railroader	Will Mentor	Gaye Fifer					Toss the Possum	Latter Day Lizards	Rushfest					7/3/2025	7/6/2025	Salem VA	http://www.roanokerailroader.com/	
 7	Ashokan Northern Week																Olivebridge NY	https://ashokancenter.org/product/northern-week-2024/	
 7	American Dance & Music Week at Pinewoods																Plymouth MA	https://camp.cdss.org/camp-weeks/american-dance-music-week-2/	
 7	Harmony of Song & Dance at Pinewoods																Plymouth MA	https://camp.cdss.org/camp-weeks/harmony-of-song-dance-at-pinewoods/	
