@@ -18,4 +18,6 @@ if [ -n "$(git status --porcelain --untracked-files=no)" ]; then
 
     git commit events-raw-*.tsv events.json -m "sync with spreadsheet"
     git push
+
+    git icdiff HEAD~1
 fi

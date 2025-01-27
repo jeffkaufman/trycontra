@@ -23,6 +23,7 @@ for year, fname in [
 ]:
     with open(fname) as inf:
         for n, line in enumerate(inf):
+          try:
             if n == 0:
                 continue
 
@@ -115,6 +116,9 @@ for year, fname in [
                 records[-1]["bands"].extend(bands)
             else:
                 records.append(rec)
+          except Exception:
+            print(line)
+            raise
 
 with open("events.json") as inf:
     old_records = json.load(inf)
