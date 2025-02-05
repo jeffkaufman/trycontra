@@ -16613,7 +16613,8 @@
       "Lisa Greenleaf"
     ],
     "bands": [
-      "the Stringrays"
+      "the Stringrays",
+      "Tea&Whiskey"
     ],
     "roles": "",
     "date": "2/21/2025",
@@ -16738,8 +16739,16 @@
   {
     "typical_month": "3",
     "name": "DownEast Country Dance Festival",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Rick Mohr",
+      "Chrissy Fowler",
+      "Maggie Robinson"
+    ],
+    "bands": [
+      "River Road",
+      "Franklin County Fiddlers",
+      "Pineland Fiddlers"
+    ],
     "roles": "",
     "date": "3/28/2025",
     "location": "Topsham ME",
@@ -16779,7 +16788,8 @@
       "Adina Gordon"
     ],
     "bands": [
-      "Stove Dragon"
+      "Stove Dragon",
+      "Julie Metcalf and Larry Unger"
     ],
     "roles": "Larks / Robins",
     "date": "3/14/2025",
@@ -16991,10 +17001,11 @@
     "callers": [],
     "bands": [],
     "roles": "Larks / Robins",
-    "date": "",
+    "date": "4/25/2025",
     "location": "Marlborough MA",
     "url": "https://www.neffa.org/",
     "year": 2025,
+    "date_end": "4/27/2025",
     "latlng": [
       42.35,
       -71.55
@@ -17003,8 +17014,12 @@
   {
     "typical_month": "4",
     "name": "Fiddlehead Frolic",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Adina Gordon"
+    ],
+    "bands": [
+      "the Moving Violations"
+    ],
     "roles": "",
     "date": "3/29/2025",
     "location": "Ithaca NY",
@@ -17057,13 +17072,18 @@
   {
     "typical_month": "4",
     "name": "Trillium Twirl",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Bob Isaacs"
+    ],
+    "bands": [
+      "Toss the Possum"
+    ],
     "roles": "",
-    "date": "",
+    "date": "4/25/2025",
     "location": "Dowling MI",
     "url": "https://michigandanceheritage.org/trilliumtwirl/",
     "year": 2025,
+    "date_end": "4/27/2025",
     "latlng": [
       42.52,
       -85.25
@@ -17185,10 +17205,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "5/8/2025",
     "location": "Black Mountain NC",
     "url": "https://theleaf.org/",
     "year": 2025,
+    "date_end": "5/11/2025",
     "latlng": [
       35.62,
       -82.32
@@ -17881,13 +17902,20 @@
   {
     "typical_month": "8",
     "name": "Balance the Bay",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Will Mentor",
+      "Alex Deis-Lauby"
+    ],
+    "bands": [
+      "the Latter Day Lizards",
+      "River Road"
+    ],
     "roles": "",
-    "date": "",
+    "date": "8/15/2025",
     "location": "San Francisco CA",
-    "url": "https://www.bacds.org/camps/btb/",
+    "url": "https://www.bacds.org/camps/btb2025/",
     "year": 2025,
+    "date_end": "8/17/2025",
     "latlng": [
       37.77,
       -122.42
@@ -17956,13 +17984,20 @@
   {
     "typical_month": "9",
     "name": "Rendezvous Dance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Will Mentor",
+      "Alex Deis-Lauby"
+    ],
+    "bands": [
+      "Stove Dragon",
+      "Spintuition"
+    ],
     "roles": "",
-    "date": "",
+    "date": "8/29/2025",
     "location": "Boulder CO",
     "url": "https://cfootmad.org/rendezvous",
     "year": 2025,
+    "date_end": "9/1/2025",
     "latlng": [
       40.01,
       -105.27
@@ -18235,13 +18270,20 @@
   {
     "typical_month": "10",
     "name": "Harvest Moon Dance Festival",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Rick Mohr",
+      "Anna Rain"
+    ],
+    "bands": [
+      "the Gaslight Tinkers",
+      "Topspin"
+    ],
     "roles": "",
-    "date": "",
+    "date": "10/10/2025",
     "location": "Santa Barbara CA",
     "url": "http://www.sbcds.org/hm/",
     "year": 2025,
+    "date_end": "10/12/2025",
     "latlng": [
       34.42,
       -119.7
