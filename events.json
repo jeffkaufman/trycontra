@@ -13852,13 +13852,19 @@
   {
     "typical_month": "3",
     "name": "DownEast Country Dance Festival",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Lisa Greenleaf",
+      "Hannah Chamberlain"
+    ],
+    "bands": [
+      "Eloise &co"
+    ],
     "roles": "",
-    "date": "",
+    "date": "3/16/2024",
     "location": "Topsham ME",
     "url": "http://www.deffa.org/festival/",
     "year": 2024,
+    "date_end": "3/16/2024",
     "latlng": [
       43.93,
       -69.98
