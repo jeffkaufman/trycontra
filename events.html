@@ -191,11 +191,7 @@ function tidy_dances() {
       // If we don't know when the dance is, go with the middle of the
       // month it usually is in.
       dance.m = Number(dance.typical_month);
-      if (dance.m > today_m) {
-        dance.y = today_y;
-      } else {
-        dance.y = dance.year
-      }
+      dance.y = dance.year
       dance.d = 15;
     }
 
@@ -475,7 +471,6 @@ document.body.onload = load_all;
   <i>Weekends, camps, festivals, and other special events</i>
   </div>
   <div id=filters>
-
   <form id=filter_form>
   <input id=input_date name=date placeholder="date: 1937-01-01 or 1937-01 or 1937">
   <input id=input_state name=state placeholder="state: NC">
