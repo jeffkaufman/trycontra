@@ -140,12 +140,6 @@ input[type=checkbox] {
   width: 2em;
   height: 2em;
 }
-#show_inactive_box {
-  padding-top: 1em;
-  padding-bottom: 0.5em;
-  font-size: 200%;
-  display: none;
-}
 #explanation {
   padding-left: 2em;
   padding-right: 2em;
@@ -199,14 +193,6 @@ contra dances near you.
 <div id="dances">
 </div>
 
-<div id=show_inactive_box>
-<center>
-<input id=show_inactive type=checkbox> <label for=show_inactive>Show Inactive Dances</label>
-</center>
-</div>
-
-
-
 </div>
 </div>
 </div>
@@ -245,12 +231,6 @@ function maybe_ready() {
     zb.disabled = false;
   }
 }
-
-show_inactive.onclick = function() {
-  if (searched) {
-    submit();
-  }
-};
 
 var postal_districts = {
  'A': [47,-56],
@@ -350,7 +330,6 @@ function add_more_link(zip, minimum_dances) {
     return false;
   }
   dances.appendChild(more_dances);
-  show_inactive_box.style.display = "block";
 }
 
 function load_dances(zip, minimum_dances) {
@@ -390,8 +369,7 @@ function load_dances(zip, minimum_dances) {
   // Show the three closest dances plus any others no more than 3% farther.
   dance_distances = [];
   for (var i = 0 ; i < dance_locations.length ; i++) {
-    if (!dance_locations[i][7] /* not active */ &&
-        !show_inactive.checked) {
+    if (!dance_locations[i][7] /* not active */) {
       continue;
     }
     dance_distances.push([distance(dance_locations[i][4],
@@ -410,7 +388,7 @@ function load_dances(zip, minimum_dances) {
     } else if (
       ((d < dance_distances[n - 1][0] * 1.03) ||
        (is_canada && dance_locations[i][1].match( "Canada$"))) &&
-        (dance_locations[i][7] || show_inactive.checked)) {
+        dance_locations[i][7]) {
       add_dance(dance_locations[i][1],
                 dance_locations[i][0],
                 dance_locations[i][2],
