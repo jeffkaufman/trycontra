@@ -44,8 +44,8 @@ typical month	name	caller1	caller2	caller3	caller4	caller5	caller6	band1	band2	b
 5	Whitewater Whirl	Darlene Underwood	Michael Karcher					Supertrad	The Johns						5/2/2025	5/4/2025	Fayetteville WV	https://www.footmad.org/whirl	
 5	Lake Eden Arts Festival - Spring														5/8/2025	5/11/2025	Black Mountain NC	https://theleaf.org/	
 5	Meet Me in St Louis Dance Weekend	Emily Rush						Supertrad	Mound City Slickers						5/23/2025	5/26/2025	Webster Groves MO	https://childgrove.org/stl-dance-weekends/meetmeinstlouis	
-5	FolkMADness Music & Dance Camp																Soccoro NM	http://folkmads.org/events/camps/folkmadness/	
-5	Dancing Bear Dance Camp																Wasilla AK	http://www.thedancingbears.com/Dance-Camp.html	
+5	FolkMADness Music & Dance Camp	Alex Deis-Lauby	Gaye Fifer					Unnamed	Unnamed	Unnamed					5/23/2025	5/26/2025	Soccoro NM	http://folkmads.org/events/camps/folkmadness/	
+5	Dancing Bear Dance Camp	Will Mentor	Lindsey Dono					River Road	Rhys Jones and the Imaginary Beings						5/23/2025	5/26/2025	Wasilla AK	https://www.thedancingbears.org/dance-camp-1	
 5	Spring Dance Romance	Adina Gordan	Jacqui Grennan					Stomp Rocket	Countercurrent					Larks / Robins	4/25/2025	4/27/2025	Carrboro NC	https://tcdancers.org/sdr	
 5	Northwest Folklife																Seattle WA	https://nwfolklife.org/festival/home.html	
 5	Moulin d’Andé Weekend													Hommes/Femmes			Moulin d'Ande, Normandy, France	https://sites.google.com/site/americancontradanceinparis/	
@@ -56,8 +56,8 @@ typical month	name	caller1	caller2	caller3	caller4	caller5	caller6	band1	band2	b
 6	Stegastomp																Harbury UK	https://www.contrasaurus.com/stegastomp.html	
 6	Dance Trance Weekend	Darlene Underwood	Terry Doyle					 Toss the Possum							6/6/2025	6/8/2025	Lexington KY	https://www.dancetrance.ltda.us/	
 6	Dancing Fish: June																Melrose FL	https://dancingfish.dance/	
-6	Gender-Free Dance Camp (Spring)													Larks / Robins			Plymouth MA	https://www.lcfd.org/spring-camp-2024.html	
-6	Flamingo Fling Weekend																Oklahoma City OK	http://scissortail.org/special-events/flamingo-fling/	
+6	Gender-Free Dance Camp (Spring)	Mary Wesley	Chris Ricciotti					Calico	Northwoods					Larks / Robins	6/6/2025	6/8/2025	Plymouth MA	https://www.lcfd.org/lcfd-camps.html	
+6	Flamingo Fling Weekend	Alex Deis-Lauby						River Road							6/13/2025	6/15/2025	Oklahoma City OK	http://scissortail.org/special-events/flamingo-fling/	
 6	Swing into Summer													Larks / Robins			Plymouth MA	http://www.swingintosummer.org/	
 6	Lady of the Lake June Week	Gaye Fifer	Lindsey Dono	Luke Donforth				The Dam Beavers	Fiddle Hellions	Root System				Larks / Robins	6/22/2025	6/28/2025	Harrison, ID	http://www.ladyofthelake.org/june-week/	
 6	Old Songs Festival																Voorheesville NY	http://festival.oldsongs.org/	
@@ -87,7 +87,7 @@ typical month	name	caller1	caller2	caller3	caller4	caller5	caller6	band1	band2	b
 8	Balance the Bay	Will Mentor	Alex Deis-Lauby					Latter Day Lizards	River Road						8/15/2025	8/17/2025	San Francisco CA	https://www.bacds.org/camps/btb2025/	
 8	TradMaD																Plymouth MA	http://minstrelrecords.com/tradmad/	
 8	Susquehanna Folk Festival																York PA	https://www.sfmsfolk.org/festival/SusquehannaFolkFestival.html	
-9	Dancing Fish: September																Melrose FL	https://dancingfish.dance/	
+9	Dancing Fish: Labor Day							Howe And Company							8/29/2025	8/31/2025	Melrose FL	https://dancingfish.dance/	
 9	Contravana																Rochester NY	https://cdrochester.org/	
 9	Rendezvous Dance Weekend	Will Mentor	Alex Deis-Lauby					Stove Dragon	Spintuition						8/29/2025	9/1/2025	Boulder CO	https://cfootmad.org/rendezvous	
 9	Michigan Dance Heritage Fall Weekend																Lexington MI	https://michigandanceheritage.org/fall/	
@@ -100,10 +100,10 @@ typical month	name	caller1	caller2	caller3	caller4	caller5	caller6	band1	band2	b
 9	Pinewoods Labor Day Weekend																Plymouth MA	https://facone.org/labor-day-weekend/labor-day-weekend.html	
 9	Chehalis Dance Weekend																Surrey BC	https://chehalisdancecamp.com/	
 9	Youth Dance Weekend													Larks / Robins			Weston VT	http://youthdanceweekend.org/	
-9	Adirondack Dance Weekend																Silver Bay NY	https://www.danceflurry.org/adirondack-dance-weekend/	
+9	Adirondack Dance Weekend	Will Mentor	Gaye Fifer					River Road	Lighthouse	Eloise &co					9/26/2025	9/28/2025	Silver Bay NY	https://www.danceflurry.org/adirondack-dance-weekend/	
 9	Cascade Contras Dance Camp																Springfield OR	https://eugenefolklore.org/cascade-contras/	
 10	Moondance Dance Weekend																Pickens SC	https://moondancesc.weebly.com/	
-10	Dancing Fish: October																Melrose FL	https://dancingfish.dance/	
+10	Dancing Fish: October	Alex Deis-Lauby						Free Raisins							10/3/2025	10/4/2025	Melrose FL	https://dancingfish.dance/	
 10	ContraStock																Glen Echo MD	https://fsgw.org/contrastock	
 10	Wasatch Wiggle																Salt Lake City UT	https://wasatchcontras.org/ww/	
 10	Lady of the Lake Fall Camp																Harrison, ID	http://www.ladyofthelake.org/fallwend/	
@@ -115,11 +115,10 @@ typical month	name	caller1	caller2	caller3	caller4	caller5	caller6	band1	band2	b
 10	Boo Camp																Jemez Springs NM	https://folkmads.org/2023/10/31/boo-camp/	
 10	Music City Masquerade																Nashville TN	http://nashvillecountrydancers.org/music-city-masquerade/	
 10	Fire Ant Frolic																Austin TX	http://www.fireantfrolic.org/	
-10	Mountain Madness																Jonesborough TN	https://historicjonesboroughdancesocie.ticketspice.com/mountain-madness-2024?	
-11	Dancing Fish: November																Melrose FL	https://dancingfish.dance/	
-11	Foggy Moon Dance Weekend																Monterey CA	http://montereycontradance.org/foggy-moon.html	
+10	Mountain Madness														10/10/2025	10/12/2025	Jonesborough TN	https://historicjonesboroughdancesociety.net	
+11	Foggy Moon Dance Weekend	Alex Deis-Lauby	Lisa Greenleaf					Countercurrent	The Stringrays						10/31/2025	11/2/2025	Monterey CA	http://montereycontradance.org/foggy-moon.html	
 11	ContraShock																New York NY	http://contrashock.org/	
-11	Hey Fever Dance Weekend																Ottawa ON	http://www.ottawacontra.ca/heyFever/	
+11	Hey Fever Dance Weekend	Mary Wesley	Will Mentor					Good Company	River Road						10/31/2025	11/2/2025	Ottawa ON	http://www.ottawacontra.ca/heyFever/	
 11	Dance in the Desert	Koren Wake	Steve Zakon-Anderson					The Free Raisins	The Faux Paws						11/7/2025	11/9/2025	Oracle AZ	https://tucsoncontradancers.org/tucson-contra-dancers/dance-in-the-desert-2024/	
 11	Pittsburgh Fall Dance Weekend													Larks / Robins			Pittsburgh PA	http://pittsburghcontra.org/fdw/	
 11	Head for the Hills Dance Weekend																Kresgeville PA	http://www.princetoncountrydancers.org/about-hfth	
@@ -130,7 +129,7 @@ typical month	name	caller1	caller2	caller3	caller4	caller5	caller6	band1	band2	b
 11	ContraCopia														11/28/2025	11/30/2025	Philadelphia PA	http://www.thursdaycontra.com/contracopia/	
 11	Breaking Up Thanksgiving																Evanston IL	https://www.breakingupthanksgiving.com/	
 11	Catalina Dance Weekend																Catalina Island CA	https://www.catalinadanceweekend.com/	
-12	Dancing Fish: December																Melrose FL	https://dancingfish.dance/	
+12	Dancing Fish: December	Dereck Kalish						Thunderwing							12/5/2025	12/6/2025	Melrose FL	https://dancingfish.dance/	
 12	Winter Warmup Dance Weekend																Worthington OH	https://bigscioty.com/winterwarmup/	
 12	Contradancers Delight Holiday (Winter)													Ladies/Gents			Morgantown, WV	http://www.contradancersdelight.com/about-winter-cdh	
 12	Bash on Vashon																Vashon Island WA	https://bashonvashon.org/	

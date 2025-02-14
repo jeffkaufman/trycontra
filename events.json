@@ -17245,13 +17245,17 @@
   {
     "typical_month": "5",
     "name": "FolkMADness Music & Dance Camp",
-    "callers": [],
+    "callers": [
+      "Alex Deis-Lauby",
+      "Gaye Fifer"
+    ],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "5/23/2025",
     "location": "Soccoro NM",
     "url": "http://folkmads.org/events/camps/folkmadness/",
     "year": 2025,
+    "date_end": "5/26/2025",
     "latlng": [
       34.06,
       -106.89
@@ -17260,13 +17264,20 @@
   {
     "typical_month": "5",
     "name": "Dancing Bear Dance Camp",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Will Mentor",
+      "Lindsey Dono"
+    ],
+    "bands": [
+      "River Road",
+      "Rhys Jones and the Imaginary Beings"
+    ],
     "roles": "",
-    "date": "",
+    "date": "5/23/2025",
     "location": "Wasilla AK",
-    "url": "http://www.thedancingbears.com/Dance-Camp.html",
+    "url": "https://www.thedancingbears.org/dance-camp-1",
     "year": 2025,
+    "date_end": "5/26/2025",
     "latlng": [
       61.58,
       -149.44
@@ -17459,13 +17470,20 @@
   {
     "typical_month": "6",
     "name": "Gender-Free Dance Camp (Spring)",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Mary Wesley",
+      "Chris Ricciotti"
+    ],
+    "bands": [
+      "Calico",
+      "Northwoods"
+    ],
     "roles": "Larks / Robins",
-    "date": "",
+    "date": "6/6/2025",
     "location": "Plymouth MA",
-    "url": "https://www.lcfd.org/spring-camp-2024.html",
+    "url": "https://www.lcfd.org/lcfd-camps.html",
     "year": 2025,
+    "date_end": "6/8/2025",
     "latlng": [
       41.96,
       -70.67
@@ -17474,13 +17492,18 @@
   {
     "typical_month": "6",
     "name": "Flamingo Fling Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Alex Deis-Lauby"
+    ],
+    "bands": [
+      "River Road"
+    ],
     "roles": "",
-    "date": "",
+    "date": "6/13/2025",
     "location": "Oklahoma City OK",
     "url": "http://scissortail.org/special-events/flamingo-fling/",
     "year": 2025,
+    "date_end": "6/15/2025",
     "latlng": [
       35.47,
       -97.52
@@ -17959,14 +17982,17 @@
   },
   {
     "typical_month": "9",
-    "name": "Dancing Fish: September",
+    "name": "Dancing Fish: Labor Day",
     "callers": [],
-    "bands": [],
+    "bands": [
+      "Howe And Company"
+    ],
     "roles": "",
-    "date": "",
+    "date": "8/29/2025",
     "location": "Melrose FL",
     "url": "https://dancingfish.dance/",
     "year": 2025,
+    "date_end": "8/31/2025",
     "latlng": [
       29.71,
       -82.05
@@ -18171,13 +18197,21 @@
   {
     "typical_month": "9",
     "name": "Adirondack Dance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Will Mentor",
+      "Gaye Fifer"
+    ],
+    "bands": [
+      "River Road",
+      "Lighthouse",
+      "Eloise &co"
+    ],
     "roles": "",
-    "date": "",
+    "date": "9/26/2025",
     "location": "Silver Bay NY",
     "url": "https://www.danceflurry.org/adirondack-dance-weekend/",
     "year": 2025,
+    "date_end": "9/28/2025",
     "latlng": [
       43.7,
       -73.51
@@ -18216,13 +18250,18 @@
   {
     "typical_month": "10",
     "name": "Dancing Fish: October",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Alex Deis-Lauby"
+    ],
+    "bands": [
+      "the Free Raisins"
+    ],
     "roles": "",
-    "date": "",
+    "date": "10/3/2025",
     "location": "Melrose FL",
     "url": "https://dancingfish.dance/",
     "year": 2025,
+    "date_end": "10/4/2025",
     "latlng": [
       29.71,
       -82.05
@@ -18406,10 +18445,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "10/10/2025",
     "location": "Jonesborough TN",
-    "url": "https://historicjonesboroughdancesocie.ticketspice.com/mountain-madness-2024?",
+    "url": "https://historicjonesboroughdancesociety.net",
     "year": 2025,
+    "date_end": "10/12/2025",
     "latlng": [
       36.29,
       -82.47
@@ -18417,29 +18457,21 @@
   },
   {
     "typical_month": "11",
-    "name": "Dancing Fish: November",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Melrose FL",
-    "url": "https://dancingfish.dance/",
-    "year": 2025,
-    "latlng": [
-      29.71,
-      -82.05
-    ]
-  },
-  {
-    "typical_month": "11",
     "name": "Foggy Moon Dance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Alex Deis-Lauby",
+      "Lisa Greenleaf"
+    ],
+    "bands": [
+      "Countercurrent",
+      "the Stringrays"
+    ],
     "roles": "",
-    "date": "",
+    "date": "10/31/2025",
     "location": "Monterey CA",
     "url": "http://montereycontradance.org/foggy-moon.html",
     "year": 2025,
+    "date_end": "11/2/2025",
     "latlng": [
       36.6,
       -121.89
@@ -18463,13 +18495,20 @@
   {
     "typical_month": "11",
     "name": "Hey Fever Dance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Mary Wesley",
+      "Will Mentor"
+    ],
+    "bands": [
+      "Good Company",
+      "River Road"
+    ],
     "roles": "",
-    "date": "",
+    "date": "10/31/2025",
     "location": "Ottawa ON",
     "url": "http://www.ottawacontra.ca/heyFever/",
     "year": 2025,
+    "date_end": "11/2/2025",
     "latlng": [
       45.42,
       -75.7
@@ -18636,13 +18675,18 @@
   {
     "typical_month": "12",
     "name": "Dancing Fish: December",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Dereck Kalish"
+    ],
+    "bands": [
+      "Thunderwing"
+    ],
     "roles": "",
-    "date": "",
+    "date": "12/5/2025",
     "location": "Melrose FL",
     "url": "https://dancingfish.dance/",
     "year": 2025,
+    "date_end": "12/6/2025",
     "latlng": [
       29.71,
       -82.05
