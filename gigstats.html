@@ -174,13 +174,56 @@ function make_table(listings, performer_counts) {
   }
 }
 
+
+// from claude
+function isValidDate(dateStr) {
+  // Check if input is string and has correct format
+ if (typeof dateStr !== 'string' ||
+     !dateStr.match(/^\d{1,2}\/\d{1,2}\/\d{4}$/)) {
+   return false;
+ }
+
+ const [month, day, year] = dateStr.split('/').map(Number);
+
+ // Check for valid number ranges
+ if (year < 1000 || year > 9999 || month < 1 || month > 12) {
+   return false;
+ }
+
+ const date = new Date(year, month - 1, day);
+
+ // Check if date is valid and matches input
+ // Using toString() on numbers to handle edge cases like '08' vs 8
+ return date instanceof Date &&
+    !isNaN(date) &&
+    date.getMonth() === month - 1 &&
+    date.getDate().toString() === day.toString() &&
+    date.getFullYear() === year;
+}
+
+// from claude
+function isFutureDate(dateStr) {
+  if (!isValidDate(dateStr)) {
+    return false;
+  }
+
+  const [month, day, year] = dateStr.split('/').map(Number);
+  const inputDate = new Date(year, month - 1, day); // month is 0-based in JS
+  const today = new Date();
+
+  // Reset time part of today to midnight for date-only comparison
+  today.setHours(0, 0, 0, 0);
+
+  return inputDate > today;
+}
+
 async function fetch_dances() {
   const response = await fetch("events.json");
   const events = await response.json();
 
   // year -> {"bands" -> band counts,
   //         "callers" -> caller counts}
-  const data = {};
+  const data = {"future": {"bands": {}, "callers": {}}};
   const years = [];
   for (const event of events) {
     if (!(event.year in data)) {
@@ -190,17 +233,29 @@ async function fetch_dances() {
       }
       years.push(event.year);
     }
+
+    const is_future = event.date && isFutureDate(event.date);
+
     for (const band of event.bands) {
       data[event.year].bands[band] =
         (data[event.year].bands[band] || 0) + 1;
+      if (is_future) {
+        data["future"].bands[band] =
+          (data["future"].bands[band] || 0) + 1;
+      }
     }
     for (const caller of event.callers) {
       data[event.year].callers[caller] =
         (data[event.year].callers[caller] || 0) + 1;
+      if (is_future) {
+        data["future"].callers[caller] =
+          (data["future"].callers[caller] || 0) + 1;
+      }
     }
   }
   years.sort();
   years.pop();
+  years.push("future");
   for (const year of years) {
     const year_button = e("button", year);
     question.appendChild(year_button);
