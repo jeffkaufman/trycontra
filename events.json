@@ -18188,12 +18188,15 @@
     "typical_month": "9",
     "name": "Chehalis Dance Weekend",
     "callers": [],
-    "bands": [],
+    "bands": [
+      "the Free Raisins"
+    ],
     "roles": "",
-    "date": "",
+    "date": "9/19/2025",
     "location": "Surrey BC",
     "url": "https://chehalisdancecamp.com/",
     "year": 2025,
+    "date_end": "9/21/2025",
     "latlng": [
       49.19,
       -122.85
