@@ -17004,8 +17004,49 @@
   {
     "typical_month": "4",
     "name": "NEFFA",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Melanie Axel-Lute",
+      "Donna Hunt",
+      "Maia McCormick",
+      "Dereck Kalish",
+      "Hannah Johlas",
+      "Michael Karcher",
+      "Lisa Greenleaf",
+      "Chris Paige",
+      "Darlene Underwood",
+      "Sue Rosen",
+      "Ben Sachs-Hamilton",
+      "Alex Deis-Lauby",
+      "Jacob Bloom",
+      "Bev Bernbaum",
+      "Sue Gola",
+      "Carl Levine",
+      "Steve Zakon-Anderson",
+      "Julian Blechner",
+      "Harris Lapiroff",
+      "Qwill Duvall"
+    ],
+    "bands": [
+      "Roaring Jelly",
+      "Joy Factor",
+      "Kingfisher",
+      "Torrent",
+      "Confluence",
+      "Festival Orchestra",
+      "Not Enough Fiddles",
+      "Live Wire",
+      "Rum & Onions",
+      "the Orphans",
+      "Dogtown",
+      "the Moving Violations",
+      "Einstein's Little Homunculus",
+      "Jump Start",
+      "Sugar River Band",
+      "Zarkadelphia",
+      "Tabbies' Delight",
+      "Chimney Swift",
+      "Cojiro"
+    ],
     "roles": "Larks / Robins",
     "date": "4/25/2025",
     "location": "Marlborough MA",
@@ -17532,8 +17573,12 @@
   {
     "typical_month": "6",
     "name": "Swing into Summer",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Luke Donforth"
+    ],
+    "bands": [
+      "Topspin"
+    ],
     "roles": "Larks / Robins",
     "date": "",
     "location": "Plymouth MA",
@@ -17572,7 +17617,9 @@
     "typical_month": "6",
     "name": "Old Songs Festival",
     "callers": [],
-    "bands": [],
+    "bands": [
+      "Wild Asparagus "
+    ],
     "roles": "",
     "date": "",
     "location": "Voorheesville NY",
@@ -17616,13 +17663,18 @@
   {
     "typical_month": "6",
     "name": "Dance, Music & Spice at Cavell",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Lindsey Dono"
+    ],
+    "bands": [
+      "Countercurrent"
+    ],
     "roles": "",
-    "date": "",
+    "date": "6/14/2025",
     "location": "Lexington MI",
     "url": "https://camp.cdss.org/camp-weeks/dance-music-spice-at-cavell/",
     "year": 2025,
+    "date_end": "6/21/2025",
     "latlng": [
       43.27,
       -82.53
@@ -17650,10 +17702,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "6/29/2025",
     "location": "Ben Lomond CA",
     "url": "https://amweek.camp/",
     "year": 2025,
+    "date_end": "7/4/2025",
     "latlng": [
       37.09,
       -122.09
@@ -17662,11 +17715,18 @@
   {
     "typical_month": "7",
     "name": "Southern Aire: Dawn Dance",
-    "callers": [],
-    "bands": [
-      "Playing with Fyre",
-      "Howe and Company"
+    "callers": [
+      "Bob Isaacs",
+      "Terry Doyle",
+      "Sue Gola",
+      "Kenny Greer",
+      "Amanda Setili",
+      "Rob Setili",
+      "Stephanie Marie",
+      "Elijah Jaime",
+      "Katie Zanders"
     ],
+    "bands": [],
     "roles": "",
     "date": "7/25/2025",
     "location": "Mountain City TN",
@@ -17706,10 +17766,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "6/29/2025",
     "location": "Pleasantville TN",
     "url": "https://camp.cumberlanddanceweek.org/",
     "year": 2025,
+    "date_end": "7/4/2025",
     "latlng": [
       35.67,
       -87.7
@@ -17718,13 +17779,16 @@
   {
     "typical_month": "7",
     "name": "July Fourth at Pinewoods",
-    "callers": [],
+    "callers": [
+      "Mary Wesley"
+    ],
     "bands": [],
-    "roles": "",
-    "date": "",
+    "roles": "Larks / Robins",
+    "date": "6/26/2025",
     "location": "Plymouth MA",
     "url": "https://cds-boston-j4weekend.weebly.com/",
     "year": 2025,
+    "date_end": "6/30/2025",
     "latlng": [
       41.96,
       -70.67
@@ -17733,13 +17797,18 @@
   {
     "typical_month": "7",
     "name": "Pinewoods English-Scottish-Contra",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Ben Sachs-Hamilton"
+    ],
+    "bands": [
+      "Frost and Fire"
+    ],
     "roles": "Larks / Robins",
-    "date": "",
+    "date": "6/30/2025",
     "location": "Plymouth MA",
     "url": "https://rscdsboston.org/pinewoods-esc.html",
     "year": 2025,
+    "date_end": "7/4/2025",
     "latlng": [
       41.96,
       -70.67
@@ -17771,13 +17840,20 @@
   {
     "typical_month": "7",
     "name": "Ashokan Northern Week",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Will Mentor",
+      "Susan Kevra",
+      "John Krumm"
+    ],
+    "bands": [
+      "Lighthouse"
+    ],
     "roles": "",
-    "date": "",
+    "date": "7/13/2025",
     "location": "Olivebridge NY",
     "url": "https://ashokancenter.org/product/northern-week-2024/",
     "year": 2025,
+    "date_end": "7/19/2025",
     "latlng": [
       41.93,
       -74.22
@@ -17789,10 +17865,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "7/19/2025",
     "location": "Plymouth MA",
     "url": "https://camp.cdss.org/camp-weeks/american-dance-music-week-2/",
     "year": 2025,
+    "date_end": "7/26/2025",
     "latlng": [
       41.96,
       -70.67
@@ -17804,10 +17881,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "7/26/2025",
     "location": "Plymouth MA",
     "url": "https://camp.cdss.org/camp-weeks/harmony-of-song-dance-at-pinewoods/",
     "year": 2025,
+    "date_end": "8/2/2025",
     "latlng": [
       41.96,
       -70.67
@@ -17834,10 +17912,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "8/22/2025",
     "location": "Bloomington IN",
     "url": "http://bloomingtoncontra.org/sugar-hill/",
     "year": 2025,
+    "date_end": "8/24/2025",
     "latlng": [
       39.17,
       -86.53
@@ -17849,10 +17928,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "8/11/2025",
     "location": "Poland ME",
     "url": "https://camp.cdss.org/camp-weeks/family-week-at-agassiz-village-2/",
     "year": 2025,
+    "date_end": "8/17/2025",
     "latlng": [
       44.06,
       -70.39
@@ -17864,10 +17944,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "8/11/2025",
     "location": "Cascade MD",
     "url": "https://camp.cdss.org/camp-weeks/cascade-of-music-dance-at-louise/",
     "year": 2025,
+    "date_end": "8/17/2025",
     "latlng": [
       39.71,
       -77.5
@@ -17879,10 +17960,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "8/16/2025",
     "location": "Plymouth MA",
     "url": "https://camp.cdss.org/camp-weeks/campers-week-at-pinewoods/",
     "year": 2025,
+    "date_end": "8/23/2025",
     "latlng": [
       41.96,
       -70.67
@@ -17921,13 +18003,18 @@
   {
     "typical_month": "8",
     "name": "Good Life Gallup",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Kate McBride"
+    ],
+    "bands": [
+      "Kaw Creek"
+    ],
     "roles": "",
-    "date": "",
+    "date": "8/2/2025",
     "location": "Omaha NE",
     "url": "https://www.thegoodlifegallop.org/",
     "year": 2025,
+    "date_end": "8/4/2025",
     "latlng": [
       41.26,
       -95.93
@@ -17936,13 +18023,20 @@
   {
     "typical_month": "8",
     "name": "Mentone",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Cis Hinkle",
+      "Chet Gray"
+    ],
+    "bands": [
+      "Turnip the Beet",
+      "the Yellow Dandies"
+    ],
     "roles": "",
-    "date": "",
+    "date": "8/15/2025",
     "location": "Mentone AL",
     "url": "http://www.footmadbirmingham.org/mentone.html",
     "year": 2025,
+    "date_end": "8/17/2025",
     "latlng": [
       34.58,
       -85.59
@@ -17976,28 +18070,14 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "8/23/2025",
     "location": "Plymouth MA",
     "url": "http://minstrelrecords.com/tradmad/",
     "year": 2025,
+    "date_end": "8/29/2025",
     "latlng": [
       41.96,
       -70.67
-    ]
-  },
-  {
-    "typical_month": "8",
-    "name": "Susquehanna Folk Festival",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "York PA",
-    "url": "https://www.sfmsfolk.org/festival/SusquehannaFolkFestival.html",
-    "year": 2025,
-    "latlng": [
-      39.96,
-      -76.73
     ]
   },
   {
@@ -18101,7 +18181,7 @@
     "roles": "",
     "date": "9/19/2025",
     "location": "Ellerbe NC",
-    "url": "https://www.feetretreat.com/",
+    "url": "https://www.feetretreat.com/feet-retreat-2025/",
     "year": 2025,
     "date_end": "9/21/2025",
     "latlng": [
@@ -18112,13 +18192,20 @@
   {
     "typical_month": "9",
     "name": "Bear Hug Dance Camp",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Michael Karcher",
+      "Emily Faulkner"
+    ],
+    "bands": [
+      "Countercurrent",
+      "Banna Damhsa"
+    ],
     "roles": "",
-    "date": "",
+    "date": "9/5/2025",
     "location": "Rollins MT",
     "url": "https://www.missoulafolk.org/bearhug",
     "year": 2025,
+    "date_end": "9/7/2025",
     "latlng": [
       47.91,
       -114.2
@@ -18127,13 +18214,18 @@
   {
     "typical_month": "9",
     "name": "Squirrel Moon Contra Dance weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Lisa Greenleaf"
+    ],
+    "bands": [
+      "Lift Ticket"
+    ],
     "roles": "",
-    "date": "",
+    "date": "9/19/2025",
     "location": "Dodgeville WI",
     "url": "http://www.squirrelmoon.org/",
     "year": 2025,
+    "date_end": "9/21/2025",
     "latlng": [
       42.96,
       -90.13
@@ -18147,7 +18239,7 @@
     "roles": "",
     "date": "",
     "location": "Camp Sacremento",
-    "url": "https://sactocds.wordpress.com/echo-summit-dance-camp-2024/",
+    "url": "https://sactocds.wordpress.com/special-events/echo-summit-dance-camp-2025",
     "year": 2025,
     "latlng": [
       38.8,
@@ -18156,29 +18248,15 @@
   },
   {
     "typical_month": "9",
-    "name": "Labor Day Dance Away",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Julian CA",
-    "url": "https://www.caldancecoop.org/special-events/labor-day-dance-away-2021/",
-    "year": 2025,
-    "latlng": [
-      33.08,
-      -116.6
-    ]
-  },
-  {
-    "typical_month": "9",
     "name": "Pinewoods Labor Day Weekend",
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "8/29/2025",
     "location": "Plymouth MA",
     "url": "https://facone.org/labor-day-weekend/labor-day-weekend.html",
     "year": 2025,
+    "date_end": "9/2/2025",
     "latlng": [
       41.96,
       -70.67
@@ -18187,9 +18265,13 @@
   {
     "typical_month": "9",
     "name": "Chehalis Dance Weekend",
-    "callers": [],
+    "callers": [
+      "Koren Wake",
+      "Jeremy Korr"
+    ],
     "bands": [
-      "the Free Raisins"
+      "the Free Raisins",
+      "Joyride"
     ],
     "roles": "",
     "date": "9/19/2025",
@@ -18258,13 +18340,20 @@
   {
     "typical_month": "10",
     "name": "Moondance Dance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Bob Isaacs",
+      "Diane Silver"
+    ],
+    "bands": [
+      "Lagomorph Quartet",
+      "Good & Plenty"
+    ],
     "roles": "",
-    "date": "",
+    "date": "10/3/2025",
     "location": "Pickens SC",
     "url": "https://moondancesc.weebly.com/",
     "year": 2025,
+    "date_end": "10/5/2025",
     "latlng": [
       34.88,
       -82.71
@@ -18296,10 +18385,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "9/7/2025",
     "location": "Glen Echo MD",
     "url": "https://fsgw.org/contrastock",
     "year": 2025,
+    "date_end": "9/7/2025",
     "latlng": [
       38.97,
       -77.14
@@ -18323,13 +18413,20 @@
   {
     "typical_month": "10",
     "name": "Lady of the Lake Fall Camp",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Susan Petrick",
+      "William Watson"
+    ],
+    "bands": [
+      "the Stringrays",
+      "Dog Paw"
+    ],
     "roles": "",
-    "date": "",
+    "date": "10/3/2025",
     "location": "Harrison, ID",
     "url": "http://www.ladyofthelake.org/fallwend/",
     "year": 2025,
+    "date_end": "10/5/2025",
     "latlng": [
       47.45,
       -116.79
@@ -18393,10 +18490,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "10/25/2025",
     "location": "Peterborough NH",
-    "url": "http://www.monadnockfolk.org/?tribe_events=%E2%98%BC-%E2%98%BC-%E2%98%BC-peterborough-fall-ball-2019",
+    "url": "https://www.monadnockfolk.org/event/%E2%98%BC-%E2%98%BC-%E2%98%BC-peterborough-fall-ball-saturday-october-25-2025/",
     "year": 2025,
+    "date_end": "10/25/2025",
     "latlng": [
       42.87,
       -71.95
@@ -18419,29 +18517,19 @@
   },
   {
     "typical_month": "10",
-    "name": "Boo Camp",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Jemez Springs NM",
-    "url": "https://folkmads.org/2023/10/31/boo-camp/",
-    "year": 2025,
-    "latlng": [
-      35.77,
-      -106.69
-    ]
-  },
-  {
-    "typical_month": "10",
     "name": "Music City Masquerade",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Darlene Underwood"
+    ],
+    "bands": [
+      "the Engine Room"
+    ],
     "roles": "",
-    "date": "",
+    "date": "10/24/2025",
     "location": "Nashville TN",
     "url": "http://nashvillecountrydancers.org/music-city-masquerade/",
     "year": 2025,
+    "date_end": "10/26/2025",
     "latlng": [
       36.16,
       -86.78
@@ -18450,16 +18538,43 @@
   {
     "typical_month": "10",
     "name": "Fire Ant Frolic",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Steve Zakon-Anderson"
+    ],
+    "bands": [
+      "Northwoods"
+    ],
     "roles": "",
-    "date": "",
+    "date": "11/14/2025",
     "location": "Austin TX",
     "url": "http://www.fireantfrolic.org/",
     "year": 2025,
+    "date_end": "11/16/2025",
     "latlng": [
       30.27,
       -97.74
+    ]
+  },
+  {
+    "typical_month": "10",
+    "name": "Contra NYC",
+    "callers": [
+      "Will Mentor"
+    ],
+    "bands": [
+      "Red Case Band",
+      "Kingfisher",
+      "Some Assembly Required"
+    ],
+    "roles": "",
+    "date": "10/24/2025",
+    "location": "New York NY",
+    "url": "https://www.contradance.nyc/",
+    "year": 2025,
+    "date_end": "10/26/2025",
+    "latlng": [
+      40.71,
+      -74.01
     ]
   },
   {
@@ -18498,21 +18613,6 @@
     "latlng": [
       36.6,
       -121.89
-    ]
-  },
-  {
-    "typical_month": "11",
-    "name": "ContraShock",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "New York NY",
-    "url": "http://contrashock.org/",
-    "year": 2025,
-    "latlng": [
-      40.71,
-      -74.01
     ]
   },
   {
@@ -18562,13 +18662,20 @@
   {
     "typical_month": "11",
     "name": "Pittsburgh Fall Dance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Gaye Fifer",
+      "Will Mentor"
+    ],
+    "bands": [
+      "the Dam Beavers",
+      "Topspin"
+    ],
     "roles": "Larks / Robins",
-    "date": "",
+    "date": "10/17/2025",
     "location": "Pittsburgh PA",
     "url": "http://pittsburghcontra.org/fdw/",
     "year": 2025,
+    "date_end": "10/19/2025",
     "latlng": [
       40.44,
       -80.0
