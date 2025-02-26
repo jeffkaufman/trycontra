@@ -17060,6 +17060,26 @@
   },
   {
     "typical_month": "4",
+    "name": "Spring Thaw Weekend",
+    "callers": [
+      "Rick Szumski  ",
+      "Will Mentor"
+    ],
+    "bands": [
+      "Stomp Rocket"
+    ],
+    "roles": "",
+    "date": "",
+    "location": "Toronto ON",
+    "url": "https://tcdance.org/thaw2025.php",
+    "year": 2025,
+    "latlng": [
+      43.65,
+      -79.38
+    ]
+  },
+  {
+    "typical_month": "4",
     "name": "Fiddlehead Frolic",
     "callers": [
       "Adina Gordon"
@@ -18003,18 +18023,14 @@
   {
     "typical_month": "8",
     "name": "Good Life Gallup",
-    "callers": [
-      "Kate McBride"
-    ],
-    "bands": [
-      "Kaw Creek"
-    ],
+    "callers": [],
+    "bands": [],
     "roles": "",
-    "date": "8/2/2025",
+    "date": "8/15/2025",
     "location": "Omaha NE",
     "url": "https://www.thegoodlifegallop.org/",
     "year": 2025,
-    "date_end": "8/4/2025",
+    "date_end": "8/17/2025",
     "latlng": [
       41.26,
       -95.93
