@@ -17802,8 +17802,13 @@
   {
     "typical_month": "7",
     "name": "Cumberland Dance Week",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Wendy Graham Settle",
+      "Seth Tepfer"
+    ],
+    "bands": [
+      "the Cosmic Otters"
+    ],
     "roles": "",
     "date": "6/29/2025",
     "location": "Pleasantville TN",
