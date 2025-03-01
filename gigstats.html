@@ -49,6 +49,11 @@ body {
   font-family: sans-serif;
 }
 
+#explanation {
+  padding-top: 16px;
+  font-family: sans-serif;
+}
+
 html, body {height: 100%;}
 
 #wrap {
@@ -106,9 +111,9 @@ button:active, .active {
 <div id="content-inner">
 
 
-<div id="question">
+<div id="question"></div>
 
-</div>
+<div id="explanation"></div>
 
 <h2>Bands</h2>
   <table id="bandlistings" border=1 cellpadding=5>
@@ -211,7 +216,10 @@ async function fetch_dances() {
 
   // year -> {"bands" -> band counts,
   //         "callers" -> caller counts}
-  const data = {"future": {"bands": {}, "callers": {}}};
+  const data = {
+    "future": {"bands": {}, "callers": {}},
+    "2016-future": {"bands": {}, "callers": {}},
+  };
   const years = [];
   for (const event of events) {
     if (!(event.year in data)) {
@@ -225,14 +233,18 @@ async function fetch_dances() {
     const is_future = event.date && isFutureDate(event.date);
 
     for (const band of event.bands) {
+      data["2016-future"].bands[band] =
+        (data["2016-future"].bands[band] || 0) + 1;
       data[event.year].bands[band] =
         (data[event.year].bands[band] || 0) + 1;
       if (is_future) {
         data["future"].bands[band] =
           (data["future"].bands[band] || 0) + 1;
-      }
+      }      
     }
     for (const caller of event.callers) {
+      data["2016-future"].callers[caller] =
+        (data["2016-future"].callers[caller] || 0) + 1;
       data[event.year].callers[caller] =
         (data[event.year].callers[caller] || 0) + 1;
       if (is_future) {
@@ -244,6 +256,7 @@ async function fetch_dances() {
   years.sort();
   years.pop();
   years.push("future");
+  years.splice(0, 0, "2016-future");
   for (const year of years) {
     const year_button = e("button", year);
     question.appendChild(year_button);
@@ -255,6 +268,21 @@ async function fetch_dances() {
         other_button.classList.remove('active');
       }
       button.classList.add('active');
+
+      if (button.innerText === "2016-future") {
+         explanation.innerText =
+           "All performers with 2+ known contra bookings at events " +
+           "with 9hr+ of contra dancing since 2016.";
+      } else if (button.innerText === "future") {
+         explanation.innerText =
+           "All performers with 2+ known contra bookings at future " +
+           " events with 9hr+ of contra dancing.";
+      } else {
+         explanation.innerText =
+           "All performers with 2+ known contra bookings at " +
+           button.innerText +
+           " events with 9hr+ of contra dancing.";
+      }
 
       const year_data = data[button.innerText];
       make_table(bandlistings, year_data.bands);
