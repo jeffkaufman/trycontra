@@ -17609,7 +17609,8 @@
       "Luke Donforth"
     ],
     "bands": [
-      "Topspin"
+      "Topspin",
+      "the Pegasus Collective"
     ],
     "roles": "Larks / Robins",
     "date": "",
@@ -17715,12 +17716,18 @@
   {
     "typical_month": "6",
     "name": "Taste of Haven",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Gaye Fifer",
+      "Dwayne Johnson"
+    ],
+    "bands": [
+      "the Dam Beavers",
+      "Bobcat Opposum"
+    ],
     "roles": "",
     "date": "6/6/2025",
     "location": "Syracuse IN",
-    "url": "https://www.contracorners.net/events/taste-of-haven-2024/",
+    "url": "https://www.contracorners.net/event-type/dance-weekend/",
     "year": 2025,
     "date_end": "6/8/2025",
     "latlng": [
