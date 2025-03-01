@@ -17908,8 +17908,14 @@
   {
     "typical_month": "7",
     "name": "American Dance & Music Week at Pinewoods",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Janine Smith",
+      "Michael Karcher",
+      "Lisa Greenleaf"
+    ],
+    "bands": [
+      "the Stringrays"
+    ],
     "roles": "",
     "date": "7/19/2025",
     "location": "Plymouth MA",
@@ -17924,8 +17930,13 @@
   {
     "typical_month": "7",
     "name": "Harmony of Song & Dance at Pinewoods",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Gaye Fifer",
+      "Adina Gordon"
+    ],
+    "bands": [
+      "Countercurrent"
+    ],
     "roles": "",
     "date": "7/26/2025",
     "location": "Plymouth MA",
@@ -17935,21 +17946,6 @@
     "latlng": [
       41.96,
       -70.67
-    ]
-  },
-  {
-    "typical_month": "7",
-    "name": "Summergreen",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Livingston MT",
-    "url": "https://bozemanfolklore.org/summergreen/",
-    "year": 2025,
-    "latlng": [
-      45.66,
-      -110.56
     ]
   },
   {
