@@ -1,26 +1,39 @@
 #!/usr/bin/env python3
 import re
+import glob
 import json
 
 bands_add_the = [
-    'Adobe Brothers', 'Avant Gardeners', 'Canote Brothers',
-    'Contrarians', 'Dam Beavers', 'Engine Room', 'Faux Paws',
-    'Figments', 'Free Raisins', 'Gaslight Tinkers', 'JEMS',
-    'Latter Day Lizards', 'Mean Lids', 'Moving Violations',
-    "O'Schraves", 'Offbeats', 'Quarks',
-    'Red Mountain Yellowhammers', 'Rhythm Raptors', 'Ripples',
-    'Stringrays', 'Stuff', 'Syncopaths', 'Turning Stile', 'Whoots']
+    'Adobe Brothers',
+    'Avant Gardeners',
+    'Canote Brothers',
+    'Contrarians',
+    'Dam Beavers',
+    'Engine Room',
+    'Faux Paws',
+    'Figments',
+    'Free Raisins',
+    'Gaslight Tinkers',
+    'JEMS',
+    'Latter Day Lizards',
+    'Mean Lids',
+    'Moving Violations',
+    "O'Schraves",
+    'Offbeats',
+    'Quarks',
+    'Red Mountain Yellowhammers',
+    'Rhythm Raptors',
+    'Ripples',
+    'Stringrays',
+    'Stuff',
+    'Syncopaths',
+    'Turning Stile',
+    'Whoots',
+]
 
 records = []
-for year, fname in [
-        (2016, "events-raw-2016.tsv"),
-        (2017, "events-raw-2017.tsv"),
-        (2018, "events-raw-2018.tsv"),
-        (2019, "events-raw-2019.tsv"),
-        (2023, "events-raw-2023.tsv"),
-        (2024, "events-raw-2024.tsv"),
-        (2025, "events-raw-2025.tsv"),
-]:
+for fname in sorted(glob.glob("events-raw-*.tsv")):
+    year = int(fname.removeprefix("events-raw-").removesuffix(".tsv"))
     with open(fname) as inf:
         for n, line in enumerate(inf):
           try:
