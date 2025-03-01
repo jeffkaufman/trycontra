@@ -17103,7 +17103,7 @@
     "typical_month": "4",
     "name": "Hands Four Spring Dance Weekend",
     "callers": [
-      "Timothy Kline",
+      "Timothy Klein",
       "Chris Bischoff"
     ],
     "bands": [
@@ -17420,8 +17420,19 @@
   {
     "typical_month": "5",
     "name": "Contradancers Delight Holiday (Spring)",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Terry Doyle",
+      "Bob Isaacs",
+      "Devin Pohly",
+      "Warren Doyle"
+    ],
+    "bands": [
+      "Toss the Possum",
+      "Playing with Fyre",
+      "Atlanta Folk Orchestra",
+      "Ed Howe & Friends",
+      "Buzz Band"
+    ],
     "roles": "Ladies/Gents",
     "date": "",
     "location": "Mountain City TN",
