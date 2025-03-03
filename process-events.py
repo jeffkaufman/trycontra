@@ -65,7 +65,7 @@ bands_add_the = [
 ]
 
 name_changes = {
-    'Wendy Graham': 'Wendy Graham Settle',
+    'Wendy Graham Settle': 'Wendy Graham',
     'Lauren Peckman': 'Lo Peckman',
     'Ron Blechner': 'Julian Blechner',
 }
