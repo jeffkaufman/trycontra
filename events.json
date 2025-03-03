@@ -18692,6 +18692,27 @@
     ]
   },
   {
+    "typical_month": "10",
+    "name": "John C Campbell Fall Dance Weekend",
+    "callers": [
+      "Wendy Graham Settle",
+      "Carol Sersland"
+    ],
+    "bands": [
+      "Supertrad"
+    ],
+    "roles": "",
+    "date": "10/9/2025",
+    "location": "Brasstown NC",
+    "url": "https://folkschool.configio.com/pd/3332/fall-dance-weekend-long-weekend",
+    "year": 2025,
+    "date_end": "10/12/2025",
+    "latlng": [
+      35.04,
+      -83.96
+    ]
+  },
+  {
     "typical_month": "11",
     "name": "Foggy Moon Dance Weekend",
     "callers": [
@@ -20785,6 +20806,21 @@
     "latlng": [
       36.29,
       -82.47
+    ]
+  },
+  {
+    "typical_month": "10",
+    "name": "John C Campbell Fall Dance Weekend",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Brasstown NC",
+    "url": "https://folkschool.configio.com/pd/3332/fall-dance-weekend-long-weekend",
+    "year": 2026,
+    "latlng": [
+      35.04,
+      -83.96
     ]
   },
   {
