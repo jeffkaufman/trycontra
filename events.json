@@ -18376,6 +18376,28 @@
     ]
   },
   {
+    "typical_month": "9",
+    "name": "Butterfly Twirl",
+    "callers": [
+      "Gaye Fifer",
+      "Darlene Underwood"
+    ],
+    "bands": [
+      "Hot Coffee Breakdown",
+      "Playing with Fyre"
+    ],
+    "roles": "",
+    "date": "9/12/2025",
+    "location": "Chagrin Falls OH",
+    "url": "https://www.facebook.com/events/1279189076745356/",
+    "year": 2025,
+    "date_end": "9/14/2025",
+    "latlng": [
+      41.43,
+      -81.39
+    ]
+  },
+  {
     "typical_month": "10",
     "name": "Moondance Dance Weekend",
     "callers": [
@@ -20485,6 +20507,21 @@
     "latlng": [
       44.05,
       -123.02
+    ]
+  },
+  {
+    "typical_month": "9",
+    "name": "Butterfly Twirl",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Chagrin Falls OH",
+    "url": "",
+    "year": 2026,
+    "latlng": [
+      41.43,
+      -81.39
     ]
   },
   {
