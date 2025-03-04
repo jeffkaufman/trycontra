@@ -581,7 +581,7 @@
     "annual_freq": 21,
     "city": "Cambridge MA",
     "gender_free": true,
-    "ical": "https://www.bidadance.org/events.ics",
+    "icals": ["https://www.bidadance.org/events.ics"],
     "url": "http://www.bidadance.org/",
     "weekdays": "Sundays"
   },

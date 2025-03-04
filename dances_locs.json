@@ -767,7 +767,9 @@
     "annual_freq": 21,
     "city": "Cambridge MA",
     "gender_free": true,
-    "ical": "https://www.bidadance.org/events.ics",
+    "icals": [
+      "https://www.bidadance.org/events.ics"
+    ],
     "lat": 42.37,
     "lng": -71.11,
     "url": "http://www.bidadance.org/",
