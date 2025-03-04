@@ -8,16 +8,10 @@ Either send an email to Jeff (jeff@jefftk.com) or send a Pull Request.
 
 If you're making a pull request, the process is:
 
-1. Update `dances.json` with your change.  The structure of each
-   record is: `[url, city, weekdays, annual frequency, gender free?,
-   active?],`
+1. Update `dances.json` with your change.
 
-   For example: `["http://www.bidadance.org/", "Cambridge MA",
-   "Sundays", 21, "GF", true],`
-
-   Note that annual frequencies are just guesses, and currently many
-   of them are too high because of dances resuming with fewer annual
-   events than before the pandemic.
+   Note that annual frequencies are just guesses based on looking at
+   the website.
 
 2. Run `./lookup_locs.py` to update `dances_locs.json` with your
    changes and pull in latitude and longitude.

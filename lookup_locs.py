@@ -41,8 +41,8 @@ def build_loc_lookup():
   existing_locs = json.loads(open("dances_locs.json").read())
   loc_lookup = {}
 
-  for url, loc, days, freq, lat, lng, *rest in existing_locs:
-    loc_lookup[loc] = [lat, lng]
+  for record in existing_locs:
+    loc_lookup[record["city"]] = record["lat"], record["lng"]
   return loc_lookup
 
 def start():
@@ -50,18 +50,8 @@ def start():
   loc_lookup = build_loc_lookup()
 
   loc_dances = []
-  for row in dances:
-
-    try:
-      url, loc, days, freq, roles, active = row
-    except Exception:
-      print(row)
-      raise
-
-    if roles not in ["GF", ""]:
-      raise Exception("unknown roles %r in %r" % (
-        roles, line))
-
+  for record in dances:
+    loc = record["city"]
     if '(' in loc:
       lat, lng = None, None
     elif loc in loc_lookup:
@@ -69,9 +59,12 @@ def start():
     else:
       lat, lng = lookup_ll(loc)
       time.sleep(1)
-    loc_dances.append([url, loc, days, freq, lat, lng, roles, active])
+
+    record["lat"] = lat
+    record["lng"] = lng
+    
   with open("dances_locs.json", "w") as outf:
-    outf.write(json.dumps(loc_dances).replace("],", "],\n"))
+    json.dump(dances, outf, sort_keys=True, indent=2)
 
   with open("events.json") as inf:
     event_records = json.load(inf)

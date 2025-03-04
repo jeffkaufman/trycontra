@@ -1,290 +1,2392 @@
-[["http://www.thedancingbears.com/", "Anchorage AK", "Fridays", 20, 61.22, -149.9, "", true],
- ["http://contraborealis.org/", "Fairbanks AK", "Fridays and Saturdays", 20, 64.84, -147.72, "", true],
- ["http://www.juneaucontras.org/", "Juneau AK", "Saturdays", 5, 58.3, -134.42, "", true],
- ["https://www.footmadbirmingham.org", "Birmingham AL", "Saturdays", 12, 33.52, -86.8, "", true],
- ["https://www.facebook.com/groups/nacds", "Huntsville AL", "Saturdays", 27, 34.73, -86.59, "", true],
- ["http://www.nwacontra.org/", "Fayetteville AR", "Saturdays", 12, 36.06, -94.16, "", true],
- ["http://www.arkansascountrydance.org/", "North Little Rock AR", "Fridays", 27, 34.77, -92.27, "", true],
- ["http://ffotm.org/contra-dances/", "Flagstaff AZ", "Saturdays", 12, 35.2, -111.64, "", true],
- ["http://www.phxtmd.org/", "Phoenix AZ", "Fridays and Saturdays", 22, 33.45, -112.07, "", true],
- ["https://tucsoncontradancers.org/", "Tucson AZ", "Saturdays", 20, 32.22, -110.93, "", true],
- ["http://www.thelivingtradition.org/tltbodydance.html", "Anaheim CA", "Saturdays", 11, 33.84, -117.91, "", true],
- ["https://www.sccdc.org/contra/california-twirl/", "Los Angeles CA", "Fridays", 12, 34.05, -118.24, "GF", true],
- ["https://www.sccdc.org/contra/", "Pasadena CA", "Saturdays", 27, 34.15, -118.14, "", true],
- ["https://www.facebook.com/groups/contrasantacruz/", "Santa Cruz CA", "Fridays", 12, 36.97, -122.03, "GF", true],
- ["http://www.bacds.org/series/contra/berkeley_wed/", "Berkeley CA", "Thursdays", 27, 37.87, -122.27, "GF", true],
- ["https://bacds.org/series/contra/san_francisco_wed/", "San Francisco CA", "Wednesdays", 24, 37.77, -122.42, "GF", true],
- ["http://www.bacds.org/series/contra/palo_alto/", "Palo Alto CA", "Saturdays", 27, 37.44, -122.14, "GF", true],
- ["http://www.bacds.org/series/contra/san_jose/", "San Jose CA", "Sundays", 11, 37.34, -121.89, "GF", false],
- ["https://sfbaycontra.org/", "Hayward CA", "Sundays", 15, 37.67, -122.08, "GF", true],
- ["http://www.sbcds.org/contradance/schedule/", "Santa Barbara CA", "Sundays", 32, 34.42, -119.7, "", true],
- ["http://www.queercontradance.org/circleleft.html", "Oakland CA", "Saturdays", 12, 37.81, -122.27, "GF", true],
- ["http://www.nbcds.org/", "Petaluma CA", "Sundays", 12, 38.23, -122.64, "GF", true],
- ["http://www.nbcds.org/", "Santa Rosa CA", "Fridays and Saturdays", 15, 38.44, -122.71, "", true],
- ["http://www.nbcds.org/", "San Rafael CA", "Saturdays", 12, 37.97, -122.53, "", true],
- ["http://montereycontradance.org", "Monterey CA", "Saturdays", 20, 36.6, -121.89, "GF", true],
- ["http://www.sactocds.org/", "Sacramento CA", "Fridays and Saturdays", 24, 38.58, -121.49, "GF", true],
- ["https://sdfolkheritage.org/contradance/", "San Diego CA", "Wednesdays and Saturdays", 27, 32.72, -117.16, "GF", true],
- ["http://www.cccds.org/", "San Luis Obispo CA", "Saturdays", 12, 35.28, -120.66, "", true],
- ["https://www.evobluestein.com/central-california-community-dance/", "Fresno CA", "Saturdays", 12, 36.74, -119.77, "", true],
- ["https://www.meetup.com/alameda-contra-dance-community-dance-with-live-music/", "Alameda CA", "Saturdays", 12, 37.78, -122.28, "", true],
- ["https://www.facebook.com/groups/2482867541901522/", "Grass Valley CA", "Saturdays", 12, 39.22, -121.06, "", true],
- ["http://www.cfootmad.org", "Boulder CO", "Fridays", 24, 40.01, -105.27, "", true],
- ["http://www.cfootmad.org", "Denver CO", "Fridays", 24, 39.74, -104.98, "", true],
- ["http://www.cfootmad.org", "Denver CO", "Saturdays", 12, 39.74, -104.98, "", true],
- ["http://www.cfootmad.org", "Denver CO", "Saturdays", 12, 39.74, -104.98, "GF", true],
- ["http://www.arkvalleymusicanddance.org/calendar-of-events.html", "Buena Vista CO", "Fridays", 7, 38.84, -106.13, "", true],
- ["http://www.fotd.org/", "Fort Collins CO", "Saturdays", 27, 40.59, -105.08, "", true],
- ["https://www.fifthreelmusicanddance.com/services", "Grand Junction CO", "Saturdays", 7, 39.06, -108.55, "", true],
- ["https://www.pptdcontra.com/", "Colorado Springs CO", "Sundays", 12, 38.83, -104.82, "", true],
- ["https://www.facebook.com/groups/704823689706272/", "Carbondale CO", "Saturdays", 8, 39.4, -107.21, "", true],
- ["http://www.hcdance.org/contra-dance/", "Wethersfield CT", "Saturdays", 12, 41.71, -72.66, "", true],
- ["https://newhavencontra.org/", "New Haven CT", "Saturdays", 22, 41.31, -72.93, "", true],
- ["https://mysticpiedance.wixsite.com/mystic-pie-dance", "Groton CT", "Saturdays", 12, 41.35, -72.08, "", true],
- ["http://www.hcdance.org/quiet-corner-contra/", "Coventry CT", "Fridays", 10, 41.78, -72.34, "", true],
- ["https://www.facebook.com/StaffordStomp/", "Stafford CT", "Saturdays", 9, 41.98, -72.32, "", true],
- ["https://www.facebook.com/groups/ardencontra/", "Arden DE", "Sundays", 10, 39.81, -75.49, "GF", true],
- ["https://www.facebook.com/southfloridacontradance/", "Boca Raton FL", "Saturdays", 12, 26.36, -80.08, "", true],
- ["https://spacecoastcontra.org/", "Cocoa FL", "Saturdays", 12, 28.39, -80.74, "", true],
- ["http://godsdance.org/", "Gainesville FL", "Fridays", 12, 29.65, -82.32, "", true],
- ["http://www.tallydancer.com/", "Tallahassee FL", "Fridays", 24, 30.44, -84.28, "", true],
- ["http://www.tampabaycontra.com/", "Tampa FL", "Fridays and Saturdays", 36, 27.95, -82.46, "", true],
- ["https://www.facebook.com/Melrose-Contra-Dance-1631846603752150/", "Melrose FL", "Saturdays", 12, 29.71, -82.04, "", true],
- ["http://JaxContra.org", "Jacksonville FL", "Saturdays", 12, 30.33, -81.66, "", true],
- ["https://orlandocontra.org/", "Orlando FL", "Fridays", 48, 28.54, -81.38, "GF", true],
- ["https://dancingfish.dance/events/", "Melrose FL", "Fridays and Saturdays", 36, 29.71, -82.04, "", true],
- ["http://www.contradance.org", "Decatur GA", "Fridays", 52, 33.77, -84.3, "", true],
- ["http://atgaga.com/", "Gainesville GA", "Saturdays", 22, 34.3, -83.82, "", false],
- ["https://www.savannahfolk.org/dance-events/", "Savannah GA", "Saturdays", 10, 32.08, -81.1, "", true],
- ["https://snca.org/contra/home.php", "Sautee Nacoochee GA", "Saturdays", 12, 34.68, -83.67, "", true],
- ["https://www.northgeorgiafolkfestival.org/contradances", "Athens GA", "Saturdays", 12, 33.95, -83.36, "", true],
- ["https://contradance.org/trolleybarn", "Atlanta GA", "Tuesdays", 52, 33.75, -84.39, "", true],
- ["http://contradancehi.weebly.com/", "Honolulu HI", "Saturdays", 24, 21.31, -157.86, "", true],
- ["https://www.facebook.com/Des-Moines-Area-Barn-Contra-Dance-198569640201183/", "Des Moines IA", "Saturdays", 6, 41.6, -93.61, "", true],
- ["https://ffadc.blogspot.com/", "Fairfield IA", "Saturdays", 10, 41.01, -91.97, "", true],
- ["https://www.facebook.com/DecorahContra/", "Decorah IA", "Saturdays", 10, 43.3, -91.79, "", true],
- ["https://www.facebook.com/groups/378676195487095/", "Moscow ID", "Saturdays", 12, 46.73, -117.0, "", true],
- ["https://www.facebook.com/groups/PocatelloContra", "Pocatello ID", "Saturdays", 8, 42.87, -112.45, "", true],
- ["https://www.facebook.com/groups/218705032849113/", "Boise ID", "Saturdays", 8, 43.62, -116.2, "", true],
- ["https://www.facebook.com/profile.php?id=100070097186328", "Sandpoint ID", "Fridays", 11, 48.28, -116.55, "", true],
- ["http://www.chicagobarndance.org/", "Chicago IL", "Mondays", 50, 41.88, -87.63, "", true],
- ["https://www.facebook.com/QueerContraChicago/", "Chicago IL", "Saturdays", 10, 41.88, -87.63, "GF", true],
- ["http://www.urbana-contra.org/", "Urbana IL", "Fridays", 12, 40.11, -88.21, "", true],
- ["http://foxvalleyfolk.com/barndance.html", "Glen Ellyn IL", "Sundays", 10, 41.88, -88.07, "", true],
- ["https://www.facebook.com/groups/165256476374/", "Carbondale IL", "Saturdays", 20, 37.72, -89.21, "", true],
- ["https://www.plankroad.org/BarnDances.html", "Downers Grove IL", "Saturdays", 12, 41.81, -88.01, "", true],
- ["http://bloomingtoncontra.org", "Bloomington IN", "Wednesdays", 52, 39.17, -86.53, "", true],
- ["http://www.indycontra.org/", "Indianapolis IN", "Tuesdays", 12, 39.77, -86.16, "", true],
- ["http://valpo.chicagobarndance.com/", "Valparaiso IN", "Saturdays", 8, 41.47, -87.06, "", true],
- ["http://godancing.org/", "Goshen IN", "Saturdays", 10, 41.58, -85.83, "", true],
- ["http://www.sbcontras.org", "South Bend IN", "Fridays or Saturdays", 8, 41.68, -86.26, "", true],
- ["http://www.lawrencebarndance.org/", "Lawrence KS", "Saturdays", 20, 38.97, -95.24, "", true],
- ["https://www.facebook.com/groups/derbybarndance/", "Wichita KS", "Saturdays", 12, 37.69, -97.34, "", true],
- ["http://www.bereacontradance.org/schedule.html", "Berea KY", "Fridays and Saturdays", 20, 37.57, -84.3, "", true],
- ["https://www.ltda.us/", "Lexington KY", "Fridays and Saturdays", 30, 38.04, -84.5, "", true],
- ["http://www.louisvillecountrydancers.org/", "Louisville KY", "Mondays", 52, 38.25, -85.76, "", true],
- ["http://www.louisvillecountrydancers.org/", "Louisville KY", "Saturdays", 12, 38.25, -85.76, "", true],
- ["http://cchdm.weebly.com/announcements", "Frankfort KY", "Fridays", 24, 38.2, -84.87, "", true],
- ["https://www.facebook.com/pages/Somerset-Contra-Dance/194026780616706", "Somerset KY", "Saturdays", 5, 37.09, -84.6, "", true],
- ["http://louisianacontrasandsquares.com/", "Lafayette LA", "Saturdays", 12, 30.22, -92.01, "", true],
- ["http://louisianacontrasandsquares.com/", "Baton Rouge LA", "Saturdays", 12, 30.45, -91.14, "", true],
- ["http://amherstcontra.org", "Amherst MA", "Wednesdays", 12, 42.37, -72.52, "GF", true],
- ["https://guidingstargrange.org/events.html", "Greenfield MA", "Fridays and Saturdays", 104, 42.59, -72.6, "GF", true],
- ["http://www.lenoxcontradance.org/", "Lenox MA", "Saturdays", 12, 42.36, -73.28, "", true],
- ["http://www.bidadance.org/", "Cambridge MA", "Sundays", 21, 42.37, -71.11, "GF", true],
- ["https://www.facebook.com/groups/1311451995547490/", "Northampton MA", "Saturdays", 12, 42.33, -72.64, "GF", true],
- ["https://www.facebook.com/groups/876169475813486/", "Woods Hole MA", "Saturdays", 12, 41.53, -70.67, "", true],
- ["https://www.facebook.com/outermostcontra/", "Wellfleet MA", "Fridays", 12, 41.93, -70.03, "", true],
- ["http://mondaycontras.com/", "Concord MA", "Mondays", 25, 42.46, -71.35, "GF", true],
- ["https://www.neffa.org/thursday-contras/", "Concord MA", "Thursdays", 25, 42.46, -71.35, "GF", true],
- ["http://www.lcfd.org/jp/", "Jamaica Plain MA", "Saturdays", 5, 42.31, -71.12, "GF", true],
- ["http://roaringjelly.org/~jc/site/rj/index.cgi", "Lexington MA", "Fridays", 12, 42.44, -71.23, "", true],
- ["http://northborocontra.com/", "Northboro MA", "Saturdays", 8, 42.31, -71.57, "", true],
- ["https://rehobothcontradance.com", "Rehoboth MA", "Fridays", 24, 41.85, -71.24, "GF", true],
- ["http://sheffieldcontradance.wordpress.com/", "Sheffield MA", "Saturdays", 10, 42.11, -73.36, "", true],
- ["http://www.worcesterdance.org/", "Worcester MA", "Saturdays", 9, 42.26, -71.8, "", true],
- ["https://www.facebook.com/CapeAnnContraDance/", "Gloucester MA", "Saturdays", 5, 42.62, -70.66, "", true],
- ["https://engage.hampshire.edu/organization/contradancecollective", "Amherst MA", "Wednesdays", 8, 42.37, -72.52, "GF", true],
- ["https://northberkshiredance.org/", "Williamstown MA", "Saturdays", 12, 42.71, -73.2, "", true],
- ["https://www.kofc109.com/contra", "Arlington MA", "Sundays", 12, 42.42, -71.16, "", true],
- ["https://grotongrange.org/contra-dance/", "Groton MA", "Saturdays", 8, 42.61, -71.57, "", true],
- ["http://www.bfms.org/squarecontra.php", "Baltimore MD", "Wednesdays", 52, 39.29, -76.61, "", true],
- ["http://www.bfms.org/saturdayDance.php", "Baltimore MD", "Saturdays", 12, 39.29, -76.61, "", true],
- ["https://www.smtmd.org/dances", "Chaptico MD", "Saturdays", 8, 38.37, -76.78, "", true],
- ["http://fridaynightdance.org/", "Glen Echo MD", "Fridays", 52, 38.97, -77.14, "GF", true],
- ["https://carpediemarts.org/dance-with-us", "Silver Spring MD", "Thursdays", 12, 38.99, -77.03, "GF", true],
- ["https://www.belfastflyingshoes.org/", "Belfast ME", "Fridays", 12, 44.43, -69.01, "GF", true],
- ["https://www.commonfloorcontra.dance/", "Portland ME", "Sundays", 12, 43.66, -70.26, "GF", true],
- ["https://www.facebook.com/Otisfield-Contra-Dance-1933069520038977/", "Otisfield ME", "Sundays", 12, 44.09, -70.55, "", true],
- ["https://deffa.org/venue/cherryfield-contra-dance/", "Cherryfield ME", "Saturdays", 12, 44.61, -67.93, "", false],
- ["https://www.kennebec-contra.org/", "Hallowell ME", "Saturdays", 12, 44.29, -69.79, "GF", true],
- ["http://freeportharraseeketgrange.com/", "Freeport ME", "Sundays", 12, 43.86, -70.1, "", true],
- ["https://www.facebook.com/SurryContraDance", "Surry ME", "Saturdays", 12, 44.5, -68.5, "", true],
- ["https://centralhallcommons.org/whats-happening-at-central-hall-commons/concerts/", "Dover-Foxcroft ME", "Fridays", 12, 45.18, -69.23, "", true],
- ["https://www.huntandallison.net/", "Monson ME", "Saturdays", 12, 45.29, -69.5, "", true],
- ["https://www.facebook.com/VassalboroGrange", "Vassalboro ME", "Saturdays", 4, 44.46, -69.68, "", true],
- ["https://www.facebook.com/MooseIslandContradance", "Eastport ME", "Fridays and Saturdays", 4, 44.91, -66.99, "", true],
- ["https://www.hackmatackplayhouse.org/contra-dances", "Berwick, ME", "Sundays", 6, 43.27, -70.86, "GF", true],
- ["https://www.facebook.com/groups/bangorcontra/", "Bangor, ME", "Fridays", 12, 44.8, -68.77, "GF", true],
- ["https://deffa.org/series/st-albans-contra-dance/", "St Albans ME", "Fridays", 6, 44.91, -69.41, "", true],
- ["https://www.facebook.com/groups/726222849231519/", "Falmouth ME", "Saturdays", 12, 43.74, -70.26, "GF", true],
- ["https://www.facebook.com/groups/3368840873418769", "Topsham ME", "Saturdays", 12, 43.94, -69.97, "GF", true],
- ["https://deffa.org/series/damariscotta-contra/", "Damariscotta ME", "Fridays", 12, 44.03, -69.53, "GF", true],
- ["https://deffa.org/venue/marsh-river-theater-24-monroe-highway-brooks-me-04921/", "Brooks ME", "Fridays", 8, 44.55, -69.12, "GF", true],
- ["http://aactmad.org/contra/", "Ann Arbor MI", "Saturdays", 36, 42.28, -83.74, "", true],
- ["https://www.countrydancinginkalamazoo.com/", "Kalamazoo MI", "Saturdays", 24, 42.29, -85.59, "", true],
- ["http://www.octds.org/", "Troy MI", "Saturdays", 12, 42.61, -83.15, "", true],
- ["https://www.facebook.com/groups/6210465735716071", "Grand Rapids MI", "Fridays", 10, 42.96, -85.67, "", true],
- ["https://sites.google.com/view/grandriverfolkarts/dances", "Grand Rapids MI", "Fridays", 10, 42.96, -85.67, "", true],
- ["https://www.facebook.com/events/674682238092842", "Traverse City MI", "Saturdays", 9, 44.76, -85.62, "", true],
- ["http://www.tenpoundfiddle.org/contra-dances/", "Lansing MI", "Saturdays", 9, 42.73, -84.55, "", true],
- ["https://www.tapestryfolkdance.org/contra-dance", "Minneapolis MN", "Saturdays", 24, 44.98, -93.27, "", true],
- ["https://www.facebook.com/groups/30128907202/", "Kansas City MO", "Saturdays", 12, 39.1, -94.58, "", true],
- ["https://sites.google.com/site/capecontradance/cape-girardeau-mo-contra-dance", "Cape Girardeau MO", "Saturdays", 20, 37.31, -89.52, "", true],
- ["http://www.springfieldcontra.org/when.htm", "Springfield MO", "Saturdays", 20, 37.21, -93.29, "", true],
- ["https://childgrove.org/index.php/dance-schedule", "Webster Groves MO", "Sundays", 50, 38.59, -90.36, "", true],
- ["https://childgrove.org/index.php/dance-schedule", "St Louis MO", "Wednesdays", 12, 38.63, -90.2, "GF", true],
- ["https://mmtd.wordpress.com/", "Columbia MO", "Saturdays", 12, 38.95, -92.33, "", true],
- ["https://mmtd.wordpress.com/", "Ashland MO", "Fridays", 12, 38.77, -92.26, "", true],
- ["http://childgrove.org/about-dances/calling-party", "Creve Coeur MO", "Wednesdays", 12, 38.66, -90.42, "", true],
- ["https://www.meetup.com/bay-saint-louis-contra-dance-meetup-group/", "Bay St Louis MS", "Saturdays", 12, 30.31, -89.33, "", true],
- ["https://bozemanfolklore.org/contra-dance/", "Bozeman MT", "Fridays and Saturdays", 18, 45.68, -111.05, "", true],
- ["https://www.missoulafolk.org/", "Missoula MT", "Saturdays", 16, 46.86, -114.02, "", true],
- ["https://www.charlottecontradance.org/", "Charlotte NC", "Mondays", 52, 35.23, -80.84, "", true],
- ["https://www.charlottecontradance.org/", "Charlotte NC", "Sundays", 12, 35.23, -80.84, "", true],
- ["https://www.folkschool.org/calendar/", "Brasstown NC", "Tuesdays", 45, 35.04, -83.96, "", true],
- ["http://www.boonecountrydancers.org/", "Boone NC", "Saturdays", 12, 36.22, -81.67, "", true],
- ["http://feetretreat.com/", "Greensboro NC", "Saturdays", 12, 36.07, -79.79, "", true],
- ["http://feetretreat.com/", "Winston-Salem NC", "Tuesdays", 12, 36.1, -80.24, "", true],
- ["https://www.facebook.com/WilmingtonContra/", "Wilmington NC", "Tuesdays", 12, 34.23, -77.94, "", true],
- ["https://www.tcdancers.org/new-events", "Carrboro NC", "Fridays", 50, 35.91, -79.08, "", true],
- ["http://firstsaturdaycontra.com/", "Carrboro NC", "Saturdays", 12, 35.91, -79.08, "GF", true],
- ["https://www.facebook.com/MondayNightContra/", "Asheville NC", "Mondays", 52, 35.6, -82.55, "", true],
- ["http://oldfarmersball.com/contra-dances/thursday-dance/", "Asheville NC", "Thursdays", 52, 35.6, -82.55, "", true],
- ["https://www.facebook.com/FranklinContra", "Franklin NC", "Saturdays", 12, 35.18, -83.38, "", true],
- ["https://www.facebook.com/ContraOmaha/", "Omaha NE", "Saturdays", 12, 41.25, -96.0, "", true],
- ["https://www.facebook.com/contradancelincoln/", "Lincoln NE", "Saturdays", 12, 40.81, -96.68, "", true],
- ["http://www.monadnockfolk.org/?page_id=63", "Nelson NH", "Mondays", 52, 42.99, -72.13, "", true],
- ["http://www.wordworthy2.org/Mill_City_Contra_Dance/", "Manchester NH", "Fridays", 12, 43.0, -71.45, "", true],
- ["https://concordnhcontra.wordpress.com/", "Concord NH", "Saturdays", 10, 43.21, -71.54, "", true],
- ["http://www.monadnockfolk.org/?page_id=30", "Peterborough NH", "Saturdays", 12, 42.87, -71.95, "", true],
- ["https://www.facebook.com/Milford-Contra-Dance-920139244691079/", "Milford NH", "Fridays", 12, 42.84, -71.65, "", true],
- ["https://seacoastcontra.com/", "Newfields NH", "Fridays", 12, 43.03, -70.94, "", true],
- ["http://www.princetoncountrydancers.org/", "Princeton NJ", "Wednesdays", 52, 40.36, -74.67, "", true],
- ["https://folkproject.org/swingin-tern/", "Chatham NJ", "Saturdays", 24, 40.73, -74.42, "GF", true],
- ["https://www.facebook.com/groups/1003765254297548", "Dover NH", "Fridays", 12, 43.2, -70.87, "", true],
- ["https://www.facebook.com/groups/1801909466608693", "Canturbury NH", "Sundays", 8, 43.34, -71.57, "", true],
- ["http://www.snmmds.org/", "Mesilla NM", "Fridays", 10, 32.27, -106.8, "", true],
- ["http://folkmads.org/events/albuquerque-events/", "Albuquerque NM", "Saturdays", 24, 35.11, -106.61, "", true],
- ["http://folkmads.org/events/santa-fe-events/", "Santa Fe NM", "Saturdays", 24, 35.69, -105.94, "", true],
- ["https://www.lasvegascontradance.org", "Las Vegas NV", "Saturdays", 12, 36.11, -115.17, "", true],
- ["http://sierracontra.org/", "Reno NV", "Saturdays", 10, 39.53, -119.81, "", false],
- ["http://www.cdrochester.org/", "Rochester NY", "Thursdays", 52, 43.16, -77.61, "", true],
- ["http://www.qccd.org/", "Buffalo NY", "Fridays", 12, 42.89, -78.88, "", true],
- ["http://www.hands4dancers.org/", "Ithaca NY", "Saturdays", 8, 42.44, -76.5, "", true],
- ["http://tedcrane.com/TCCD/Schedule.htp", "Ithaca NY", "Fridays", 48, 42.44, -76.5, "", false],
- ["http://cdny.org/", "New York NY", "Saturdays", 35, 40.71, -74.01, "GF", true],
- ["https://hudsonvalleydance.org/contra", "Poughkeepsie NY", "Saturdays", 9, 41.7, -73.92, "", true],
- ["https://www.facebook.com/groups/498931860304418/", "Owego NY", "Sundays", 11, 42.1, -76.26, "", true],
- ["http://www.brooklyncontra.org/", "Brooklyn NY", "Sundays", 24, 40.65, -73.95, "GF", true],
- ["http://syracusecountrydancers.org/", "Fayetteville NY", "Saturdays", 30, 43.03, -76.0, "", true],
- ["http://cococontra.org/", "Hillsdale NY", "Saturdays", 11, 42.18, -73.53, "", true],
- ["https://oldsongs.org/dances/", "Voorheesville NY", "Saturdays", 6, 42.65, -73.93, "", true],
- ["http://www.binghamtondance.org/db_management/calendar.php", "Binghamton NY", "Saturdays", 8, 42.1, -75.92, "", false],
- ["http://otsegodancesociety.weebly.com", "Cooperstown NY", "Fridays", 10, 42.7, -74.92, "", true],
- ["https://www.danceflurry.org/series/albany-contradance/", "Albany NY", "Fridays", 12, 42.65, -73.76, "GF", true],
- ["http://www.litma.org/", "Smithtown NY", "Fridays", 11, 40.86, -73.2, "", true],
- ["http://www.fredoniacontra.com/", "Fredonia NY", "Fridays", 9, 42.44, -79.33, "", true],
- ["http://www.cincinnaticontradance.org/", "Cincinnati OH", "Mondays", 52, 39.1, -84.51, "", true],
- ["http://www.neohiocontradance.org/", "Cleveland Heights OH", "Saturdays", 12, 41.52, -81.56, "", true],
- ["http://www.neohiocontradance.org/", "Wooster OH", "Saturdays", 9, 40.81, -81.94, "", true],
- ["http://www.neohiocontradance.org/", "Lakewood OH", "Saturdays", 11, 41.48, -81.8, "", true],
- ["https://bigscioty.com/", "Columbus OH", "Saturdays", 12, 39.96, -83.0, "", true],
- ["https://firstuucolumbus.org/connection/all-soles/", "Columbus OH", "Saturdays", 12, 39.96, -83.0, "", true],
- ["https://www.woosterdance.com/contra", "Wooster OH", "Saturdays", 10, 40.81, -81.94, "", true],
- ["https://www2.oberlin.edu/stuorg/contra/", "Oberlin OH", "Fridays", 13, 41.29, -82.22, "GF", true],
- ["https://daytoncontra.org/", "Kettering OH", "Fridays", 7, 39.69, -84.17, "", true],
- ["http://scissortail.org/where-we-dance/oklahoma-city/", "Oklahoma City OK", "Saturdays", 24, 35.47, -97.52, "", true],
- ["https://www.facebook.com/groups/TulsaContraDance", "Tulsa OK", "Saturdays", 10, 36.15, -95.99, "", true],
- ["http://scissortail.org/where-we-dance/norman/", "Norman OK", "Fridays", 10, 35.22, -97.43, "", true],
- ["https://socontra.org/", "Ashland OR", "Saturdays", 9, 42.19, -122.71, "", true],
- ["http://corvallisfolklore.org/home/contradancing/", "Corvallis OR", "Saturdays", 20, 44.56, -123.26, "", true],
- ["https://portlandcountrydance.org/pdxcontra-info/", "Portland OR", "Saturdays", 50, 45.52, -122.68, "GF", true],
- ["http://joyride.erikweberg.com/first-wednesdays/", "Portland OR", "Wednesdays", 10, 45.52, -122.68, "", true],
- ["http://eugenefolklore.org/", "Eugene OR", "Saturdays", 20, 44.05, -123.09, "", true],
- ["https://bendcontra.org/", "Bend OR", "Saturdays", 10, 44.06, -121.32, "", true],
- ["http://southcoastfolksociety.wordpress.com/contra-dance/", "Coos Bay OR", "Saturdays", 10, 43.36, -124.21, "", true],
- ["http://contraremix.com/", "Portland OR", "Sundays", 12, 45.52, -122.68, "GF", true],
- ["https://southcoastfolksociety.wordpress.com/pistol-river-contra/", "Gold Beach OR", "Saturdays", 6, 42.41, -124.42, "", true],
- ["https://www.facebook.com/toppish/", "Meadville PA", "Wednesdays", 12, 41.64, -80.15, "", true],
- ["http://www.thursdaycontra.com/", "Mt. Airy PA", "Thursdays", 52, 40.04, -75.19, "GF", true],
- ["http://pittsburghcontra.org/", "Pittsburgh PA", "Fridays", 28, 40.44, -80.0, "", true],
- ["http://www.thursdaycontra.com/ThirdSaturday.html", "Mt. Airy PA", "Saturdays", 9, 40.04, -75.19, "", true],
- ["https://www.lancastercontra.org/", "Lancaster PA", "Saturdays", 10, 40.04, -76.31, "", true],
- ["http://harrisburgcontra.weebly.com/", "Harrisburg PA", "Fridays", 12, 40.27, -76.88, "", true],
- ["http://www.valleycontradance.org/", "Bethlehem PA", "Saturdays", 27, 40.63, -75.37, "", true],
- ["http://birdsborocontra.org/", "Birdsboro PA", "Saturdays", 10, 40.26, -75.8, "", true],
- ["https://ParkAvenueContra.org", "Swarthmore PA", "Tuesdays", 24, 39.9, -75.35, "GF", true],
- ["https://lewisburgcontra.wixsite.com/lewisburgcontradance", "Lewisburg PA", "Saturdays", 12, 40.96, -76.88, "", true],
- ["https://www.facebook.com/ProvidenceCommunityDance/", "Providence RI", "Fridays", 12, 41.82, -71.41, "GF", false],
- ["http://charlestonfolk.weebly.com/", "Charleston SC", "Fridays", 24, 32.78, -79.93, "", true],
- ["http://www.contracola.org/", "Columbia SC", "Saturdays", 10, 34.0, -81.03, "", true],
- ["https://www.harvestmoonfolk.org/", "Marietta SC", "Saturdays", 40, 35.03, -82.5, "", true],
- ["https://www.knoxvillecontra.org/", "Knoxville TN", "Mondays", 52, 35.96, -83.92, "", true],
- ["https://www.knoxvillecontra.org/", "Oak Ridge TN", "Saturdays", 12, 36.01, -84.27, "", true],
- ["http://www.nashvillecountrydancers.org/", "Nashville TN", "Fridays", 24, 36.17, -86.78, "", true],
- ["https://www.facebook.com/groups/108316512542084/", "Memphis TN", "Fridays", 12, 35.15, -90.05, "", true],
- ["https://contranooga.us/", "Chattanooga TN", "Saturdays", 24, 35.05, -85.31, "", true],
- ["https://historicjonesboroughdancesociety.net/events", "Jonesborough TN", "Saturdays", 33, 36.29, -82.47, "", true],
- ["https://www.facebook.com/groups/10253242826/", "Austin TX", "Wednesdays", 12, 30.27, -97.74, "", true],
- ["http://www.nttds.org/", "Carrollton TX", "Saturdays", 12, 32.98, -96.89, "", true],
- ["http://www.hatds.org/", "Houston TX", "Saturdays", 24, 29.76, -95.37, "", true],
- ["https://www.satxcontra.org", "San Antonio TX", "Saturdays", 12, 29.42, -98.49, "", true],
- ["http://www.bcscontra.org/", "College Station TX", "Saturdays", 12, 30.63, -96.33, "", true],
- ["http://www.utahcontra.org/", "Salt Lake City UT", "Saturdays", 24, 40.76, -111.89, "", true],
- ["https://www.facebook.com/MoabCommunityDanceBand/", "Moab UT", "Saturdays", 8, 38.57, -109.55, "", true],
- ["https://shenandoahvalleycontradance.weebly.com/monday-night-contra.html", "Harrisonburg VA", "Mondays", 12, 38.45, -78.87, "", true],
- ["https://www.facebook.com/groups/984316375582303/", "Charlottesville VA", "Fridays", 12, 38.03, -78.48, "GF", true],
- ["https://tadamsva.org/", "Richmond VA", "Saturdays", 20, 37.54, -77.44, "", true],
- ["http://blacksburgcontradance.com/contradance.html", "Blacksburg VA", "Saturdays", 12, 37.23, -80.41, "", true],
- ["http://www.floydcontradance.org/", "Floyd VA", "Saturdays", 9, 36.91, -80.32, "", true],
- ["https://norfolkcontradance.wordpress.com/", "Norfolk VA", "Saturdays", 12, 36.85, -76.29, "", true],
- ["https://williamsburgcontradance.wordpress.com/", "Williamsburg VA", "Saturdays", 10, 37.27, -76.71, "", true],
- ["https://www.facebook.com/BrattleboroContra/", "Brattleboro VT", "Sundays", 12, 42.85, -72.56, "", true],
- ["https://queencitycontras.com/", "Burlington VT", "Fridays", 12, 44.48, -73.21, "", true],
- ["http://capitalcitygrange.org/dancing/contradancing/", "Montpelier VT", "Saturdays", 27, 44.26, -72.58, "GF", true],
- ["https://www.facebook.com/CornwallContraDance", "Cornwall VT", "Saturdays", 8, 43.96, -73.21, "", true],
- ["https://www.facebook.com/NorwichContraDance", "Norwich VT", "Saturdays", 24, 43.72, -72.31, "", true],
- ["https://www.facebook.com/Cabotcontradance", "Cabot VT", "Fridays", 10, 44.4, -72.31, "GF", true],
- ["https://www.facebook.com/people/St-Johnsbury-Community-Contra-Dance/61565419087661/", "St. Johnsbury VT", "Sundays", 8, 44.42, -72.02, "", true],
- ["https://www.facebook.com/pages/San-Juan-Islands-Contra-Dance/275816592483130", "Friday Harbor WA", "Saturdays", 8, 48.53, -123.02, "", true],
- ["http://spokanefolklore.org/contra.html", "Spokane WA", "Wednesdays", 40, 47.66, -117.43, "", true],
- ["http://seattledance.org/contra/lakecity", "Seattle WA", "Thursdays", 52, 47.61, -122.33, "GF", true],
- ["http://seattledance.org/contra/emeraldcity", "Seattle WA", "Fridays", 52, 47.61, -122.33, "GF", true],
- ["http://accontradanceyakima.wix.com/accd", "Yakima WA", "Saturdays", 10, 46.6, -120.5, "", true],
- ["http://www.tacomacontradance.org/", "Tacoma WA", "Saturdays", 10, 47.25, -122.44, "", true],
- ["https://www.facebook.com/groups/1998895643471696/", "Walla Walla WA", "Saturdays", 24, 46.06, -118.34, "", true],
- ["http://bellinghamcountrydance.org/", "Bellingham WA", "Saturdays", 23, 48.76, -122.49, "", true],
- ["http://www.3rfs.org/contra.htm", "Kennewick WA", "Saturdays", 8, 46.21, -119.14, "", true],
- ["https://oly-wa.us/southbaygrange/contra.php", "Olympia WA", "Saturdays", 28, 47.04, -122.9, "GF", true],
- ["http://www.fairpoint.net/~eburgcontradance/", "Ellensburg WA", "Saturdays", 6, 47.0, -120.55, "", true],
- ["https://www.madisoncontra.org/", "Madison WI", "Tuesdays", 42, 43.07, -89.4, "GF", true],
- ["http://www.delafieldcontra.com/", "Delafield WI", "Saturdays", 10, 43.06, -88.4, "", true],
- ["https://www.facebook.com/groups/twincitiesqueercontra", "Minneapolis MN", "Mondays", 12, 44.98, -93.27, "GF", true],
- ["https://www.mkecontra.org/", "Milwaukee WI", "Thursdays", 20, 43.04, -87.91, "GF", true],
- ["http://allisonjonjak.com/StoneLakeDance/", "Stone Lake WI", "Saturdays", 12, 45.85, -91.54, "GF", true],
- ["http://smad.us", "Shepherdstown WV", "Saturdays", 9, 39.43, -77.8, "", true],
- ["https://www.footmad.org/", "Charleston WV", "Saturdays", 9, 38.35, -81.63, "", true],
- ["https://www.facebook.com/EdinburghContra/", "Edinburgh Scotland", "Saturdays", 12, 55.95, -3.19, "GF", true],
- ["https://www.facebook.com/HalifaxContraDances/", "Halifax Canada", "Saturdays", 12, 44.65, -63.58, "GF", true],
- ["https://contradancecalgary.weebly.com/", "Calgary Canada", "Fridays", 8, 51.05, -114.07, "", true],
- ["https://www.facebook.com/drumlincontradances/", "Fergus Canada", "Fridays", 12, 43.71, -80.38, "", true],
- ["https://www.facebook.com/HamiltonFridayContradance/", "Hamilton Canada", "Fridays", 12, 43.26, -79.87, "", true],
- ["https://www.ottawacontra.ca/", "Ottawa Canada", "Saturdays", 24, 45.42, -75.7, "GF", true],
- ["http://www.contramontreal.org/", "Montreal Canada", "Saturdays", 12, 45.5, -73.57, "GF", true],
- ["https://www.facebook.com/ContraQuebec/events", "Quebec City Canada", "Sundays", 9, 46.81, -71.21, "", true],
- ["https://www.facebook.com/groups/26221449658/", "Owen Sound Canada", "Saturdays", 10, 44.57, -80.94, "", true],
- ["http://www.tcdance.org/", "Toronto Canada", "Saturdays", 23, 43.65, -79.38, "GF", true],
- ["http://www.vcn.bc.ca/vcountry/", "Vancouver Canada", "Saturdays", 24, 49.28, -123.12, "", true],
- ["http://www.victoriacontradance.com/", "Victoria BC Canada", "Saturdays", 24, 48.43, -123.37, "", true],
- ["https://sites.google.com/site/americancontradanceinparis/", "Paris France", "Saturdays", 4, 48.86, 2.35, "", true]]
+[
+  {
+    "annual_freq": 20,
+    "city": "Anchorage AK",
+    "lat": 61.22,
+    "lng": -149.9,
+    "url": "http://www.thedancingbears.com/",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 20,
+    "city": "Fairbanks AK",
+    "lat": 64.84,
+    "lng": -147.72,
+    "url": "http://contraborealis.org/",
+    "weekdays": "Fridays and Saturdays"
+  },
+  {
+    "annual_freq": 5,
+    "city": "Juneau AK",
+    "lat": 58.3,
+    "lng": -134.42,
+    "url": "http://www.juneaucontras.org/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Birmingham AL",
+    "lat": 33.52,
+    "lng": -86.8,
+    "url": "https://www.footmadbirmingham.org",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 27,
+    "city": "Huntsville AL",
+    "lat": 34.73,
+    "lng": -86.59,
+    "url": "https://www.facebook.com/groups/nacds",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Fayetteville AR",
+    "lat": 36.06,
+    "lng": -94.16,
+    "url": "http://www.nwacontra.org/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 27,
+    "city": "North Little Rock AR",
+    "lat": 34.77,
+    "lng": -92.27,
+    "url": "http://www.arkansascountrydance.org/",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Flagstaff AZ",
+    "lat": 35.2,
+    "lng": -111.64,
+    "url": "http://ffotm.org/contra-dances/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 22,
+    "city": "Phoenix AZ",
+    "lat": 33.45,
+    "lng": -112.07,
+    "url": "http://www.phxtmd.org/",
+    "weekdays": "Fridays and Saturdays"
+  },
+  {
+    "annual_freq": 20,
+    "city": "Tucson AZ",
+    "lat": 32.22,
+    "lng": -110.93,
+    "url": "https://tucsoncontradancers.org/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 11,
+    "city": "Anaheim CA",
+    "lat": 33.84,
+    "lng": -117.91,
+    "url": "http://www.thelivingtradition.org/tltbodydance.html",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Los Angeles CA",
+    "gender_free": true,
+    "lat": 34.05,
+    "lng": -118.24,
+    "url": "https://www.sccdc.org/contra/california-twirl/",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 27,
+    "city": "Pasadena CA",
+    "lat": 34.15,
+    "lng": -118.14,
+    "url": "https://www.sccdc.org/contra/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Santa Cruz CA",
+    "gender_free": true,
+    "lat": 36.97,
+    "lng": -122.03,
+    "url": "https://www.facebook.com/groups/contrasantacruz/",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 27,
+    "city": "Berkeley CA",
+    "gender_free": true,
+    "lat": 37.87,
+    "lng": -122.27,
+    "url": "http://www.bacds.org/series/contra/berkeley_wed/",
+    "weekdays": "Thursdays"
+  },
+  {
+    "annual_freq": 24,
+    "city": "San Francisco CA",
+    "gender_free": true,
+    "lat": 37.77,
+    "lng": -122.42,
+    "url": "https://bacds.org/series/contra/san_francisco_wed/",
+    "weekdays": "Wednesdays"
+  },
+  {
+    "annual_freq": 27,
+    "city": "Palo Alto CA",
+    "gender_free": true,
+    "lat": 37.44,
+    "lng": -122.14,
+    "url": "http://www.bacds.org/series/contra/palo_alto/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 11,
+    "city": "San Jose CA",
+    "gender_free": true,
+    "inactive": true,
+    "lat": 37.34,
+    "lng": -121.89,
+    "url": "http://www.bacds.org/series/contra/san_jose/",
+    "weekdays": "Sundays"
+  },
+  {
+    "annual_freq": 15,
+    "city": "Hayward CA",
+    "gender_free": true,
+    "lat": 37.67,
+    "lng": -122.08,
+    "url": "https://sfbaycontra.org/",
+    "weekdays": "Sundays"
+  },
+  {
+    "annual_freq": 32,
+    "city": "Santa Barbara CA",
+    "lat": 34.42,
+    "lng": -119.7,
+    "url": "http://www.sbcds.org/contradance/schedule/",
+    "weekdays": "Sundays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Oakland CA",
+    "gender_free": true,
+    "lat": 37.81,
+    "lng": -122.27,
+    "url": "http://www.queercontradance.org/circleleft.html",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Petaluma CA",
+    "gender_free": true,
+    "lat": 38.23,
+    "lng": -122.64,
+    "url": "http://www.nbcds.org/",
+    "weekdays": "Sundays"
+  },
+  {
+    "annual_freq": 15,
+    "city": "Santa Rosa CA",
+    "lat": 38.44,
+    "lng": -122.71,
+    "url": "http://www.nbcds.org/",
+    "weekdays": "Fridays and Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "San Rafael CA",
+    "lat": 37.97,
+    "lng": -122.53,
+    "url": "http://www.nbcds.org/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 20,
+    "city": "Monterey CA",
+    "gender_free": true,
+    "lat": 36.6,
+    "lng": -121.89,
+    "url": "http://montereycontradance.org",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 24,
+    "city": "Sacramento CA",
+    "gender_free": true,
+    "lat": 38.58,
+    "lng": -121.49,
+    "url": "http://www.sactocds.org/",
+    "weekdays": "Fridays and Saturdays"
+  },
+  {
+    "annual_freq": 27,
+    "city": "San Diego CA",
+    "gender_free": true,
+    "lat": 32.72,
+    "lng": -117.16,
+    "url": "https://sdfolkheritage.org/contradance/",
+    "weekdays": "Wednesdays and Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "San Luis Obispo CA",
+    "lat": 35.28,
+    "lng": -120.66,
+    "url": "http://www.cccds.org/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Fresno CA",
+    "lat": 36.74,
+    "lng": -119.77,
+    "url": "https://www.evobluestein.com/central-california-community-dance/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Alameda CA",
+    "lat": 37.78,
+    "lng": -122.28,
+    "url": "https://www.meetup.com/alameda-contra-dance-community-dance-with-live-music/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Grass Valley CA",
+    "lat": 39.22,
+    "lng": -121.06,
+    "url": "https://www.facebook.com/groups/2482867541901522/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 24,
+    "city": "Boulder CO",
+    "lat": 40.01,
+    "lng": -105.27,
+    "url": "http://www.cfootmad.org",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 24,
+    "city": "Denver CO",
+    "lat": 39.74,
+    "lng": -104.98,
+    "url": "http://www.cfootmad.org",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Denver CO",
+    "lat": 39.74,
+    "lng": -104.98,
+    "url": "http://www.cfootmad.org",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Denver CO",
+    "gender_free": true,
+    "lat": 39.74,
+    "lng": -104.98,
+    "url": "http://www.cfootmad.org",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 7,
+    "city": "Buena Vista CO",
+    "lat": 38.84,
+    "lng": -106.13,
+    "url": "http://www.arkvalleymusicanddance.org/calendar-of-events.html",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 27,
+    "city": "Fort Collins CO",
+    "lat": 40.59,
+    "lng": -105.08,
+    "url": "http://www.fotd.org/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 7,
+    "city": "Grand Junction CO",
+    "lat": 39.06,
+    "lng": -108.55,
+    "url": "https://www.fifthreelmusicanddance.com/services",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Colorado Springs CO",
+    "lat": 38.83,
+    "lng": -104.82,
+    "url": "https://www.pptdcontra.com/",
+    "weekdays": "Sundays"
+  },
+  {
+    "annual_freq": 8,
+    "city": "Carbondale CO",
+    "lat": 39.4,
+    "lng": -107.21,
+    "url": "https://www.facebook.com/groups/704823689706272/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Wethersfield CT",
+    "lat": 41.71,
+    "lng": -72.66,
+    "url": "http://www.hcdance.org/contra-dance/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 22,
+    "city": "New Haven CT",
+    "lat": 41.31,
+    "lng": -72.93,
+    "url": "https://newhavencontra.org/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Groton CT",
+    "lat": 41.35,
+    "lng": -72.08,
+    "url": "https://mysticpiedance.wixsite.com/mystic-pie-dance",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 10,
+    "city": "Coventry CT",
+    "lat": 41.78,
+    "lng": -72.34,
+    "url": "http://www.hcdance.org/quiet-corner-contra/",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 9,
+    "city": "Stafford CT",
+    "lat": 41.98,
+    "lng": -72.32,
+    "url": "https://www.facebook.com/StaffordStomp/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 10,
+    "city": "Arden DE",
+    "gender_free": true,
+    "lat": 39.81,
+    "lng": -75.49,
+    "url": "https://www.facebook.com/groups/ardencontra/",
+    "weekdays": "Sundays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Boca Raton FL",
+    "lat": 26.36,
+    "lng": -80.08,
+    "url": "https://www.facebook.com/southfloridacontradance/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Cocoa FL",
+    "lat": 28.39,
+    "lng": -80.74,
+    "url": "https://spacecoastcontra.org/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Gainesville FL",
+    "lat": 29.65,
+    "lng": -82.32,
+    "url": "http://godsdance.org/",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 24,
+    "city": "Tallahassee FL",
+    "lat": 30.44,
+    "lng": -84.28,
+    "url": "http://www.tallydancer.com/",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 36,
+    "city": "Tampa FL",
+    "lat": 27.95,
+    "lng": -82.46,
+    "url": "http://www.tampabaycontra.com/",
+    "weekdays": "Fridays and Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Melrose FL",
+    "lat": 29.71,
+    "lng": -82.04,
+    "url": "https://www.facebook.com/Melrose-Contra-Dance-1631846603752150/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Jacksonville FL",
+    "lat": 30.33,
+    "lng": -81.66,
+    "url": "http://JaxContra.org",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 48,
+    "city": "Orlando FL",
+    "gender_free": true,
+    "lat": 28.54,
+    "lng": -81.38,
+    "url": "https://orlandocontra.org/",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 36,
+    "city": "Melrose FL",
+    "lat": 29.71,
+    "lng": -82.04,
+    "url": "https://dancingfish.dance/events/",
+    "weekdays": "Fridays and Saturdays"
+  },
+  {
+    "annual_freq": 52,
+    "city": "Decatur GA",
+    "lat": 33.77,
+    "lng": -84.3,
+    "url": "http://www.contradance.org",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 22,
+    "city": "Gainesville GA",
+    "inactive": true,
+    "lat": 34.3,
+    "lng": -83.82,
+    "url": "http://atgaga.com/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 10,
+    "city": "Savannah GA",
+    "lat": 32.08,
+    "lng": -81.1,
+    "url": "https://www.savannahfolk.org/dance-events/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Sautee Nacoochee GA",
+    "lat": 34.68,
+    "lng": -83.67,
+    "url": "https://snca.org/contra/home.php",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Athens GA",
+    "lat": 33.95,
+    "lng": -83.36,
+    "url": "https://www.northgeorgiafolkfestival.org/contradances",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 52,
+    "city": "Atlanta GA",
+    "lat": 33.75,
+    "lng": -84.39,
+    "url": "https://contradance.org/trolleybarn",
+    "weekdays": "Tuesdays"
+  },
+  {
+    "annual_freq": 24,
+    "city": "Honolulu HI",
+    "lat": 21.31,
+    "lng": -157.86,
+    "url": "http://contradancehi.weebly.com/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 6,
+    "city": "Des Moines IA",
+    "lat": 41.6,
+    "lng": -93.61,
+    "url": "https://www.facebook.com/Des-Moines-Area-Barn-Contra-Dance-198569640201183/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 10,
+    "city": "Fairfield IA",
+    "lat": 41.01,
+    "lng": -91.97,
+    "url": "https://ffadc.blogspot.com/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 10,
+    "city": "Decorah IA",
+    "lat": 43.3,
+    "lng": -91.79,
+    "url": "https://www.facebook.com/DecorahContra/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Moscow ID",
+    "lat": 46.73,
+    "lng": -117.0,
+    "url": "https://www.facebook.com/groups/378676195487095/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 8,
+    "city": "Pocatello ID",
+    "lat": 42.87,
+    "lng": -112.45,
+    "url": "https://www.facebook.com/groups/PocatelloContra",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 8,
+    "city": "Boise ID",
+    "lat": 43.62,
+    "lng": -116.2,
+    "url": "https://www.facebook.com/groups/218705032849113/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 11,
+    "city": "Sandpoint ID",
+    "lat": 48.28,
+    "lng": -116.55,
+    "url": "https://www.facebook.com/profile.php?id=100070097186328",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 50,
+    "city": "Chicago IL",
+    "lat": 41.88,
+    "lng": -87.63,
+    "url": "http://www.chicagobarndance.org/",
+    "weekdays": "Mondays"
+  },
+  {
+    "annual_freq": 10,
+    "city": "Chicago IL",
+    "gender_free": true,
+    "lat": 41.88,
+    "lng": -87.63,
+    "url": "https://www.facebook.com/QueerContraChicago/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Urbana IL",
+    "lat": 40.11,
+    "lng": -88.21,
+    "url": "http://www.urbana-contra.org/",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 10,
+    "city": "Glen Ellyn IL",
+    "lat": 41.88,
+    "lng": -88.07,
+    "url": "http://foxvalleyfolk.com/barndance.html",
+    "weekdays": "Sundays"
+  },
+  {
+    "annual_freq": 20,
+    "city": "Carbondale IL",
+    "lat": 37.72,
+    "lng": -89.21,
+    "url": "https://www.facebook.com/groups/165256476374/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Downers Grove IL",
+    "lat": 41.81,
+    "lng": -88.01,
+    "url": "https://www.plankroad.org/BarnDances.html",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 52,
+    "city": "Bloomington IN",
+    "lat": 39.17,
+    "lng": -86.53,
+    "url": "http://bloomingtoncontra.org",
+    "weekdays": "Wednesdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Indianapolis IN",
+    "lat": 39.77,
+    "lng": -86.16,
+    "url": "http://www.indycontra.org/",
+    "weekdays": "Tuesdays"
+  },
+  {
+    "annual_freq": 8,
+    "city": "Valparaiso IN",
+    "lat": 41.47,
+    "lng": -87.06,
+    "url": "http://valpo.chicagobarndance.com/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 10,
+    "city": "Goshen IN",
+    "lat": 41.58,
+    "lng": -85.83,
+    "url": "http://godancing.org/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 8,
+    "city": "South Bend IN",
+    "lat": 41.68,
+    "lng": -86.26,
+    "url": "http://www.sbcontras.org",
+    "weekdays": "Fridays or Saturdays"
+  },
+  {
+    "annual_freq": 20,
+    "city": "Lawrence KS",
+    "lat": 38.97,
+    "lng": -95.24,
+    "url": "http://www.lawrencebarndance.org/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Wichita KS",
+    "lat": 37.69,
+    "lng": -97.34,
+    "url": "https://www.facebook.com/groups/derbybarndance/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 20,
+    "city": "Berea KY",
+    "lat": 37.57,
+    "lng": -84.3,
+    "url": "http://www.bereacontradance.org/schedule.html",
+    "weekdays": "Fridays and Saturdays"
+  },
+  {
+    "annual_freq": 30,
+    "city": "Lexington KY",
+    "lat": 38.04,
+    "lng": -84.5,
+    "url": "https://www.ltda.us/",
+    "weekdays": "Fridays and Saturdays"
+  },
+  {
+    "annual_freq": 52,
+    "city": "Louisville KY",
+    "lat": 38.25,
+    "lng": -85.76,
+    "url": "http://www.louisvillecountrydancers.org/",
+    "weekdays": "Mondays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Louisville KY",
+    "lat": 38.25,
+    "lng": -85.76,
+    "url": "http://www.louisvillecountrydancers.org/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 24,
+    "city": "Frankfort KY",
+    "lat": 38.2,
+    "lng": -84.87,
+    "url": "http://cchdm.weebly.com/announcements",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 5,
+    "city": "Somerset KY",
+    "lat": 37.09,
+    "lng": -84.6,
+    "url": "https://www.facebook.com/pages/Somerset-Contra-Dance/194026780616706",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Lafayette LA",
+    "lat": 30.22,
+    "lng": -92.01,
+    "url": "http://louisianacontrasandsquares.com/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Baton Rouge LA",
+    "lat": 30.45,
+    "lng": -91.14,
+    "url": "http://louisianacontrasandsquares.com/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Amherst MA",
+    "gender_free": true,
+    "lat": 42.37,
+    "lng": -72.52,
+    "url": "http://amherstcontra.org",
+    "weekdays": "Wednesdays"
+  },
+  {
+    "annual_freq": 104,
+    "city": "Greenfield MA",
+    "gender_free": true,
+    "lat": 42.59,
+    "lng": -72.6,
+    "url": "https://guidingstargrange.org/events.html",
+    "weekdays": "Fridays and Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Lenox MA",
+    "lat": 42.36,
+    "lng": -73.28,
+    "url": "http://www.lenoxcontradance.org/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 21,
+    "city": "Cambridge MA",
+    "gender_free": true,
+    "lat": 42.37,
+    "lng": -71.11,
+    "url": "http://www.bidadance.org/",
+    "weekdays": "Sundays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Northampton MA",
+    "gender_free": true,
+    "lat": 42.33,
+    "lng": -72.64,
+    "url": "https://www.facebook.com/groups/1311451995547490/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Woods Hole MA",
+    "lat": 41.53,
+    "lng": -70.67,
+    "url": "https://www.facebook.com/groups/876169475813486/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Wellfleet MA",
+    "lat": 41.93,
+    "lng": -70.03,
+    "url": "https://www.facebook.com/outermostcontra/",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 25,
+    "city": "Concord MA",
+    "gender_free": true,
+    "lat": 42.46,
+    "lng": -71.35,
+    "url": "http://mondaycontras.com/",
+    "weekdays": "Mondays"
+  },
+  {
+    "annual_freq": 25,
+    "city": "Concord MA",
+    "gender_free": true,
+    "lat": 42.46,
+    "lng": -71.35,
+    "url": "https://www.neffa.org/thursday-contras/",
+    "weekdays": "Thursdays"
+  },
+  {
+    "annual_freq": 5,
+    "city": "Jamaica Plain MA",
+    "gender_free": true,
+    "lat": 42.31,
+    "lng": -71.12,
+    "url": "http://www.lcfd.org/jp/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Lexington MA",
+    "lat": 42.44,
+    "lng": -71.23,
+    "url": "http://roaringjelly.org/~jc/site/rj/index.cgi",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 8,
+    "city": "Northboro MA",
+    "lat": 42.31,
+    "lng": -71.57,
+    "url": "http://northborocontra.com/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 24,
+    "city": "Rehoboth MA",
+    "gender_free": true,
+    "lat": 41.85,
+    "lng": -71.24,
+    "url": "https://rehobothcontradance.com",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 10,
+    "city": "Sheffield MA",
+    "lat": 42.11,
+    "lng": -73.36,
+    "url": "http://sheffieldcontradance.wordpress.com/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 9,
+    "city": "Worcester MA",
+    "lat": 42.26,
+    "lng": -71.8,
+    "url": "http://www.worcesterdance.org/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 5,
+    "city": "Gloucester MA",
+    "lat": 42.62,
+    "lng": -70.66,
+    "url": "https://www.facebook.com/CapeAnnContraDance/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 8,
+    "city": "Amherst MA",
+    "gender_free": true,
+    "lat": 42.37,
+    "lng": -72.52,
+    "url": "https://engage.hampshire.edu/organization/contradancecollective",
+    "weekdays": "Wednesdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Williamstown MA",
+    "lat": 42.71,
+    "lng": -73.2,
+    "url": "https://northberkshiredance.org/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Arlington MA",
+    "lat": 42.42,
+    "lng": -71.16,
+    "url": "https://www.kofc109.com/contra",
+    "weekdays": "Sundays"
+  },
+  {
+    "annual_freq": 8,
+    "city": "Groton MA",
+    "lat": 42.61,
+    "lng": -71.57,
+    "url": "https://grotongrange.org/contra-dance/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 52,
+    "city": "Baltimore MD",
+    "lat": 39.29,
+    "lng": -76.61,
+    "url": "http://www.bfms.org/squarecontra.php",
+    "weekdays": "Wednesdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Baltimore MD",
+    "lat": 39.29,
+    "lng": -76.61,
+    "url": "http://www.bfms.org/saturdayDance.php",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 8,
+    "city": "Chaptico MD",
+    "lat": 38.37,
+    "lng": -76.78,
+    "url": "https://www.smtmd.org/dances",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 52,
+    "city": "Glen Echo MD",
+    "gender_free": true,
+    "lat": 38.97,
+    "lng": -77.14,
+    "url": "http://fridaynightdance.org/",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Silver Spring MD",
+    "gender_free": true,
+    "lat": 38.99,
+    "lng": -77.03,
+    "url": "https://carpediemarts.org/dance-with-us",
+    "weekdays": "Thursdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Belfast ME",
+    "gender_free": true,
+    "lat": 44.43,
+    "lng": -69.01,
+    "url": "https://www.belfastflyingshoes.org/",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Portland ME",
+    "gender_free": true,
+    "lat": 43.66,
+    "lng": -70.26,
+    "url": "https://www.commonfloorcontra.dance/",
+    "weekdays": "Sundays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Otisfield ME",
+    "lat": 44.09,
+    "lng": -70.55,
+    "url": "https://www.facebook.com/Otisfield-Contra-Dance-1933069520038977/",
+    "weekdays": "Sundays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Cherryfield ME",
+    "inactive": true,
+    "lat": 44.61,
+    "lng": -67.93,
+    "url": "https://deffa.org/venue/cherryfield-contra-dance/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Hallowell ME",
+    "gender_free": true,
+    "lat": 44.29,
+    "lng": -69.79,
+    "url": "https://www.kennebec-contra.org/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Freeport ME",
+    "lat": 43.86,
+    "lng": -70.1,
+    "url": "http://freeportharraseeketgrange.com/",
+    "weekdays": "Sundays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Surry ME",
+    "lat": 44.5,
+    "lng": -68.5,
+    "url": "https://www.facebook.com/SurryContraDance",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Dover-Foxcroft ME",
+    "lat": 45.18,
+    "lng": -69.23,
+    "url": "https://centralhallcommons.org/whats-happening-at-central-hall-commons/concerts/",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Monson ME",
+    "lat": 45.29,
+    "lng": -69.5,
+    "url": "https://www.huntandallison.net/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 4,
+    "city": "Vassalboro ME",
+    "lat": 44.46,
+    "lng": -69.68,
+    "url": "https://www.facebook.com/VassalboroGrange",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 4,
+    "city": "Eastport ME",
+    "lat": 44.91,
+    "lng": -66.99,
+    "url": "https://www.facebook.com/MooseIslandContradance",
+    "weekdays": "Fridays and Saturdays"
+  },
+  {
+    "annual_freq": 6,
+    "city": "Berwick, ME",
+    "gender_free": true,
+    "lat": 43.27,
+    "lng": -70.86,
+    "url": "https://www.hackmatackplayhouse.org/contra-dances",
+    "weekdays": "Sundays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Bangor, ME",
+    "gender_free": true,
+    "lat": 44.8,
+    "lng": -68.77,
+    "url": "https://www.facebook.com/groups/bangorcontra/",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 6,
+    "city": "St Albans ME",
+    "lat": 44.91,
+    "lng": -69.41,
+    "url": "https://deffa.org/series/st-albans-contra-dance/",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Falmouth ME",
+    "gender_free": true,
+    "lat": 43.74,
+    "lng": -70.26,
+    "url": "https://www.facebook.com/groups/726222849231519/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Topsham ME",
+    "gender_free": true,
+    "lat": 43.94,
+    "lng": -69.97,
+    "url": "https://www.facebook.com/groups/3368840873418769",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Damariscotta ME",
+    "gender_free": true,
+    "lat": 44.03,
+    "lng": -69.53,
+    "url": "https://deffa.org/series/damariscotta-contra/",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 8,
+    "city": "Brooks ME",
+    "gender_free": true,
+    "lat": 44.55,
+    "lng": -69.12,
+    "url": "https://deffa.org/venue/marsh-river-theater-24-monroe-highway-brooks-me-04921/",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 36,
+    "city": "Ann Arbor MI",
+    "lat": 42.28,
+    "lng": -83.74,
+    "url": "http://aactmad.org/contra/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 24,
+    "city": "Kalamazoo MI",
+    "lat": 42.29,
+    "lng": -85.59,
+    "url": "https://www.countrydancinginkalamazoo.com/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Troy MI",
+    "lat": 42.61,
+    "lng": -83.15,
+    "url": "http://www.octds.org/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 10,
+    "city": "Grand Rapids MI",
+    "lat": 42.96,
+    "lng": -85.67,
+    "url": "https://www.facebook.com/groups/6210465735716071",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 10,
+    "city": "Grand Rapids MI",
+    "lat": 42.96,
+    "lng": -85.67,
+    "url": "https://sites.google.com/view/grandriverfolkarts/dances",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 9,
+    "city": "Traverse City MI",
+    "lat": 44.76,
+    "lng": -85.62,
+    "url": "https://www.facebook.com/events/674682238092842",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 9,
+    "city": "Lansing MI",
+    "lat": 42.73,
+    "lng": -84.55,
+    "url": "http://www.tenpoundfiddle.org/contra-dances/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 24,
+    "city": "Minneapolis MN",
+    "lat": 44.98,
+    "lng": -93.27,
+    "url": "https://www.tapestryfolkdance.org/contra-dance",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Kansas City MO",
+    "lat": 39.1,
+    "lng": -94.58,
+    "url": "https://www.facebook.com/groups/30128907202/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 20,
+    "city": "Cape Girardeau MO",
+    "lat": 37.31,
+    "lng": -89.52,
+    "url": "https://sites.google.com/site/capecontradance/cape-girardeau-mo-contra-dance",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 20,
+    "city": "Springfield MO",
+    "lat": 37.21,
+    "lng": -93.29,
+    "url": "http://www.springfieldcontra.org/when.htm",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 50,
+    "city": "Webster Groves MO",
+    "lat": 38.59,
+    "lng": -90.36,
+    "url": "https://childgrove.org/index.php/dance-schedule",
+    "weekdays": "Sundays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "St Louis MO",
+    "gender_free": true,
+    "lat": 38.63,
+    "lng": -90.2,
+    "url": "https://childgrove.org/index.php/dance-schedule",
+    "weekdays": "Wednesdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Columbia MO",
+    "lat": 38.95,
+    "lng": -92.33,
+    "url": "https://mmtd.wordpress.com/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Ashland MO",
+    "lat": 38.77,
+    "lng": -92.26,
+    "url": "https://mmtd.wordpress.com/",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Creve Coeur MO",
+    "lat": 38.66,
+    "lng": -90.42,
+    "url": "http://childgrove.org/about-dances/calling-party",
+    "weekdays": "Wednesdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Bay St Louis MS",
+    "lat": 30.31,
+    "lng": -89.33,
+    "url": "https://www.meetup.com/bay-saint-louis-contra-dance-meetup-group/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 18,
+    "city": "Bozeman MT",
+    "lat": 45.68,
+    "lng": -111.05,
+    "url": "https://bozemanfolklore.org/contra-dance/",
+    "weekdays": "Fridays and Saturdays"
+  },
+  {
+    "annual_freq": 16,
+    "city": "Missoula MT",
+    "lat": 46.86,
+    "lng": -114.02,
+    "url": "https://www.missoulafolk.org/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 52,
+    "city": "Charlotte NC",
+    "lat": 35.23,
+    "lng": -80.84,
+    "url": "https://www.charlottecontradance.org/",
+    "weekdays": "Mondays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Charlotte NC",
+    "lat": 35.23,
+    "lng": -80.84,
+    "url": "https://www.charlottecontradance.org/",
+    "weekdays": "Sundays"
+  },
+  {
+    "annual_freq": 45,
+    "city": "Brasstown NC",
+    "lat": 35.04,
+    "lng": -83.96,
+    "url": "https://www.folkschool.org/calendar/",
+    "weekdays": "Tuesdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Boone NC",
+    "lat": 36.22,
+    "lng": -81.67,
+    "url": "http://www.boonecountrydancers.org/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Greensboro NC",
+    "lat": 36.07,
+    "lng": -79.79,
+    "url": "http://feetretreat.com/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Winston-Salem NC",
+    "lat": 36.1,
+    "lng": -80.24,
+    "url": "http://feetretreat.com/",
+    "weekdays": "Tuesdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Wilmington NC",
+    "lat": 34.23,
+    "lng": -77.94,
+    "url": "https://www.facebook.com/WilmingtonContra/",
+    "weekdays": "Tuesdays"
+  },
+  {
+    "annual_freq": 50,
+    "city": "Carrboro NC",
+    "lat": 35.91,
+    "lng": -79.08,
+    "url": "https://www.tcdancers.org/new-events",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Carrboro NC",
+    "gender_free": true,
+    "lat": 35.91,
+    "lng": -79.08,
+    "url": "http://firstsaturdaycontra.com/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 52,
+    "city": "Asheville NC",
+    "lat": 35.6,
+    "lng": -82.55,
+    "url": "https://www.facebook.com/MondayNightContra/",
+    "weekdays": "Mondays"
+  },
+  {
+    "annual_freq": 52,
+    "city": "Asheville NC",
+    "lat": 35.6,
+    "lng": -82.55,
+    "url": "http://oldfarmersball.com/contra-dances/thursday-dance/",
+    "weekdays": "Thursdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Franklin NC",
+    "lat": 35.18,
+    "lng": -83.38,
+    "url": "https://www.facebook.com/FranklinContra",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Omaha NE",
+    "lat": 41.25,
+    "lng": -96.0,
+    "url": "https://www.facebook.com/ContraOmaha/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Lincoln NE",
+    "lat": 40.81,
+    "lng": -96.68,
+    "url": "https://www.facebook.com/contradancelincoln/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 52,
+    "city": "Nelson NH",
+    "lat": 42.99,
+    "lng": -72.13,
+    "url": "http://www.monadnockfolk.org/?page_id=63",
+    "weekdays": "Mondays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Manchester NH",
+    "lat": 43.0,
+    "lng": -71.45,
+    "url": "http://www.wordworthy2.org/Mill_City_Contra_Dance/",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 10,
+    "city": "Concord NH",
+    "lat": 43.21,
+    "lng": -71.54,
+    "url": "https://concordnhcontra.wordpress.com/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Peterborough NH",
+    "lat": 42.87,
+    "lng": -71.95,
+    "url": "http://www.monadnockfolk.org/?page_id=30",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Milford NH",
+    "lat": 42.84,
+    "lng": -71.65,
+    "url": "https://www.facebook.com/Milford-Contra-Dance-920139244691079/",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Newfields NH",
+    "lat": 43.03,
+    "lng": -70.94,
+    "url": "https://seacoastcontra.com/",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 52,
+    "city": "Princeton NJ",
+    "lat": 40.36,
+    "lng": -74.67,
+    "url": "http://www.princetoncountrydancers.org/",
+    "weekdays": "Wednesdays"
+  },
+  {
+    "annual_freq": 24,
+    "city": "Chatham NJ",
+    "gender_free": true,
+    "lat": 40.73,
+    "lng": -74.42,
+    "url": "https://folkproject.org/swingin-tern/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Dover NH",
+    "lat": 43.2,
+    "lng": -70.87,
+    "url": "https://www.facebook.com/groups/1003765254297548",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 8,
+    "city": "Canturbury NH",
+    "lat": 43.34,
+    "lng": -71.57,
+    "url": "https://www.facebook.com/groups/1801909466608693",
+    "weekdays": "Sundays"
+  },
+  {
+    "annual_freq": 10,
+    "city": "Mesilla NM",
+    "lat": 32.27,
+    "lng": -106.8,
+    "url": "http://www.snmmds.org/",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 24,
+    "city": "Albuquerque NM",
+    "lat": 35.11,
+    "lng": -106.61,
+    "url": "http://folkmads.org/events/albuquerque-events/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 24,
+    "city": "Santa Fe NM",
+    "lat": 35.69,
+    "lng": -105.94,
+    "url": "http://folkmads.org/events/santa-fe-events/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Las Vegas NV",
+    "lat": 36.11,
+    "lng": -115.17,
+    "url": "https://www.lasvegascontradance.org",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 10,
+    "city": "Reno NV",
+    "inactive": true,
+    "lat": 39.53,
+    "lng": -119.81,
+    "url": "http://sierracontra.org/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 52,
+    "city": "Rochester NY",
+    "lat": 43.16,
+    "lng": -77.61,
+    "url": "http://www.cdrochester.org/",
+    "weekdays": "Thursdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Buffalo NY",
+    "lat": 42.89,
+    "lng": -78.88,
+    "url": "http://www.qccd.org/",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 8,
+    "city": "Ithaca NY",
+    "lat": 42.44,
+    "lng": -76.5,
+    "url": "http://www.hands4dancers.org/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 48,
+    "city": "Ithaca NY",
+    "inactive": true,
+    "lat": 42.44,
+    "lng": -76.5,
+    "url": "http://tedcrane.com/TCCD/Schedule.htp",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 35,
+    "city": "New York NY",
+    "gender_free": true,
+    "lat": 40.71,
+    "lng": -74.01,
+    "url": "http://cdny.org/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 9,
+    "city": "Poughkeepsie NY",
+    "lat": 41.7,
+    "lng": -73.92,
+    "url": "https://hudsonvalleydance.org/contra",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 11,
+    "city": "Owego NY",
+    "lat": 42.1,
+    "lng": -76.26,
+    "url": "https://www.facebook.com/groups/498931860304418/",
+    "weekdays": "Sundays"
+  },
+  {
+    "annual_freq": 24,
+    "city": "Brooklyn NY",
+    "gender_free": true,
+    "lat": 40.65,
+    "lng": -73.95,
+    "url": "http://www.brooklyncontra.org/",
+    "weekdays": "Sundays"
+  },
+  {
+    "annual_freq": 30,
+    "city": "Fayetteville NY",
+    "lat": 43.03,
+    "lng": -76.0,
+    "url": "http://syracusecountrydancers.org/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 11,
+    "city": "Hillsdale NY",
+    "lat": 42.18,
+    "lng": -73.53,
+    "url": "http://cococontra.org/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 6,
+    "city": "Voorheesville NY",
+    "lat": 42.65,
+    "lng": -73.93,
+    "url": "https://oldsongs.org/dances/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 8,
+    "city": "Binghamton NY",
+    "inactive": true,
+    "lat": 42.1,
+    "lng": -75.92,
+    "url": "http://www.binghamtondance.org/db_management/calendar.php",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 10,
+    "city": "Cooperstown NY",
+    "lat": 42.7,
+    "lng": -74.92,
+    "url": "http://otsegodancesociety.weebly.com",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Albany NY",
+    "gender_free": true,
+    "lat": 42.65,
+    "lng": -73.76,
+    "url": "https://www.danceflurry.org/series/albany-contradance/",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 11,
+    "city": "Smithtown NY",
+    "lat": 40.86,
+    "lng": -73.2,
+    "url": "http://www.litma.org/",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 9,
+    "city": "Fredonia NY",
+    "lat": 42.44,
+    "lng": -79.33,
+    "url": "http://www.fredoniacontra.com/",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 52,
+    "city": "Cincinnati OH",
+    "lat": 39.1,
+    "lng": -84.51,
+    "url": "http://www.cincinnaticontradance.org/",
+    "weekdays": "Mondays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Cleveland Heights OH",
+    "lat": 41.52,
+    "lng": -81.56,
+    "url": "http://www.neohiocontradance.org/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 9,
+    "city": "Wooster OH",
+    "lat": 40.81,
+    "lng": -81.94,
+    "url": "http://www.neohiocontradance.org/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 11,
+    "city": "Lakewood OH",
+    "lat": 41.48,
+    "lng": -81.8,
+    "url": "http://www.neohiocontradance.org/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Columbus OH",
+    "lat": 39.96,
+    "lng": -83.0,
+    "url": "https://bigscioty.com/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Columbus OH",
+    "lat": 39.96,
+    "lng": -83.0,
+    "url": "https://firstuucolumbus.org/connection/all-soles/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 10,
+    "city": "Wooster OH",
+    "lat": 40.81,
+    "lng": -81.94,
+    "url": "https://www.woosterdance.com/contra",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 13,
+    "city": "Oberlin OH",
+    "gender_free": true,
+    "lat": 41.29,
+    "lng": -82.22,
+    "url": "https://www2.oberlin.edu/stuorg/contra/",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 7,
+    "city": "Kettering OH",
+    "lat": 39.69,
+    "lng": -84.17,
+    "url": "https://daytoncontra.org/",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 24,
+    "city": "Oklahoma City OK",
+    "lat": 35.47,
+    "lng": -97.52,
+    "url": "http://scissortail.org/where-we-dance/oklahoma-city/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 10,
+    "city": "Tulsa OK",
+    "lat": 36.15,
+    "lng": -95.99,
+    "url": "https://www.facebook.com/groups/TulsaContraDance",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 10,
+    "city": "Norman OK",
+    "lat": 35.22,
+    "lng": -97.43,
+    "url": "http://scissortail.org/where-we-dance/norman/",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 9,
+    "city": "Ashland OR",
+    "lat": 42.19,
+    "lng": -122.71,
+    "url": "https://socontra.org/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 20,
+    "city": "Corvallis OR",
+    "lat": 44.56,
+    "lng": -123.26,
+    "url": "http://corvallisfolklore.org/home/contradancing/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 50,
+    "city": "Portland OR",
+    "gender_free": true,
+    "lat": 45.52,
+    "lng": -122.68,
+    "url": "https://portlandcountrydance.org/pdxcontra-info/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 10,
+    "city": "Portland OR",
+    "lat": 45.52,
+    "lng": -122.68,
+    "url": "http://joyride.erikweberg.com/first-wednesdays/",
+    "weekdays": "Wednesdays"
+  },
+  {
+    "annual_freq": 20,
+    "city": "Eugene OR",
+    "lat": 44.05,
+    "lng": -123.09,
+    "url": "http://eugenefolklore.org/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 10,
+    "city": "Bend OR",
+    "lat": 44.06,
+    "lng": -121.32,
+    "url": "https://bendcontra.org/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 10,
+    "city": "Coos Bay OR",
+    "lat": 43.36,
+    "lng": -124.21,
+    "url": "http://southcoastfolksociety.wordpress.com/contra-dance/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Portland OR",
+    "gender_free": true,
+    "lat": 45.52,
+    "lng": -122.68,
+    "url": "http://contraremix.com/",
+    "weekdays": "Sundays"
+  },
+  {
+    "annual_freq": 6,
+    "city": "Gold Beach OR",
+    "lat": 42.41,
+    "lng": -124.42,
+    "url": "https://southcoastfolksociety.wordpress.com/pistol-river-contra/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Meadville PA",
+    "lat": 41.64,
+    "lng": -80.15,
+    "url": "https://www.facebook.com/toppish/",
+    "weekdays": "Wednesdays"
+  },
+  {
+    "annual_freq": 52,
+    "city": "Mt. Airy PA",
+    "gender_free": true,
+    "lat": 40.04,
+    "lng": -75.19,
+    "url": "http://www.thursdaycontra.com/",
+    "weekdays": "Thursdays"
+  },
+  {
+    "annual_freq": 28,
+    "city": "Pittsburgh PA",
+    "lat": 40.44,
+    "lng": -80.0,
+    "url": "http://pittsburghcontra.org/",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 9,
+    "city": "Mt. Airy PA",
+    "lat": 40.04,
+    "lng": -75.19,
+    "url": "http://www.thursdaycontra.com/ThirdSaturday.html",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 10,
+    "city": "Lancaster PA",
+    "lat": 40.04,
+    "lng": -76.31,
+    "url": "https://www.lancastercontra.org/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Harrisburg PA",
+    "lat": 40.27,
+    "lng": -76.88,
+    "url": "http://harrisburgcontra.weebly.com/",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 27,
+    "city": "Bethlehem PA",
+    "lat": 40.63,
+    "lng": -75.37,
+    "url": "http://www.valleycontradance.org/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 10,
+    "city": "Birdsboro PA",
+    "lat": 40.26,
+    "lng": -75.8,
+    "url": "http://birdsborocontra.org/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 24,
+    "city": "Swarthmore PA",
+    "gender_free": true,
+    "lat": 39.9,
+    "lng": -75.35,
+    "url": "https://ParkAvenueContra.org",
+    "weekdays": "Tuesdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Lewisburg PA",
+    "lat": 40.96,
+    "lng": -76.88,
+    "url": "https://lewisburgcontra.wixsite.com/lewisburgcontradance",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Providence RI",
+    "gender_free": true,
+    "inactive": true,
+    "lat": 41.82,
+    "lng": -71.41,
+    "url": "https://www.facebook.com/ProvidenceCommunityDance/",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 24,
+    "city": "Charleston SC",
+    "lat": 32.78,
+    "lng": -79.93,
+    "url": "http://charlestonfolk.weebly.com/",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 10,
+    "city": "Columbia SC",
+    "lat": 34.0,
+    "lng": -81.03,
+    "url": "http://www.contracola.org/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 40,
+    "city": "Marietta SC",
+    "lat": 35.03,
+    "lng": -82.5,
+    "url": "https://www.harvestmoonfolk.org/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 52,
+    "city": "Knoxville TN",
+    "lat": 35.96,
+    "lng": -83.92,
+    "url": "https://www.knoxvillecontra.org/",
+    "weekdays": "Mondays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Oak Ridge TN",
+    "lat": 36.01,
+    "lng": -84.27,
+    "url": "https://www.knoxvillecontra.org/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 24,
+    "city": "Nashville TN",
+    "lat": 36.17,
+    "lng": -86.78,
+    "url": "http://www.nashvillecountrydancers.org/",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Memphis TN",
+    "lat": 35.15,
+    "lng": -90.05,
+    "url": "https://www.facebook.com/groups/108316512542084/",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 24,
+    "city": "Chattanooga TN",
+    "lat": 35.05,
+    "lng": -85.31,
+    "url": "https://contranooga.us/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 33,
+    "city": "Jonesborough TN",
+    "lat": 36.29,
+    "lng": -82.47,
+    "url": "https://historicjonesboroughdancesociety.net/events",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Austin TX",
+    "lat": 30.27,
+    "lng": -97.74,
+    "url": "https://www.facebook.com/groups/10253242826/",
+    "weekdays": "Wednesdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Carrollton TX",
+    "lat": 32.98,
+    "lng": -96.89,
+    "url": "http://www.nttds.org/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 24,
+    "city": "Houston TX",
+    "lat": 29.76,
+    "lng": -95.37,
+    "url": "http://www.hatds.org/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "San Antonio TX",
+    "lat": 29.42,
+    "lng": -98.49,
+    "url": "https://www.satxcontra.org",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "College Station TX",
+    "lat": 30.63,
+    "lng": -96.33,
+    "url": "http://www.bcscontra.org/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 24,
+    "city": "Salt Lake City UT",
+    "lat": 40.76,
+    "lng": -111.89,
+    "url": "http://www.utahcontra.org/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 8,
+    "city": "Moab UT",
+    "lat": 38.57,
+    "lng": -109.55,
+    "url": "https://www.facebook.com/MoabCommunityDanceBand/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Harrisonburg VA",
+    "lat": 38.45,
+    "lng": -78.87,
+    "url": "https://shenandoahvalleycontradance.weebly.com/monday-night-contra.html",
+    "weekdays": "Mondays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Charlottesville VA",
+    "gender_free": true,
+    "lat": 38.03,
+    "lng": -78.48,
+    "url": "https://www.facebook.com/groups/984316375582303/",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 20,
+    "city": "Richmond VA",
+    "lat": 37.54,
+    "lng": -77.44,
+    "url": "https://tadamsva.org/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Blacksburg VA",
+    "lat": 37.23,
+    "lng": -80.41,
+    "url": "http://blacksburgcontradance.com/contradance.html",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 9,
+    "city": "Floyd VA",
+    "lat": 36.91,
+    "lng": -80.32,
+    "url": "http://www.floydcontradance.org/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Norfolk VA",
+    "lat": 36.85,
+    "lng": -76.29,
+    "url": "https://norfolkcontradance.wordpress.com/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 10,
+    "city": "Williamsburg VA",
+    "lat": 37.27,
+    "lng": -76.71,
+    "url": "https://williamsburgcontradance.wordpress.com/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Brattleboro VT",
+    "lat": 42.85,
+    "lng": -72.56,
+    "url": "https://www.facebook.com/BrattleboroContra/",
+    "weekdays": "Sundays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Burlington VT",
+    "lat": 44.48,
+    "lng": -73.21,
+    "url": "https://queencitycontras.com/",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 27,
+    "city": "Montpelier VT",
+    "gender_free": true,
+    "lat": 44.26,
+    "lng": -72.58,
+    "url": "http://capitalcitygrange.org/dancing/contradancing/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 8,
+    "city": "Cornwall VT",
+    "lat": 43.96,
+    "lng": -73.21,
+    "url": "https://www.facebook.com/CornwallContraDance",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 24,
+    "city": "Norwich VT",
+    "lat": 43.72,
+    "lng": -72.31,
+    "url": "https://www.facebook.com/NorwichContraDance",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 10,
+    "city": "Cabot VT",
+    "gender_free": true,
+    "lat": 44.4,
+    "lng": -72.31,
+    "url": "https://www.facebook.com/Cabotcontradance",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 8,
+    "city": "St. Johnsbury VT",
+    "lat": 44.42,
+    "lng": -72.02,
+    "url": "https://www.facebook.com/people/St-Johnsbury-Community-Contra-Dance/61565419087661/",
+    "weekdays": "Sundays"
+  },
+  {
+    "annual_freq": 8,
+    "city": "Friday Harbor WA",
+    "lat": 48.53,
+    "lng": -123.02,
+    "url": "https://www.facebook.com/pages/San-Juan-Islands-Contra-Dance/275816592483130",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 40,
+    "city": "Spokane WA",
+    "lat": 47.66,
+    "lng": -117.43,
+    "url": "http://spokanefolklore.org/contra.html",
+    "weekdays": "Wednesdays"
+  },
+  {
+    "annual_freq": 52,
+    "city": "Seattle WA",
+    "gender_free": true,
+    "lat": 47.61,
+    "lng": -122.33,
+    "url": "http://seattledance.org/contra/lakecity",
+    "weekdays": "Thursdays"
+  },
+  {
+    "annual_freq": 52,
+    "city": "Seattle WA",
+    "gender_free": true,
+    "lat": 47.61,
+    "lng": -122.33,
+    "url": "http://seattledance.org/contra/emeraldcity",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 10,
+    "city": "Yakima WA",
+    "lat": 46.6,
+    "lng": -120.5,
+    "url": "http://accontradanceyakima.wix.com/accd",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 10,
+    "city": "Tacoma WA",
+    "lat": 47.25,
+    "lng": -122.44,
+    "url": "http://www.tacomacontradance.org/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 24,
+    "city": "Walla Walla WA",
+    "lat": 46.06,
+    "lng": -118.34,
+    "url": "https://www.facebook.com/groups/1998895643471696/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 23,
+    "city": "Bellingham WA",
+    "lat": 48.76,
+    "lng": -122.49,
+    "url": "http://bellinghamcountrydance.org/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 8,
+    "city": "Kennewick WA",
+    "lat": 46.21,
+    "lng": -119.14,
+    "url": "http://www.3rfs.org/contra.htm",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 28,
+    "city": "Olympia WA",
+    "gender_free": true,
+    "lat": 47.04,
+    "lng": -122.9,
+    "url": "https://oly-wa.us/southbaygrange/contra.php",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 6,
+    "city": "Ellensburg WA",
+    "lat": 47.0,
+    "lng": -120.55,
+    "url": "http://www.fairpoint.net/~eburgcontradance/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 42,
+    "city": "Madison WI",
+    "gender_free": true,
+    "lat": 43.07,
+    "lng": -89.4,
+    "url": "https://www.madisoncontra.org/",
+    "weekdays": "Tuesdays"
+  },
+  {
+    "annual_freq": 10,
+    "city": "Delafield WI",
+    "lat": 43.06,
+    "lng": -88.4,
+    "url": "http://www.delafieldcontra.com/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Minneapolis MN",
+    "gender_free": true,
+    "lat": 44.98,
+    "lng": -93.27,
+    "url": "https://www.facebook.com/groups/twincitiesqueercontra",
+    "weekdays": "Mondays"
+  },
+  {
+    "annual_freq": 20,
+    "city": "Milwaukee WI",
+    "gender_free": true,
+    "lat": 43.04,
+    "lng": -87.91,
+    "url": "https://www.mkecontra.org/",
+    "weekdays": "Thursdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Stone Lake WI",
+    "gender_free": true,
+    "lat": 45.85,
+    "lng": -91.54,
+    "url": "http://allisonjonjak.com/StoneLakeDance/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 9,
+    "city": "Shepherdstown WV",
+    "lat": 39.43,
+    "lng": -77.8,
+    "url": "http://smad.us",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 9,
+    "city": "Charleston WV",
+    "lat": 38.35,
+    "lng": -81.63,
+    "url": "https://www.footmad.org/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Edinburgh Scotland",
+    "gender_free": true,
+    "lat": 55.95,
+    "lng": -3.19,
+    "url": "https://www.facebook.com/EdinburghContra/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Halifax Canada",
+    "gender_free": true,
+    "lat": 44.65,
+    "lng": -63.58,
+    "url": "https://www.facebook.com/HalifaxContraDances/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 8,
+    "city": "Calgary Canada",
+    "lat": 51.05,
+    "lng": -114.07,
+    "url": "https://contradancecalgary.weebly.com/",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Fergus Canada",
+    "lat": 43.71,
+    "lng": -80.38,
+    "url": "https://www.facebook.com/drumlincontradances/",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Hamilton Canada",
+    "lat": 43.26,
+    "lng": -79.87,
+    "url": "https://www.facebook.com/HamiltonFridayContradance/",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 24,
+    "city": "Ottawa Canada",
+    "gender_free": true,
+    "lat": 45.42,
+    "lng": -75.7,
+    "url": "https://www.ottawacontra.ca/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Montreal Canada",
+    "gender_free": true,
+    "lat": 45.5,
+    "lng": -73.57,
+    "url": "http://www.contramontreal.org/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 9,
+    "city": "Quebec City Canada",
+    "lat": 46.81,
+    "lng": -71.21,
+    "url": "https://www.facebook.com/ContraQuebec/events",
+    "weekdays": "Sundays"
+  },
+  {
+    "annual_freq": 10,
+    "city": "Owen Sound Canada",
+    "lat": 44.57,
+    "lng": -80.94,
+    "url": "https://www.facebook.com/groups/26221449658/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 23,
+    "city": "Toronto Canada",
+    "gender_free": true,
+    "lat": 43.65,
+    "lng": -79.38,
+    "url": "http://www.tcdance.org/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 24,
+    "city": "Vancouver Canada",
+    "lat": 49.28,
+    "lng": -123.12,
+    "url": "http://www.vcn.bc.ca/vcountry/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 24,
+    "city": "Victoria BC Canada",
+    "lat": 48.43,
+    "lng": -123.37,
+    "url": "http://www.victoriacontradance.com/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 4,
+    "city": "Paris France",
+    "lat": 48.86,
+    "lng": 2.35,
+    "url": "https://sites.google.com/site/americancontradanceinparis/",
+    "weekdays": "Saturdays"
+  }
+]
