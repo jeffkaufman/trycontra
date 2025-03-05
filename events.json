@@ -17146,8 +17146,14 @@
   {
     "typical_month": "4",
     "name": "Dandelion Romp",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Gaye Fifer",
+      "Will Mentor"
+    ],
+    "bands": [
+      "River Road",
+      "Northwoods"
+    ],
     "roles": "Larks / Robins",
     "date": "4/18/2025",
     "location": "Oberlin OH",
@@ -18833,8 +18839,14 @@
   {
     "typical_month": "11",
     "name": "Atlanta Dance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Alex Deis-Lauby",
+      "Cis Hinkle"
+    ],
+    "bands": [
+      "River Road",
+      "the Dam Beavers"
+    ],
     "roles": "",
     "date": "",
     "location": "Atlanta GA",
