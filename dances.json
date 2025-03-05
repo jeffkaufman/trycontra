@@ -568,6 +568,7 @@
     "annual_freq": 104,
     "city": "Greenfield MA",
     "gender_free": true,
+    "icals": ["https://calendar.google.com/calendar/ical/llfb18hnki77ac2udmhnk0q0g0@group.calendar.google.com/public/basic.ics", "https://calendar.google.com/calendar/ical/ch2r1iv9fqjfapg26tp8ia56qo@group.calendar.google.com/public/basic.ics", "https://calendar.google.com/calendar/ical/sm782g97b6me0g2oualn4dp1vk@group.calendar.google.com/public/basic.ics", "https://calendar.google.com/calendar/ical/tpnri3iul94a6e1082om29cogo@group.calendar.google.com/public/basic.ics", "https://calendar.google.com/calendar/ical/69hvhbml5qee2s949n2abce7vo@group.calendar.google.com/public/basic.ics", "https://calendar.google.com/calendar/ical/oti261eau3175gebpfh028sk5k@group.calendar.google.com/public/basic.ics"],
     "url": "https://guidingstargrange.org/events.html",
     "weekdays": "Fridays and Saturdays"
   },
@@ -608,6 +609,7 @@
     "annual_freq": 25,
     "city": "Concord MA",
     "gender_free": true,
+    "icals": ["https://calendar.google.com/calendar/ical/mondaycontras.com_926irfb6qbpig87t0hvu5ga7gc@group.calendar.google.com/public/basic.ics"],
     "url": "http://mondaycontras.com/",
     "weekdays": "Mondays"
   },
@@ -786,6 +788,7 @@
   {
     "annual_freq": 4,
     "city": "Eastport ME",
+    "inactive": true,
     "url": "https://www.facebook.com/MooseIslandContradance",
     "weekdays": "Fridays and Saturdays"
   },
@@ -836,6 +839,13 @@
     "gender_free": true,
     "url": "https://deffa.org/venue/marsh-river-theater-24-monroe-highway-brooks-me-04921/",
     "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 6,
+    "city": "Bowdoin ME",
+    "gender_free": true,
+    "url": "https://www.instagram.com/bowdoincontradance/",
+    "weekdays": "Thursdays"
   },
   {
     "annual_freq": 36,
@@ -1164,6 +1174,7 @@
   {
     "annual_freq": 9,
     "city": "Poughkeepsie NY",
+    "icals": ["https://calendar.google.com/calendar/ical/r0obdlg9b1hkjju0dfqarq1tqk@group.calendar.google.com/public/basic.ics"],
     "url": "https://hudsonvalleydance.org/contra",
     "weekdays": "Saturdays"
   },
