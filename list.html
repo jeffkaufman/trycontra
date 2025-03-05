@@ -103,8 +103,8 @@ function add_dance(location, link, schedule, active) {
 
 function load_dances(dance_locations) {
   dance_locations.sort(function(a, b) {
-    var loc_a = a[1];
-    var loc_b = b[1];
+    var loc_a = a.city;
+    var loc_b = b.city;
 
     var state_a = loc_a.split(" ")[loc_a.split(" ").length-1];
     var state_b = loc_b.split(" ")[loc_b.split(" ").length-1];
@@ -120,10 +120,10 @@ function load_dances(dance_locations) {
     }
   });
   for (var i = 0 ; i < dance_locations.length ; i++) {
-    add_dance(dance_locations[i][1],
-              dance_locations[i][0],
-              dance_locations[i][2],
-              dance_locations[i][7]);
+    add_dance(dance_locations[i].city,
+              dance_locations[i].url,
+              dance_locations[i].weekdays,
+              !dance_locations[i].inactive);
   }
 }
 

@@ -59,8 +59,8 @@ function add_dance(location, link, schedule) {
 
 function load_dances(dance_locations) {
   dance_locations.sort(function(a, b) {
-    var c_a = [a[1], a];
-    var c_b = [b[1], b];
+    var c_a = [a.city, a.url];
+    var c_b = [b.city, b.url];
     if (c_a < c_b) {
       return -1;
     } else if (c_a == c_b) {
@@ -71,10 +71,10 @@ function load_dances(dance_locations) {
   });
   prev = null;
   for (var i = 0 ; i < dance_locations.length ; i++) {
-    if (dance_locations[i][6]) {
-      add_dance(dance_locations[i][1],
-                dance_locations[i][0],
-                dance_locations[i][2]);
+    if (dance_locations[i].gender_free) {
+      add_dance(dance_locations[i].city,
+                dance_locations[i].url,
+                dance_locations[i].weekdays);
     }
   }
 }

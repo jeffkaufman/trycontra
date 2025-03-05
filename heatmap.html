@@ -35,10 +35,10 @@ function fetch(url, callback) {
 function load_dances(dances) {
   var heatMapData = [];
   for (var i = 0 ; i < dances.length ; i++) {
-    var weight = dances[i][3];
-    var lat = dances[i][4];
-    var lng = dances[i][5];
-    var active = dances[i][7];
+    var weight = dances[i].annual_freq;
+    var lat = dances[i].lat;
+    var lng = dances[i].lng;
+    var active = !dances[i].inactive;
 
     if (!lat || !lng || !active) continue;
 
