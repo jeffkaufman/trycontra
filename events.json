@@ -17462,10 +17462,11 @@
       "the Buzz Band"
     ],
     "roles": "Ladies/Gents",
-    "date": "",
+    "date": "5/9/2025",
     "location": "Mountain City TN",
     "url": "https://www.contradancersdelight.com/",
     "year": 2025,
+    "date_end": "5/16/2025",
     "latlng": [
       36.47,
       -81.8
@@ -18972,13 +18973,24 @@
   {
     "typical_month": "12",
     "name": "Contradancers Delight Holiday (Winter)",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Terry Doyle",
+      "Bob Isaacs",
+      "Devin Pohly",
+      "Warren Doyle"
+    ],
+    "bands": [
+      "Toss the Possum",
+      "Spintuition",
+      "the Buzz Band",
+      "George Paul"
+    ],
     "roles": "Ladies/Gents",
-    "date": "",
+    "date": "12/26/2025",
     "location": "Morgantown, WV",
     "url": "http://www.contradancersdelight.com/about-winter-cdh",
     "year": 2025,
+    "date_end": "12/31/2025",
     "latlng": [
       39.63,
       -79.96
