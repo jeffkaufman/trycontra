@@ -17081,27 +17081,6 @@
     ]
   },
   {
-    "typical_month": "5",
-    "name": "Spring Thaw Weekend",
-    "callers": [
-      "Will Mentor",
-      "Rick Szumski  "
-    ],
-    "bands": [
-      "Stomp Rocket"
-    ],
-    "roles": "",
-    "date": "5/9/2025",
-    "location": "Toronto ON",
-    "url": "https://tcdance.org/thaw2025.php",
-    "year": 2025,
-    "date_end": "5/10/2025",
-    "latlng": [
-      43.65,
-      -79.38
-    ]
-  },
-  {
     "typical_month": "4",
     "name": "Fiddlehead Frolic",
     "callers": [
@@ -17470,6 +17449,27 @@
     "latlng": [
       36.47,
       -81.8
+    ]
+  },
+  {
+    "typical_month": "5",
+    "name": "Spring Thaw Weekend",
+    "callers": [
+      "Will Mentor",
+      "Rick Szumski  "
+    ],
+    "bands": [
+      "Stomp Rocket"
+    ],
+    "roles": "",
+    "date": "5/9/2025",
+    "location": "Toronto ON",
+    "url": "https://tcdance.org/thaw2025.php",
+    "year": 2025,
+    "date_end": "5/10/2025",
+    "latlng": [
+      43.65,
+      -79.38
     ]
   },
   {
@@ -19560,21 +19560,6 @@
     ]
   },
   {
-    "typical_month": "5",
-    "name": "Spring Thaw Weekend",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Toronto ON",
-    "url": "https://tcdance.org/thaw2025.php",
-    "year": 2026,
-    "latlng": [
-      43.65,
-      -79.38
-    ]
-  },
-  {
     "typical_month": "4",
     "name": "Fiddlehead Frolic",
     "callers": [],
@@ -19612,7 +19597,7 @@
     "roles": "Larks / Robins",
     "date": "",
     "location": "Oberlin OH",
-    "url": "https://advance.oberlin.edu/events/2024/04/19/dandelion-romp-2024",
+    "url": "https://www.dandelionromp.com",
     "year": 2026,
     "latlng": [
       41.29,
@@ -19677,6 +19662,21 @@
     "latlng": [
       32.78,
       -96.8
+    ]
+  },
+  {
+    "typical_month": "5",
+    "name": "Spring Thaw Weekend",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Toronto ON",
+    "url": "https://tcdance.org/thaw2025.php",
+    "year": 2026,
+    "latlng": [
+      43.65,
+      -79.38
     ]
   },
   {
