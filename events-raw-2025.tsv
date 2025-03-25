@@ -36,10 +36,9 @@ typical month	name	caller1	caller2	caller3	caller4	caller5	caller6	band1	band2	b
 	continued	Hannah Johlas	Michael Karcher	Lisa Greenleaf	Chris Page			Confluence	Festival Orchestra	Not Enough Fiddles	Live Wire	Rum & Onions							
 	continued	Darlene Underwood	Sue Rosen	Ben Sachs-Hamilton	Alex Deis-Lauby	Jacob Bloom	Bev Bernbaum	The Orphans	Dogtown	The Moving Violations	Einstein's Little Homunculus	Jump Start							
 	continued	Sue Gola	Carl Levine	Steve Zakon-Anderson	Julian Blechner	Harris Lapiroff	Qwill Duvall	Sugar River Band	Zarkadelphia	Tabbies' Delight	Chimney Swift	Cojiro							
-5	Spring Thaw Weekend	Will Mentor	Rick Szumski  					Stomp Rocket	Unnamed						5/9/2025	5/10/2025	Toronto ON	https://tcdance.org/thaw2025.php	
 4	Fiddlehead Frolic	Adina Gordon						The Moving Violations	Unnamed						3/29/2025	3/29/2025	Ithaca NY	https://www.hands4dancers.org/upcoming-dances/2025/3/29/fiddlehead-frolic	
 4	Hands Four Spring Dance Weekend	Timothy Klein	Chris Bischoff					Hot Coffee Breakdown	Berea Castoffs						4/25/2025	4/27/2025	Berea KY	https://www.hands4-berea.com/	
-4	Dandelion Romp	Gaye Fifer	Will Mentor					River Road	Northwoods					Larks / Robins	4/18/2025	4/20/2025	Oberlin OH	https://advance.oberlin.edu/events/2024/04/19/dandelion-romp-2024	
+4	Dandelion Romp	Gaye Fifer	Will Mentor					River Road	Northwoods					Larks / Robins	4/18/2025	4/20/2025	Oberlin OH	https://www.dandelionromp.com	
 4	Trillium Twirl	Bob Isaacs						Toss the Possum							4/25/2025	4/27/2025	Dowling MI	https://michigandanceheritage.org/trilliumtwirl/	
 4	Portland Raindance Weekend	Will Mentor	Gaye Fifer					Red Case Band	Riptide						4/25/2025	4/27/2025	Portland OR	http://www.portlandraindance.org/	
 4	Contra Holiday in Medieval England	George Marshall	Terry Doyle	Janet Shepherd	Charlie Turner			Wild Asparagus	Contrasaurus					Gents / Ladies	4/2/2025	4/9/2025	Ely UK	www.contraholiday.net	
@@ -54,7 +53,8 @@ typical month	name	caller1	caller2	caller3	caller4	caller5	caller6	band1	band2	b
 5	Spring Dance Romance	Adina Gordon	Jacqui Grennan					Stomp Rocket	Countercurrent					Larks / Robins	4/25/2025	4/27/2025	Carrboro NC	https://tcdancers.org/sdr	
 5	Northwest Folklife																Seattle WA	https://nwfolklife.org/festival/home.html	
 5	Moulin d’Andé Weekend													Hommes/Femmes			Moulin d'Ande, Normandy, France	https://sites.google.com/site/americancontradanceinparis/	
-5	Contradancers Delight Holiday (Spring)	Terry Doyle	Bob Isaacs	Devin Pohly	Warren Doyle			Toss the Possum	Playing with Fyre	Atlanta Folk Orchestra	Ed Howe & Friends	Buzz Band		Ladies/Gents			Mountain City TN	https://www.contradancersdelight.com/	
+5	Contradancers Delight Holiday (Spring)	Terry Doyle	Bob Isaacs	Devin Pohly	Warren Doyle			Toss the Possum	Playing with Fyre	Atlanta Folk Orchestra	Ed Howe & Friends	Buzz Band		Ladies/Gents	5/9/2025	5/16/2025	Mountain City TN	https://www.contradancersdelight.com/	
+5	Spring Thaw Weekend	Will Mentor	Rick Szumski  					Stomp Rocket	Unnamed						5/9/2025	5/10/2025	Toronto ON	https://tcdance.org/thaw2025.php	
 5	Butterfly Whirl	Jacqui Grennan	Seth Tepfer					Stomp Rocket	Thunderwing					Larks/Robins	5/23/2025	5/25/2025	Decatur GA	http://www.dancerhapsody.com/special-events/	
 5	Chain Reaction	Alyssa Adkins	Will Mentor					Drive Train	The Engine Room					Larks/Robins	5/30/2025	6/1/2025	Surry ME	https://www.tickettailor.com/events/chainreactiondance/1462651	
 6	Summer Soiree	Steve Zakon-Anderson	Adina Gordon					The Mean Lids	Kingfisher						6/12/2025	6/15/2025	Asheville NC	https://www.ashevillecontra.com/	
@@ -126,7 +126,7 @@ typical month	name	caller1	caller2	caller3	caller4	caller5	caller6	band1	band2	b
 11	Hey Fever Dance Weekend	Mary Wesley	Will Mentor					Good Company	River Road						10/31/2025	11/2/2025	Ottawa ON	http://www.ottawacontra.ca/heyFever/	
 11	Dance in the Desert	Koren Wake	Steve Zakon-Anderson					The Free Raisins	The Faux Paws						11/7/2025	11/9/2025	Oracle AZ	https://tucsoncontradancers.org/tucson-contra-dancers/dance-in-the-desert-2024/	
 11	Pittsburgh Fall Dance Weekend	Gaye Fifer	Will Mentor					The Dam Beavers	Topspin					Larks / Robins	10/17/2025	10/19/2025	Pittsburgh PA	http://pittsburghcontra.org/fdw/	
-11	Head for the Hills Dance Weekend																Kresgeville PA	http://www.princetoncountrydancers.org/about-hfth	
+11	Head for the Hills Dance Weekend														11/7/2025	11/9/2025	Kresgeville PA	http://www.princetoncountrydancers.org/about-hfth	
 11	Rose City Dance-a-Rama																Portland OR	https://www.dancearama.org/	
 11	Atlanta Dance Weekend	Alex Deis-Lauby	Cis Hinkle					River Road	Dam Beavers								Atlanta GA	https://adw.contradance.org/	
 11	Contra Fest																Albany NY	https://www.danceflurry.org/event/contrafest/	
@@ -136,7 +136,7 @@ typical month	name	caller1	caller2	caller3	caller4	caller5	caller6	band1	band2	b
 11	Catalina Dance Weekend																Catalina Island CA	https://www.catalinadanceweekend.com/	
 12	Dancing Fish: December	Dereck Kalish						Thunderwing							12/5/2025	12/6/2025	Melrose FL	https://dancingfish.dance/	
 12	Winter Warmup Dance Weekend																Worthington OH	https://bigscioty.com/winterwarmup/	
-12	Contradancers Delight Holiday (Winter)													Ladies/Gents			Morgantown, WV	http://www.contradancersdelight.com/about-winter-cdh	
+12	Contradancers Delight Holiday (Winter)	Terry Doyle	Bob Isaacs	Devin Pohly	Warren Doyle			Toss the Possum	Spintuition	Buzz Band	George Paul			Ladies/Gents	12/26/2025	12/31/2025	Morgantown, WV	http://www.contradancersdelight.com/about-winter-cdh	
 12	Bash on Vashon																Vashon Island WA	https://bashonvashon.org/	
 12	Berea Christmas Country Dance School																Berea KY	https://bereaccds.org/	
 12	Terpsichore's Holiday																Adamstown MD	https://terpsichore.lloydshaw.org/	

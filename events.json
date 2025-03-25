@@ -17081,27 +17081,6 @@
     ]
   },
   {
-    "typical_month": "5",
-    "name": "Spring Thaw Weekend",
-    "callers": [
-      "Will Mentor",
-      "Rick Szumski  "
-    ],
-    "bands": [
-      "Stomp Rocket"
-    ],
-    "roles": "",
-    "date": "5/9/2025",
-    "location": "Toronto ON",
-    "url": "https://tcdance.org/thaw2025.php",
-    "year": 2025,
-    "date_end": "5/10/2025",
-    "latlng": [
-      43.65,
-      -79.38
-    ]
-  },
-  {
     "typical_month": "4",
     "name": "Fiddlehead Frolic",
     "callers": [
@@ -17157,7 +17136,7 @@
     "roles": "Larks / Robins",
     "date": "4/18/2025",
     "location": "Oberlin OH",
-    "url": "https://advance.oberlin.edu/events/2024/04/19/dandelion-romp-2024",
+    "url": "https://www.dandelionromp.com",
     "year": 2025,
     "date_end": "4/20/2025",
     "latlng": [
@@ -17462,13 +17441,35 @@
       "the Buzz Band"
     ],
     "roles": "Ladies/Gents",
-    "date": "",
+    "date": "5/9/2025",
     "location": "Mountain City TN",
     "url": "https://www.contradancersdelight.com/",
     "year": 2025,
+    "date_end": "5/16/2025",
     "latlng": [
       36.47,
       -81.8
+    ]
+  },
+  {
+    "typical_month": "5",
+    "name": "Spring Thaw Weekend",
+    "callers": [
+      "Will Mentor",
+      "Rick Szumski  "
+    ],
+    "bands": [
+      "Stomp Rocket"
+    ],
+    "roles": "",
+    "date": "5/9/2025",
+    "location": "Toronto ON",
+    "url": "https://tcdance.org/thaw2025.php",
+    "year": 2025,
+    "date_end": "5/10/2025",
+    "latlng": [
+      43.65,
+      -79.38
     ]
   },
   {
@@ -18812,10 +18813,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "11/7/2025",
     "location": "Kresgeville PA",
     "url": "http://www.princetoncountrydancers.org/about-hfth",
     "year": 2025,
+    "date_end": "11/9/2025",
     "latlng": [
       40.9,
       -75.5
@@ -18971,13 +18973,24 @@
   {
     "typical_month": "12",
     "name": "Contradancers Delight Holiday (Winter)",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Terry Doyle",
+      "Bob Isaacs",
+      "Devin Pohly",
+      "Warren Doyle"
+    ],
+    "bands": [
+      "Toss the Possum",
+      "Spintuition",
+      "the Buzz Band",
+      "George Paul"
+    ],
     "roles": "Ladies/Gents",
-    "date": "",
+    "date": "12/26/2025",
     "location": "Morgantown, WV",
     "url": "http://www.contradancersdelight.com/about-winter-cdh",
     "year": 2025,
+    "date_end": "12/31/2025",
     "latlng": [
       39.63,
       -79.96
@@ -19101,10 +19114,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "1/16/2026",
     "location": "Buena Vista CO",
     "url": "https://rockymountainranchdance.com",
     "year": 2026,
+    "date_end": "1/19/2026",
     "latlng": [
       38.84,
       -106.13
@@ -19546,21 +19560,6 @@
     ]
   },
   {
-    "typical_month": "5",
-    "name": "Spring Thaw Weekend",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Toronto ON",
-    "url": "https://tcdance.org/thaw2025.php",
-    "year": 2026,
-    "latlng": [
-      43.65,
-      -79.38
-    ]
-  },
-  {
     "typical_month": "4",
     "name": "Fiddlehead Frolic",
     "callers": [],
@@ -19598,7 +19597,7 @@
     "roles": "Larks / Robins",
     "date": "",
     "location": "Oberlin OH",
-    "url": "https://advance.oberlin.edu/events/2024/04/19/dandelion-romp-2024",
+    "url": "https://www.dandelionromp.com",
     "year": 2026,
     "latlng": [
       41.29,
@@ -19663,6 +19662,21 @@
     "latlng": [
       32.78,
       -96.8
+    ]
+  },
+  {
+    "typical_month": "5",
+    "name": "Spring Thaw Weekend",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Toronto ON",
+    "url": "https://tcdance.org/thaw2025.php",
+    "year": 2026,
+    "latlng": [
+      43.65,
+      -79.38
     ]
   },
   {
