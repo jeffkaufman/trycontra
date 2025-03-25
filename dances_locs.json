@@ -10,6 +10,9 @@
   {
     "annual_freq": 20,
     "city": "Fairbanks AK",
+    "icals": [
+      "https://calendar.google.com/calendar/ical/5jo5hkvmtf1dupernojlqkf66k%40group.calendar.google.com/public/basic.ics"
+    ],
     "lat": 64.84,
     "lng": -147.72,
     "url": "http://contraborealis.org/",
@@ -26,6 +29,9 @@
   {
     "annual_freq": 12,
     "city": "Birmingham AL",
+    "icals": [
+      "https://calendar.google.com/calendar/ical/uib6449eb1f32ikqc11tot77d4%40group.calendar.google.com/public/basic.ics"
+    ],
     "lat": 33.52,
     "lng": -86.8,
     "url": "https://www.footmadbirmingham.org",
@@ -891,6 +897,9 @@
     "annual_freq": 8,
     "city": "Amherst MA",
     "gender_free": true,
+    "icals": [
+      "https://engage.hampshire.edu/organization/contradancecollective/events.ics"
+    ],
     "lat": 42.37,
     "lng": -72.52,
     "url": "https://engage.hampshire.edu/organization/contradancecollective",
@@ -915,9 +924,12 @@
   {
     "annual_freq": 8,
     "city": "Groton MA",
+    "icals": [
+      "https://calendar.google.com/calendar/ical/grotongrange%40gmail.com/public/basic.ics"
+    ],
     "lat": 42.61,
     "lng": -71.57,
-    "url": "https://grotongrange.org/contra-dance/",
+    "url": "https://grotongrange.org/events/contra-dance/",
     "weekdays": "Saturdays"
   },
   {
@@ -948,6 +960,9 @@
     "annual_freq": 52,
     "city": "Glen Echo MD",
     "gender_free": true,
+    "icals": [
+      "https://eb-to-ical.daylightpirates.org/eventbrite-organizer-ical?organizer=https%3A%2F%2Fwww.eventbrite.com%2Fo%2Ffriday-night-dancers-87159242583"
+    ],
     "lat": 38.97,
     "lng": -77.14,
     "url": "http://fridaynightdance.org/",
@@ -966,6 +981,9 @@
     "annual_freq": 12,
     "city": "Belfast ME",
     "gender_free": true,
+    "icals": [
+      "https://belfastflyingshoes.org/?post_type=tribe_events&ical=1&eventDisplay=list"
+    ],
     "lat": 44.43,
     "lng": -69.01,
     "url": "https://www.belfastflyingshoes.org/",
@@ -975,6 +993,9 @@
     "annual_freq": 12,
     "city": "Portland ME",
     "gender_free": true,
+    "icals": [
+      "https://calendar.google.com/calendar/ical/0d91bca8eebb5bf2b86e7ea2ef26a3f6f1729ee3c73b87985a0407204e00dbc4%40group.calendar.google.com/public/basic.ics"
+    ],
     "lat": 43.66,
     "lng": -70.26,
     "url": "https://www.commonfloorcontra.dance/",
@@ -990,8 +1011,15 @@
   },
   {
     "annual_freq": 12,
+    "city": "Lewiston ME",
+    "lat": 44.1,
+    "lng": -70.21,
+    "url": "https://deffa.org/venue/trinity-commons/",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 2,
     "city": "Cherryfield ME",
-    "inactive": true,
     "lat": 44.61,
     "lng": -67.93,
     "url": "https://deffa.org/venue/cherryfield-contra-dance/",
@@ -1057,7 +1085,7 @@
   },
   {
     "annual_freq": 6,
-    "city": "Berwick, ME",
+    "city": "Berwick ME",
     "gender_free": true,
     "lat": 43.27,
     "lng": -70.86,
@@ -1066,7 +1094,7 @@
   },
   {
     "annual_freq": 12,
-    "city": "Bangor, ME",
+    "city": "Bangor ME",
     "gender_free": true,
     "lat": 44.8,
     "lng": -68.77,

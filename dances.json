@@ -8,6 +8,7 @@
   {
     "annual_freq": 20,
     "city": "Fairbanks AK",
+    "icals": [ "https://calendar.google.com/calendar/ical/5jo5hkvmtf1dupernojlqkf66k%40group.calendar.google.com/public/basic.ics" ],
     "url": "http://contraborealis.org/",
     "weekdays": "Fridays and Saturdays"
   },
@@ -20,6 +21,7 @@
   {
     "annual_freq": 12,
     "city": "Birmingham AL",
+    "icals": [ "https://calendar.google.com/calendar/ical/uib6449eb1f32ikqc11tot77d4%40group.calendar.google.com/public/basic.ics" ],
     "url": "https://www.footmadbirmingham.org",
     "weekdays": "Saturdays"
   },
@@ -668,6 +670,7 @@
     "annual_freq": 8,
     "city": "Amherst MA",
     "gender_free": true,
+    "icals": ["https://engage.hampshire.edu/organization/contradancecollective/events.ics"],
     "url": "https://engage.hampshire.edu/organization/contradancecollective",
     "weekdays": "Wednesdays"
   },
@@ -686,7 +689,8 @@
   {
     "annual_freq": 8,
     "city": "Groton MA",
-    "url": "https://grotongrange.org/contra-dance/",
+    "icals": [ "https://calendar.google.com/calendar/ical/grotongrange%40gmail.com/public/basic.ics" ],
+    "url": "https://grotongrange.org/events/contra-dance/",
     "weekdays": "Saturdays"
   },
   {
@@ -711,6 +715,7 @@
     "annual_freq": 52,
     "city": "Glen Echo MD",
     "gender_free": true,
+    "icals": [ "https://eb-to-ical.daylightpirates.org/eventbrite-organizer-ical?organizer=https%3A%2F%2Fwww.eventbrite.com%2Fo%2Ffriday-night-dancers-87159242583" ],
     "url": "http://fridaynightdance.org/",
     "weekdays": "Fridays"
   },
@@ -725,6 +730,7 @@
     "annual_freq": 12,
     "city": "Belfast ME",
     "gender_free": true,
+    "icals": ["https://belfastflyingshoes.org/?post_type=tribe_events&ical=1&eventDisplay=list"],
     "url": "https://www.belfastflyingshoes.org/",
     "weekdays": "Fridays"
   },
@@ -732,6 +738,7 @@
     "annual_freq": 12,
     "city": "Portland ME",
     "gender_free": true,
+    "icals": ["https://calendar.google.com/calendar/ical/0d91bca8eebb5bf2b86e7ea2ef26a3f6f1729ee3c73b87985a0407204e00dbc4%40group.calendar.google.com/public/basic.ics"],
     "url": "https://www.commonfloorcontra.dance/",
     "weekdays": "Sundays"
   },
@@ -743,8 +750,13 @@
   },
   {
     "annual_freq": 12,
+    "city": "Lewiston ME",
+    "url": "https://deffa.org/venue/trinity-commons/",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 2,
     "city": "Cherryfield ME",
-    "inactive": true,
     "url": "https://deffa.org/venue/cherryfield-contra-dance/",
     "weekdays": "Saturdays"
   },
@@ -794,14 +806,14 @@
   },
   {
     "annual_freq": 6,
-    "city": "Berwick, ME",
+    "city": "Berwick ME",
     "gender_free": true,
     "url": "https://www.hackmatackplayhouse.org/contra-dances",
     "weekdays": "Sundays"
   },
   {
     "annual_freq": 12,
-    "city": "Bangor, ME",
+    "city": "Bangor ME",
     "gender_free": true,
     "url": "https://www.facebook.com/groups/bangorcontra/",
     "weekdays": "Fridays"
