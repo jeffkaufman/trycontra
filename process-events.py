@@ -68,6 +68,9 @@ name_changes = {
     'Wendy Graham Settle': 'Wendy Graham',
     'Lauren Peckman': 'Lo Peckman',
     'Ron Blechner': 'Julian Blechner',
+    'River Rainbowface Abel': 'River Rainbowface',
+    'River Abel': 'River Rainbowface',
+    'Emily Abel': 'River Rainbowface',
 }
 
 possible_the_bands = set()
