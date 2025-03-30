@@ -15487,7 +15487,7 @@
       "the Syncopaths",
       "Countercurrent"
     ],
-    "roles": "",
+    "roles": "Larks / Robins",
     "date": "9/20/2024",
     "location": "Surrey BC",
     "url": "https://chehalisdancecamp.com/",
@@ -16951,7 +16951,7 @@
     "roles": "Larks / Robins",
     "date": "4/4/2025",
     "location": "Mill Valley CA",
-    "url": "https://nbcds.org/epicenter-2024/",
+    "url": "https://nbcds.org/epicenter-2025/",
     "year": 2025,
     "date_end": "4/6/2025",
     "latlng": [
@@ -17941,7 +17941,8 @@
       "Lisa Greenleaf"
     ],
     "bands": [
-      "the Stringrays"
+      "the Stringrays",
+      "Jet Bridge"
     ],
     "roles": "",
     "date": "7/19/2025",
@@ -18338,7 +18339,7 @@
       "the Free Raisins",
       "Joyride"
     ],
-    "roles": "",
+    "roles": "Larks / Robins",
     "date": "9/19/2025",
     "location": "Surrey BC",
     "url": "https://chehalisdancecamp.com/",
@@ -18390,13 +18391,20 @@
   {
     "typical_month": "9",
     "name": "Cascade Contras Dance Camp",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
+    "callers": [
+      "Isaac Banner",
+      "Adina Gordon"
+    ],
+    "bands": [
+      "Anadama",
+      "Countercurrent"
+    ],
+    "roles": "Larks / Robins",
+    "date": "9/26/2025",
     "location": "Springfield OR",
-    "url": "https://eugenefolklore.org/cascade-contras/",
+    "url": "https://eugenefolklore.org/cascade-contras-on-the-river/",
     "year": 2025,
+    "date_end": "9/28/2025",
     "latlng": [
       44.05,
       -123.02
@@ -18504,12 +18512,15 @@
     "typical_month": "10",
     "name": "Wasatch Wiggle",
     "callers": [],
-    "bands": [],
+    "bands": [
+      "Countercurrent"
+    ],
     "roles": "",
-    "date": "",
+    "date": "9/19/2025",
     "location": "Salt Lake City UT",
     "url": "https://wasatchcontras.org/ww/",
     "year": 2025,
+    "date_end": "9/21/2025",
     "latlng": [
       40.76,
       -111.89
@@ -18774,7 +18785,7 @@
       "the Free Raisins",
       "the Faux Paws"
     ],
-    "roles": "",
+    "roles": "Larks / Robins",
     "date": "11/7/2025",
     "location": "Oracle AZ",
     "url": "https://tucsoncontradancers.org/tucson-contra-dancers/dance-in-the-desert-2024/",
@@ -18892,9 +18903,17 @@
   {
     "typical_month": "11",
     "name": "ContraCopia",
-    "callers": [],
-    "bands": [],
-    "roles": "",
+    "callers": [
+      "Janine Smith",
+      "Qwill Duval",
+      "Michael Karcher"
+    ],
+    "bands": [
+      "River Road",
+      "Northwoods",
+      "Midnight on the Water"
+    ],
+    "roles": "Larks / Robins",
     "date": "11/28/2025",
     "location": "Philadelphia PA",
     "url": "http://www.thursdaycontra.com/contracopia/",
@@ -19325,10 +19344,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "2/27/2025",
     "location": "Lava Hot Springs ID",
     "url": "http://www.lavameltdown2025.com/",
     "year": 2026,
+    "date_end": "3/1/2025",
     "latlng": [
       42.62,
       -112.01
@@ -19352,13 +19372,20 @@
   {
     "typical_month": "3",
     "name": "Pigtown Fling",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Wendy Graham",
+      "Will Mentor"
+    ],
+    "bands": [
+      "Kingfisher",
+      "the Dam Beavers"
+    ],
     "roles": "",
-    "date": "",
+    "date": "3/27/2026",
     "location": "Cincinattia OH",
     "url": "https://www.pigtownfling.com/",
     "year": 2026,
+    "date_end": "3/29/2026",
     "latlng": [
       39.1,
       -84.51
@@ -19492,7 +19519,7 @@
     "roles": "Larks / Robins",
     "date": "",
     "location": "Mill Valley CA",
-    "url": "https://nbcds.org/epicenter-2024/",
+    "url": "https://nbcds.org/epicenter-2025/",
     "year": 2026,
     "latlng": [
       37.91,
@@ -20016,12 +20043,12 @@
     "bands": [],
     "roles": "",
     "date": "",
-    "location": "La Honda CA",
+    "location": "Aptos CA",
     "url": "https://www.bacds.org/familyweek/",
     "year": 2026,
     "latlng": [
-      37.32,
-      -122.27
+      36.98,
+      -121.9
     ]
   },
   {
