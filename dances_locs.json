@@ -1029,6 +1029,9 @@
     "annual_freq": 12,
     "city": "Hallowell ME",
     "gender_free": true,
+    "icals": [
+      "https://calendar.google.com/calendar/ical/365bea0a69c61ed1419ea490097d7311c8461a001f47cfebb28b0891e3ecbb5c%40group.calendar.google.com/public/basic.ics"
+    ],
     "lat": 44.29,
     "lng": -69.79,
     "url": "https://www.kennebec-contra.org/",
@@ -1122,9 +1125,12 @@
     "annual_freq": 12,
     "city": "Topsham ME",
     "gender_free": true,
+    "icals": [
+      "https://calendar.google.com/calendar/ical/topshamcontra%40gmail.com/public/basic.ics"
+    ],
     "lat": 43.94,
     "lng": -69.97,
-    "url": "https://www.facebook.com/groups/3368840873418769",
+    "url": "https://topshamcontra.org/",
     "weekdays": "Saturdays"
   },
   {
