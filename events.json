@@ -12626,7 +12626,7 @@
   },
   {
     "typical_month": "9",
-    "name": "Rendezvous Dance Weekend",
+    "name": "Rocky Mountain Rendezvous",
     "callers": [
       "Beth Molaro",
       "Seth Tepfer"
@@ -15314,7 +15314,7 @@
   },
   {
     "typical_month": "9",
-    "name": "Rendezvous Dance Weekend",
+    "name": "Rocky Mountain Rendezvous",
     "callers": [
       "Gaye Fifer",
       "Will Mentor"
@@ -17411,21 +17411,6 @@
   },
   {
     "typical_month": "5",
-    "name": "Moulin d\u2019And\u00e9 Weekend",
-    "callers": [],
-    "bands": [],
-    "roles": "Hommes/Femmes",
-    "date": "",
-    "location": "Moulin d'Ande, Normandy, France",
-    "url": "https://sites.google.com/site/americancontradanceinparis/",
-    "year": 2025,
-    "latlng": [
-      49.24,
-      1.25
-    ]
-  },
-  {
-    "typical_month": "5",
     "name": "Contradancers Delight Holiday (Spring)",
     "callers": [
       "Terry Doyle",
@@ -17492,6 +17477,26 @@
     "latlng": [
       33.77,
       -84.3
+    ]
+  },
+  {
+    "typical_month": "5",
+    "name": "Camp Sturtevant",
+    "callers": [
+      "Susan Petrick"
+    ],
+    "bands": [
+      "Uncle Farmer"
+    ],
+    "roles": "Larks / Robins",
+    "date": "5/23/2025",
+    "location": "Arcadia CA",
+    "url": "https://www.sccdc.org/special-events/camp-sturtevant/",
+    "year": 2025,
+    "date_end": "5/26/2025",
+    "latlng": [
+      34.14,
+      -118.04
     ]
   },
   {
@@ -17767,8 +17772,14 @@
   {
     "typical_month": "7",
     "name": "AmWeek",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Cis Hinkle",
+      "Jacqui Grennan"
+    ],
+    "bands": [
+      "Lissa & Friends",
+      "Synchopaths"
+    ],
     "roles": "",
     "date": "6/29/2025",
     "location": "Ben Lomond CA",
@@ -18181,7 +18192,7 @@
   },
   {
     "typical_month": "9",
-    "name": "Rendezvous Dance Weekend",
+    "name": "Rocky Mountain Rendezvous",
     "callers": [
       "Will Mentor",
       "Alex Deis-Lauby"
@@ -18300,13 +18311,20 @@
   {
     "typical_month": "9",
     "name": "Echo Summit",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Lindsey Dono",
+      "Michael Karcher"
+    ],
+    "bands": [
+      "Countercurrent",
+      "Thunderwing"
+    ],
     "roles": "",
-    "date": "",
+    "date": "9/12/2025",
     "location": "Camp Sacremento",
     "url": "https://sactocds.wordpress.com/special-events/echo-summit-dance-camp-2025",
     "year": 2025,
+    "date_end": "9/14/2025",
     "latlng": [
       38.8,
       -120.12
@@ -18390,7 +18408,7 @@
   },
   {
     "typical_month": "9",
-    "name": "Cascade Contras Dance Camp",
+    "name": "Cascade Contras",
     "callers": [
       "Isaac Banner",
       "Adina Gordon"
@@ -18945,10 +18963,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "11/14/2025",
     "location": "Catalina Island CA",
     "url": "https://www.catalinadanceweekend.com/",
     "year": 2025,
+    "date_end": "11/16/2025",
     "latlng": [
       33.39,
       -118.42
@@ -19093,13 +19112,22 @@
   {
     "typical_month": "1",
     "name": "Contra Carnivale",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Jacqui Grennan",
+      "Jean Gorrindo",
+      "Michael Karcher"
+    ],
+    "bands": [
+      "Red Case Band",
+      "Topspin",
+      "the Dam Beavers"
+    ],
     "roles": "Larks / Robins",
-    "date": "",
+    "date": "1/16/2026",
     "location": "San Luis Obispo CA",
     "url": "https://contracarnivale.org/",
     "year": 2026,
+    "date_end": "1/18/2026",
     "latlng": [
       35.28,
       -120.66
@@ -19191,13 +19219,20 @@
   {
     "typical_month": "2",
     "name": "Fiddling Frog Dance Festival",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Frannie Marr",
+      "Cis Hinkle"
+    ],
+    "bands": [
+      "Playing with Fyre",
+      "Eloise & Co."
+    ],
     "roles": "Larks / Robins",
-    "date": "",
+    "date": "2/27/2026",
     "location": "Pasadena CA",
     "url": "https://www.sccdc.org/special-events/fiddling-frog/",
     "year": 2026,
+    "date_end": "3/1/2026",
     "latlng": [
       34.15,
       -118.14
@@ -19221,13 +19256,19 @@
   {
     "typical_month": "2",
     "name": "Supersonic",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Seth Tepfer"
+    ],
+    "bands": [
+      "Root System",
+      "the Faux Paws"
+    ],
     "roles": "",
-    "date": "",
+    "date": "2/6/2026",
     "location": "Seattle WA",
     "url": "https://www.supersoniccontra.com/",
     "year": 2026,
+    "date_end": "2/7/2026",
     "latlng": [
       47.61,
       -122.33
@@ -19311,8 +19352,14 @@
   {
     "typical_month": "2",
     "name": "Corvallis Contra Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Gaye Fifer",
+      "Jeremy Korr"
+    ],
+    "bands": [
+      "Wake Up Robin",
+      "Orb Weavers"
+    ],
     "roles": "Larks / Robins",
     "date": "",
     "location": "Corvallis OR",
@@ -19514,13 +19561,20 @@
   {
     "typical_month": "4",
     "name": "Epicenter dance weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Gaye Fifer",
+      "Liz Nelson"
+    ],
+    "bands": [
+      "Notorious",
+      "the Syncopaths"
+    ],
     "roles": "Larks / Robins",
-    "date": "",
+    "date": "3/27/2026",
     "location": "Mill Valley CA",
     "url": "https://nbcds.org/epicenter-2025/",
     "year": 2026,
+    "date_end": "3/29/2026",
     "latlng": [
       37.91,
       -122.54
@@ -19753,6 +19807,21 @@
   },
   {
     "typical_month": "5",
+    "name": "Cascade Contras Dance Camp",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Springfield OR",
+    "url": "https://eugenefolklore.org/cascade-contras-on-the-river/",
+    "year": 2026,
+    "latlng": [
+      44.05,
+      -123.02
+    ]
+  },
+  {
+    "typical_month": "5",
     "name": "Lake Eden Arts Festival - Spring",
     "callers": [],
     "bands": [],
@@ -19884,6 +19953,21 @@
     "latlng": [
       33.77,
       -84.3
+    ]
+  },
+  {
+    "typical_month": "5",
+    "name": "Camp Sturtevant",
+    "callers": [],
+    "bands": [],
+    "roles": "Larks / Robins",
+    "date": "",
+    "location": "Arcadia CA",
+    "url": "https://www.sccdc.org/special-events/camp-sturtevant/",
+    "year": 2026,
+    "latlng": [
+      34.14,
+      -118.04
     ]
   },
   {
@@ -20443,7 +20527,7 @@
   },
   {
     "typical_month": "9",
-    "name": "Rendezvous Dance Weekend",
+    "name": "Rocky Mountain Rendezvous",
     "callers": [],
     "bands": [],
     "roles": "",
@@ -20597,28 +20681,14 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "5/8/2026",
     "location": "Silver Bay NY",
     "url": "https://www.danceflurry.org/adirondack-dance-weekend/",
     "year": 2026,
+    "date_end": "5/10/2026",
     "latlng": [
       43.7,
       -73.51
-    ]
-  },
-  {
-    "typical_month": "9",
-    "name": "Cascade Contras Dance Camp",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Springfield OR",
-    "url": "https://eugenefolklore.org/cascade-contras/",
-    "year": 2026,
-    "latlng": [
-      44.05,
-      -123.02
     ]
   },
   {
