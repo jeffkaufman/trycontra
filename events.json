@@ -17582,7 +17582,9 @@
   {
     "typical_month": "6",
     "name": "Dancing Fish: June",
-    "callers": [],
+    "callers": [
+      "Seth Tepfer"
+    ],
     "bands": [],
     "roles": "",
     "date": "",
@@ -18458,6 +18460,30 @@
     ]
   },
   {
+    "typical_month": "9",
+    "name": "ContraStock",
+    "callers": [
+      "Alex Deis-Lauby",
+      "Will Mentor",
+      "Rick Mohr"
+    ],
+    "bands": [
+      "Good Company",
+      "the Gigmeisters",
+      "Audrey Jaber and Alex Cumming"
+    ],
+    "roles": "",
+    "date": "9/7/2025",
+    "location": "Glen Echo MD",
+    "url": "https://fsgw.org/contrastock",
+    "year": 2025,
+    "date_end": "9/7/2025",
+    "latlng": [
+      38.97,
+      -77.14
+    ]
+  },
+  {
     "typical_month": "10",
     "name": "Moondance Dance Weekend",
     "callers": [
@@ -18501,24 +18527,10 @@
   },
   {
     "typical_month": "10",
-    "name": "ContraStock",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "9/7/2025",
-    "location": "Glen Echo MD",
-    "url": "https://fsgw.org/contrastock",
-    "year": 2025,
-    "date_end": "9/7/2025",
-    "latlng": [
-      38.97,
-      -77.14
-    ]
-  },
-  {
-    "typical_month": "10",
     "name": "Wasatch Wiggle",
-    "callers": [],
+    "callers": [
+      "Alex Deis-Lauby"
+    ],
     "bands": [
       "Countercurrent"
     ],
