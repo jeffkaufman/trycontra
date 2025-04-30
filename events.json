@@ -17585,12 +17585,15 @@
     "callers": [
       "Seth Tepfer"
     ],
-    "bands": [],
+    "bands": [
+      "Potent Brew"
+    ],
     "roles": "",
-    "date": "",
+    "date": "6/6/2025",
     "location": "Melrose FL",
     "url": "https://dancingfish.dance/",
     "year": 2025,
+    "date_end": "6/7/2025",
     "latlng": [
       29.71,
       -82.05
@@ -18151,7 +18154,9 @@
   {
     "typical_month": "9",
     "name": "Dancing Fish: Labor Day",
-    "callers": [],
+    "callers": [
+      "Kenny Greer"
+    ],
     "bands": [
       "Howe And Company"
     ],
@@ -18751,6 +18756,26 @@
   },
   {
     "typical_month": "11",
+    "name": "Dancing Fish: November",
+    "callers": [
+      "Terry Doyle"
+    ],
+    "bands": [
+      "Playing with Fyre"
+    ],
+    "roles": "",
+    "date": "10/31/2025",
+    "location": "Melrose FL",
+    "url": "https://dancingfish.dance/",
+    "year": 2025,
+    "date_end": "11/1/2025",
+    "latlng": [
+      29.71,
+      -82.05
+    ]
+  },
+  {
+    "typical_month": "11",
     "name": "Foggy Moon Dance Weekend",
     "callers": [
       "Alex Deis-Lauby",
@@ -18807,7 +18832,7 @@
     "roles": "Larks / Robins",
     "date": "11/7/2025",
     "location": "Oracle AZ",
-    "url": "https://tucsoncontradancers.org/tucson-contra-dancers/dance-in-the-desert-2024/",
+    "url": "https://tucsoncontradancers.org/tucson-contra-dancers/dance-in-the-desert-2025/",
     "year": 2025,
     "date_end": "11/9/2025",
     "latlng": [
@@ -18985,10 +19010,12 @@
     "typical_month": "12",
     "name": "Dancing Fish: December",
     "callers": [
-      "Dereck Kalish"
+      "Dereck Kalish",
+      "Janine Smith"
     ],
     "bands": [
-      "Thunderwing"
+      "Thunderwing",
+      "Frenzy"
     ],
     "roles": "",
     "date": "12/5/2025",

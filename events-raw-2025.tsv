@@ -60,7 +60,7 @@ typical month	name	caller1	caller2	caller3	caller4	caller5	caller6	band1	band2	b
 6	Summer Soiree	Steve Zakon-Anderson	Adina Gordon					The Mean Lids	Kingfisher						6/12/2025	6/15/2025	Asheville NC	https://www.ashevillecontra.com/	
 6	Stegastomp																Harbury UK	https://www.contrasaurus.com/stegastomp.html	
 6	Dance Trance Weekend	Darlene Underwood	Terry Doyle					Toss the Possum							6/6/2025	6/8/2025	Lexington KY	https://www.dancetrance.ltda.us/	
-6	Dancing Fish: June	Seth Tepfer															Melrose FL	https://dancingfish.dance/	
+6	Dancing Fish: June	Seth Tepfer						Potent Brew							6/6/2025	6/7/2025	Melrose FL	https://dancingfish.dance/	
 6	Gender-Free Dance Camp (Spring)	Mary Wesley	Chris Ricciotti					Calico	Northwoods					Larks / Robins	6/6/2025	6/8/2025	Plymouth MA	https://www.lcfd.org/lcfd-camps.html	
 6	Flamingo Fling Weekend	Alex Deis-Lauby						River Road							6/13/2025	6/15/2025	Oklahoma City OK	http://scissortail.org/special-events/flamingo-fling/	
 6	Swing into Summer	Luke Donforth						Topspin	The Pegasus Collective					Larks / Robins			Plymouth MA	http://www.swingintosummer.org/	
@@ -90,7 +90,7 @@ typical month	name	caller1	caller2	caller3	caller4	caller5	caller6	band1	band2	b
 8	Mentone	Cis Hinkle	Chet Gray					Turnip the Beet	The Yellow Dandies						8/15/2025	8/17/2025	Mentone AL	http://www.footmadbirmingham.org/mentone.html	
 8	Balance the Bay	Will Mentor	Alex Deis-Lauby					Latter Day Lizards	River Road						8/15/2025	8/17/2025	San Francisco CA	https://www.bacds.org/camps/btb2025/	
 8	TradMaD														8/23/2025	8/29/2025	Plymouth MA	http://minstrelrecords.com/tradmad/	
-9	Dancing Fish: Labor Day							Howe And Company							8/29/2025	8/31/2025	Melrose FL	https://dancingfish.dance/	
+9	Dancing Fish: Labor Day	Kenny Greer						Howe And Company							8/29/2025	8/31/2025	Melrose FL	https://dancingfish.dance/	
 9	Contravana																Rochester NY	https://cdrochester.org/	
 9	Rocky Mountain Rendezvous	Will Mentor	Alex Deis-Lauby					Stove Dragon	Spintuition						8/29/2025	9/1/2025	Boulder CO	https://cfootmad.org/rendezvous	
 9	Michigan Dance Heritage Fall Weekend																Lexington MI	https://michigandanceheritage.org/fall/	
@@ -121,9 +121,10 @@ typical month	name	caller1	caller2	caller3	caller4	caller5	caller6	band1	band2	b
 10	Contra NYC	Will Mentor						Red Case Band	Kingfisher	Some Assembly Required					10/24/2025	10/26/2025	New York NY	https://www.contradance.nyc/	
 10	Mountain Madness														10/10/2025	10/12/2025	Jonesborough TN	https://historicjonesboroughdancesociety.net	
 10	John C Campbell Fall Dance Weekend	Wendy Graham	Carol Sersland					Unnamed	Supertrad						10/9/2025	10/12/2025	Brasstown NC	https://folkschool.configio.com/pd/3332/fall-dance-weekend-long-weekend	
+11	Dancing Fish: November	Terry Doyle						Playing with Fyre							10/31/2025	11/1/2025	Melrose FL	https://dancingfish.dance/	
 11	Foggy Moon Dance Weekend	Alex Deis-Lauby	Lisa Greenleaf					Countercurrent	The Stringrays						10/31/2025	11/2/2025	Monterey CA	http://montereycontradance.org/foggy-moon.html	
 11	Hey Fever Dance Weekend	Mary Wesley	Will Mentor					Good Company	River Road						10/31/2025	11/2/2025	Ottawa ON	http://www.ottawacontra.ca/heyFever/	
-11	Dance in the Desert	Koren Wake	Steve Zakon-Anderson					The Free Raisins	The Faux Paws					Larks / Robins	11/7/2025	11/9/2025	Oracle AZ	https://tucsoncontradancers.org/tucson-contra-dancers/dance-in-the-desert-2024/	
+11	Dance in the Desert	Koren Wake	Steve Zakon-Anderson					The Free Raisins	The Faux Paws					Larks / Robins	11/7/2025	11/9/2025	Oracle AZ	https://tucsoncontradancers.org/tucson-contra-dancers/dance-in-the-desert-2025/	
 11	Pittsburgh Fall Dance Weekend	Gaye Fifer	Will Mentor					The Dam Beavers	Topspin					Larks / Robins	10/17/2025	10/19/2025	Pittsburgh PA	http://pittsburghcontra.org/fdw/	
 11	Head for the Hills Dance Weekend														11/7/2025	11/9/2025	Kresgeville PA	http://www.princetoncountrydancers.org/about-hfth	
 11	Rose City Dance-a-Rama																Portland OR	https://www.dancearama.org/	
@@ -133,7 +134,7 @@ typical month	name	caller1	caller2	caller3	caller4	caller5	caller6	band1	band2	b
 11	ContraCopia	Janine Smith	Qwill Duvall	Michael Karcher				River Road	Northwoods	Midnight on the Water				Larks / Robins	11/28/2025	11/30/2025	Philadelphia PA	http://www.thursdaycontra.com/contracopia/	
 11	Breaking Up Thanksgiving																Evanston IL	https://www.breakingupthanksgiving.com/	
 11	Catalina Dance Weekend														11/14/2025	11/16/2025	Catalina Island CA	https://www.catalinadanceweekend.com/	
-12	Dancing Fish: December	Dereck Kalish						Thunderwing							12/5/2025	12/6/2025	Melrose FL	https://dancingfish.dance/	
+12	Dancing Fish: December	Dereck Kalish	Janine Smith					Thunderwing	Frenzy						12/5/2025	12/6/2025	Melrose FL	https://dancingfish.dance/	
 12	Winter Warmup Dance Weekend																Worthington OH	https://bigscioty.com/winterwarmup/	
 12	Contradancers Delight Holiday (Winter)	Terry Doyle	Bob Isaacs	Devin Pohly	Warren Doyle			Toss the Possum	Spintuition	Buzz Band	George Paul			Ladies/Gents	12/26/2025	12/31/2025	Morgantown, WV	http://www.contradancersdelight.com/about-winter-cdh	
 12	Bash on Vashon																Vashon Island WA	https://bashonvashon.org/	
