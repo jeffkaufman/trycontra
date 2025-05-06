@@ -1458,6 +1458,12 @@
     "weekdays": "Saturdays"
   },
   {
+    "annual_freq": 8,
+    "city": "Honesdale PA",
+    "url": "https://thecooperageproject.org/events-news/contra-dance-2025/",
+    "weekdays": "Saturdays"
+  },
+  {
     "annual_freq": 12,
     "city": "Providence RI",
     "gender_free": true,
@@ -1745,7 +1751,7 @@
     "city": "Milwaukee WI",
     "gender_free": true,
     "url": "https://www.mkecontra.org/",
-    "weekdays": "Thursdays"
+    "weekdays": "Fridays"
   },
   {
     "annual_freq": 12,

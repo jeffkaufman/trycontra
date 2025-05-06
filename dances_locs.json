@@ -1991,6 +1991,14 @@
     "weekdays": "Saturdays"
   },
   {
+    "annual_freq": 8,
+    "city": "Honesdale PA",
+    "lat": 41.58,
+    "lng": -75.26,
+    "url": "https://thecooperageproject.org/events-news/contra-dance-2025/",
+    "weekdays": "Saturdays"
+  },
+  {
     "annual_freq": 12,
     "city": "Providence RI",
     "gender_free": true,
@@ -2384,7 +2392,7 @@
     "lat": 43.04,
     "lng": -87.91,
     "url": "https://www.mkecontra.org/",
-    "weekdays": "Thursdays"
+    "weekdays": "Fridays"
   },
   {
     "annual_freq": 12,
