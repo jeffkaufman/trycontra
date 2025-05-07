@@ -1071,14 +1071,6 @@
     "weekdays": "Fridays"
   },
   {
-    "annual_freq": 12,
-    "city": "Monson ME",
-    "lat": 45.29,
-    "lng": -69.5,
-    "url": "https://www.huntandallison.net/",
-    "weekdays": "Saturdays"
-  },
-  {
     "annual_freq": 4,
     "city": "Vassalboro ME",
     "lat": 44.46,
@@ -1149,9 +1141,12 @@
     "annual_freq": 12,
     "city": "Damariscotta ME",
     "gender_free": true,
+    "icals": [
+      "https://calendar.google.com/calendar/ical/5dtkuqr12hhju4trf196jjqmb0@group.calendar.google.com/public/basic.ics"
+    ],
     "lat": 44.03,
     "lng": -69.53,
-    "url": "https://deffa.org/series/damariscotta-contra/",
+    "url": "https://sites.google.com/site/oystercreekfiddlers/where-we-are-performing",
     "weekdays": "Fridays"
   },
   {

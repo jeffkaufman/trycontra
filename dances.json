@@ -794,12 +794,6 @@
     "weekdays": "Fridays"
   },
   {
-    "annual_freq": 12,
-    "city": "Monson ME",
-    "url": "https://www.huntandallison.net/",
-    "weekdays": "Saturdays"
-  },
-  {
     "annual_freq": 4,
     "city": "Vassalboro ME",
     "url": "https://www.facebook.com/VassalboroGrange",
@@ -852,7 +846,8 @@
     "annual_freq": 12,
     "city": "Damariscotta ME",
     "gender_free": true,
-    "url": "https://deffa.org/series/damariscotta-contra/",
+    "icals": [ "https://calendar.google.com/calendar/ical/5dtkuqr12hhju4trf196jjqmb0@group.calendar.google.com/public/basic.ics" ],
+    "url": "https://sites.google.com/site/oystercreekfiddlers/where-we-are-performing",
     "weekdays": "Fridays"
   },
   {
