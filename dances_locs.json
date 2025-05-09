@@ -608,11 +608,11 @@
     "weekdays": "Sundays"
   },
   {
-    "annual_freq": 20,
+    "annual_freq": 12,
     "city": "Carbondale IL",
     "lat": 37.72,
     "lng": -89.21,
-    "url": "https://www.facebook.com/groups/165256476374/",
+    "url": "https://www.facebook.com/profile.php?id=61551423593584",
     "weekdays": "Saturdays"
   },
   {
@@ -1238,6 +1238,14 @@
     "lng": -94.58,
     "url": "https://www.facebook.com/groups/30128907202/",
     "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Cape Girardeau MO",
+    "lat": 37.31,
+    "lng": -89.52,
+    "url": "https://facebook.com/groups/165256476374/",
+    "weekdays": "Sundays"
   },
   {
     "annual_freq": 20,
