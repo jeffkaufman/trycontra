@@ -458,9 +458,9 @@
     "weekdays": "Sundays"
   },
   {
-    "annual_freq": 20,
+    "annual_freq": 12,
     "city": "Carbondale IL",
-    "url": "https://www.facebook.com/groups/165256476374/",
+    "url": "https://www.facebook.com/profile.php?id=61551423593584",
     "weekdays": "Saturdays"
   },
   {
@@ -743,6 +743,13 @@
     "weekdays": "Sundays"
   },
   {
+    "annual_freq": 52,
+    "city": "Portland ME",
+    "gender_free": true,
+    "url": "https://www.portlandintowncontradance.com/",
+    "weekdays": "Thursdays"
+  },
+  {
     "annual_freq": 12,
     "city": "Otisfield ME",
     "url": "https://www.facebook.com/Otisfield-Contra-Dance-1933069520038977/",
@@ -764,6 +771,7 @@
     "annual_freq": 12,
     "city": "Hallowell ME",
     "gender_free": true,
+    "icals": ["https://calendar.google.com/calendar/ical/365bea0a69c61ed1419ea490097d7311c8461a001f47cfebb28b0891e3ecbb5c%40group.calendar.google.com/public/basic.ics"],
     "url": "https://www.kennebec-contra.org/",
     "weekdays": "Saturdays"
   },
@@ -786,12 +794,6 @@
     "weekdays": "Fridays"
   },
   {
-    "annual_freq": 12,
-    "city": "Monson ME",
-    "url": "https://www.huntandallison.net/",
-    "weekdays": "Saturdays"
-  },
-  {
     "annual_freq": 4,
     "city": "Vassalboro ME",
     "url": "https://www.facebook.com/VassalboroGrange",
@@ -808,6 +810,7 @@
     "annual_freq": 6,
     "city": "Berwick ME",
     "gender_free": true,
+    "icals": [ "https://calendar.google.com/calendar/ical/847d1b4679c840d289b7980cfcaa598c5ef7a8eec70f0d8eb554e67f0bf6320e@group.calendar.google.com/public/basic.ics" ],
     "url": "https://www.hackmatackplayhouse.org/contra-dances",
     "weekdays": "Sundays"
   },
@@ -835,14 +838,16 @@
     "annual_freq": 12,
     "city": "Topsham ME",
     "gender_free": true,
-    "url": "https://www.facebook.com/groups/3368840873418769",
+    "icals": ["https://calendar.google.com/calendar/ical/topshamcontra%40gmail.com/public/basic.ics"],
+    "url": "https://topshamcontra.org/",
     "weekdays": "Saturdays"
   },
   {
     "annual_freq": 12,
     "city": "Damariscotta ME",
     "gender_free": true,
-    "url": "https://deffa.org/series/damariscotta-contra/",
+    "icals": [ "https://calendar.google.com/calendar/ical/5dtkuqr12hhju4trf196jjqmb0@group.calendar.google.com/public/basic.ics" ],
+    "url": "https://sites.google.com/site/oystercreekfiddlers/where-we-are-performing",
     "weekdays": "Fridays"
   },
   {
@@ -902,10 +907,10 @@
     "weekdays": "Saturdays"
   },
   {
-    "annual_freq": 24,
+    "annual_freq": 60,
     "city": "Minneapolis MN",
-    "url": "https://www.tapestryfolkdance.org/contra-dance",
-    "weekdays": "Saturdays"
+    "url": "https://www.tapestryfolkdance.org/contra",
+    "weekdays": "Mondays and Saturdays"
   },
   {
     "annual_freq": 12,
@@ -914,10 +919,10 @@
     "weekdays": "Saturdays"
   },
   {
-    "annual_freq": 20,
+    "annual_freq": 12,
     "city": "Cape Girardeau MO",
-    "url": "https://sites.google.com/site/capecontradance/cape-girardeau-mo-contra-dance",
-    "weekdays": "Saturdays"
+    "url": "https://facebook.com/groups/165256476374/",
+    "weekdays": "Sundays"
   },
   {
     "annual_freq": 20,
@@ -928,14 +933,16 @@
   {
     "annual_freq": 50,
     "city": "Webster Groves MO",
-    "url": "https://childgrove.org/index.php/dance-schedule",
+    "icals": [ "https://calendar.google.com/calendar/ical/o5u2gq91ncm069vc4nbkjm3gt4%40group.calendar.google.com/public/basic.ics" ],
+    "url": "https://childgrove.org/",
     "weekdays": "Sundays"
   },
   {
     "annual_freq": 12,
     "city": "St Louis MO",
     "gender_free": true,
-    "url": "https://childgrove.org/index.php/dance-schedule",
+    "icals": [ "https://calendar.google.com/calendar/ical/o5u2gq91ncm069vc4nbkjm3gt4%40group.calendar.google.com/public/basic.ics" ],
+    "url": "https://childgrove.org/",
     "weekdays": "Wednesdays"
   },
   {
@@ -953,24 +960,21 @@
   {
     "annual_freq": 12,
     "city": "Creve Coeur MO",
-    "url": "http://childgrove.org/about-dances/calling-party",
+    "icals": [ "https://calendar.google.com/calendar/ical/o5u2gq91ncm069vc4nbkjm3gt4%40group.calendar.google.com/public/basic.ics" ],
+    "url": "https://childgrove.org/index.php",
     "weekdays": "Wednesdays"
-  },
-  {
-    "annual_freq": 12,
-    "city": "Bay St Louis MS",
-    "url": "https://www.meetup.com/bay-saint-louis-contra-dance-meetup-group/",
-    "weekdays": "Saturdays"
   },
   {
     "annual_freq": 18,
     "city": "Bozeman MT",
+    "icals": [ "https://calendar.google.com/calendar/ical/bozemanfolklore@gmail.com/public/basic.ics" ],
     "url": "https://bozemanfolklore.org/contra-dance/",
     "weekdays": "Fridays and Saturdays"
   },
   {
     "annual_freq": 16,
     "city": "Missoula MT",
+    "icals": [ "https://calendar.google.com/calendar/ical/c_31a096c6afcf840798e0ec2836bebbc4426655e46657c603f18a48447e9d6c7e%40group.calendar.google.com/public/basic.ics" ],
     "url": "https://www.missoulafolk.org/",
     "weekdays": "Saturdays"
   },
@@ -989,6 +993,7 @@
   {
     "annual_freq": 45,
     "city": "Brasstown NC",
+    "icals": [ "https://www.trumba.com/calendars/folkschool.ics" ],
     "url": "https://www.folkschool.org/calendar/",
     "weekdays": "Tuesdays"
   },
@@ -1026,6 +1031,7 @@
     "annual_freq": 12,
     "city": "Carrboro NC",
     "gender_free": true,
+    "icals": [ "https://calendar.google.com/calendar/ical/firstsaturdaycontra@gmail.com/public/basic.ics" ],
     "url": "http://firstsaturdaycontra.com/",
     "weekdays": "Saturdays"
   },
@@ -1038,6 +1044,7 @@
   {
     "annual_freq": 52,
     "city": "Asheville NC",
+    "icals": [ "https://oldfarmersball.com/?post_type=tribe_events&ical=1&eventDisplay=list" ],
     "url": "http://oldfarmersball.com/contra-dances/thursday-dance/",
     "weekdays": "Thursdays"
   },
@@ -1135,6 +1142,7 @@
   {
     "annual_freq": 24,
     "city": "Santa Fe NM",
+    "icals": [ "https://calendar.google.com/calendar/ical/folkmads@gmail.com/public/basic.ics" ],
     "url": "http://folkmads.org/events/santa-fe-events/",
     "weekdays": "Saturdays"
   },
@@ -1161,7 +1169,7 @@
     "annual_freq": 12,
     "city": "Buffalo NY",
     "url": "http://www.qccd.org/",
-    "weekdays": "Fridays"
+    "weekdays": "Saturdays"
   },
   {
     "annual_freq": 8,
@@ -1170,16 +1178,10 @@
     "weekdays": "Saturdays"
   },
   {
-    "annual_freq": 48,
-    "city": "Ithaca NY",
-    "inactive": true,
-    "url": "http://tedcrane.com/TCCD/Schedule.htp",
-    "weekdays": "Fridays"
-  },
-  {
     "annual_freq": 35,
     "city": "New York NY",
     "gender_free": true,
+    "icals": [ "https://calendar.google.com/calendar/ical/4e2tnmgfn2ph2tvaefa8ldbuqo@group.calendar.google.com/public/basic.ics" ],
     "url": "http://cdny.org/",
     "weekdays": "Saturdays"
   },
@@ -1206,6 +1208,7 @@
   {
     "annual_freq": 30,
     "city": "Fayetteville NY",
+    "icals": [ "https://syracusecountrydancers.org/events.ics" ],
     "url": "http://syracusecountrydancers.org/",
     "weekdays": "Saturdays"
   },
@@ -1218,6 +1221,7 @@
   {
     "annual_freq": 6,
     "city": "Voorheesville NY",
+    "icals": [ "https://oldsongs.org/events/?ical=1" ],
     "url": "https://oldsongs.org/dances/",
     "weekdays": "Saturdays"
   },
@@ -1225,7 +1229,7 @@
     "annual_freq": 8,
     "city": "Binghamton NY",
     "inactive": true,
-    "url": "http://www.binghamtondance.org/db_management/calendar.php",
+    "url": "https://binghamtondance.org/",
     "weekdays": "Saturdays"
   },
   {
@@ -1244,6 +1248,7 @@
   {
     "annual_freq": 11,
     "city": "Smithtown NY",
+    "icals": [ "https://litma.org/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events&no_html=true&ai1ec_cat_ids=13" ],
     "url": "http://www.litma.org/",
     "weekdays": "Fridays"
   },
@@ -1280,12 +1285,14 @@
   {
     "annual_freq": 12,
     "city": "Columbus OH",
+    "icals": [ "https://calendar.google.com/calendar/ical/bigsciotycontra@gmail.com/public/basic.ics" ],
     "url": "https://bigscioty.com/",
     "weekdays": "Saturdays"
   },
   {
     "annual_freq": 12,
     "city": "Columbus OH",
+    "icals": [ "https://calendar.google.com/calendar/ical/bigsciotycontra@gmail.com/public/basic.ics" ],
     "url": "https://firstuucolumbus.org/connection/all-soles/",
     "weekdays": "Saturdays"
   },
@@ -1311,6 +1318,7 @@
   {
     "annual_freq": 24,
     "city": "Oklahoma City OK",
+    "icals": [ "https://calendar.google.com/calendar/ical/ljkgdj2ujqf6jlpmu01g8v0p4o@group.calendar.google.com/public/basic.ics" ],
     "url": "http://scissortail.org/where-we-dance/oklahoma-city/",
     "weekdays": "Saturdays"
   },
@@ -1323,6 +1331,7 @@
   {
     "annual_freq": 10,
     "city": "Norman OK",
+    "icals": [ "https://calendar.google.com/calendar/ical/ljkgdj2ujqf6jlpmu01g8v0p4o@group.calendar.google.com/public/basic.ics" ],
     "url": "http://scissortail.org/where-we-dance/norman/",
     "weekdays": "Fridays"
   },
@@ -1335,6 +1344,7 @@
   {
     "annual_freq": 20,
     "city": "Corvallis OR",
+    "icals": [ "https://corvallisfolklore.org/home/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events&no_html=true&ai1ec_cat_ids=3" ],
     "url": "http://corvallisfolklore.org/home/contradancing/",
     "weekdays": "Saturdays"
   },
@@ -1342,6 +1352,7 @@
     "annual_freq": 50,
     "city": "Portland OR",
     "gender_free": true,
+    "icals": [ "https://portlandcountrydance.org/feed/my-calendar-ics/" ],
     "url": "https://portlandcountrydance.org/pdxcontra-info/",
     "weekdays": "Saturdays"
   },
@@ -1354,6 +1365,7 @@
   {
     "annual_freq": 20,
     "city": "Eugene OR",
+    "icals": [ "https://eugenefolklore.org/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events&no_html=true&ai1ec_cat_ids=12,70" ],
     "url": "http://eugenefolklore.org/",
     "weekdays": "Saturdays"
   },
@@ -1373,6 +1385,7 @@
     "annual_freq": 12,
     "city": "Portland OR",
     "gender_free": true,
+    "icals": [ "https://calendar.google.com/calendar/ical/c_08857716f0dd26604ea76b0ba32575ef4a994ce012b6b429c4d65f1e8c3740c5%40group.calendar.google.com/public/basic.ics" ],
     "url": "http://contraremix.com/",
     "weekdays": "Sundays"
   },
@@ -1398,6 +1411,7 @@
   {
     "annual_freq": 28,
     "city": "Pittsburgh PA",
+    "icals": [ "https://calendar.google.com/calendar/ical/pittsburghcontradance@gmail.com/public/basic.ics" ],
     "url": "http://pittsburghcontra.org/",
     "weekdays": "Fridays"
   },
@@ -1416,7 +1430,7 @@
   {
     "annual_freq": 12,
     "city": "Harrisburg PA",
-    "url": "http://harrisburgcontra.weebly.com/",
+    "url": "https://www.harrisburgcontra.org",
     "weekdays": "Fridays"
   },
   {
@@ -1473,6 +1487,7 @@
   {
     "annual_freq": 40,
     "city": "Marietta SC",
+    "icals": [ "https://harvestmoonfolk.org/?post_type=tribe_events&ical=1&eventDisplay=list" ],
     "url": "https://www.harvestmoonfolk.org/",
     "weekdays": "Saturdays"
   },
@@ -1491,7 +1506,7 @@
   {
     "annual_freq": 24,
     "city": "Nashville TN",
-    "url": "http://www.nashvillecountrydancers.org/",
+    "url": "https://www.nashvillecountrydancers.org/contra-dances",
     "weekdays": "Fridays"
   },
   {
@@ -1501,10 +1516,10 @@
     "weekdays": "Fridays"
   },
   {
-    "annual_freq": 24,
+    "annual_freq": 48,
     "city": "Chattanooga TN",
     "url": "https://contranooga.us/",
-    "weekdays": "Saturdays"
+    "weekdays": "Thursdays and Saturdays"
   },
   {
     "annual_freq": 33,
@@ -1521,12 +1536,14 @@
   {
     "annual_freq": 12,
     "city": "Carrollton TX",
+    "icals": [ "https://calendar.google.com/calendar/ical/nttdss@gmail.com/public/basic.ics" ],
     "url": "http://www.nttds.org/",
     "weekdays": "Saturdays"
   },
   {
     "annual_freq": 24,
     "city": "Houston TX",
+    "icals": [ "https://calendar.google.com/calendar/ical/hatdsdancer@gmail.com/public/basic.ics" ],
     "url": "http://www.hatds.org/",
     "weekdays": "Saturdays"
   },
@@ -1570,6 +1587,7 @@
   {
     "annual_freq": 20,
     "city": "Richmond VA",
+    "icals": [ "https://tadamsva.org/?post_type=tribe_events&ical=1&eventDisplay=list" ],
     "url": "https://tadamsva.org/",
     "weekdays": "Saturdays"
   },
@@ -1594,6 +1612,7 @@
   {
     "annual_freq": 10,
     "city": "Williamsburg VA",
+    "icals": [ "https://calendar.google.com/calendar/ical/3msbu1rr8s7dh959megvbe4t44@group.calendar.google.com/public/basic.ics" ],
     "url": "https://williamsburgcontradance.wordpress.com/",
     "weekdays": "Saturdays"
   },
@@ -1613,7 +1632,8 @@
     "annual_freq": 27,
     "city": "Montpelier VT",
     "gender_free": true,
-    "url": "http://capitalcitygrange.org/dancing/contradancing/",
+    "icals": [ "https://data.accentapi.com/widget_export_calendar/25533634" ],
+    "url": "https://www.montpeliercontradance.org/",
     "weekdays": "Saturdays"
   },
   {
@@ -1670,7 +1690,7 @@
   {
     "annual_freq": 10,
     "city": "Yakima WA",
-    "url": "http://accontradanceyakima.wix.com/accd",
+    "url": "https://accontradanceyakima.wixsite.com/accd",
     "weekdays": "Saturdays"
   },
   {
@@ -1688,13 +1708,15 @@
   {
     "annual_freq": 23,
     "city": "Bellingham WA",
+    "icals": [ "https://bellinghamcountrydance.org/?post_type=tribe_events&ical=1&eventDisplay=list" ],
     "url": "http://bellinghamcountrydance.org/",
     "weekdays": "Saturdays"
   },
   {
     "annual_freq": 8,
     "city": "Kennewick WA",
-    "url": "http://www.3rfs.org/contra.htm",
+    "inactive": true,
+    "url": "https://3rfs.org/contra-dances/",
     "weekdays": "Saturdays"
   },
   {
@@ -1705,17 +1727,12 @@
     "weekdays": "Saturdays"
   },
   {
-    "annual_freq": 6,
-    "city": "Ellensburg WA",
-    "url": "http://www.fairpoint.net/~eburgcontradance/",
-    "weekdays": "Saturdays"
-  },
-  {
     "annual_freq": 42,
     "city": "Madison WI",
     "gender_free": true,
+    "icals": [ "https://calendar.google.com/calendar/ical/madisoncontradance@gmail.com/public/basic.ics" ],
     "url": "https://www.madisoncontra.org/",
-    "weekdays": "Tuesdays"
+    "weekdays": "Tuesdays and Saturdays"
   },
   {
     "annual_freq": 10,
@@ -1754,7 +1771,7 @@
     "annual_freq": 9,
     "city": "Charleston WV",
     "url": "https://www.footmad.org/",
-    "weekdays": "Saturdays"
+    "weekdays": "Fridays"
   },
   {
     "annual_freq": 12,
