@@ -1057,9 +1057,13 @@
   {
     "annual_freq": 12,
     "city": "Surry ME",
+    "gender_free": true,
+    "icals": [
+      "https://calendar.google.com/calendar/ical/surrycontra@gmail.com/public/basic.ics"
+    ],
     "lat": 44.5,
     "lng": -68.5,
-    "url": "https://www.facebook.com/SurryContraDance",
+    "url": "https://surrycontra.org",
     "weekdays": "Saturdays"
   },
   {
