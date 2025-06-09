@@ -1420,6 +1420,7 @@
   {
     "annual_freq": 9,
     "city": "Mt. Airy PA",
+    "gender_free": true,
     "url": "http://www.thursdaycontra.com/ThirdSaturday.html",
     "weekdays": "Saturdays"
   },
