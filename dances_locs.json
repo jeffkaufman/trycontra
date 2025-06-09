@@ -111,13 +111,13 @@
     "weekdays": "Saturdays"
   },
   {
-    "annual_freq": 12,
+    "annual_freq": 24,
     "city": "Santa Cruz CA",
     "gender_free": true,
     "lat": 36.97,
     "lng": -122.03,
-    "url": "https://www.facebook.com/groups/contrasantacruz/",
-    "weekdays": "Fridays"
+    "url": "https://www.santacruzcontra.com/",
+    "weekdays": "Fridays and Sundays"
   },
   {
     "annual_freq": 27,
