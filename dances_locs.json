@@ -1943,6 +1943,7 @@
   {
     "annual_freq": 9,
     "city": "Mt. Airy PA",
+    "gender_free": true,
     "lat": 40.04,
     "lng": -75.19,
     "url": "http://www.thursdaycontra.com/ThirdSaturday.html",
