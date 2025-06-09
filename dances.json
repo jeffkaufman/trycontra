@@ -1169,6 +1169,12 @@
   },
   {
     "annual_freq": 12,
+    "city": "Rochester NY",
+    "url": "https://roccontra.com/",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 12,
     "city": "Buffalo NY",
     "url": "http://www.qccd.org/",
     "weekdays": "Saturdays"

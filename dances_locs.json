@@ -1588,6 +1588,14 @@
   },
   {
     "annual_freq": 12,
+    "city": "Rochester NY",
+    "lat": 43.16,
+    "lng": -77.61,
+    "url": "https://roccontra.com/",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 12,
     "city": "Buffalo NY",
     "lat": 42.89,
     "lng": -78.88,
