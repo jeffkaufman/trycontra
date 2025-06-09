@@ -1076,8 +1076,8 @@
   },
   {
     "annual_freq": 12,
-    "city": "Manchester NH",
-    "url": "http://www.wordworthy2.org/Mill_City_Contra_Dance/",
+    "city": "East Derry NH",
+    "url": "http://www.wordworthy2.org",
     "weekdays": "Fridays"
   },
   {
@@ -1426,6 +1426,7 @@
   {
     "annual_freq": 9,
     "city": "Mt. Airy PA",
+    "gender_free": true,
     "url": "http://www.thursdaycontra.com/ThirdSaturday.html",
     "weekdays": "Saturdays"
   },

@@ -17364,7 +17364,7 @@
     "roles": "",
     "date": "5/23/2025",
     "location": "Wasilla AK",
-    "url": "https://www.thedancingbears.org/dance-camp-1",
+    "url": "https://www.thedancingbears.org/dance-camp",
     "year": 2025,
     "date_end": "5/26/2025",
     "latlng": [
@@ -17761,28 +17761,6 @@
     "latlng": [
       41.43,
       -85.75
-    ]
-  },
-  {
-    "typical_month": "7",
-    "name": "AmWeek",
-    "callers": [
-      "Cis Hinkle",
-      "Jacqui Grennan"
-    ],
-    "bands": [
-      "Lissa & Friends",
-      "Synchopaths"
-    ],
-    "roles": "",
-    "date": "6/29/2025",
-    "location": "Ben Lomond CA",
-    "url": "https://amweek.camp/",
-    "year": 2025,
-    "date_end": "7/4/2025",
-    "latlng": [
-      37.09,
-      -122.09
     ]
   },
   {
@@ -18630,7 +18608,7 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "10/25/2025",
+    "date": "10/18/2025",
     "location": "Peterborough NH",
     "url": "https://www.monadnockfolk.org/event/%E2%98%BC-%E2%98%BC-%E2%98%BC-peterborough-fall-ball-saturday-october-25-2025/",
     "year": 2025,
@@ -20220,10 +20198,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "6/28/2026",
     "location": "Ben Lomond CA",
     "url": "https://amweek.camp/",
     "year": 2026,
+    "date_end": "7/3/2026",
     "latlng": [
       37.09,
       -122.09
@@ -21018,7 +20997,7 @@
     "roles": "",
     "date": "",
     "location": "Oracle AZ",
-    "url": "https://tucsoncontradancers.org/tucson-contra-dancers/dance-in-the-desert-2024/",
+    "url": "https://tucsoncontradancers.org/tucson-contra-dancers/dance-in-the-desert-2025/",
     "year": 2026,
     "latlng": [
       32.61,
