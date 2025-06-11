@@ -18612,7 +18612,7 @@
     "location": "Peterborough NH",
     "url": "https://www.monadnockfolk.org/event/%E2%98%BC-%E2%98%BC-%E2%98%BC-peterborough-fall-ball-saturday-october-25-2025/",
     "year": 2025,
-    "date_end": "10/25/2025",
+    "date_end": "10/18/2025",
     "latlng": [
       42.87,
       -71.95
@@ -18730,6 +18730,27 @@
     "latlng": [
       35.04,
       -83.96
+    ]
+  },
+  {
+    "typical_month": "10",
+    "name": "Queer Contra Dance Camp Roadtrip: Vashon",
+    "callers": [
+      "Lindsey Dono",
+      "Maia McCormick"
+    ],
+    "bands": [
+      "Raven and Goose"
+    ],
+    "roles": "",
+    "date": "10/31/2025",
+    "location": "Vashon WA",
+    "url": "https://queercontradance.org/queercamproadtrip.html",
+    "year": 2025,
+    "date_end": "11/2/2025",
+    "latlng": [
+      47.45,
+      -122.46
     ]
   },
   {
@@ -20957,6 +20978,21 @@
     "latlng": [
       35.04,
       -83.96
+    ]
+  },
+  {
+    "typical_month": "10",
+    "name": "Queer Contra Dance Camp Roadtrip: Vashon",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Vashon WA",
+    "url": "https://queercontradance.org/queercamproadtrip.html",
+    "year": 2026,
+    "latlng": [
+      47.45,
+      -122.46
     ]
   },
   {
