@@ -18992,8 +18992,14 @@
   {
     "typical_month": "11",
     "name": "Catalina Dance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Mary Wesley",
+      "Michael Karcher"
+    ],
+    "bands": [
+      "the Dam Beavers",
+      "the Newtime Keepers"
+    ],
     "roles": "",
     "date": "11/14/2025",
     "location": "Catalina Island CA",
