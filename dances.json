@@ -758,7 +758,8 @@
   {
     "annual_freq": 12,
     "city": "Lewiston ME",
-    "url": "https://deffa.org/venue/trinity-commons/",
+    "gender_free": true,
+    "url": "https://sites.google.com/view/lewistoncontradance/",
     "weekdays": "Fridays"
   },
   {
