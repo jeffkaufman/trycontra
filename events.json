@@ -9019,7 +9019,7 @@
     "typical_month": "3",
     "name": "Lava Meltdown",
     "callers": [
-      "Max Newman"
+      "Cis Hinkle"
     ],
     "bands": [
       "Riptide"
@@ -17397,8 +17397,48 @@
   {
     "typical_month": "5",
     "name": "Northwest Folklife",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Abigail Golden",
+      "Amu Wimmer",
+      "Tom Wimmer",
+      "Eric Curl",
+      "Isaac Banner",
+      "Criag Wolfe",
+      "Koren Wake",
+      "Charlie Fenton",
+      "Victoria Fox",
+      "Shell Stowell",
+      "Annie Kidwell",
+      "Noah Grunzweig",
+      "Kelsey Hartman",
+      "Elisabeth Monica",
+      "Michael Karcher",
+      "Chris Page",
+      "Frannie Marr",
+      "Angela DeCarlis",
+      "Shannon Horst"
+    ],
+    "bands": [
+      "Hummingbird",
+      "Sound Crossing",
+      "the Electrodes",
+      "RiffRaff",
+      "Orb Weavers",
+      "Les Fabulous Girls de la Ouest Coast",
+      "Raven & Goose",
+      "Celitc Bay",
+      "Natterjack",
+      "the Fiddle Hellions",
+      "Swiftcurrent",
+      "Portland Megaband",
+      "Forgery",
+      "Odd Sock",
+      "Joyride",
+      "the Legers",
+      "Countercurrent",
+      "Contra Quartet",
+      "Clever Hans"
+    ],
     "roles": "",
     "date": "",
     "location": "Seattle WA",
