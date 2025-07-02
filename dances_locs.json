@@ -1951,6 +1951,15 @@
     "weekdays": "Saturdays"
   },
   {
+    "annual_freq": 12,
+    "city": "Philadelphia PA",
+    "gender_free": true,
+    "lat": 39.95,
+    "lng": -75.17,
+    "url": "http://www.thursdaycontra.com/",
+    "weekdays": "Saturdays"
+  },
+  {
     "annual_freq": 10,
     "city": "Lancaster PA",
     "lat": 40.04,
