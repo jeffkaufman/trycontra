@@ -18002,8 +18002,12 @@
   {
     "typical_month": "8",
     "name": "Sugar Hill Dance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "open calling"
+    ],
+    "bands": [
+      "open band"
+    ],
     "roles": "",
     "date": "8/22/2025",
     "location": "Bloomington IN",
@@ -18018,7 +18022,10 @@
   {
     "typical_month": "8",
     "name": "Family Week at Agassiz Village",
-    "callers": [],
+    "callers": [
+      "Sue Rosen",
+      "Susan Kevra"
+    ],
     "bands": [],
     "roles": "",
     "date": "8/11/2025",
@@ -18034,7 +18041,9 @@
   {
     "typical_month": "8",
     "name": "Cascade of Music & Dance at Louise",
-    "callers": [],
+    "callers": [
+      "Mary Wesley"
+    ],
     "bands": [],
     "roles": "",
     "date": "8/11/2025",
@@ -18050,7 +18059,9 @@
   {
     "typical_month": "8",
     "name": "Campers\u2019 Week at Pinewoods",
-    "callers": [],
+    "callers": [
+      "Rick Mohr"
+    ],
     "bands": [],
     "roles": "",
     "date": "8/16/2025",
@@ -18067,30 +18078,19 @@
     "typical_month": "8",
     "name": "Falcon Ridge Folk Festival",
     "callers": [],
-    "bands": [],
+    "bands": [
+      "the Gaslight Tinkers",
+      "the Russet Trio"
+    ],
     "roles": "",
-    "date": "",
+    "date": "7/25/2025",
     "location": "Goshen CT",
     "url": "http://falconridgefolk.com/",
     "year": 2025,
+    "date_end": "7/27/2025",
     "latlng": [
       41.83,
       -73.22
-    ]
-  },
-  {
-    "typical_month": "8",
-    "name": "Camp Damp",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Juneau AK",
-    "url": "http://www.juneaucontras.org/dance_camp_2023_stay_tuned.html",
-    "year": 2025,
-    "latlng": [
-      58.3,
-      -134.42
     ]
   },
   {
@@ -18191,21 +18191,6 @@
   },
   {
     "typical_month": "9",
-    "name": "Contravana",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Rochester NY",
-    "url": "https://cdrochester.org/",
-    "year": 2025,
-    "latlng": [
-      43.16,
-      -77.61
-    ]
-  },
-  {
-    "typical_month": "9",
     "name": "Rocky Mountain Rendezvous",
     "callers": [
       "Will Mentor",
@@ -18229,13 +18214,18 @@
   {
     "typical_month": "9",
     "name": "Michigan Dance Heritage Fall Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Darlene Underwood"
+    ],
+    "bands": [
+      "Sister Haggis"
+    ],
     "roles": "",
-    "date": "",
+    "date": "9/26/2025",
     "location": "Lexington MI",
     "url": "https://michigandanceheritage.org/fall/",
     "year": 2025,
+    "date_end": "9/28/2025",
     "latlng": [
       43.27,
       -82.53
@@ -18244,13 +18234,18 @@
   {
     "typical_month": "9",
     "name": "Dance Camp North",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Jeremy Korr"
+    ],
+    "bands": [
+      "the Dam Beavers"
+    ],
     "roles": "",
-    "date": "",
+    "date": "8/30/2025",
     "location": "Fairbanks AK",
-    "url": "https://contraborealis.org/dance-camp-north/",
+    "url": "https://contraborealis.org/dcn-2025-registration-open/",
     "year": 2025,
+    "date_end": "9/1/2025",
     "latlng": [
       64.84,
       -147.72
@@ -18347,7 +18342,9 @@
   {
     "typical_month": "9",
     "name": "Pinewoods Labor Day Weekend",
-    "callers": [],
+    "callers": [
+      "Lisa Greenleaf"
+    ],
     "bands": [],
     "roles": "",
     "date": "8/29/2025",
@@ -18385,13 +18382,16 @@
   {
     "typical_month": "9",
     "name": "Youth Dance Weekend",
-    "callers": [],
+    "callers": [
+      "Alyssa Adkins"
+    ],
     "bands": [],
     "roles": "Larks / Robins",
-    "date": "",
+    "date": "9/26/2025",
     "location": "Weston VT",
     "url": "http://youthdanceweekend.org/",
     "year": 2025,
+    "date_end": "9/28/2025",
     "latlng": [
       43.29,
       -72.79
@@ -18470,7 +18470,9 @@
     "callers": [
       "Wendy Graham"
     ],
-    "bands": [],
+    "bands": [
+      "the Berea Castoffs"
+    ],
     "roles": "",
     "date": "9/27/2025",
     "location": "Berea KY",
