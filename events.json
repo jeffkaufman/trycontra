@@ -17786,11 +17786,7 @@
     "name": "Taste of Haven",
     "callers": [
       "Gaye Fifer",
-      "Dwayne Johnson",
-      "Rob Setili",
-      "Stephanie Marie",
-      "Elijah Jaime",
-      "Katie Zanders"
+      "Dwayne Johnson"
     ],
     "bands": [
       "the Dam Beavers",
@@ -18641,13 +18637,21 @@
   {
     "typical_month": "10",
     "name": "Lake Eden Arts Festival - Fall",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Emily Rush",
+      "Dereck Kalish",
+      "Kenny Greer"
+    ],
+    "bands": [
+      "the Engine Room",
+      "Aeronauts"
+    ],
     "roles": "",
-    "date": "",
+    "date": "10/16/2025",
     "location": "Black Mountain NC",
     "url": "https://theleaf.org/",
     "year": 2025,
+    "date_end": "10/19/2025",
     "latlng": [
       35.62,
       -82.32
@@ -18961,10 +18965,11 @@
       "Meadowhawk"
     ],
     "roles": "",
-    "date": "",
+    "date": "11/14/2025",
     "location": "Louisville KY",
     "url": "http://www.louisvillecountrydancers.org/fleur-de-lis-fling",
     "year": 2025,
+    "date_end": "11/16/2025",
     "latlng": [
       38.25,
       -85.76
@@ -19000,10 +19005,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "11/28/2025",
     "location": "Evanston IL",
     "url": "https://www.breakingupthanksgiving.com/",
     "year": 2025,
+    "date_end": "11/30/2025",
     "latlng": [
       42.05,
       -87.69
