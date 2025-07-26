@@ -17580,17 +17580,16 @@
       "Tom Wimmer",
       "Eric Curl",
       "Isaac Banner",
-      "Criag Wolfe",
+      "Craig Wolfe",
       "Koren Wake",
       "Charlie Fenton",
       "Victoria Fox",
       "Shell Stowell",
       "Annie Kidwell",
-      "Noah Grunzweig",
       "Kelsey Hartman",
       "Elisabeth Monica",
       "Michael Karcher",
-      "Chris Page",
+      "Michael Karcher",
       "Frannie Marr",
       "Angela DeCarlis",
       "Shannon Horst"
@@ -17617,10 +17616,11 @@
       "Clever Hans"
     ],
     "roles": "",
-    "date": "",
+    "date": "5/23/2025",
     "location": "Seattle WA",
     "url": "https://nwfolklife.org/festival/home.html",
     "year": 2025,
+    "date_end": "5/26/2025",
     "latlng": [
       47.61,
       -122.33
@@ -18791,7 +18791,7 @@
     ],
     "roles": "",
     "date": "10/17/2025",
-    "location": "Camp Woodstock Valley CT",
+    "location": "Woodstock Valley CT",
     "url": "https://www.lcfd.org/lcfd/",
     "year": 2025,
     "date_end": "10/19/2025",
@@ -18968,7 +18968,7 @@
       "Maia McCormick"
     ],
     "bands": [
-      "Raven and Goose"
+      "Raven & Goose"
     ],
     "roles": "",
     "date": "10/31/2025",
@@ -21533,21 +21533,6 @@
     "latlng": [
       33.75,
       -84.39
-    ]
-  },
-  {
-    "typical_month": "11",
-    "name": "Contra Fest",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Albany NY",
-    "url": "https://www.danceflurry.org/event/contrafest/",
-    "year": 2026,
-    "latlng": [
-      42.65,
-      -73.76
     ]
   },
   {
