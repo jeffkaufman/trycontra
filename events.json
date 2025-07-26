@@ -4816,7 +4816,7 @@
       "Wendy Graham"
     ],
     "bands": [
-      "Berea Castoffs"
+      "the Berea Castoffs"
     ],
     "roles": "",
     "date": "9/15/2017",
@@ -15569,7 +15569,7 @@
       "Darlene Underwood"
     ],
     "bands": [
-      "Berea Castoffs"
+      "the Berea Castoffs"
     ],
     "roles": "",
     "date": "9/27/2024",
@@ -16302,6 +16302,21 @@
   },
   {
     "typical_month": "1",
+    "name": "Dancing Fish: January",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Melrose FL",
+    "url": "https://dancingfish.dance/",
+    "year": 2025,
+    "latlng": [
+      29.71,
+      -82.05
+    ]
+  },
+  {
+    "typical_month": "1",
     "name": "Chambana Jan Jam",
     "callers": [
       "Bev Bernbaum"
@@ -16369,6 +16384,21 @@
   },
   {
     "typical_month": "1",
+    "name": "Contra Swing Shift Weekend",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Berea KY",
+    "url": "https://www.swingshift.ltda.us/",
+    "year": 2025,
+    "latlng": [
+      37.57,
+      -84.3
+    ]
+  },
+  {
+    "typical_month": "1",
     "name": "Florida Snow Ball",
     "callers": [
       "Nils Fredland",
@@ -16391,6 +16421,21 @@
   },
   {
     "typical_month": "1",
+    "name": "Peterbough Snow Ball",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Peterborough NH",
+    "url": "https://www.monadnockfolk.org/?p=11577",
+    "year": 2025,
+    "latlng": [
+      42.87,
+      -71.95
+    ]
+  },
+  {
+    "typical_month": "1",
     "name": "Stellar Days and Nights",
     "callers": [
       "Seth Tepfer",
@@ -16409,6 +16454,21 @@
     "latlng": [
       38.84,
       -106.13
+    ]
+  },
+  {
+    "typical_month": "2",
+    "name": "IVFDF",
+    "callers": [],
+    "bands": [],
+    "roles": "Larks / Robins",
+    "date": "",
+    "location": "York UK",
+    "url": "https://ivfdf2024.org.uk/",
+    "year": 2025,
+    "latlng": [
+      53.96,
+      -1.07
     ]
   },
   {
@@ -16587,6 +16647,21 @@
   },
   {
     "typical_month": "2",
+    "name": "Corvallis Contra Dance Weekend",
+    "callers": [],
+    "bands": [],
+    "roles": "Larks / Robins",
+    "date": "",
+    "location": "Corvallis OR",
+    "url": "https://corvallisfolklore.org/home/event/corvallis-contra-weekend-2024/",
+    "year": 2025,
+    "latlng": [
+      44.56,
+      -123.26
+    ]
+  },
+  {
+    "typical_month": "2",
     "name": "Cabin Fever",
     "callers": [
       "Claire Takemori"
@@ -16657,6 +16732,43 @@
   },
   {
     "typical_month": "2",
+    "name": "Fiddling Frog Dance Festival",
+    "callers": [
+      "Susan Petrick",
+      "Lindsey Dono"
+    ],
+    "bands": [
+      "the Syncopaths",
+      "River Road"
+    ],
+    "roles": "Larks / Robins",
+    "date": "2/21/2025",
+    "location": "Pasadena CA",
+    "url": "https://www.caldancecoop.org/special-events/fiddling-frog/",
+    "year": 2025,
+    "date_end": "2/23/2025",
+    "latlng": [
+      34.15,
+      -118.14
+    ]
+  },
+  {
+    "typical_month": "2",
+    "name": "Supersonic",
+    "callers": [],
+    "bands": [],
+    "roles": "Larks / Robins",
+    "date": "",
+    "location": "Seattle WA",
+    "url": "http://www.supersoniccontra.com/",
+    "year": 2025,
+    "latlng": [
+      47.61,
+      -122.33
+    ]
+  },
+  {
+    "typical_month": "2",
     "name": "Corvallis Contra Weekend",
     "callers": [
       "Will Mentor",
@@ -16701,6 +16813,21 @@
   },
   {
     "typical_month": "3",
+    "name": "Dancing Fish: March",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Melrose FL",
+    "url": "https://dancingfish.dance/",
+    "year": 2025,
+    "latlng": [
+      29.71,
+      -82.05
+    ]
+  },
+  {
+    "typical_month": "3",
     "name": "Lava Meltdown",
     "callers": [
       "Seth Tepfer"
@@ -16740,6 +16867,21 @@
     "latlng": [
       35.11,
       -81.04
+    ]
+  },
+  {
+    "typical_month": "3",
+    "name": "Pigtown Fling",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Cincinattia OH",
+    "url": "http://www.cincinnaticontradance.org/pigtown.htm",
+    "year": 2025,
+    "latlng": [
+      39.1,
+      -84.51
     ]
   },
   {
@@ -17109,7 +17251,7 @@
     ],
     "bands": [
       "Hot Coffee Breakdown",
-      "Berea Castoffs"
+      "the Berea Castoffs"
     ],
     "roles": "",
     "date": "4/25/2025",
@@ -17250,6 +17392,41 @@
     "latlng": [
       42.28,
       -83.74
+    ]
+  },
+  {
+    "typical_month": "4",
+    "name": "When In Doubt, Swing! ",
+    "callers": [
+      "Jeremy Korr"
+    ],
+    "bands": [
+      "Steam!"
+    ],
+    "roles": "",
+    "date": "4/25/2025",
+    "location": "Dallas TX",
+    "url": "https://www.nttds.org/wids/home.html",
+    "year": 2025,
+    "date_end": "4/27/2025",
+    "latlng": [
+      32.78,
+      -96.8
+    ]
+  },
+  {
+    "typical_month": "5",
+    "name": "May Heydays at Evesham",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Evesham UK",
+    "url": "http://mayheydays.org.uk/",
+    "year": 2025,
+    "latlng": [
+      52.09,
+      -1.95
     ]
   },
   {
@@ -17905,6 +18082,21 @@
     "latlng": [
       37.29,
       -80.05
+    ]
+  },
+  {
+    "typical_month": "7",
+    "name": "River Rendezvous",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Coshocton OH",
+    "url": "http://www.riverrendezvous.com/",
+    "year": 2025,
+    "latlng": [
+      40.27,
+      -81.86
     ]
   },
   {
@@ -18591,28 +18783,39 @@
   {
     "typical_month": "10",
     "name": "Gender-Free Dance Camp (Fall)",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Sue Rosen"
+    ],
+    "bands": [
+      "Chimney Swift"
+    ],
     "roles": "",
-    "date": "",
-    "location": "Olivebridge NY",
+    "date": "10/17/2025",
+    "location": "Camp Woodstock CT ",
     "url": "https://www.lcfd.org/lcfd/",
     "year": 2025,
+    "date_end": "10/19/2025",
     "latlng": [
-      41.93,
-      -74.22
+      41.97,
+      -72.08
     ]
   },
   {
     "typical_month": "10",
     "name": "Phylla Mae Fall Fest",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Sarah VanNorstrand"
+    ],
+    "bands": [
+      "Anadama",
+      "Contranella"
+    ],
     "roles": "",
-    "date": "",
+    "date": "10/18/2025",
     "location": "Fayetteville NY",
     "url": "https://syracusecountrydancers.org/special-events/phylla-mae-fall-fest/",
     "year": 2025,
+    "date_end": "10/19/2025",
     "latlng": [
       43.03,
       -76.0
@@ -18644,7 +18847,8 @@
     ],
     "bands": [
       "the Engine Room",
-      "Aeronauts"
+      "the Flying Howes",
+      "Playing With Fyre"
     ],
     "roles": "",
     "date": "10/16/2025",
@@ -18940,21 +19144,6 @@
   },
   {
     "typical_month": "11",
-    "name": "Contra Fest",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Albany NY",
-    "url": "https://www.danceflurry.org/event/contrafest/",
-    "year": 2025,
-    "latlng": [
-      42.65,
-      -73.76
-    ]
-  },
-  {
-    "typical_month": "11",
     "name": "Fleur-de-Lis Fling",
     "callers": [
       "Alex Deis-Lauby",
@@ -19062,13 +19251,20 @@
   {
     "typical_month": "12",
     "name": "Winter Warmup Dance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Terry Doyle",
+      "Frank Buschelmann"
+    ],
+    "bands": [
+      "Toss the Possum",
+      "the Dam Beavers"
+    ],
     "roles": "",
-    "date": "",
+    "date": "12/5/2025",
     "location": "Worthington OH",
     "url": "https://bigscioty.com/winterwarmup/",
     "year": 2025,
+    "date_end": "12/7/2025",
     "latlng": [
       40.09,
       -83.02
@@ -19106,10 +19302,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "12/29/2025",
     "location": "Vashon Island WA",
     "url": "https://bashonvashon.org/",
     "year": 2025,
+    "date_end": "1/1/2026",
     "latlng": [
       47.45,
       -122.46
@@ -19121,10 +19318,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "12/26/2025",
     "location": "Berea KY",
     "url": "https://bereaccds.org/",
     "year": 2025,
+    "date_end": "1/1/2026",
     "latlng": [
       37.57,
       -84.3
@@ -19133,8 +19331,14 @@
   {
     "typical_month": "12",
     "name": "Terpsichore's Holiday",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Lisa Greenleaf",
+      "Scott Higgs"
+    ],
+    "bands": [
+      "Wake Up Robin",
+      "Snapdragon"
+    ],
     "roles": "",
     "date": "",
     "location": "Adamstown MD",
@@ -19678,13 +19882,20 @@
   {
     "typical_month": "4",
     "name": "Call of the Loon Dance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Gaye Fifer",
+      "Robin Nelson"
+    ],
+    "bands": [
+      "Toss the Possum",
+      "Walser and Enblom w/ Friends"
+    ],
     "roles": "",
     "date": "4/10/2026",
     "location": "Minneapolis MN",
     "url": "https://www.tapestryfolkdance.org/call-of-the-loon",
     "year": 2026,
+    "date_end": "4/12/2026",
     "latlng": [
       44.98,
       -93.27
