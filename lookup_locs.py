@@ -5,8 +5,7 @@ from json import encoder
 import requests
 import urllib.parse
 import time
-
-KEY="AIzaSyCuMCzvNjdpzYJMFR8BWmbGzO68HbHPkGA"
+from private import KEY
 
 #force ipv4
 import socket

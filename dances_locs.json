@@ -252,14 +252,6 @@
   },
   {
     "annual_freq": 12,
-    "city": "Alameda CA",
-    "lat": 37.78,
-    "lng": -122.28,
-    "url": "https://www.meetup.com/alameda-contra-dance-community-dance-with-live-music/",
-    "weekdays": "Saturdays"
-  },
-  {
-    "annual_freq": 12,
     "city": "Grass Valley CA",
     "lat": 39.22,
     "lng": -121.06,
@@ -1021,9 +1013,10 @@
   {
     "annual_freq": 12,
     "city": "Lewiston ME",
+    "gender_free": true,
     "lat": 44.1,
     "lng": -70.21,
-    "url": "https://deffa.org/venue/trinity-commons/",
+    "url": "https://sites.google.com/view/lewistoncontradance/",
     "weekdays": "Fridays"
   },
   {
@@ -1958,6 +1951,15 @@
     "weekdays": "Saturdays"
   },
   {
+    "annual_freq": 12,
+    "city": "Philadelphia PA",
+    "gender_free": true,
+    "lat": 39.95,
+    "lng": -75.17,
+    "url": "http://www.thursdaycontra.com/",
+    "weekdays": "Saturdays"
+  },
+  {
     "annual_freq": 10,
     "city": "Lancaster PA",
     "lat": 40.04,
@@ -2088,7 +2090,7 @@
     "city": "Chattanooga TN",
     "lat": 35.05,
     "lng": -85.31,
-    "url": "https://contranooga.us/",
+    "url": "https://contranooga.dance",
     "weekdays": "Thursdays and Saturdays"
   },
   {

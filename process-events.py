@@ -9,6 +9,7 @@ bands_add_the = [
     "O'Schraves",
     'Adobe Brothers',
     'Avant Gardeners',
+    'Berea Castoffs',
     'Buzz Band',
     'Canote Brothers',
     'Cheap Shots',
