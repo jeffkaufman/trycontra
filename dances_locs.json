@@ -1117,9 +1117,12 @@
     "annual_freq": 12,
     "city": "Falmouth ME",
     "gender_free": true,
+    "icals": [
+      "http://www.addevent.com/feed/aooodsssw.ics"
+    ],
     "lat": 43.74,
     "lng": -70.26,
-    "url": "https://www.facebook.com/groups/726222849231519/",
+    "url": "https://www.cumberlandcountycontradance.org/",
     "weekdays": "Saturdays"
   },
   {
