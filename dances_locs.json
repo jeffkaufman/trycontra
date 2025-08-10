@@ -1014,6 +1014,9 @@
     "annual_freq": 12,
     "city": "Lewiston ME",
     "gender_free": true,
+    "icals": [
+      "https://calendar.google.com/calendar/ical/lewistoncontradance%40gmail.com/public/basic.ics"
+    ],
     "lat": 44.1,
     "lng": -70.21,
     "url": "https://sites.google.com/view/lewistoncontradance/",
