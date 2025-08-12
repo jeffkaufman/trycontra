@@ -759,6 +759,7 @@
     "annual_freq": 12,
     "city": "Lewiston ME",
     "gender_free": true,
+    "icals": ["https://calendar.google.com/calendar/ical/lewistoncontradance%40gmail.com/public/basic.ics"],
     "url": "https://www.lewistoncontradance.org",
     "weekdays": "Fridays"
   },
@@ -834,7 +835,8 @@
     "annual_freq": 12,
     "city": "Falmouth ME",
     "gender_free": true,
-    "url": "https://www.facebook.com/groups/726222849231519/",
+    "icals": ["http://www.addevent.com/feed/aooodsssw.ics"],
+    "url": "https://www.cumberlandcountycontradance.org/",
     "weekdays": "Saturdays"
   },
   {
@@ -1167,6 +1169,12 @@
     "city": "Rochester NY",
     "url": "http://www.cdrochester.org/",
     "weekdays": "Thursdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Rochester NY",
+    "url": "https://roccontra.com/",
+    "weekdays": "Fridays"
   },
   {
     "annual_freq": 12,
