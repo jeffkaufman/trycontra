@@ -386,6 +386,12 @@
   },
   {
     "annual_freq": 6,
+    "city": "Ames IA",
+    "url": "https://www.facebook.com/CentralIowaBarnDanceAssociation",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 6,
     "city": "Des Moines IA",
     "url": "https://www.facebook.com/Des-Moines-Area-Barn-Contra-Dance-198569640201183/",
     "weekdays": "Saturdays"
