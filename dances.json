@@ -386,6 +386,12 @@
   },
   {
     "annual_freq": 6,
+    "city": "Ames IA",
+    "url": "https://www.facebook.com/CentralIowaBarnDanceAssociation",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 6,
     "city": "Des Moines IA",
     "url": "https://www.facebook.com/Des-Moines-Area-Barn-Contra-Dance-198569640201183/",
     "weekdays": "Saturdays"
@@ -754,7 +760,7 @@
     "city": "Lewiston ME",
     "gender_free": true,
     "icals": ["https://calendar.google.com/calendar/ical/lewistoncontradance%40gmail.com/public/basic.ics"],
-    "url": "https://www.lewistoncontradance.org/",
+    "url": "https://www.lewistoncontradance.org",
     "weekdays": "Fridays"
   },
   {

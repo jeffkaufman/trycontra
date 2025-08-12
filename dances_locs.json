@@ -512,6 +512,14 @@
   },
   {
     "annual_freq": 6,
+    "city": "Ames IA",
+    "lat": 42.03,
+    "lng": -93.63,
+    "url": "https://www.facebook.com/CentralIowaBarnDanceAssociation",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 6,
     "city": "Des Moines IA",
     "lat": 41.6,
     "lng": -93.61,
@@ -1019,7 +1027,7 @@
     ],
     "lat": 44.1,
     "lng": -70.21,
-    "url": "https://www.lewistoncontradance.org/",
+    "url": "https://www.lewistoncontradance.org",
     "weekdays": "Fridays"
   },
   {
