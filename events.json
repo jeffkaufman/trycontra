@@ -19381,6 +19381,25 @@
   },
   {
     "typical_month": "1",
+    "name": "Fiddler's Dream",
+    "callers": [
+      "open calling"
+    ],
+    "bands": [
+      "open band"
+    ],
+    "roles": "",
+    "date": "",
+    "location": "Kingston OK",
+    "url": "https://www.nttds.org/fdream/home.html",
+    "year": 2026,
+    "latlng": [
+      34.0,
+      -96.72
+    ]
+  },
+  {
+    "typical_month": "1",
     "name": "Ralph Page Dance Legacy Weekend",
     "callers": [],
     "bands": [],
@@ -20394,21 +20413,6 @@
     ]
   },
   {
-    "typical_month": "8",
-    "name": "Contradancers Delight Holiday (Spring)",
-    "callers": [],
-    "bands": [],
-    "roles": "Ladies/Gents",
-    "date": "",
-    "location": "Mountain City TN",
-    "url": "https://www.contradancersdelight.com/",
-    "year": 2026,
-    "latlng": [
-      36.47,
-      -81.8
-    ]
-  },
-  {
     "typical_month": "5",
     "name": "Butterfly Whirl",
     "callers": [],
@@ -20812,6 +20816,22 @@
     "latlng": [
       45.66,
       -110.56
+    ]
+  },
+  {
+    "typical_month": "8",
+    "name": "Contradancers Delight Holiday (Spring)",
+    "callers": [],
+    "bands": [],
+    "roles": "Ladies/Gents",
+    "date": "7/31/2026",
+    "location": "Mountain City TN",
+    "url": "https://www.contradancersdelight.com/",
+    "year": 2026,
+    "date_end": "8/7/2026",
+    "latlng": [
+      36.47,
+      -81.8
     ]
   },
   {
