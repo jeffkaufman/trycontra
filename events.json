@@ -17762,21 +17762,6 @@
   },
   {
     "typical_month": "6",
-    "name": "Stegastomp",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Harbury UK",
-    "url": "https://www.contrasaurus.com/stegastomp.html",
-    "year": 2025,
-    "latlng": [
-      52.24,
-      -1.46
-    ]
-  },
-  {
-    "typical_month": "6",
     "name": "Dance Trance Weekend",
     "callers": [
       "Darlene Underwood",
@@ -17926,7 +17911,9 @@
   {
     "typical_month": "6",
     "name": "BACDS Family Week",
-    "callers": [],
+    "callers": [
+      "Doe Taryn"
+    ],
     "bands": [],
     "roles": "",
     "date": "",
@@ -18675,6 +18662,24 @@
     ]
   },
   {
+    "typical_month": "9",
+    "name": "Mt. Nebo Dance Weekend",
+    "callers": [],
+    "bands": [
+      "the ACDS House Band"
+    ],
+    "roles": "",
+    "date": "9/5/2025",
+    "location": "Mount Nebo State Park AR",
+    "url": "https://www.arkansascountrydance.org/mtnebo",
+    "year": 2025,
+    "date_end": "9/7/2025",
+    "latlng": [
+      35.22,
+      -93.25
+    ]
+  },
+  {
     "typical_month": "10",
     "name": "Moondance Dance Weekend",
     "callers": [
@@ -18804,11 +18809,11 @@
     "typical_month": "10",
     "name": "Phylla Mae Fall Fest",
     "callers": [
-      "Sarah VanNorstrand"
+      "Michael Karcher"
     ],
     "bands": [
-      "Anadama",
-      "Contranella"
+      "Stove Dragon",
+      "Raven & Goose"
     ],
     "roles": "",
     "date": "10/18/2025",
@@ -18903,9 +18908,10 @@
   },
   {
     "typical_month": "10",
-    "name": "Contra NYC",
+    "name": "Five Borough Fling",
     "callers": [
-      "Will Mentor"
+      "Will Mentor",
+      "Alyssa Adkins"
     ],
     "bands": [
       "Red Case Band",
@@ -19108,13 +19114,20 @@
   {
     "typical_month": "11",
     "name": "Rose City Dance-a-Rama",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "George Marshall",
+      "Lisa Greenleaf"
+    ],
+    "bands": [
+      "Wild Asparagus",
+      "the Engine Room"
+    ],
     "roles": "",
-    "date": "",
+    "date": "11/14/2025",
     "location": "Portland OR",
     "url": "https://www.dancearama.org/",
     "year": 2025,
+    "date_end": "11/16/2025",
     "latlng": [
       45.52,
       -122.68
@@ -19191,8 +19204,12 @@
   {
     "typical_month": "11",
     "name": "Breaking Up Thanksgiving",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "open calling"
+    ],
+    "bands": [
+      "open band"
+    ],
     "roles": "",
     "date": "11/28/2025",
     "location": "Evanston IL",
@@ -19299,8 +19316,12 @@
   {
     "typical_month": "12",
     "name": "Bash on Vashon",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "open calling"
+    ],
+    "bands": [
+      "open band"
+    ],
     "roles": "",
     "date": "12/29/2025",
     "location": "Vashon Island WA",
@@ -19315,7 +19336,10 @@
   {
     "typical_month": "12",
     "name": "Berea Christmas Country Dance School",
-    "callers": [],
+    "callers": [
+      "Chris Bischoff",
+      "Charley Harvey"
+    ],
     "bands": [],
     "roles": "",
     "date": "12/26/2025",
@@ -19372,7 +19396,7 @@
     "roles": "Larks / Robins",
     "date": "",
     "location": "Urbana IL",
-    "url": "https://www.facebook.com/events/1566272547606915",
+    "url": "http://www.urbana-contra.org/jan_jam.html",
     "year": 2026,
     "latlng": [
       40.11,
@@ -21208,6 +21232,21 @@
     "latlng": [
       37.57,
       -84.3
+    ]
+  },
+  {
+    "typical_month": "9",
+    "name": "Mt. Nebo Dance Weekend",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Mount Nebo State Park AR",
+    "url": "https://www.arkansascountrydance.org/mtnebo",
+    "year": 2026,
+    "latlng": [
+      35.22,
+      -93.25
     ]
   },
   {
