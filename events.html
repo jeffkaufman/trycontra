@@ -232,6 +232,14 @@ const markers = [];
 let map = null;
 function load_dances() {
   map = new maps.Map(map_canvas, {});
+  
+  // Add listeners for map bounds changes
+  map.addListener('bounds_changed', () => {
+    setTimeout(() => {
+      refresh_list();
+    }, 500); // Small delay to avoid too frequent updates
+  });
+  
   refresh_list();
 }
 
@@ -362,9 +370,15 @@ function refresh_list() {
     params.append("name", input_name.value);
   }
 
+  // Check if we have active search filters
+  const has_search_filters = target_y !== null || target_m !== null || target_d !== null || 
+                           target_state !== null || input_performer.value || input_name.value;
+
   const marker_info = {}; // location_json -> [ [y, m, d, dance], ... ]
 
   const bounds = new google.maps.LatLngBounds();
+  const map_bounds = map.getBounds();
+  
   for (const dance of dances) {
     if (!dance.latlng || !dance.name || !dance.url) continue;
 
@@ -393,8 +407,15 @@ function refresh_list() {
 
     const lat = dance.latlng[0];
     const lng = dance.latlng[1];
-
     const location = {lat, lng};
+    
+    // Filter by map bounds
+    if (map_bounds && !exclude_by_location) {
+      if (!map_bounds.contains(location)) {
+        continue;
+      }
+    }
+
     const location_json = JSON.stringify(location);
     if (!(location_json in marker_info)) {
       marker_info[location_json] = [];
@@ -445,13 +466,17 @@ function refresh_list() {
     });
     markers.push(marker);
   }
-  if (score_dance.length && score_dance.length < dances.length) {
-    map.fitBounds(bounds);
-  } else {
-    const us_bounds = new google.maps.LatLngBounds();
-    us_bounds.extend({lat: 49, lng: -124});
-    us_bounds.extend({lat: 24, lng: -72});
-    map.fitBounds(us_bounds);
+  
+  // Only fit bounds when search filters change (not during map interaction)
+  if (has_search_filters) {
+    if (score_dance.length && score_dance.length < dances.length) {
+      map.fitBounds(bounds);
+    } else {
+      const us_bounds = new google.maps.LatLngBounds();
+      us_bounds.extend({lat: 49, lng: -124});
+      us_bounds.extend({lat: 24, lng: -72});
+      map.fitBounds(us_bounds);
+    }
   }
 
   if (params.size) {
