@@ -19963,13 +19963,20 @@
   {
     "typical_month": "3",
     "name": "Hash Dance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "River Rainbowface",
+      "Qwill Duvall"
+    ],
+    "bands": [
+      "Eloise & Co.",
+      "Northwoods"
+    ],
     "roles": "Larks / Robins",
-    "date": "",
+    "date": "3/28/2026",
     "location": "Glen Echo MD",
     "url": "https://fsgw.org/hashtag-dance-weekend",
     "year": 2026,
+    "date_end": "3/29/2026",
     "latlng": [
       38.97,
       -77.14
