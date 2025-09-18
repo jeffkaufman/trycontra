@@ -1355,6 +1355,14 @@
     "weekdays": "Sundays"
   },
   {
+    "annual_freq": 18,
+    "city": "Chapel Hill NC",
+    "lat": 35.91,
+    "lng": -79.06,
+    "url": "https://dancingfolk.com/",
+    "weekdays": "Mondays"
+  },
+  {
     "annual_freq": 45,
     "city": "Brasstown NC",
     "icals": [
