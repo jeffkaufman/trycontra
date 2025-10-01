@@ -18908,6 +18908,29 @@
   },
   {
     "typical_month": "10",
+    "name": "On To The Next",
+    "callers": [
+      "Lindsey Dono",
+      "Noah Grunzweig"
+    ],
+    "bands": [
+      "Dear Crow + BASS",
+      "Campaign for Reel Time",
+      "Peter and the Wolf Tones"
+    ],
+    "roles": "Larks / Robins",
+    "date": "10/18/2025",
+    "location": "Milwaukie OR",
+    "url": "https://ontothenext.pdxcontra.org/",
+    "year": 2025,
+    "date_end": "10/18/2025",
+    "latlng": [
+      45.44,
+      -122.64
+    ]
+  },
+  {
+    "typical_month": "10",
     "name": "Five Borough Fling",
     "callers": [
       "Will Mentor",
@@ -19241,6 +19264,29 @@
     "latlng": [
       33.39,
       -118.42
+    ]
+  },
+  {
+    "typical_month": "11",
+    "name": "Autumn Allemande",
+    "callers": [
+      "Lindsey Dono",
+      "Maya Roe"
+    ],
+    "bands": [
+      "the Slieves",
+      "Hoss Mountain Stringband",
+      "Countercurrent"
+    ],
+    "roles": "",
+    "date": "11/21/2025",
+    "location": "Victoria BC",
+    "url": "https://victoriacontradance.com/event/autumn-allemande/",
+    "year": 2025,
+    "date_end": "11/22/2025",
+    "latlng": [
+      48.43,
+      -123.37
     ]
   },
   {
@@ -19648,7 +19694,7 @@
     "location": "Seattle WA",
     "url": "https://www.supersoniccontra.com/",
     "year": 2026,
-    "date_end": "2/7/2026",
+    "date_end": "2/8/2026",
     "latlng": [
       47.61,
       -122.33
@@ -19793,10 +19839,11 @@
       "Orb Weavers"
     ],
     "roles": "Larks / Robins",
-    "date": "",
+    "date": "2/13/2026",
     "location": "Corvallis OR",
     "url": "https://corvallisfolklore.org/home/ccw/",
     "year": 2026,
+    "date_end": "2/15/2026",
     "latlng": [
       44.56,
       -123.26
@@ -20186,13 +20233,20 @@
   {
     "typical_month": "4",
     "name": "Portland Raindance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Alex Deis-Lauby",
+      "Lisa Greenleaf"
+    ],
+    "bands": [
+      "Stove Dragon",
+      "the Stringrays"
+    ],
     "roles": "",
-    "date": "",
+    "date": "4/24/2026",
     "location": "Portland OR",
     "url": "http://www.portlandraindance.org/",
     "year": 2026,
+    "date_end": "4/26/2026",
     "latlng": [
       45.52,
       -122.68
@@ -21389,6 +21443,21 @@
     "latlng": [
       42.87,
       -71.95
+    ]
+  },
+  {
+    "typical_month": "10",
+    "name": "On To The Next",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Milwaukie OR",
+    "url": "https://ontothenext.pdxcontra.org/",
+    "year": 2026,
+    "latlng": [
+      45.44,
+      -122.64
     ]
   },
   {
