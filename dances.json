@@ -780,16 +780,17 @@
   {
     "annual_freq": 12,
     "city": "Freeport ME",
+    "inactive": true,
     "url": "http://freeportharraseeketgrange.com/",
     "weekdays": "Sundays"
   },
   {
-    "annual_freq": 12,
+    "annual_freq": 36,
     "city": "Surry ME",
     "gender_free": true,
     "icals": ["https://calendar.google.com/calendar/ical/surrycontra@gmail.com/public/basic.ics"],
     "url": "https://surrycontra.org",
-    "weekdays": "Saturdays"
+    "weekdays": "Thursdays and Saturdays"
   },
   {
     "annual_freq": 12,
@@ -1075,6 +1076,12 @@
     "annual_freq": 12,
     "city": "Lincoln NE",
     "url": "https://www.facebook.com/contradancelincoln/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Durham NH",
+    "url": "https://www.facebook.com/groups/116174444022/",
     "weekdays": "Saturdays"
   },
   {
