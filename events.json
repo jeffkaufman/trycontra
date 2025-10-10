@@ -19765,10 +19765,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "2/20/2026",
     "location": "Houston TX",
     "url": "http://www.bayoubedlam.org/",
     "year": 2026,
+    "date_end": "2/22/2026",
     "latlng": [
       29.76,
       -95.37
@@ -19952,10 +19953,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "3/20/2026",
     "location": "Columbia MO",
     "url": "https://mmtd.wordpress.com/dance-weekend-2025/",
     "year": 2026,
+    "date_end": "3/22/2026",
     "latlng": [
       38.95,
       -92.33
@@ -20424,13 +20426,20 @@
   {
     "typical_month": "5",
     "name": "Dancing Bear Dance Camp",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Lisa Greenleaf",
+      "Michael Karcher"
+    ],
+    "bands": [
+      "Supertrad",
+      "Steam Machine"
+    ],
     "roles": "",
-    "date": "",
+    "date": "5/22/2026",
     "location": "Wasilla AK",
     "url": "https://www.thedancingbears.org/dance-camp-1",
     "year": 2026,
+    "date_end": "5/25/2026",
     "latlng": [
       61.58,
       -149.44
