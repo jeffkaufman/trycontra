@@ -1917,6 +1917,14 @@
     "weekdays": "Saturdays"
   },
   {
+    "annual_freq": 9,
+    "city": "Salem OR",
+    "lat": 44.94,
+    "lng": -123.04,
+    "url": "https://www.facebook.com/SalemContraDance/",
+    "weekdays": "Saturdays"
+  },
+  {
     "annual_freq": 10,
     "city": "Coos Bay OR",
     "lat": 43.36,
@@ -2366,6 +2374,46 @@
     "lat": 47.25,
     "lng": -122.44,
     "url": "http://www.tacomacontradance.org/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 10,
+    "city": "Ellensburg WA",
+    "lat": 47.0,
+    "lng": -120.55,
+    "url": "https://www.facebook.com/p/Ellensburg-Contra-Dances-100066946951783/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 10,
+    "city": "Port Townsend WA",
+    "lat": 48.12,
+    "lng": -122.76,
+    "url": "https://www.quimpergrange.org/calendar",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 10,
+    "city": "Port Angeles WA",
+    "lat": 48.12,
+    "lng": -123.43,
+    "url": "https://blackdiamonddance.org/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 10,
+    "city": "Ellensburg WA",
+    "lat": 47.0,
+    "lng": -120.55,
+    "url": "https://www.facebook.com/p/Ellensburg-Contra-Dances-100066946951783/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 10,
+    "city": "Mt Vernon WA",
+    "lat": 48.42,
+    "lng": -122.34,
+    "url": "https://www.celticarts.org/series/contra-dances-for-everyone",
     "weekdays": "Saturdays"
   },
   {
