@@ -19404,6 +19404,27 @@
     ]
   },
   {
+    "typical_month": "12",
+    "name": "Winter Dance Week",
+    "callers": [
+      "Claire Takemori"
+    ],
+    "bands": [
+      "Steam Machine",
+      "Contraforce"
+    ],
+    "roles": "",
+    "date": "12/27/2025",
+    "location": "Brasstown NC",
+    "url": "https://folkschool.configio.com/pd/3382/winter-dance-week-2025",
+    "year": 2025,
+    "date_end": "1/1/2026",
+    "latlng": [
+      35.04,
+      -83.96
+    ]
+  },
+  {
     "typical_month": "1",
     "name": "Dancing Fish: January",
     "callers": [],
@@ -20733,21 +20754,6 @@
   },
   {
     "typical_month": "7",
-    "name": "Southern Aire: Dawn Dance",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Mountain City TN",
-    "url": "https://joyboundliving.com/dawn-dance",
-    "year": 2026,
-    "latlng": [
-      36.47,
-      -81.8
-    ]
-  },
-  {
-    "typical_month": "7",
     "name": "Dancing Fish: July",
     "callers": [],
     "bands": [],
@@ -21811,6 +21817,21 @@
     "latlng": [
       39.31,
       -77.48
+    ]
+  },
+  {
+    "typical_month": "12",
+    "name": "Winter Dance Week",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Brasstown NC",
+    "url": "https://folkschool.configio.com/pd/3382/winter-dance-week-2025",
+    "year": 2026,
+    "latlng": [
+      35.04,
+      -83.96
     ]
   }
 ]
