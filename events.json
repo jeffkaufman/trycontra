@@ -19620,13 +19620,19 @@
   {
     "typical_month": "1",
     "name": "Chattaboogie",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Elijah Jaime",
+      "Terry Doyle"
+    ],
+    "bands": [
+      "Turnip the Beet"
+    ],
     "roles": "",
-    "date": "",
+    "date": "1/9/2026",
     "location": "Chattanooga TN",
     "url": "https://register.contranooga.us/",
     "year": 2026,
+    "date_end": "1/11/2026",
     "latlng": [
       35.05,
       -85.31
@@ -19688,7 +19694,8 @@
     "typical_month": "2",
     "name": "Supersonic",
     "callers": [
-      "Seth Tepfer"
+      "Seth Tepfer",
+      "Lindsey Dono"
     ],
     "bands": [
       "Root System",
@@ -21344,11 +21351,12 @@
     "name": "ContraStock",
     "callers": [],
     "bands": [],
-    "roles": "",
-    "date": "",
+    "roles": "Larks / Robins",
+    "date": "9/19/2026",
     "location": "Glen Echo MD",
     "url": "https://fsgw.org/contrastock",
     "year": 2026,
+    "date_end": "9/19/2026",
     "latlng": [
       38.97,
       -77.14
