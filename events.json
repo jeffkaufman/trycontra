@@ -20216,6 +20216,27 @@
   },
   {
     "typical_month": "4",
+    "name": "Bonjour-Hey",
+    "callers": [
+      "Bev Bernbaum",
+      "Luke Donforth"
+    ],
+    "bands": [
+      "Genticorum"
+    ],
+    "roles": "Larks / Robins",
+    "date": "4/17/2026",
+    "location": "Montreal QC",
+    "url": "https://www.contramontreal.org/en/bonjour-hey",
+    "year": 2026,
+    "date_end": "4/19/2026",
+    "latlng": [
+      45.5,
+      -73.57
+    ]
+  },
+  {
+    "typical_month": "4",
     "name": "Dandelion Romp",
     "callers": [],
     "bands": [],
