@@ -1190,6 +1190,13 @@
     "weekdays": "Fridays"
   },
   {
+    "annual_freq": 7,
+    "city": "Troy NY",
+    "url": "https://www.lcfd.org/troy.html",
+    "weekdays": "Saturdays",
+    "gender_free": true
+  },
+  {
     "annual_freq": 12,
     "city": "Buffalo NY",
     "url": "http://www.qccd.org/",

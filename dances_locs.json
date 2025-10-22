@@ -1619,6 +1619,15 @@
     "weekdays": "Fridays"
   },
   {
+    "annual_freq": 7,
+    "city": "Troy NY",
+    "gender_free": true,
+    "lat": 42.73,
+    "lng": -73.69,
+    "url": "https://www.lcfd.org/troy.html",
+    "weekdays": "Saturdays"
+  },
+  {
     "annual_freq": 12,
     "city": "Buffalo NY",
     "lat": 42.89,
