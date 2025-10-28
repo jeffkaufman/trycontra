@@ -19394,10 +19394,11 @@
       "Snapdragon"
     ],
     "roles": "",
-    "date": "",
+    "date": "12/27/2025",
     "location": "Adamstown MD",
     "url": "https://terpsichore.lloydshaw.org/",
     "year": 2025,
+    "date_end": "1/1/2026",
     "latlng": [
       39.31,
       -77.48
@@ -19445,10 +19446,11 @@
     "callers": [],
     "bands": [],
     "roles": "Larks / Robins",
-    "date": "",
+    "date": "1/9/2026",
     "location": "Urbana IL",
     "url": "http://www.urbana-contra.org/jan_jam.html",
     "year": 2026,
+    "date_end": "1/11/2026",
     "latlng": [
       40.11,
       -88.21
@@ -19458,16 +19460,17 @@
     "typical_month": "1",
     "name": "Fiddler's Dream",
     "callers": [
-      "open calling"
+      "Open Calling"
     ],
     "bands": [
-      "open band"
+      "Open Band"
     ],
     "roles": "",
-    "date": "",
+    "date": "1/1/2026",
     "location": "Kingston OK",
     "url": "https://www.nttds.org/fdream/home.html",
     "year": 2026,
+    "date_end": "1/4/2026",
     "latlng": [
       34.0,
       -96.72
@@ -19476,13 +19479,23 @@
   {
     "typical_month": "1",
     "name": "Ralph Page Dance Legacy Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Nils Fredland",
+      "Penn Fix"
+    ],
+    "bands": [
+      "George Wilson",
+      "Selma Kaplan",
+      "Anna Patton",
+      "Naomi Morse",
+      "Owen Morrison"
+    ],
     "roles": "",
-    "date": "",
+    "date": "1/9/2026",
     "location": "Worcester MA",
     "url": "https://www.neffa.org/annual-ralph-page-dance-event/",
     "year": 2026,
+    "date_end": "1/10/2026",
     "latlng": [
       42.26,
       -71.8
@@ -19567,8 +19580,14 @@
   {
     "typical_month": "1",
     "name": "Stellar Days and Nights",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "David Millstone",
+      "Wendy Graham"
+    ],
+    "bands": [
+      "Stomp Rocket",
+      "Idlewild"
+    ],
     "roles": "",
     "date": "1/16/2026",
     "location": "Buena Vista CO",
@@ -19625,7 +19644,8 @@
       "Terry Doyle"
     ],
     "bands": [
-      "Turnip the Beet"
+      "Turnip the Beet w/ Christie Burns",
+      "Evan Snoey and Alex Wilder"
     ],
     "roles": "",
     "date": "1/9/2026",
@@ -19641,13 +19661,24 @@
   {
     "typical_month": "1",
     "name": "Peterbough Snow Ball",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Mary Wesley",
+      "Will Mentor",
+      "Lisa Greenleaf",
+      "Steve Zakon-Anderson"
+    ],
+    "bands": [
+      "the Moving Violations",
+      "Northwoods",
+      "Oliver Scanlon, Jeremiah McLane, Owen Marshall",
+      "Stomp Rocket"
+    ],
     "roles": "",
-    "date": "",
+    "date": "1/20/2026",
     "location": "Peterborough NH",
     "url": "https://www.monadnockfolk.org/event/%e2%98%bc-%e2%98%bc-%e2%98%bc-peterborough-snow-ball-2025/",
     "year": 2026,
+    "date_end": "1/20/2026",
     "latlng": [
       42.87,
       -71.95
@@ -19678,16 +19709,21 @@
   {
     "typical_month": "2",
     "name": "Phoenix Winter Frolic",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Susan Petrick"
+    ],
+    "bands": [
+      "the Dam Beavers"
+    ],
     "roles": "",
-    "date": "",
-    "location": "Mesa AZ",
-    "url": "https://phxtmd.org/winter-frolic-2025",
+    "date": "1/9/2026",
+    "location": "Chandler AZ",
+    "url": "https://phxtmd.org/winter-frolic-2026",
     "year": 2026,
+    "date_end": "1/10/2026",
     "latlng": [
-      33.42,
-      -111.83
+      33.31,
+      -111.84
     ]
   },
   {
@@ -19730,13 +19766,19 @@
   {
     "typical_month": "2",
     "name": "Tropical Dance Vacation: St Croix",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Lisa Greenleaf",
+      "George Marshall"
+    ],
+    "bands": [
+      "Wild Asparagus"
+    ],
     "roles": "",
-    "date": "",
+    "date": "2/4/2026",
     "location": "St Croix",
     "url": "https://www.tropicaldancevacation.com/contra-week.html",
     "year": 2026,
+    "date_end": "2/11/2026",
     "latlng": [
       17.72,
       -64.83
@@ -19760,13 +19802,20 @@
   {
     "typical_month": "2",
     "name": "Cabin Fever",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Chris Page",
+      "Local Callers"
+    ],
+    "bands": [
+      "Starling",
+      "Contra Force"
+    ],
     "roles": "",
-    "date": "",
+    "date": "2/13/2026",
     "location": "Knoxville TN",
     "url": "https://www.knoxvillecontra.org/cfschedule",
     "year": 2026,
+    "date_end": "2/15/2026",
     "latlng": [
       35.96,
       -83.92
@@ -19778,10 +19827,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "2/13/2026",
     "location": "Saratoga Springs NY",
     "url": "http://www.flurryfestival.org/",
     "year": 2026,
+    "date_end": "2/15/2026",
     "latlng": [
       43.08,
       -73.78
@@ -19790,8 +19840,12 @@
   {
     "typical_month": "2",
     "name": "Bayou Bedlam",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Cis Hinkle"
+    ],
+    "bands": [
+      "Eloise & Co"
+    ],
     "roles": "",
     "date": "2/20/2026",
     "location": "Houston TX",
@@ -19865,13 +19919,20 @@
   {
     "typical_month": "2",
     "name": "Galhalla",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Callie Allison",
+      "Sarah Kaiser"
+    ],
+    "bands": [
+      "the Resurrection Marys",
+      "Galholler"
+    ],
     "roles": "Larks / Robins",
-    "date": "",
+    "date": "2/20/2026",
     "location": "St Louis MO",
     "url": "https://www.shedances.org/galhalla",
     "year": 2026,
+    "date_end": "2/22/2026",
     "latlng": [
       38.63,
       -90.2
@@ -19911,13 +19972,20 @@
   {
     "typical_month": "3",
     "name": "Carolina Meltdown",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Lisa Greenleaf",
+      "Cis Hinkle"
+    ],
+    "bands": [
+      "the Engine Room",
+      "the Dam Beavers"
+    ],
     "roles": "",
-    "date": "",
+    "date": "3/20/2026",
     "location": "Lake Wylie SC",
     "url": "https://www.charlottecontradance.org/carolina-meltdown",
     "year": 2026,
+    "date_end": "3/22/2026",
     "latlng": [
       35.11,
       -81.04
@@ -20157,13 +20225,18 @@
   {
     "typical_month": "4",
     "name": "Springforth Ball",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
+    "callers": [
+      "George Marshall"
+    ],
+    "bands": [
+      "Wild Asparagus"
+    ],
+    "roles": "Larks / Robins",
+    "date": "4/10/2026",
     "location": "Richmond VA",
     "url": "https://tadamsva.org/springforth-ball-2025/",
     "year": 2026,
+    "date_end": "4/12/2026",
     "latlng": [
       37.54,
       -77.44
