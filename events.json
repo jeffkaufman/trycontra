@@ -19999,21 +19999,6 @@
   {
     "typical_month": "3",
     "name": "Pigtown Fling",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Cincinattia OH",
-    "url": "http://www.cincinnaticontradance.org/pigtown.htm",
-    "year": 2026,
-    "latlng": [
-      39.1,
-      -84.51
-    ]
-  },
-  {
-    "typical_month": "3",
-    "name": "Pigtown Fling",
     "callers": [
       "Wendy Graham",
       "Will Mentor"
@@ -20025,7 +20010,7 @@
     "roles": "",
     "date": "3/27/2026",
     "location": "Cincinattia OH",
-    "url": "https://www.pigtownfling.com/",
+    "url": "https://contradances.net/reg/ccd/2026",
     "year": 2026,
     "date_end": "3/29/2026",
     "latlng": [
