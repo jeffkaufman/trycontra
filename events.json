@@ -17401,7 +17401,7 @@
       "Jeremy Korr"
     ],
     "bands": [
-      "Steam!"
+      "Steam"
     ],
     "roles": "",
     "date": "4/25/2025",
@@ -19428,13 +19428,18 @@
   {
     "typical_month": "1",
     "name": "Dancing Fish: January",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Mary Wesley"
+    ],
+    "bands": [
+      "Stomp Rocket"
+    ],
     "roles": "",
-    "date": "",
+    "date": "1/2/2026",
     "location": "Melrose FL",
     "url": "https://dancingfish.dance/",
     "year": 2026,
+    "date_end": "1/3/2026",
     "latlng": [
       29.71,
       -82.05
@@ -20427,7 +20432,7 @@
       "Jeremy Korr"
     ],
     "bands": [
-      "Steam!"
+      "Steam"
     ],
     "roles": "",
     "date": "4/25/2025",
