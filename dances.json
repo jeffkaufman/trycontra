@@ -1573,10 +1573,22 @@
     "weekdays": "Saturdays"
   },
   {
+    "annual_freq": 52,
+    "city": "Austin TX",
+    "url": "https://austinbarndancers.org/",
+    "weekdays": "Wednesdays"
+  },
+  {
     "annual_freq": 12,
     "city": "Austin TX",
-    "url": "https://www.facebook.com/groups/10253242826/",
-    "weekdays": "Wednesdays"
+    "url": "https://taada.us/wp/events/",
+    "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "San Marcos TX",
+    "url": "https://sites.google.com/site/smcdtx/",
+    "weekdays": "Sundays"
   },
   {
     "annual_freq": 12,
