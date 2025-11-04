@@ -19573,10 +19573,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "1/24/2026",
     "location": "Peterborough NH",
-    "url": "https://www.monadnockfolk.org/?p=11577",
+    "url": "https://www.monadnockfolk.org/event/%e2%98%bc-%e2%98%bc-%e2%98%bc-peterborough-snow-ball-2026/",
     "year": 2026,
+    "date_end": "1/24/2026",
     "latlng": [
       42.87,
       -71.95
@@ -19610,10 +19611,11 @@
     "callers": [],
     "bands": [],
     "roles": "Larks / Robins",
-    "date": "",
+    "date": "2/27/2026",
     "location": "York UK",
-    "url": "https://ivfdf2024.org.uk/",
+    "url": "https://ivfdf2026.org.uk/",
     "year": 2026,
+    "date_end": "3/1/2026",
     "latlng": [
       53.96,
       -1.07
@@ -19661,32 +19663,6 @@
     "latlng": [
       35.05,
       -85.31
-    ]
-  },
-  {
-    "typical_month": "1",
-    "name": "Peterbough Snow Ball",
-    "callers": [
-      "Mary Wesley",
-      "Will Mentor",
-      "Lisa Greenleaf",
-      "Steve Zakon-Anderson"
-    ],
-    "bands": [
-      "the Moving Violations",
-      "Northwoods",
-      "Oliver Scanlon, Jeremiah McLane, Owen Marshall",
-      "Stomp Rocket"
-    ],
-    "roles": "",
-    "date": "1/20/2026",
-    "location": "Peterborough NH",
-    "url": "https://www.monadnockfolk.org/event/%e2%98%bc-%e2%98%bc-%e2%98%bc-peterborough-snow-ball-2025/",
-    "year": 2026,
-    "date_end": "1/20/2026",
-    "latlng": [
-      42.87,
-      -71.95
     ]
   },
   {
@@ -19756,13 +19732,18 @@
   {
     "typical_month": "2",
     "name": "Dancing Fish: February",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Hannah Chamberlain"
+    ],
+    "bands": [
+      "Larry Unger, Emily Troll, & Eric Boodman"
+    ],
     "roles": "",
-    "date": "",
+    "date": "2/6/2026",
     "location": "Melrose FL",
     "url": "https://dancingfish.dance/",
     "year": 2026,
+    "date_end": "2/7/2026",
     "latlng": [
       29.71,
       -82.05
@@ -19792,13 +19773,20 @@
   {
     "typical_month": "2",
     "name": "Corvallis Contra Dance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Gaye Fifer",
+      "Jeremy Korr"
+    ],
+    "bands": [
+      "Wake Up Robin",
+      "the Orb Weavers"
+    ],
     "roles": "Larks / Robins",
-    "date": "",
+    "date": "2/13/2026",
     "location": "Corvallis OR",
-    "url": "https://corvallisfolklore.org/home/event/corvallis-contra-weekend-2024/",
+    "url": "https://corvallisfolklore.org/home/ccw/",
     "year": 2026,
+    "date_end": "2/15/2026",
     "latlng": [
       44.56,
       -123.26
@@ -19886,21 +19874,6 @@
   },
   {
     "typical_month": "2",
-    "name": "Supersonic",
-    "callers": [],
-    "bands": [],
-    "roles": "Larks / Robins",
-    "date": "",
-    "location": "Seattle WA",
-    "url": "http://www.supersoniccontra.com/",
-    "year": 2026,
-    "latlng": [
-      47.61,
-      -122.33
-    ]
-  },
-  {
-    "typical_month": "2",
     "name": "Corvallis Contra Weekend",
     "callers": [
       "Gaye Fifer",
@@ -19946,13 +19919,18 @@
   {
     "typical_month": "3",
     "name": "Dancing Fish: March",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Will Mentor"
+    ],
+    "bands": [
+      "Jet Bridge"
+    ],
     "roles": "",
-    "date": "",
+    "date": "3/6/2026",
     "location": "Melrose FL",
     "url": "https://dancingfish.dance/",
     "year": 2026,
+    "date_end": "3/7/2026",
     "latlng": [
       29.71,
       -82.05
@@ -19966,7 +19944,7 @@
     "roles": "",
     "date": "2/27/2025",
     "location": "Lava Hot Springs ID",
-    "url": "http://www.lavameltdown2025.com/",
+    "url": "https://www.lavameltdown.com/",
     "year": 2026,
     "date_end": "3/1/2025",
     "latlng": [
@@ -20055,10 +20033,11 @@
     "callers": [],
     "bands": [],
     "roles": "Larks / Robins",
-    "date": "",
+    "date": "3/13/2026",
     "location": "Cambridge MA",
     "url": "https://www.beantownstomp.com",
     "year": 2026,
+    "date_end": "3/15/2026",
     "latlng": [
       42.37,
       -71.11
@@ -21363,7 +21342,7 @@
     "roles": "",
     "date": "",
     "location": "Chagrin Falls OH",
-    "url": "",
+    "url": "https://www.clevelandbutterflytwirl.org/",
     "year": 2026,
     "latlng": [
       41.43,
