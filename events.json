@@ -19721,7 +19721,7 @@
     "roles": "",
     "date": "2/6/2026",
     "location": "Seattle WA",
-    "url": "https://www.supersoniccontra.com/",
+    "url": "https://supersoniccontra.dance",
     "year": 2026,
     "date_end": "2/8/2026",
     "latlng": [
@@ -19939,14 +19939,19 @@
   {
     "typical_month": "3",
     "name": "Lava Meltdown",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Christine Merryman"
+    ],
+    "bands": [
+      "Drive Train",
+      "Bandage a Trois"
+    ],
     "roles": "",
-    "date": "2/27/2025",
+    "date": "2/27/2026",
     "location": "Lava Hot Springs ID",
     "url": "https://www.lavameltdown.com/",
     "year": 2026,
-    "date_end": "3/1/2025",
+    "date_end": "3/1/2026",
     "latlng": [
       42.62,
       -112.01
