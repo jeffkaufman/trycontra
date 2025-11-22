@@ -19448,8 +19448,14 @@
   {
     "typical_month": "1",
     "name": "Chambana Jan Jam",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Annie Kidwell",
+      "Gail Hintze"
+    ],
+    "bands": [
+      "Countercurrent",
+      "Meadowhawk"
+    ],
     "roles": "Larks / Robins",
     "date": "1/9/2026",
     "location": "Urbana IL",
@@ -19572,7 +19578,7 @@
     "name": "Peterbough Snow Ball",
     "callers": [],
     "bands": [],
-    "roles": "",
+    "roles": "Larks / Robins",
     "date": "1/24/2026",
     "location": "Peterborough NH",
     "url": "https://www.monadnockfolk.org/event/%e2%98%bc-%e2%98%bc-%e2%98%bc-peterborough-snow-ball-2026/",
@@ -20018,12 +20024,16 @@
   {
     "typical_month": "3",
     "name": "Spring Breakdown Dance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Wendy Graham"
+    ],
+    "bands": [
+      "Big Brandy"
+    ],
     "roles": "",
     "date": "3/20/2026",
     "location": "Columbia MO",
-    "url": "https://mmtd.wordpress.com/dance-weekend-2025/",
+    "url": "https://mmtd.wordpress.com/2026-spring-breakdown/",
     "year": 2026,
     "date_end": "3/22/2026",
     "latlng": [
@@ -20034,8 +20044,12 @@
   {
     "typical_month": "3",
     "name": "Beantown Stomp",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Mary Wesley"
+    ],
+    "bands": [
+      "Root System"
+    ],
     "roles": "Larks / Robins",
     "date": "3/13/2026",
     "location": "Cambridge MA",
@@ -20109,12 +20123,17 @@
   {
     "typical_month": "4",
     "name": "Contra Camp",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Louise Siddons"
+    ],
+    "bands": [
+      "WillPower",
+      "Linda Game"
+    ],
     "roles": "Larks / Robins",
     "date": "",
     "location": "Halsway UK",
-    "url": "https://halswaymanor.org.uk/event/contra-camp-2025/",
+    "url": "https://www.halswaymanor.org.uk/event/contra-camp-2026",
     "year": 2026,
     "latlng": [
       51.13,
@@ -20207,7 +20226,7 @@
     "roles": "Larks / Robins",
     "date": "4/10/2026",
     "location": "Richmond VA",
-    "url": "https://tadamsva.org/springforth-ball-2025/",
+    "url": "https://tadamsva.org/springforth-ball-2026/",
     "year": 2026,
     "date_end": "4/12/2026",
     "latlng": [
@@ -20221,10 +20240,11 @@
     "callers": [],
     "bands": [],
     "roles": "Larks / Robins",
-    "date": "",
+    "date": "4/24/2026",
     "location": "Marlborough MA",
     "url": "https://www.neffa.org/",
     "year": 2026,
+    "date_end": "4/26/2026",
     "latlng": [
       42.35,
       -71.55
@@ -20234,12 +20254,15 @@
     "typical_month": "4",
     "name": "Fiddlehead Frolic",
     "callers": [],
-    "bands": [],
+    "bands": [
+      "the Ice Cream Truckers"
+    ],
     "roles": "",
-    "date": "",
+    "date": "4/25/2026",
     "location": "Ithaca NY",
-    "url": "https://www.hands4dancers.org/upcoming-dances/2025/3/29/fiddlehead-frolic",
+    "url": "https://www.hands4dancers.org/upcoming-dances/2026/4/25/fiddlehead-frolic",
     "year": 2026,
+    "date_end": "4/25/2026",
     "latlng": [
       42.44,
       -76.5
@@ -20248,13 +20271,19 @@
   {
     "typical_month": "4",
     "name": "Hands Four Spring Dance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Terry Doyle",
+      "Kenny Greer"
+    ],
+    "bands": [
+      "Drive Train"
+    ],
     "roles": "",
-    "date": "",
+    "date": "4/24/2026",
     "location": "Berea KY",
     "url": "https://www.hands4-berea.com/",
     "year": 2026,
+    "date_end": "4/26/2026",
     "latlng": [
       37.57,
       -84.3
@@ -20287,10 +20316,11 @@
     "callers": [],
     "bands": [],
     "roles": "Larks / Robins",
-    "date": "",
+    "date": "4/17/2026",
     "location": "Oberlin OH",
     "url": "https://www.dandelionromp.com",
     "year": 2026,
+    "date_end": "4/20/2026",
     "latlng": [
       41.29,
       -82.22
@@ -20299,13 +20329,18 @@
   {
     "typical_month": "4",
     "name": "Trillium Twirl",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Bob Isaacs"
+    ],
+    "bands": [
+      "Toss the Possum"
+    ],
     "roles": "",
-    "date": "",
+    "date": "4/24/2026",
     "location": "Dowling MI",
     "url": "https://michigandanceheritage.org/trilliumtwirl/",
     "year": 2026,
+    "date_end": "4/26/2026",
     "latlng": [
       42.52,
       -85.25
@@ -20396,18 +20431,13 @@
   {
     "typical_month": "4",
     "name": "When In Doubt, Swing! ",
-    "callers": [
-      "Jeremy Korr"
-    ],
-    "bands": [
-      "Steam"
-    ],
+    "callers": [],
+    "bands": [],
     "roles": "",
-    "date": "4/25/2025",
+    "date": "",
     "location": "Dallas TX",
     "url": "https://www.nttds.org/wids/home.html",
     "year": 2026,
-    "date_end": "4/27/2025",
     "latlng": [
       32.78,
       -96.8
@@ -20464,10 +20494,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "5/8/2026",
     "location": "Springfield OR",
     "url": "https://eugenefolklore.org/cascade-contras-on-the-river/",
     "year": 2026,
+    "date_end": "5/10/2026",
     "latlng": [
       44.05,
       -123.02
@@ -20543,13 +20574,21 @@
   {
     "typical_month": "5",
     "name": "Spring Dance Romance",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Janine Smith",
+      "Gaye Fifer"
+    ],
+    "bands": [
+      "Potato Factory",
+      "Spintuition",
+      "Karen Axelrod & Friends"
+    ],
     "roles": "Larks / Robins",
-    "date": "",
+    "date": "4/24/2026",
     "location": "Carrboro NC",
     "url": "https://tcdancers.org/sdr",
     "year": 2026,
+    "date_end": "4/26/2026",
     "latlng": [
       35.91,
       -79.08
@@ -20561,10 +20600,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "5/23/2026",
     "location": "Seattle WA",
     "url": "https://nwfolklife.org/festival/home.html",
     "year": 2026,
+    "date_end": "5/26/2026",
     "latlng": [
       47.61,
       -122.33
@@ -20738,8 +20778,14 @@
   {
     "typical_month": "6",
     "name": "Lady of the Lake June Week",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Lisa Greenleaf",
+      "Maia McCormick"
+    ],
+    "bands": [
+      "Contra Sutra",
+      "Countercurrent"
+    ],
     "roles": "Larks / Robins",
     "date": "",
     "location": "Harrison, ID",
