@@ -19212,7 +19212,12 @@
     "typical_month": "11",
     "name": "Breaking Up Thanksgiving",
     "callers": [
-      "Devin Pohly"
+      "Devin Pohly",
+      "Dylan Simpson",
+      "Cara Sawyer",
+      "Cheryl Joyal",
+      "Georges Augustin",
+      "Jo Mortland"
     ],
     "bands": [
       "open band"
@@ -19335,7 +19340,7 @@
     "roles": "Ladies/Gents",
     "date": "12/26/2025",
     "location": "Morgantown, WV",
-    "url": "http://www.contradancersdelight.com/about-winter-cdh",
+    "url": "https://contradancersdelight.com/",
     "year": 2025,
     "date_end": "12/31/2025",
     "latlng": [
@@ -20045,10 +20050,12 @@
     "typical_month": "3",
     "name": "Beantown Stomp",
     "callers": [
-      "Mary Wesley"
+      "Mary Wesley",
+      "Isaac Banner"
     ],
     "bands": [
-      "Root System"
+      "Root System",
+      "the Faux Paws"
     ],
     "roles": "Larks / Robins",
     "date": "3/13/2026",
@@ -20059,6 +20066,26 @@
     "latlng": [
       42.37,
       -71.11
+    ]
+  },
+  {
+    "typical_month": "3",
+    "name": "Celebration!",
+    "callers": [],
+    "bands": [
+      "Playing with Fyre",
+      "Playing with Lava",
+      "Ed, Tami, and the Dust Clouds"
+    ],
+    "roles": "",
+    "date": "3/14/2026",
+    "location": "Decatur GA",
+    "url": "https://www.contradance.org/celebration/",
+    "year": 2026,
+    "date_end": "3/14/2026",
+    "latlng": [
+      33.77,
+      -84.3
     ]
   },
   {
@@ -20628,13 +20655,20 @@
   {
     "typical_month": "5",
     "name": "Butterfly Whirl",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Cis Hinkle",
+      "Emily Rush"
+    ],
+    "bands": [
+      "Little Mercies",
+      "Root System"
+    ],
     "roles": "Larks/Robins",
-    "date": "",
+    "date": "5/22/2026",
     "location": "Decatur GA",
     "url": "http://www.dancerhapsody.com/special-events/",
     "year": 2026,
+    "date_end": "5/24/2026",
     "latlng": [
       33.77,
       -84.3
@@ -21149,7 +21183,7 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "8/14/2026",
     "location": "Mentone AL",
     "url": "http://www.footmadbirmingham.org/mentone.html",
     "year": 2026,
@@ -21778,13 +21812,20 @@
   {
     "typical_month": "11",
     "name": "Atlanta Dance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Luke Donforth",
+      "Cis Hinkle"
+    ],
+    "bands": [
+      "Cosmic Weather",
+      "River Road"
+    ],
     "roles": "",
-    "date": "",
+    "date": "11/13/2026",
     "location": "Atlanta GA",
-    "url": "https://adw.contradance.org/",
+    "url": "https://www.contradance.org/atlanta-dance-weekend/",
     "year": 2026,
+    "date_end": "11/15/2026",
     "latlng": [
       33.75,
       -84.39
@@ -21888,7 +21929,7 @@
     "roles": "Ladies/Gents",
     "date": "",
     "location": "Morgantown, WV",
-    "url": "http://www.contradancersdelight.com/about-winter-cdh",
+    "url": "https://contradancersdelight.com/",
     "year": 2026,
     "latlng": [
       39.63,
