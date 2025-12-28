@@ -2299,6 +2299,14 @@
     "weekdays": "Sundays"
   },
   {
+    "annual_freq": 8,
+    "city": "Putney VT",
+    "lat": 42.98,
+    "lng": -72.52,
+    "url": " https://www.facebook.com/p/Pierces-Hall-and-Contra-Dance-100067472910588/",
+    "weekdays": "Saturdays"
+  },
+  {
     "annual_freq": 12,
     "city": "Burlington VT",
     "lat": 44.48,

@@ -1680,6 +1680,12 @@
     "weekdays": "Sundays"
   },
   {
+    "annual_freq": 8,
+    "city": "Putney VT",
+    "url": " https://www.facebook.com/p/Pierces-Hall-and-Contra-Dance-100067472910588/",
+    "weekdays": "Saturdays"
+  },
+  {
     "annual_freq": 12,
     "city": "Burlington VT",
     "url": "https://queencitycontras.com/",
