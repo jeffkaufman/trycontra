@@ -7,8 +7,11 @@ from difflib import SequenceMatcher
 
 bands_add_the = [
     "O'Schraves",
+    'ACDS House Band',
     'Adobe Brothers',
+    'Arcotones',
     'Avant Gardeners',
+    'Baby Corns',
     'Berea Castoffs',
     'Buzz Band',
     'Canote Brothers',
@@ -23,12 +26,13 @@ bands_add_the = [
     'Dog Walkers',
     'Electrodes',
     'Engine Room',
-    'FIgments',
     'Faux Paws',
     'Fiddle Hellions',
     'Figments',
+    'Flying Howes',
     'Free Raisins',
     'Gaslight Tinkers',
+    'Gigmeisters',
     'Hat Band',
     'Hollertones',
     'Ice Cream Truckers',
@@ -36,7 +40,9 @@ bands_add_the = [
     'Jig Lords',
     'Johns',
     'Latter Day Lizards',
+    'Legers',
     'Luddite Ramblers',
+    'Newtime Keepers',
     'Mean Lids',
     'Midlings',
     'Moving Violations',
@@ -44,6 +50,7 @@ bands_add_the = [
     'Offbeats',
     'Old-Time Superstars',
     'Olympia Volunteer String Band',
+    'Orb Weavers',
     'Orphans',
     'Pegasus Collective',
     'Quarks',
@@ -52,8 +59,10 @@ bands_add_the = [
     'Resurrection Marys',
     'Rhythm Raptors',
     'Ripples',
+    'Russet Trio',
     'Sage Thrashers',
     'Sail Away Ladies',
+    'Slieves',
     'Stringrays',
     'Stuff',
     'Syncopaths',
@@ -72,6 +81,7 @@ name_changes = {
     'River Rainbowface Abel': 'River Rainbowface',
     'River Abel': 'River Rainbowface',
     'Emily Abel': 'River Rainbowface',
+    'Alyssa Adkins': 'Lyss Adkins',
 }
 
 possible_the_bands = set()
@@ -257,6 +267,9 @@ for performer_type, all_ever, all_years in [
 
     print("\nPossible %s typos:" % performer_type)
     for name1, count1, name2, count2, similarity in typos:
+        if name1 == 'the Canote Brothers' and name2 == 'the Adobe Brothers':
+            continue
+
         name_1_years = ", ".join(str(x) for x in sorted(all_years[name1]))
         name_2_years = ", ".join(str(x) for x in sorted(all_years[name2]))
         print(f"'{name1}' (used {count1}x: {name_1_years}) vs")
