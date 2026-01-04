@@ -20143,7 +20143,7 @@
       "Qwill Duvall"
     ],
     "bands": [
-      "Eloise &co",
+      "Eloise & Co",
       "Northwoods"
     ],
     "roles": "Larks / Robins",
@@ -20190,10 +20190,11 @@
       "Linda Game"
     ],
     "roles": "Larks / Robins",
-    "date": "",
+    "date": "4/10/2026",
     "location": "Halsway UK",
     "url": "https://www.halswaymanor.org.uk/event/contra-camp-2026",
     "year": 2026,
+    "date_end": "4/12/2026",
     "latlng": [
       51.13,
       -3.25
@@ -20233,7 +20234,7 @@
     "roles": "Larks / Robins",
     "date": "3/27/2026",
     "location": "Mill Valley CA",
-    "url": "https://nbcds.org/epicenter-2025/",
+    "url": "https://nbcds.org/epicenter-2026/",
     "year": 2026,
     "date_end": "3/29/2026",
     "latlng": [
@@ -20368,7 +20369,8 @@
       "Luke Donforth"
     ],
     "bands": [
-      "Genticorum"
+      "Genticorum",
+      "Dawn Chorus"
     ],
     "roles": "Larks / Robins",
     "date": "4/17/2026",
@@ -20391,7 +20393,7 @@
     "location": "Oberlin OH",
     "url": "https://www.dandelionromp.com",
     "year": 2026,
-    "date_end": "4/20/2026",
+    "date_end": "4/19/2026",
     "latlng": [
       41.29,
       -82.22
@@ -20490,21 +20492,6 @@
     "latlng": [
       42.28,
       -83.74
-    ]
-  },
-  {
-    "typical_month": "4",
-    "name": "When In Doubt, Swing! ",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Dallas TX",
-    "url": "https://www.nttds.org/wids/home.html",
-    "year": 2026,
-    "latlng": [
-      32.78,
-      -96.8
     ]
   },
   {
