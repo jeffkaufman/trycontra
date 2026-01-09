@@ -20366,8 +20366,14 @@
   {
     "typical_month": "4",
     "name": "Dandelion Romp",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Will Mentor",
+      "River Rainbowface"
+    ],
+    "bands": [
+      "Countercurrent",
+      "the Dam Beavers"
+    ],
     "roles": "Larks / Robins",
     "date": "4/17/2026",
     "location": "Oberlin OH",
@@ -22821,9 +22827,10 @@
       "Lisa Greenleaf"
     ],
     "bands": [
-      "Wild Asparagus"
+      "Wild Asparagus",
+      "the Linda Game Band"
     ],
-    "roles": "",
+    "roles": "Ladies/Gents",
     "date": "4/7/2027",
     "location": "Ely, England",
     "url": "www.contraholiday.net",
