@@ -2280,6 +2280,14 @@
     "weekdays": "Saturdays"
   },
   {
+    "annual_freq": 6,
+    "city": "Hampton VA",
+    "lat": 37.03,
+    "lng": -76.35,
+    "url": "https://www.hamptonarts.org/events/detail/contra-dance-at-the-american-theatre",
+    "weekdays": "Fridays and Saturdays"
+  },
+  {
     "annual_freq": 10,
     "city": "Williamsburg VA",
     "icals": [
