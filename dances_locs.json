@@ -1011,6 +1011,15 @@
     "weekdays": "Thursdays"
   },
   {
+    "annual_freq": 3,
+    "city": "Portland ME",
+    "gender_free": true,
+    "lat": 43.66,
+    "lng": -70.26,
+    "url": "https://mechanicshallmaine.org/programming/",
+    "weekdays": "Wednesdays"
+  },
+  {
     "annual_freq": 12,
     "city": "Otisfield ME",
     "lat": 44.09,
@@ -1039,7 +1048,7 @@
     "weekdays": "Saturdays"
   },
   {
-    "annual_freq": 12,
+    "annual_freq": 24,
     "city": "Hallowell ME",
     "gender_free": true,
     "icals": [
@@ -1048,7 +1057,7 @@
     "lat": 44.29,
     "lng": -69.79,
     "url": "https://www.kennebec-contra.org/",
-    "weekdays": "Saturdays"
+    "weekdays": "Saturdays and Sundays"
   },
   {
     "annual_freq": 12,
