@@ -750,6 +750,13 @@
     "weekdays": "Thursdays"
   },
   {
+    "annual_freq": 3,
+    "city": "Portland ME",
+    "gender_free": true,
+    "url": "https://mechanicshallmaine.org/programming/",
+    "weekdays": "Wednesdays"
+  },
+  {
     "annual_freq": 12,
     "city": "Otisfield ME",
     "url": "https://www.facebook.com/Otisfield-Contra-Dance-1933069520038977/",
@@ -770,12 +777,12 @@
     "weekdays": "Saturdays"
   },
   {
-    "annual_freq": 12,
+    "annual_freq": 24,
     "city": "Hallowell ME",
     "gender_free": true,
     "icals": ["https://calendar.google.com/calendar/ical/365bea0a69c61ed1419ea490097d7311c8461a001f47cfebb28b0891e3ecbb5c%40group.calendar.google.com/public/basic.ics"],
     "url": "https://www.kennebec-contra.org/",
-    "weekdays": "Saturdays"
+    "weekdays": "Saturdays and Sundays"
   },
   {
     "annual_freq": 12,
