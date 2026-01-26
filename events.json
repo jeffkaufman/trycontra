@@ -16648,8 +16648,14 @@
   {
     "typical_month": "2",
     "name": "Corvallis Contra Dance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Will Mentor",
+      "Lindsey Dono"
+    ],
+    "bands": [
+      "Nova",
+      "Root System"
+    ],
     "roles": "Larks / Robins",
     "date": "",
     "location": "Corvallis OR",
@@ -20192,7 +20198,7 @@
     "roles": "",
     "date": "4/17/2026",
     "location": "Melrose FL",
-    "url": "https://dancingfish.dance/",
+    "url": "https://dancingfish.dance/event/wild-asparagus-weekend-2026/",
     "year": 2026,
     "date_end": "4/19/2026",
     "latlng": [
@@ -21603,7 +21609,9 @@
     "typical_month": "10",
     "name": "Moondance Dance Weekend",
     "callers": [],
-    "bands": [],
+    "bands": [
+      "Playing with Fyre"
+    ],
     "roles": "",
     "date": "",
     "location": "Pickens SC",
