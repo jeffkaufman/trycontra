@@ -1464,6 +1464,14 @@
   },
   {
     "annual_freq": 12,
+    "city": "Hot Springs NC",
+    "lat": 35.89,
+    "lng": -82.83,
+    "url": "https://www.facebook.com/groups/899680065501494/",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 12,
     "city": "Omaha NE",
     "lat": 41.25,
     "lng": -96.0,

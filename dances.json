@@ -1075,6 +1075,12 @@
   },
   {
     "annual_freq": 12,
+    "city": "Hot Springs NC",
+    "url": "https://www.facebook.com/groups/899680065501494/",
+    "weekdays": "Fridays"
+  },
+  {
+    "annual_freq": 12,
     "city": "Omaha NE",
     "url": "https://www.facebook.com/ContraOmaha/",
     "weekdays": "Saturdays"
