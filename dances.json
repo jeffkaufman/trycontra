@@ -920,6 +920,12 @@
     "weekdays": "Saturdays"
   },
   {
+    "annual_freq": 12,
+    "city": "Holland MI",
+    "url": "https://www.facebook.com/profile.php?id=61577804145264",
+    "weekdays": "Fridays"
+  },
+  {
     "annual_freq": 60,
     "city": "Minneapolis MN",
     "url": "https://www.tapestryfolkdance.org/contra",
