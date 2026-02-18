@@ -20814,7 +20814,9 @@
   {
     "typical_month": "6",
     "name": "Dance Trance Weekend",
-    "callers": [],
+    "callers": [
+      "Seth Tepfer"
+    ],
     "bands": [],
     "roles": "",
     "date": "6/5/2026",
