@@ -20815,9 +20815,12 @@
     "typical_month": "6",
     "name": "Dance Trance Weekend",
     "callers": [
-      "Seth Tepfer"
+      "Seth Tepfer",
+      "Kenny Greer"
     ],
-    "bands": [],
+    "bands": [
+      "ContraForce"
+    ],
     "roles": "",
     "date": "6/5/2026",
     "location": "Lexington KY",
@@ -21186,6 +21189,22 @@
     ]
   },
   {
+    "typical_month": "7",
+    "name": "Falcon Ridge Folk Festival",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "7/24/2026",
+    "location": "Goshen CT",
+    "url": "http://falconridgefolk.com/",
+    "year": 2026,
+    "date_end": "7/26/2026",
+    "latlng": [
+      41.83,
+      -73.22
+    ]
+  },
+  {
     "typical_month": "8",
     "name": "Contradancers Delight Holiday (Spring)",
     "callers": [],
@@ -21274,21 +21293,6 @@
     "latlng": [
       41.96,
       -70.67
-    ]
-  },
-  {
-    "typical_month": "8",
-    "name": "Falcon Ridge Folk Festival",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Goshen CT",
-    "url": "http://falconridgefolk.com/",
-    "year": 2026,
-    "latlng": [
-      41.83,
-      -73.22
     ]
   },
   {
@@ -23497,6 +23501,21 @@
     ]
   },
   {
+    "typical_month": "7",
+    "name": "Falcon Ridge Folk Festival",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Goshen CT",
+    "url": "http://falconridgefolk.com/",
+    "year": 2027,
+    "latlng": [
+      41.83,
+      -73.22
+    ]
+  },
+  {
     "typical_month": "8",
     "name": "Contradancers Delight Holiday (Spring)",
     "callers": [],
@@ -23569,21 +23588,6 @@
     "latlng": [
       41.96,
       -70.67
-    ]
-  },
-  {
-    "typical_month": "8",
-    "name": "Falcon Ridge Folk Festival",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Goshen CT",
-    "url": "http://falconridgefolk.com/",
-    "year": 2027,
-    "latlng": [
-      41.83,
-      -73.22
     ]
   },
   {
