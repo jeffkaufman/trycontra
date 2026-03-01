@@ -698,6 +698,9 @@
   {
     "annual_freq": 52,
     "city": "Louisville KY",
+    "icals": [
+      "https://calendar.google.com/calendar/ical/louisvillecountrydancers.org_17kh5vhderafgg8afvhu0v72q0@group.calendar.google.com/public/basic.ics"
+    ],
     "lat": 38.25,
     "lng": -85.76,
     "url": "http://www.louisvillecountrydancers.org/",
@@ -706,6 +709,9 @@
   {
     "annual_freq": 12,
     "city": "Louisville KY",
+    "icals": [
+      "https://calendar.google.com/calendar/ical/louisvillecountrydancers.org_17kh5vhderafgg8afvhu0v72q0@group.calendar.google.com/public/basic.ics"
+    ],
     "lat": 38.25,
     "lng": -85.76,
     "url": "http://www.louisvillecountrydancers.org/",
