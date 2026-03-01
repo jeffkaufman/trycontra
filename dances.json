@@ -1300,7 +1300,7 @@
     "city": "Smithtown NY",
     "icals": [ "https://litma.org/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events&no_html=true&ai1ec_cat_ids=13" ],
     "url": "http://www.litma.org/",
-    "weekdays": "Fridays"
+    "weekdays": "Sundays"
   },
   {
     "annual_freq": 9,
