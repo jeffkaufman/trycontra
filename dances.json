@@ -1535,6 +1535,12 @@
     "weekdays": "Saturdays"
   },
   {
+    "annual_freq": 9,
+    "city": "Nanticoke PA",
+    "url": "https://www.facebook.com/profile.php?id=100083321862273",
+    "weekdays": "Sundays"
+  },
+  {
     "annual_freq": 12,
     "city": "Providence RI",
     "gender_free": true,
