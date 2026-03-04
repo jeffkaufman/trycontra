@@ -21205,6 +21205,25 @@
     ]
   },
   {
+    "typical_month": "7",
+    "name": "M4",
+    "callers": [
+      "Warren Doyle",
+      "Terry Doyle"
+    ],
+    "bands": [],
+    "roles": "",
+    "date": "7/26/2026",
+    "location": "Mountain City TN",
+    "url": "https://m4magic.org/",
+    "year": 2026,
+    "date_end": "7/31/2026",
+    "latlng": [
+      36.47,
+      -81.8
+    ]
+  },
+  {
     "typical_month": "8",
     "name": "Contradancers Delight Holiday (Spring)",
     "callers": [],
@@ -23535,6 +23554,21 @@
     "latlng": [
       41.83,
       -73.22
+    ]
+  },
+  {
+    "typical_month": "7",
+    "name": "M4",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Mountain City TN",
+    "url": "https://m4magic.org/",
+    "year": 2027,
+    "latlng": [
+      36.47,
+      -81.8
     ]
   },
   {
