@@ -21612,6 +21612,28 @@
     ]
   },
   {
+    "typical_month": "9",
+    "name": "Beach Ball in the Fall",
+    "callers": [
+      "Beth Molaro",
+      "Charlotte Crittenden"
+    ],
+    "bands": [
+      "the Mean Lids",
+      "Tea & Whiskey"
+    ],
+    "roles": "",
+    "date": "9/25/2026",
+    "location": "Seabrook Island SC",
+    "url": "https://charlestonfolk.regfox.com/beachball2026",
+    "year": 2026,
+    "date_end": "9/27/2026",
+    "latlng": [
+      32.59,
+      -80.16
+    ]
+  },
+  {
     "typical_month": "10",
     "name": "Moondance Dance Weekend",
     "callers": [],
@@ -23873,6 +23895,21 @@
     "latlng": [
       35.22,
       -93.25
+    ]
+  },
+  {
+    "typical_month": "9",
+    "name": "Beach Ball in the Fall",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Seabrook Island SC",
+    "url": "https://charlestonfolk.regfox.com/beachball2026",
+    "year": 2027,
+    "latlng": [
+      32.59,
+      -80.16
     ]
   },
   {
