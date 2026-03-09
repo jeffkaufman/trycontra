@@ -21412,13 +21412,20 @@
   {
     "typical_month": "9",
     "name": "Rocky Mountain Rendezvous",
-    "callers": [],
-    "bands": [],
-    "roles": "",
+    "callers": [
+      "Mary Wesley",
+      "Jeremy Korr"
+    ],
+    "bands": [
+      "River Road",
+      "the Dam Beavers"
+    ],
+    "roles": "Larks / Robins",
     "date": "9/4/2026",
     "location": "Boulder CO",
     "url": "https://cfootmad.org/rendezvous",
     "year": 2026,
+    "date_end": "9/7/2026",
     "latlng": [
       40.01,
       -105.27
