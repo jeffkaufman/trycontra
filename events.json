@@ -21150,30 +21150,7 @@
     ]
   },
   {
-    "typical_month": "7",
-    "name": "American Dance & Music Week at Pinewoods",
-    "callers": [
-      "Lisa Greenleaf",
-      "Will Mentor",
-      "Janine Smith"
-    ],
-    "bands": [
-      "Good Time Old Time",
-      "the Engine Room"
-    ],
-    "roles": "",
-    "date": "7/17/2026",
-    "location": "Plymouth MA",
-    "url": "https://camp.cdss.org/camp-weeks/american-dance-music-week-2/",
-    "year": 2026,
-    "date_end": "7/23/2026",
-    "latlng": [
-      41.96,
-      -70.67
-    ]
-  },
-  {
-    "typical_month": "7",
+    "typical_month": "8",
     "name": "Harmony of Song & Dance at Pinewoods",
     "callers": [],
     "bands": [],
@@ -21296,6 +21273,29 @@
     "latlng": [
       39.71,
       -77.5
+    ]
+  },
+  {
+    "typical_month": "8",
+    "name": "American Dance & Music Week at Pinewoods",
+    "callers": [
+      "Lisa Greenleaf",
+      "Will Mentor",
+      "Janine Smith"
+    ],
+    "bands": [
+      "Good Time Old Time",
+      "the Engine Room"
+    ],
+    "roles": "",
+    "date": "8/17/2026",
+    "location": "Plymouth MA",
+    "url": "https://camp.cdss.org/camp-weeks/american-dance-music-week-2/",
+    "year": 2026,
+    "date_end": "8/23/2026",
+    "latlng": [
+      41.96,
+      -70.67
     ]
   },
   {
