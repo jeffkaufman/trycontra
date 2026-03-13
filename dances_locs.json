@@ -1590,6 +1590,14 @@
     "weekdays": "Sundays"
   },
   {
+    "annual_freq": 12,
+    "city": "Tamworth NH",
+    "lat": 43.86,
+    "lng": -71.26,
+    "url": "https://tamworthoutingclub.org/programs-tamworth-outing-club/second-saturday-dances-tamworth/",
+    "weekdays": "Saturdays"
+  },
+  {
     "annual_freq": 10,
     "city": "Mesilla NM",
     "lat": 32.27,
