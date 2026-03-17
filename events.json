@@ -21975,13 +21975,20 @@
   {
     "typical_month": "11",
     "name": "Dance in the Desert",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Lindsey Dono",
+      "Christine Merryman"
+    ],
+    "bands": [
+      "the Stringrays",
+      "Sonoma Crossing"
+    ],
     "roles": "",
     "date": "11/13/2026",
     "location": "Oracle AZ",
     "url": "https://tucsoncontradancers.org/tucson-contra-dancers/dance-in-the-desert-2025/",
     "year": 2026,
+    "date_end": "11/15/2026",
     "latlng": [
       32.61,
       -110.77
