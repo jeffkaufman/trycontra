@@ -21023,13 +21023,20 @@
   {
     "typical_month": "7",
     "name": "Dancing Fish: July",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Janet Shephard",
+      "Dwayne Johnson"
+    ],
+    "bands": [
+      "Kingfisher",
+      "Crossover"
+    ],
     "roles": "",
-    "date": "",
+    "date": "7/3/2026",
     "location": "Melrose FL",
     "url": "https://dancingfish.dance/",
     "year": 2026,
+    "date_end": "7/5/2026",
     "latlng": [
       29.71,
       -82.05
