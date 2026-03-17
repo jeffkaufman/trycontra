@@ -21332,14 +21332,18 @@
   {
     "typical_month": "8",
     "name": "Mentone",
-    "callers": [],
+    "callers": [
+      "Cis Hinkle",
+      "Seth Tepfer"
+    ],
     "bands": [
-      "Kingfisher"
+      "Kingfisher",
+      "the Red Mountain Yellowhammers"
     ],
     "roles": "",
     "date": "8/14/2026",
     "location": "Mentone AL",
-    "url": "http://www.footmadbirmingham.org/mentone.html",
+    "url": "https://www.footmadbirmingham.org/mentone-2026.html",
     "year": 2026,
     "date_end": "8/16/2026",
     "latlng": [
@@ -21662,15 +21666,20 @@
   {
     "typical_month": "10",
     "name": "Moondance Dance Weekend",
-    "callers": [],
+    "callers": [
+      "Will Mentor",
+      "Barbara Groh"
+    ],
     "bands": [
-      "Playing with Fyre"
+      "Playing with Fyre",
+      "Kingfisher"
     ],
     "roles": "",
-    "date": "",
+    "date": "10/2/2026",
     "location": "Pickens SC",
     "url": "https://moondancesc.weebly.com/",
     "year": 2026,
+    "date_end": "10/4/2026",
     "latlng": [
       34.88,
       -82.71
