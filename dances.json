@@ -1171,6 +1171,12 @@
     "weekdays": "Sundays"
   },
   {
+    "annual_freq": 12,
+    "city": "Tamworth NH",
+    "url": "https://tamworthoutingclub.org/programs-tamworth-outing-club/second-saturday-dances-tamworth/",
+    "weekdays": "Saturdays"
+  },
+  {
     "annual_freq": 10,
     "city": "Mesilla NM",
     "url": "http://www.snmmds.org/",
