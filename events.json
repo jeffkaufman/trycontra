@@ -22096,13 +22096,20 @@
   {
     "typical_month": "11",
     "name": "ContraCopia",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Will Mentor",
+      "Isaac Banner"
+    ],
+    "bands": [
+      "Toss the Possum",
+      "Cojiro"
+    ],
     "roles": "",
-    "date": "",
+    "date": "11/28/2026",
     "location": "Philadelphia PA",
     "url": "http://www.thursdaycontra.com/contracopia/",
     "year": 2026,
+    "date_end": "11/28/2026",
     "latlng": [
       39.95,
       -75.17
