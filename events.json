@@ -20436,13 +20436,18 @@
   {
     "typical_month": "4",
     "name": "When in Doubt Swing",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
+    "callers": [
+      "Will Mentor"
+    ],
+    "bands": [
+      "the Figments"
+    ],
+    "roles": "Larks / Robins",
+    "date": "4/24/2026",
     "location": "Dallas TX",
-    "url": "https://www.nttds.org/wids2025/home.html",
+    "url": "https://www.nttds.org/wids/home.html",
     "year": 2026,
+    "date_end": "4/26/2026",
     "latlng": [
       32.78,
       -96.8
@@ -20451,8 +20456,13 @@
   {
     "typical_month": "5",
     "name": "Spring Thaw Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Alex Deis-Lauby"
+    ],
+    "bands": [
+      "Les Quatre Patates",
+      "Adam Iredale-Gray, \u00c1ine Schyer-O\u2019Gorman and Jon Cannon"
+    ],
     "roles": "",
     "date": "5/8/2026",
     "location": "Toronto ON",
@@ -21361,12 +21371,18 @@
   {
     "typical_month": "8",
     "name": "Balance the Bay",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Lindsey Dono",
+      "Frannie Marr"
+    ],
+    "bands": [
+      "Stove Dragon",
+      "Potato Factory"
+    ],
     "roles": "",
     "date": "8/14/2026",
     "location": "San Francisco CA",
-    "url": "https://www.bacds.org/camps/btb2025/",
+    "url": "https://bacds.org/camps/btb2026/",
     "year": 2026,
     "date_end": "8/16/2026",
     "latlng": [
@@ -21460,13 +21476,21 @@
   {
     "typical_month": "9",
     "name": "Feet Retreat",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Rick Mohr",
+      "Gaye Fifer"
+    ],
+    "bands": [
+      "the Engine Room",
+      "Larry Unger, Tory Horner, and Betsy Branch",
+      "Playing with Fyre"
+    ],
     "roles": "",
-    "date": "",
+    "date": "9/18/2026",
     "location": "Ellerbe NC",
-    "url": "https://www.feetretreat.com/feet-retreat-2025/",
+    "url": "https://www.feetretreat.com/2026-2/",
     "year": 2026,
+    "date_end": "9/20/2026",
     "latlng": [
       35.07,
       -79.76
