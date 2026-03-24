@@ -22001,14 +22001,19 @@
     "typical_month": "11",
     "name": "Hey Fever Dance Weekend",
     "callers": [
-      "Liz Nelson"
+      "Liz Nelson",
+      "Adina Gordon"
     ],
-    "bands": [],
+    "bands": [
+      "the Engine Room",
+      "Calico"
+    ],
     "roles": "",
-    "date": "",
+    "date": "10/31/2026",
     "location": "Ottawa ON",
     "url": "http://www.ottawacontra.ca/heyFever/",
     "year": 2026,
+    "date_end": "11/2/2026",
     "latlng": [
       45.42,
       -75.7
