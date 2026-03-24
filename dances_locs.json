@@ -1026,15 +1026,6 @@
     "weekdays": "Thursdays"
   },
   {
-    "annual_freq": 3,
-    "city": "Portland ME",
-    "gender_free": true,
-    "lat": 43.66,
-    "lng": -70.26,
-    "url": "https://mechanicshallmaine.org/programming/",
-    "weekdays": "Wednesdays"
-  },
-  {
     "annual_freq": 12,
     "city": "Otisfield ME",
     "lat": 44.09,
