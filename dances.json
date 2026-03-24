@@ -446,6 +446,13 @@
     "weekdays": "Saturdays"
   },
   {
+    "annual_freq": 10,
+    "city": "Chicago IL",
+    "gender_free": true,
+    "url": "https://uchicagofac.wixsite.com/contra",
+    "weekdays": "Fridays"
+  },
+  {
     "annual_freq": 12,
     "city": "Urbana IL",
     "url": "http://www.urbana-contra.org/",

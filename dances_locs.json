@@ -592,6 +592,15 @@
     "weekdays": "Saturdays"
   },
   {
+    "annual_freq": 10,
+    "city": "Chicago IL",
+    "gender_free": true,
+    "lat": 41.88,
+    "lng": -87.63,
+    "url": "https://uchicagofac.wixsite.com/contra",
+    "weekdays": "Fridays"
+  },
+  {
     "annual_freq": 12,
     "city": "Urbana IL",
     "lat": 40.11,
