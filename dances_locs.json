@@ -141,6 +141,9 @@
     "annual_freq": 27,
     "city": "Palo Alto CA",
     "gender_free": true,
+    "icals": [
+      "https://paloaltocontradance.org/?get_ical="
+    ],
     "lat": 37.44,
     "lng": -122.14,
     "url": "http://www.bacds.org/series/contra/palo_alto/",
@@ -211,6 +214,9 @@
     "annual_freq": 20,
     "city": "Monterey CA",
     "gender_free": true,
+    "icals": [
+      "https://calendar.google.com/calendar/ical/montereycdc%40gmail.com/public/basic.ics"
+    ],
     "lat": 36.6,
     "lng": -121.89,
     "url": "http://montereycontradance.org",
@@ -220,6 +226,9 @@
     "annual_freq": 24,
     "city": "Sacramento CA",
     "gender_free": true,
+    "icals": [
+      "https://calendar.google.com/calendar/ical/sactocds%40gmail.com/public/basic.ics"
+    ],
     "lat": 38.58,
     "lng": -121.49,
     "url": "http://www.sactocds.org/",

@@ -106,7 +106,10 @@
     "city": "Palo Alto CA",
     "gender_free": true,
     "url": "http://www.bacds.org/series/contra/palo_alto/",
-    "weekdays": "Saturdays"
+    "weekdays": "Saturdays",
+    "icals": [
+      "https://paloaltocontradance.org/?get_ical="
+    ]
   },
   {
     "annual_freq": 11,
@@ -160,14 +163,20 @@
     "city": "Monterey CA",
     "gender_free": true,
     "url": "http://montereycontradance.org",
-    "weekdays": "Saturdays"
+    "weekdays": "Saturdays",
+    "icals": [
+      "https://calendar.google.com/calendar/ical/montereycdc%40gmail.com/public/basic.ics"
+    ]
   },
   {
     "annual_freq": 24,
     "city": "Sacramento CA",
     "gender_free": true,
     "url": "http://www.sactocds.org/",
-    "weekdays": "Fridays and Saturdays"
+    "weekdays": "Fridays and Saturdays",
+    "icals": [
+      "https://calendar.google.com/calendar/ical/sactocds%40gmail.com/public/basic.ics"
+    ]
   },
   {
     "annual_freq": 27,
