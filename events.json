@@ -21034,7 +21034,7 @@
     "typical_month": "7",
     "name": "Dancing Fish: July",
     "callers": [
-      "Janet Shephard",
+      "Janet Shepherd",
       "Dwayne Johnson"
     ],
     "bands": [
@@ -22828,10 +22828,11 @@
     "callers": [],
     "bands": [],
     "roles": "Larks / Robins",
-    "date": "",
+    "date": "4/2/2026",
     "location": "Mill Valley CA",
     "url": "https://nbcds.org/epicenter-2026/",
     "year": 2027,
+    "date_end": "4/4/2026",
     "latlng": [
       37.91,
       -122.54
@@ -23862,21 +23863,6 @@
     "latlng": [
       42.96,
       -90.13
-    ]
-  },
-  {
-    "typical_month": "9",
-    "name": "Echo Summit",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Camp Sacremento",
-    "url": "https://sactocds.wordpress.com/special-events/echo-summit-dance-camp-2025",
-    "year": 2027,
-    "latlng": [
-      38.8,
-      -120.12
     ]
   },
   {
