@@ -22137,6 +22137,27 @@
   },
   {
     "typical_month": "11",
+    "name": "Autumn Allemande",
+    "callers": [
+      "Koren Wake",
+      "Katie Pinter"
+    ],
+    "bands": [
+      "Natterjack"
+    ],
+    "roles": "",
+    "date": "11/20/2026",
+    "location": "Victoria BC",
+    "url": "https://victoriacontradance.com/",
+    "year": 2026,
+    "date_end": "11/22/2026",
+    "latlng": [
+      48.43,
+      -123.37
+    ]
+  },
+  {
+    "typical_month": "11",
     "name": "Atlanta Dance Weekend",
     "callers": [
       "Luke Donforth",
@@ -24399,6 +24420,21 @@
     "latlng": [
       45.52,
       -122.68
+    ]
+  },
+  {
+    "typical_month": "11",
+    "name": "Autumn Allemande",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "",
+    "location": "Victoria BC",
+    "url": "https://victoriacontradance.com/",
+    "year": 2027,
+    "latlng": [
+      48.43,
+      -123.37
     ]
   },
   {
