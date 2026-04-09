@@ -40,10 +40,10 @@
 4	SF Bay Queer Contra Dance Camp	Jeremy Korr	Koren Wake					Alex and Audrey	Forgery					Larks / Robins	4/10/2026	4/12/2026	Aptos CA	https://www.queercontradance.org/queercamp.html	TRUE
 4	Call of the Loon Dance Weekend	Gaye Fifer	Beau Farmer					Toss the Possum	Toot, Squeeze & Co.						4/10/2026	4/12/2026	Minneapolis MN	https://www.tapestryfolkdance.org/call-of-the-loon	TRUE
 4	Springforth Ball	George Marshall						Wild Asparagus						Larks / Robins	4/10/2026	4/12/2026	Richmond VA	https://tadamsva.org/springforth-ball-2026/	TRUE
-4	NEFFA													Larks / Robins	4/24/2026	4/26/2026	Marlborough MA	https://www.neffa.org/	FALSE
-	continued																		FALSE
-	continued																		FALSE
-	continued																		FALSE
+4	NEFFA	Ben Sachs-Hamilton	Don Veino	Julian Blechner	Dereck Kalish	Elijah Jaime	Sue Gola	Paper Plane	Roaring Jelly	The Vintons	Whirlwind	Kingfisher	The Mad Katters	Larks / Robins	4/24/2026	4/26/2026	Marlborough MA	https://www.neffa.org/	TRUE
+	continued	David Millstone	Steve Zakon-Anderson	Sue Rosen	Charlie Turner	Hannah Johlas	Greg Frock	Joy Factor	Sugar River Band	Half & Half	The Second Floor	The Moving Violations	Here on the Hill						TRUE
+	continued	Qwill Duvall	Donna Hunt	Michael Karcher	Perry Shafran	Chris Page	Annie Kidwell	Cojiro	Torrent	Rum & Onions	High Strung	JumpStart	Chimney Swift						TRUE
+	continued	Jeremy Korr						Live Wire	The Dead Sea Squirrels										TRUE
 4	Fiddlehead Frolic							Ice Cream Truckers							4/25/2026	4/25/2026	Ithaca NY	https://www.hands4dancers.org/upcoming-dances/2026/4/25/fiddlehead-frolic	FALSE
 4	Hands Four Spring Dance Weekend	Terry Doyle	Kenny Greer					Drive Train							4/24/2026	4/26/2026	Berea KY	https://www.hands4-berea.com/	TRUE
 4	Bonjour-Hey	Bev Bernbaum	Luke Donforth					Genticorum	Dawn Chorus					Larks / Robins	4/17/2026	4/19/2026	Montreal QC	https://www.contramontreal.org/en/bonjour-hey	TRUE
@@ -100,16 +100,15 @@
 8	Mentone	Cis Hinkle	Seth Tepfer					Kingfisher	The Red Mountain Yellowhammers						8/14/2026	8/16/2026	Mentone AL	https://www.footmadbirmingham.org/mentone-2026.html	TRUE
 8	Balance the Bay	Lindsey Dono	Frannie Marr					Stove Dragon	Potato Factory						8/14/2026	8/16/2026	San Francisco CA	https://bacds.org/camps/btb2026/	TRUE
 8	TradMaD														8/29/2026	9/4/2026	Plymouth MA	http://minstrelrecords.com/tradmad/	FALSE
-9	Dancing Fish: Labor Day																Melrose FL	https://dancingfish.dance/	FALSE
-9	Contravana																Rochester NY	https://cdrochester.org/	FALSE
+9	Dancing Fish: Labor Day														9/4/2026	9/6/2026	Melrose FL	https://dancingfish.dance/	FALSE
 9	Rocky Mountain Rendezvous	Mary Wesley	Jeremy Korr					River Road	The Dam Beavers					Larks / Robins	9/4/2026	9/7/2026	Boulder CO	https://cfootmad.org/rendezvous	TRUE
-9	Dance Camp North																Fairbanks AK	https://contraborealis.org/dance-camp-north/	FALSE
+9	Dance Camp North														9/5/2026	9/7/2026	Fairbanks AK	https://contraborealis.org/dance-camp-north/	FALSE
 9	Feet Retreat	Rick Mohr	Gaye Fifer					Engine Room	Larry Unger, Tory Horner, and Betsy Branch	Playing with Fyre					9/18/2026	9/20/2026	Ellerbe NC	https://www.feetretreat.com/2026-2/	TRUE
 9	Bear Hug Dance Camp							Unstrung String Band							9/11/2026	9/13/2026	Rollins MT	https://www.missoulafolk.org/bearhug	FALSE
 9	Squirrel Moon Contra Dance weekend	Will Mentor						Alex and Audrey							9/18/2026	9/20/2026	Dodgeville WI	http://www.squirrelmoon.org/	TRUE
 9	Pinewoods Labor Day Weekend														9/4/2026	9/8/2026	Plymouth MA	https://facone.org/labor-day-weekend/labor-day-weekend.html	FALSE
 9	Chehalis Dance Weekend	Cis Hinkle	Angela DeCarlis					Raven & Goose							10/23/2026	10/25/2026	Surrey BC	https://chehalisdancecamp.com/	FALSE
-9	Youth Dance Weekend													Larks / Robins			Weston VT	http://youthdanceweekend.org/	FALSE
+9	Youth Dance Weekend													Larks / Robins	10/2/2026	10/4/2026	Weston VT	http://youthdanceweekend.org/	FALSE
 9	Adirondack Dance Weekend														5/8/2026	5/10/2026	Silver Bay NY	https://www.danceflurry.org/adirondack-dance-weekend/	FALSE
 9	Butterfly Twirl	Emily Rush	Michael Hamilton	Gaye Fifer	Carol Kopp			Hot Coffee Breakdown	The Dam Beavers						9/11/2026	9/13/2026	Chagrin Falls OH	https://www.clevelandbutterflytwirl.org/	TRUE
 9	Balance The Star Dance Weekend																Berea KY	https://www.berea-folk-circle.org/fall-mountain-folk-festival	FALSE
@@ -121,33 +120,34 @@
 10	Wasatch Wiggle																Salt Lake City UT	https://wasatchcontras.org/ww/	FALSE
 10	Lady of the Lake Fall Camp	Lindsey Dono	Jeremy Korr					The Dam Beavers	The Baby Corns						10/2/2026	10/4/2026	Harrison, ID	http://www.ladyofthelake.org/fallwend/	TRUE
 10	Harvest Moon Dance Festival	Jacqui Grennan	Frannie Marr					Stomp Rocket	The Syncopaths						10/9/2026	10/11/2026	Santa Barbara CA	http://www.sbcds.org/hm/	TRUE
-10	Gender-Free Dance Camp (Fall)																Olivebridge NY	https://www.lcfd.org/lcfd/	FALSE
+10	Gender-Free Dance Camp (Fall)														10/16/2026	10/18/2026	Olivebridge NY	https://www.lcfd.org/lcfd/	FALSE
 10	Phylla Mae Fall Fest																Fayetteville NY	https://syracusecountrydancers.org/special-events/phylla-mae-fall-fest/	FALSE
 10	Peterbough Fall Ball																Peterborough NH	https://www.monadnockfolk.org/event/%E2%98%BC-%E2%98%BC-%E2%98%BC-peterborough-fall-ball-saturday-october-25-2025/	FALSE
 10	On To The Next																Milwaukie OR	https://ontothenext.pdxcontra.org/	FALSE
 10	Lake Eden Arts Festival - Fall																Black Mountain NC	https://theleaf.org/	FALSE
 10	Music City Masquerade	Luke Donforth						Countercurrent							10/23/2026	10/25/2026	Nashville TN	http://nashvillecountrydancers.org/music-city-masquerade/	TRUE
 10	Fire Ant Frolic																Austin TX	http://www.fireantfrolic.org/	FALSE
-10	Contra NYC																New York NY	https://www.contradance.nyc/	FALSE
+10	Five Borough Fling	Will Mentor	Frannie Marr					CounterCurrent	The Bubblegum Society					Gender Free	11/6/2026	11/8/2026	New York NY	https://www.contradance.nyc/	TRUE
 10	Mountain Madness																Jonesborough TN	https://historicjonesboroughdancesociety.net	FALSE
-10	John C Campbell Fall Dance Weekend																Brasstown NC	https://folkschool.configio.com/pd/3332/fall-dance-weekend-long-weekend	FALSE
+10	John C Campbell Fall Dance Weekend														10/8/2026	10/11/2026	Brasstown NC	https://folkschool.configio.com/pd/3332/fall-dance-weekend-long-weekend	FALSE
 10	Queer Contra Dance Camp Roadtrip: Vashon																Vashon WA	https://queercontradance.org/queercamproadtrip.html	FALSE
 11	Foggy Moon Dance Weekend	Lisa Greenleaf	Alex Deis-Lauby					Topspin							11/6/2026	11/8/2026	Monterey CA	http://montereycontradance.org/foggy-moon.html	FALSE
 11	Hey Fever Dance Weekend	Liz Nelson	Adina Gordon					Engine Room	Calico						10/31/2026	11/2/2026	Ottawa ON	http://www.ottawacontra.ca/heyFever/	TRUE
 11	Dance in the Desert	Lindsey Dono	Christine Merryman					The Stringrays	Sonoma Crossing						11/13/2026	11/15/2026	Oracle AZ	https://tucsoncontradancers.org/tucson-contra-dancers/dance-in-the-desert-2025/	TRUE
-11	Pittsburgh Fall Dance Weekend													Larks / Robins			Pittsburgh PA	http://pittsburghcontra.org/fdw/	FALSE
-11	Head for the Hills Dance Weekend																Kresgeville PA	http://www.princetoncountrydancers.org/about-hfth	FALSE
-11	Rose City Dance-a-Rama																Portland OR	https://www.dancearama.org/	FALSE
+11	Pittsburgh Fall Dance Weekend													Larks / Robins	10/23/2026	10/25/2026	Pittsburgh PA	http://pittsburghcontra.org/fdw/	FALSE
+11	Head for the Hills Dance Weekend														11/13/2026	11/15/2026	Kresgeville PA	http://www.princetoncountrydancers.org/about-hfth	FALSE
+11	Rochester Thanksgiving Dance Weekend	Alex Deis-Lauby	Luke Donforth	Annie Kidwell				River Road	Missing Lynx						11/27/2026	11/28/2026	Rochester NY	https://cdrochester.org/events/thanksgiving-2026	TRUE
+11	Rose City Dance-a-Rama														11/20/2026	11/22/2026	Portland OR	https://www.dancearama.org/	FALSE
 11	Atlanta Dance Weekend	Luke Donforth	Cis Hinkle					Cosmic Weather	River Road						11/13/2026	11/15/2026	Atlanta GA	https://www.contradance.org/atlanta-dance-weekend/	TRUE
 11	Fleur-de-Lis Fling														11/20/2026	11/22/2026	Louisville KY	http://www.louisvillecountrydancers.org/fleur-de-lis-fling	FALSE
 11	ContraCopia			Will Mentor	Isaac Banner			Toss the Possum	Cojiro						11/27/2026	11/29/2026	Philadelphia PA	http://www.thursdaycontra.com/contracopia/	TRUE
-11	Breaking Up Thanksgiving																Evanston IL	https://www.breakingupthanksgiving.com/	FALSE
+11	Breaking Up Thanksgiving														11/27/2026	11/29/2026	Evanston IL	https://www.breakingupthanksgiving.com/	FALSE
 11	Catalina Dance Weekend																Catalina Island CA	https://www.catalinadanceweekend.com/	FALSE
 12	Dancing Fish: December																Melrose FL	https://dancingfish.dance/	FALSE
 12	Winter Warmup Dance Weekend														12/4/2026	12/6/2026	Worthington OH	https://bigscioty.com/winterwarmup/	FALSE
-12	Contradancers Delight Holiday (Winter)													Ladies/Gents			Morgantown, WV	https://contradancersdelight.com/	FALSE
+12	Contradancers Delight Holiday (Winter)													Ladies/Gents	12/26/2026	1/1/2027	Morgantown, WV	https://contradancersdelight.com/	FALSE
 12	Bash on Vashon																Vashon Island WA	https://bashonvashon.org/	FALSE
-12	Berea Christmas Country Dance School																Berea KY	https://bereaccds.org/	FALSE
+12	Berea Christmas Country Dance School														12/26/2026	1/1/2027	Berea KY	https://bereaccds.org/	FALSE
 12	Terpsichore's Holiday																Adamstown MD	https://terpsichore.lloydshaw.org/	FALSE
 12	Winter Dance Week																Brasstown NC	https://folkschool.configio.com/pd/3382/winter-dance-week-2025	FALSE
 																			FALSE

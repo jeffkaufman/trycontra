@@ -20295,8 +20295,49 @@
   {
     "typical_month": "4",
     "name": "NEFFA",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Ben Sachs-Hamilton",
+      "Don Veino",
+      "Julian Blechner",
+      "Dereck Kalish",
+      "Elijah Jaime",
+      "Sue Gola",
+      "David Millstone",
+      "Steve Zakon-Anderson",
+      "Sue Rosen",
+      "Charlie Turner",
+      "Hannah Johlas",
+      "Greg Frock",
+      "Qwill Duvall",
+      "Donna Hunt",
+      "Michael Karcher",
+      "Perry Shafran",
+      "Chris Page",
+      "Annie Kidwell",
+      "Jeremy Korr"
+    ],
+    "bands": [
+      "Paper Plane",
+      "Roaring Jelly",
+      "the Vintons",
+      "Whirlwind",
+      "Kingfisher",
+      "the Mad Katters",
+      "Joy Factor",
+      "Sugar River Band",
+      "Half & Half",
+      "the Second Floor",
+      "the Moving Violations",
+      "Here on the Hill",
+      "Cojiro",
+      "Torrent",
+      "Rum & Onions",
+      "High Strung",
+      "JumpStart",
+      "Chimney Swift",
+      "Live Wire",
+      "the Dead Sea Squirrels"
+    ],
     "roles": "Larks / Robins",
     "date": "4/24/2026",
     "location": "Marlborough MA",
@@ -21412,28 +21453,14 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "9/4/2026",
     "location": "Melrose FL",
     "url": "https://dancingfish.dance/",
     "year": 2026,
+    "date_end": "9/6/2026",
     "latlng": [
       29.71,
       -82.05
-    ]
-  },
-  {
-    "typical_month": "9",
-    "name": "Contravana",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Rochester NY",
-    "url": "https://cdrochester.org/",
-    "year": 2026,
-    "latlng": [
-      43.16,
-      -77.61
     ]
   },
   {
@@ -21464,10 +21491,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "9/5/2026",
     "location": "Fairbanks AK",
     "url": "https://contraborealis.org/dance-camp-north/",
     "year": 2026,
+    "date_end": "9/7/2026",
     "latlng": [
       64.84,
       -147.72
@@ -21577,10 +21605,11 @@
     "callers": [],
     "bands": [],
     "roles": "Larks / Robins",
-    "date": "",
+    "date": "10/2/2026",
     "location": "Weston VT",
     "url": "http://youthdanceweekend.org/",
     "year": 2026,
+    "date_end": "10/4/2026",
     "latlng": [
       43.29,
       -72.79
@@ -21797,10 +21826,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "10/16/2026",
     "location": "Olivebridge NY",
     "url": "https://www.lcfd.org/lcfd/",
     "year": 2026,
+    "date_end": "10/18/2026",
     "latlng": [
       41.93,
       -74.22
@@ -21903,14 +21933,21 @@
   },
   {
     "typical_month": "10",
-    "name": "Contra NYC",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
+    "name": "Five Borough Fling",
+    "callers": [
+      "Will Mentor",
+      "Frannie Marr"
+    ],
+    "bands": [
+      "CounterCurrent",
+      "the Bubblegum Society"
+    ],
+    "roles": "Gender Free",
+    "date": "11/6/2026",
     "location": "New York NY",
     "url": "https://www.contradance.nyc/",
     "year": 2026,
+    "date_end": "11/8/2026",
     "latlng": [
       40.71,
       -74.01
@@ -21937,10 +21974,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "10/8/2026",
     "location": "Brasstown NC",
     "url": "https://folkschool.configio.com/pd/3332/fall-dance-weekend-long-weekend",
     "year": 2026,
+    "date_end": "10/11/2026",
     "latlng": [
       35.04,
       -83.96
@@ -22032,10 +22070,11 @@
     "callers": [],
     "bands": [],
     "roles": "Larks / Robins",
-    "date": "",
+    "date": "10/23/2026",
     "location": "Pittsburgh PA",
     "url": "http://pittsburghcontra.org/fdw/",
     "year": 2026,
+    "date_end": "10/25/2026",
     "latlng": [
       40.44,
       -80.0
@@ -22047,13 +22086,37 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "11/13/2026",
     "location": "Kresgeville PA",
     "url": "http://www.princetoncountrydancers.org/about-hfth",
     "year": 2026,
+    "date_end": "11/15/2026",
     "latlng": [
       40.9,
       -75.5
+    ]
+  },
+  {
+    "typical_month": "11",
+    "name": "Rochester Thanksgiving Dance Weekend",
+    "callers": [
+      "Alex Deis-Lauby",
+      "Luke Donforth",
+      "Annie Kidwell"
+    ],
+    "bands": [
+      "River Road",
+      "Missing Lynx"
+    ],
+    "roles": "",
+    "date": "11/27/2026",
+    "location": "Rochester NY",
+    "url": "https://cdrochester.org/events/thanksgiving-2026",
+    "year": 2026,
+    "date_end": "11/28/2026",
+    "latlng": [
+      43.16,
+      -77.61
     ]
   },
   {
@@ -22062,10 +22125,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "11/20/2026",
     "location": "Portland OR",
     "url": "https://www.dancearama.org/",
     "year": 2026,
+    "date_end": "11/22/2026",
     "latlng": [
       45.52,
       -122.68
@@ -22137,10 +22201,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "11/27/2026",
     "location": "Evanston IL",
     "url": "https://www.breakingupthanksgiving.com/",
     "year": 2026,
+    "date_end": "11/29/2026",
     "latlng": [
       42.05,
       -87.69
@@ -22198,10 +22263,11 @@
     "callers": [],
     "bands": [],
     "roles": "Ladies/Gents",
-    "date": "",
+    "date": "12/26/2026",
     "location": "Morgantown, WV",
     "url": "https://contradancersdelight.com/",
     "year": 2026,
+    "date_end": "1/1/2027",
     "latlng": [
       39.63,
       -79.96
@@ -22228,10 +22294,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "12/26/2026",
     "location": "Berea KY",
     "url": "https://bereaccds.org/",
     "year": 2026,
+    "date_end": "1/1/2027",
     "latlng": [
       37.57,
       -84.3
@@ -22333,10 +22400,11 @@
     "callers": [],
     "bands": [],
     "roles": "Larks / Robins",
-    "date": "",
+    "date": "1/15/2027",
     "location": "San Luis Obispo CA",
     "url": "https://contracarnivale.org/",
     "year": 2027,
+    "date_end": "1/17/2027",
     "latlng": [
       35.28,
       -120.66
@@ -22363,10 +22431,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "1/22/2027",
     "location": "Gulfport FL",
     "url": "http://floridasnowball.tampabaycontra.com/",
     "year": 2027,
+    "date_end": "1/24/2027",
     "latlng": [
       27.75,
       -82.7
@@ -22438,10 +22507,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "1/8/2027",
     "location": "Chattanooga TN",
     "url": "https://contranooga.dance",
     "year": 2027,
+    "date_end": "1/10/2027",
     "latlng": [
       35.05,
       -85.31
@@ -22453,10 +22523,11 @@
     "callers": [],
     "bands": [],
     "roles": "Larks / Robins",
-    "date": "",
+    "date": "2/27/2027",
     "location": "Pasadena CA",
     "url": "https://www.sccdc.org/special-events/fiddling-frog/",
     "year": 2027,
+    "date_end": "2/29/2027",
     "latlng": [
       34.15,
       -118.14
@@ -24182,10 +24253,10 @@
   },
   {
     "typical_month": "10",
-    "name": "Contra NYC",
+    "name": "Five Borough Fling",
     "callers": [],
     "bands": [],
-    "roles": "",
+    "roles": "Gender Free",
     "date": "",
     "location": "New York NY",
     "url": "https://www.contradance.nyc/",
