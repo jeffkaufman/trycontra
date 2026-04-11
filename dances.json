@@ -389,6 +389,12 @@
   },
   {
     "annual_freq": 24,
+    "city": "Watkinsville GA",
+    "url": "https://oconeecountycontra.com",
+    "weekdays": "Mondays"
+  },
+  {
+    "annual_freq": 24,
     "city": "Honolulu HI",
     "url": "http://contradancehi.weebly.com/",
     "weekdays": "Saturdays"

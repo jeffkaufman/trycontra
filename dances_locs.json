@@ -513,6 +513,14 @@
   },
   {
     "annual_freq": 24,
+    "city": "Watkinsville GA",
+    "lat": 33.86,
+    "lng": -83.41,
+    "url": "https://oconeecountycontra.com",
+    "weekdays": "Mondays"
+  },
+  {
+    "annual_freq": 24,
     "city": "Honolulu HI",
     "lat": 21.31,
     "lng": -157.86,
