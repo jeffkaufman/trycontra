@@ -20333,7 +20333,7 @@
       "Torrent",
       "Rum & Onions",
       "High Strung",
-      "JumpStart",
+      "Jump Start",
       "Chimney Swift",
       "Live Wire",
       "the Dead Sea Squirrels"
@@ -20352,9 +20352,14 @@
   {
     "typical_month": "4",
     "name": "Fiddlehead Frolic",
-    "callers": [],
+    "callers": [
+      "Nancy Spero",
+      "Casey Carr",
+      "Katy Heine"
+    ],
     "bands": [
-      "the Ice Cream Truckers"
+      "the Ice Cream Truckers",
+      "Lake Effect"
     ],
     "roles": "",
     "date": "4/25/2026",
@@ -20624,21 +20629,6 @@
   },
   {
     "typical_month": "5",
-    "name": "Lake Eden Arts Festival - Spring",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Black Mountain NC",
-    "url": "https://theleaf.org/",
-    "year": 2026,
-    "latlng": [
-      35.62,
-      -82.32
-    ]
-  },
-  {
-    "typical_month": "5",
     "name": "Meet Me in St Louis Dance Weekend",
     "callers": [
       "Sarah Kaiser",
@@ -20746,13 +20736,18 @@
   {
     "typical_month": "5",
     "name": "Moulin d\u2019And\u00e9 Weekend",
-    "callers": [],
-    "bands": [],
-    "roles": "Hommes/Femmes",
-    "date": "",
+    "callers": [
+      "Will Mentor"
+    ],
+    "bands": [
+      "Max Newman & Julie Metcalf"
+    ],
+    "roles": "Hommes / Femmes",
+    "date": "5/23/2026",
     "location": "Moulin d'Ande, Normandy, France",
     "url": "https://sites.google.com/site/americancontradanceinparis/",
     "year": 2026,
+    "date_end": "5/25/2026",
     "latlng": [
       49.24,
       1.25
@@ -20769,7 +20764,7 @@
       "Little Mercies",
       "Root System"
     ],
-    "roles": "Larks/Robins",
+    "roles": "Larks / Robins",
     "date": "5/22/2026",
     "location": "Decatur GA",
     "url": "http://www.dancerhapsody.com/special-events/",
@@ -20783,13 +20778,18 @@
   {
     "typical_month": "5",
     "name": "Camp Sturtevant",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Jacqui Grennan"
+    ],
+    "bands": [
+      "Silas Hamilton & Annie McDougall"
+    ],
     "roles": "Larks / Robins",
-    "date": "",
+    "date": "5/22/2026",
     "location": "Arcadia CA",
     "url": "https://www.sccdc.org/special-events/camp-sturtevant/",
     "year": 2026,
+    "date_end": "5/25/2026",
     "latlng": [
       34.14,
       -118.04
@@ -20806,7 +20806,7 @@
       "the Faux Paws",
       "Gus & Pepin"
     ],
-    "roles": "Larks/Robins",
+    "roles": "Larks / Robins",
     "date": "5/29/2026",
     "location": "Surry ME",
     "url": "https://www.tickettailor.com/events/chainreactiondance/1998112",
@@ -20830,7 +20830,7 @@
       "Stove Dragon",
       "Rushfest"
     ],
-    "roles": "",
+    "roles": "Larks / Robins",
     "date": "6/12/2026",
     "location": "Asheville NC",
     "url": "https://www.ashevillecontra.com/",
@@ -20851,7 +20851,7 @@
     "bands": [
       "Contrasaurus"
     ],
-    "roles": "Larks/Robins",
+    "roles": "Larks / Robins",
     "date": "7/3/2026",
     "location": "Harbury UK",
     "url": "https://www.stegastomp.co.uk/",
@@ -20906,8 +20906,14 @@
   {
     "typical_month": "6",
     "name": "Gender-Free Dance Camp (Spring)",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Lindsey Dono",
+      "Annie Kidwell"
+    ],
+    "bands": [
+      "Nobody's Business",
+      "Azalea"
+    ],
     "roles": "Larks / Robins",
     "date": "6/12/2026",
     "location": "Plymouth MA",
@@ -20942,8 +20948,14 @@
   {
     "typical_month": "6",
     "name": "Swing into Summer",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Lindsey Dono",
+      "Imogen Mills"
+    ],
+    "bands": [
+      "Northwoods",
+      "Joanna, Carrie, & Aaron"
+    ],
     "roles": "Larks / Robins",
     "date": "6/19/2026",
     "location": "Plymouth MA",
@@ -21001,8 +21013,15 @@
   {
     "typical_month": "6",
     "name": "BACDS Family Week",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Angela DeCarlis"
+    ],
+    "bands": [
+      "Tom Phillips",
+      "Jeff Spero",
+      "David James",
+      "Craig Johnson"
+    ],
     "roles": "",
     "date": "6/21/2026",
     "location": "Aptos CA",
@@ -21096,7 +21115,11 @@
   {
     "typical_month": "7",
     "name": "Cumberland Dance Week",
-    "callers": [],
+    "callers": [
+      "Rachel Shapiro Wallace",
+      "Wendy Graham",
+      "Harrison Keely"
+    ],
     "bands": [],
     "roles": "",
     "date": "6/28/2026",
@@ -21261,8 +21284,18 @@
   {
     "typical_month": "8",
     "name": "Contradancers Delight Holiday (Spring)",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Terry Doyle",
+      "Bob Isaacs",
+      "Devin Pohly",
+      "Warren Doyle",
+      "Open Calling"
+    ],
+    "bands": [
+      "Toss the Possum",
+      "George Paul and Friends",
+      "the Buzz Band"
+    ],
     "roles": "Ladies/Gents",
     "date": "7/31/2026",
     "location": "Mountain City TN",
@@ -21374,21 +21407,6 @@
   },
   {
     "typical_month": "8",
-    "name": "Good Life Gallup",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Omaha NE",
-    "url": "https://www.thegoodlifegallop.org/",
-    "year": 2026,
-    "latlng": [
-      41.26,
-      -95.93
-    ]
-  },
-  {
-    "typical_month": "8",
     "name": "Mentone",
     "callers": [
       "Cis Hinkle",
@@ -21435,7 +21453,9 @@
     "typical_month": "8",
     "name": "TradMaD",
     "callers": [],
-    "bands": [],
+    "bands": [
+      "the Vox Hunters"
+    ],
     "roles": "",
     "date": "8/29/2026",
     "location": "Plymouth MA",
@@ -21488,8 +21508,12 @@
   {
     "typical_month": "9",
     "name": "Dance Camp North",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Jacqui Grennan"
+    ],
+    "bands": [
+      "Stomp Rocket"
+    ],
     "roles": "",
     "date": "9/5/2026",
     "location": "Fairbanks AK",
@@ -21527,8 +21551,12 @@
   {
     "typical_month": "9",
     "name": "Bear Hug Dance Camp",
-    "callers": [],
+    "callers": [
+      "Susan Petrick",
+      "Rab Cummings"
+    ],
     "bands": [
+      "Raven & Goose",
       "Unstrung String Band"
     ],
     "roles": "",
@@ -21586,17 +21614,18 @@
       "Angela DeCarlis"
     ],
     "bands": [
-      "Raven & Goose"
+      "Raven & Goose",
+      "Stove Dragon"
     ],
     "roles": "",
     "date": "10/23/2026",
-    "location": "Surrey BC",
+    "location": "Gibsons BC",
     "url": "https://chehalisdancecamp.com/",
     "year": 2026,
     "date_end": "10/25/2026",
     "latlng": [
-      49.19,
-      -122.85
+      49.4,
+      -123.52
     ]
   },
   {
@@ -21606,26 +21635,32 @@
     "bands": [],
     "roles": "Larks / Robins",
     "date": "10/2/2026",
-    "location": "Weston VT",
+    "location": "Fairlee VT",
     "url": "http://youthdanceweekend.org/",
     "year": 2026,
     "date_end": "10/4/2026",
     "latlng": [
-      43.29,
-      -72.79
+      43.91,
+      -72.15
     ]
   },
   {
     "typical_month": "9",
     "name": "Adirondack Dance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Steve Zakon-Anderson",
+      "Alex Deis-Lauby"
+    ],
+    "bands": [
+      "Stove Dragon",
+      "the Russet Trio"
+    ],
     "roles": "",
-    "date": "5/8/2026",
+    "date": "9/25/2026",
     "location": "Silver Bay NY",
     "url": "https://www.danceflurry.org/adirondack-dance-weekend/",
     "year": 2026,
-    "date_end": "5/10/2026",
+    "date_end": "9/27/2026",
     "latlng": [
       43.7,
       -73.51
@@ -21673,8 +21708,12 @@
   {
     "typical_month": "9",
     "name": "Mt. Nebo Dance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "ACDS Callers"
+    ],
+    "bands": [
+      "ACDS Band"
+    ],
     "roles": "",
     "date": "9/18/2026",
     "location": "Mount Nebo State Park AR",
@@ -21748,8 +21787,16 @@
   {
     "typical_month": "10",
     "name": "ContraStock",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Janine Smith",
+      "Michael Karcher",
+      "Chloe Levine"
+    ],
+    "bands": [
+      "the Syncopaths",
+      "Petrichord",
+      "Supertrad"
+    ],
     "roles": "Larks / Robins",
     "date": "10/3/2026",
     "location": "Glen Echo MD",
@@ -22067,8 +22114,14 @@
   {
     "typical_month": "11",
     "name": "Pittsburgh Fall Dance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Gaye Fifer",
+      "Seth Tepfer"
+    ],
+    "bands": [
+      "Hot Coffee Breakdown",
+      "Turnip the Beet"
+    ],
     "roles": "Larks / Robins",
     "date": "10/23/2026",
     "location": "Pittsburgh PA",
@@ -22122,8 +22175,14 @@
   {
     "typical_month": "11",
     "name": "Rose City Dance-a-Rama",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "George Marshall",
+      "Adina Gordon"
+    ],
+    "bands": [
+      "Wild Asparagus",
+      "Joyride"
+    ],
     "roles": "",
     "date": "11/20/2026",
     "location": "Portland OR",
