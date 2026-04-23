@@ -381,6 +381,17 @@
     "weekdays": "Saturdays"
   },
   {
+    "annual_freq": 20,
+    "city": "New Haven CT",
+    "ical": [
+      "https://calendar.google.com/calendar/ical/7bff9929303685e90d4d3414fcfcc2437817ebc622616fd52dde043038622a50%40group.calendar.google.com/public/basic.ics"
+    ],
+    "lat": 41.31,
+    "lng": -72.93,
+    "url": "https://linktr.ee/contradancing",
+    "weekdays": "Sundays"
+  },
+  {
     "annual_freq": 10,
     "city": "Arden DE",
     "gender_free": true,
