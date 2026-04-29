@@ -21054,21 +21054,6 @@
     ]
   },
   {
-    "typical_month": "6",
-    "name": "Taste of Haven",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Syracuse IN",
-    "url": "https://www.contracorners.net/event-type/dance-weekend/",
-    "year": 2026,
-    "latlng": [
-      41.43,
-      -85.75
-    ]
-  },
-  {
     "typical_month": "7",
     "name": "AmWeek",
     "callers": [
@@ -23910,6 +23895,22 @@
     "latlng": [
       41.96,
       -70.67
+    ]
+  },
+  {
+    "typical_month": "8",
+    "name": "Burning Man Contra Dance Camp",
+    "callers": [],
+    "bands": [],
+    "roles": "",
+    "date": "8/29/2027",
+    "location": "Black Rock City NV",
+    "url": "http://www.contraburners.org/",
+    "year": 2027,
+    "date_end": "9/6/2027",
+    "latlng": [
+      40.79,
+      -119.2
     ]
   },
   {
