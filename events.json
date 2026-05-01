@@ -21216,6 +21216,26 @@
     ]
   },
   {
+    "typical_month": "7",
+    "name": "Rainforest Romp",
+    "callers": [
+      "Koren Wake"
+    ],
+    "bands": [
+      "Raven & Goose"
+    ],
+    "roles": "Larks / Robins",
+    "date": "7/17/2026",
+    "location": "Juneau AK",
+    "url": "https://www.eventbrite.com/e/rainforest-romp-contra-dance-weekend-tickets-1986864942528",
+    "year": 2026,
+    "date_end": "7/19/2026",
+    "latlng": [
+      58.3,
+      -134.42
+    ]
+  },
+  {
     "typical_month": "8",
     "name": "Harmony of Song & Dance at Pinewoods",
     "callers": [],
@@ -23760,6 +23780,21 @@
     "latlng": [
       36.47,
       -81.8
+    ]
+  },
+  {
+    "typical_month": "7",
+    "name": "Rainforest Romp",
+    "callers": [],
+    "bands": [],
+    "roles": "Larks / Robins",
+    "date": "",
+    "location": "Juneau AK",
+    "url": "",
+    "year": 2027,
+    "latlng": [
+      58.3,
+      -134.42
     ]
   },
   {
