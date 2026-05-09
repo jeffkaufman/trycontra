@@ -2740,5 +2740,13 @@
     "lng": 2.35,
     "url": "https://sites.google.com/site/americancontradanceinparis/",
     "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 8,
+    "city": "Brisbane Australia",
+    "lat": -27.47,
+    "lng": 153.03,
+    "url": "https://www.meetup.com/brisbane-country-style-dancing/",
+    "weekdays": "Saturdays"
   }
 ]
