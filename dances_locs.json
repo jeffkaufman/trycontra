@@ -880,6 +880,15 @@
     "weekdays": "Thursdays"
   },
   {
+    "annual_freq": 8,
+    "city": "Carlisle MA",
+    "gender_free": true,
+    "lat": 42.53,
+    "lng": -71.35,
+    "url": "https://www.facebook.com/groups/244173362410949/",
+    "weekdays": "Fridays"
+  },
+  {
     "annual_freq": 5,
     "city": "Jamaica Plain MA",
     "gender_free": true,
