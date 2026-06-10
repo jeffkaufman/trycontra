@@ -16775,28 +16775,6 @@
   },
   {
     "typical_month": "2",
-    "name": "Corvallis Contra Weekend",
-    "callers": [
-      "Will Mentor",
-      "Lindsey Dono"
-    ],
-    "bands": [
-      "Root System",
-      "Nova"
-    ],
-    "roles": "Larks / Robins",
-    "date": "2/14/2024",
-    "location": "Corvallis OR",
-    "url": "https://corvallisfolklore.org/home/ccw/",
-    "year": 2025,
-    "date_end": "2/16/2024",
-    "latlng": [
-      44.56,
-      -123.26
-    ]
-  },
-  {
-    "typical_month": "2",
     "name": "Galhalla",
     "callers": [
       "Sarah Kaiser",
@@ -19784,28 +19762,6 @@
   },
   {
     "typical_month": "2",
-    "name": "Corvallis Contra Dance Weekend",
-    "callers": [
-      "Gaye Fifer",
-      "Jeremy Korr"
-    ],
-    "bands": [
-      "Wake Up Robin",
-      "the Orb Weavers"
-    ],
-    "roles": "Larks / Robins",
-    "date": "2/13/2026",
-    "location": "Corvallis OR",
-    "url": "https://corvallisfolklore.org/home/ccw/",
-    "year": 2026,
-    "date_end": "2/15/2026",
-    "latlng": [
-      44.56,
-      -123.26
-    ]
-  },
-  {
-    "typical_month": "2",
     "name": "Cabin Fever",
     "callers": [
       "Chris Page",
@@ -19872,28 +19828,6 @@
     "latlng": [
       29.76,
       -95.37
-    ]
-  },
-  {
-    "typical_month": "2",
-    "name": "Fiddling Frog Dance Festival",
-    "callers": [
-      "Susan Petrick",
-      "Lindsey Dono"
-    ],
-    "bands": [
-      "the Syncopaths",
-      "River Road"
-    ],
-    "roles": "Larks / Robins",
-    "date": "2/21/2025",
-    "location": "Pasadena CA",
-    "url": "https://www.caldancecoop.org/special-events/fiddling-frog/",
-    "year": 2026,
-    "date_end": "2/23/2025",
-    "latlng": [
-      34.15,
-      -118.14
     ]
   },
   {
@@ -21978,14 +21912,28 @@
   },
   {
     "typical_month": "10",
-    "name": "Lake Eden Arts Festival - Fall",
-    "callers": [],
-    "bands": [],
+    "name": "Lake Eden Reunion",
+    "callers": [
+      "Bob Isaacs",
+      "Jacqui Grennan",
+      "Wendy Graham",
+      "Kenny Greer",
+      "Terry Doyle",
+      "Mara Bennet"
+    ],
+    "bands": [
+      "Dawn Chorus",
+      "String Rays",
+      "Playing with Fyre",
+      "Here on a Hill",
+      "the Flying Howes"
+    ],
     "roles": "",
-    "date": "",
+    "date": "10/16/2026",
     "location": "Black Mountain NC",
-    "url": "https://theleaf.org/",
+    "url": "https://lakeedenretreat.com/reunion/",
     "year": 2026,
+    "date_end": "10/18/2026",
     "latlng": [
       35.62,
       -82.32
@@ -22093,7 +22041,7 @@
     "roles": "",
     "date": "10/30/2026",
     "location": "Vashon WA",
-    "url": "https://queercontradance.org/queercamproadtrip.html",
+    "url": "https://queercontradance.org/nwqueercamp.html",
     "year": 2026,
     "date_end": "11/1/2026",
     "latlng": [
@@ -22296,9 +22244,15 @@
   {
     "typical_month": "11",
     "name": "Fleur-de-Lis Fling",
-    "callers": [],
-    "bands": [],
-    "roles": "",
+    "callers": [
+      "Rick Mohr",
+      "Darlene Underwood"
+    ],
+    "bands": [
+      "the Rhythm Raptors",
+      "Baba Yaga's Stew"
+    ],
+    "roles": "Larks/Robins",
     "date": "11/20/2026",
     "location": "Louisville KY",
     "url": "http://www.louisvillecountrydancers.org/fleur-de-lis-fling",
@@ -22345,21 +22299,6 @@
     "latlng": [
       42.05,
       -87.69
-    ]
-  },
-  {
-    "typical_month": "11",
-    "name": "Catalina Dance Weekend",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Catalina Island CA",
-    "url": "https://www.catalinadanceweekend.com/",
-    "year": 2026,
-    "latlng": [
-      33.39,
-      -118.42
     ]
   },
   {
@@ -22518,7 +22457,9 @@
   {
     "typical_month": "1",
     "name": "Ralph Page Dance Legacy Weekend",
-    "callers": [],
+    "callers": [
+      "Will Mentor"
+    ],
     "bands": [],
     "roles": "",
     "date": "",
@@ -22533,8 +22474,16 @@
   {
     "typical_month": "1",
     "name": "Contra Carnivale",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Lindsey Dono",
+      "Will Mentor",
+      "Alex Deis-Lauby"
+    ],
+    "bands": [
+      "Genticorum",
+      "Countercurrent",
+      "River Road"
+    ],
     "roles": "Larks / Robins",
     "date": "1/15/2027",
     "location": "San Luis Obispo CA",
@@ -22655,22 +22604,6 @@
   },
   {
     "typical_month": "2",
-    "name": "Fiddling Frog Dance Festival",
-    "callers": [],
-    "bands": [],
-    "roles": "Larks / Robins",
-    "date": "2/27/2027",
-    "location": "Pasadena CA",
-    "url": "https://www.sccdc.org/special-events/fiddling-frog/",
-    "year": 2027,
-    "date_end": "2/29/2027",
-    "latlng": [
-      34.15,
-      -118.14
-    ]
-  },
-  {
-    "typical_month": "2",
     "name": "Phoenix Winter Frolic",
     "callers": [],
     "bands": [],
@@ -22731,21 +22664,6 @@
   },
   {
     "typical_month": "2",
-    "name": "Corvallis Contra Dance Weekend",
-    "callers": [],
-    "bands": [],
-    "roles": "Larks / Robins",
-    "date": "",
-    "location": "Corvallis OR",
-    "url": "https://corvallisfolklore.org/home/ccw/",
-    "year": 2027,
-    "latlng": [
-      44.56,
-      -123.26
-    ]
-  },
-  {
-    "typical_month": "2",
     "name": "Cabin Fever",
     "callers": [
       "Wendy Graham"
@@ -22797,13 +22715,20 @@
   {
     "typical_month": "2",
     "name": "Fiddling Frog Dance Festival",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Lisa Greenleaf",
+      "Jacqui Grennan"
+    ],
+    "bands": [
+      "Lighthouse",
+      "Supertrad"
+    ],
     "roles": "Larks / Robins",
-    "date": "",
+    "date": "2/27/2027",
     "location": "Pasadena CA",
     "url": "https://www.caldancecoop.org/special-events/fiddling-frog/",
     "year": 2027,
+    "date_end": "2/29/2027",
     "latlng": [
       34.15,
       -118.14
@@ -22812,8 +22737,14 @@
   {
     "typical_month": "2",
     "name": "Corvallis Contra Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Adina Gordon",
+      "Koren Wake"
+    ],
+    "bands": [
+      "River Road",
+      "the Dam Beavers"
+    ],
     "roles": "Larks / Robins",
     "date": "",
     "location": "Corvallis OR",
