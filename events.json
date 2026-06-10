@@ -20720,9 +20720,52 @@
   {
     "typical_month": "5",
     "name": "Northwest Folklife",
-    "callers": [],
-    "bands": [],
-    "roles": "",
+    "callers": [
+      "Qwill Duvall",
+      "Morna Leonard",
+      "Shannon Horst",
+      "Suzanne Girardot",
+      "Eric Curl",
+      "Christa Torrens",
+      "Russell Owen",
+      "Rachel Pusey",
+      "Shell Stowell",
+      "Craig Wolfe",
+      "Frannie Marr",
+      "Elisabeth Monica",
+      "Jesse Partridge",
+      "Rich Goss",
+      "Doe Taryn",
+      "Gwen Russeau",
+      "Ric Goldman",
+      "Koren Wake",
+      "Callie Allison",
+      "Lindsey Dono"
+    ],
+    "bands": [
+      "Starshine",
+      "SonoOnos",
+      "Reindeer Cyclone",
+      "the Litch Brothers",
+      "Pajamajam",
+      "Nimbus",
+      "Banished Misfortune",
+      "the Devil's Details",
+      "the Olympia Volunteer String Band",
+      "Dance Dinos",
+      "Brassica",
+      "Raccoon Carnival",
+      "Flywheel Trio",
+      "the Overtones",
+      "Hot Seat",
+      "the Luddite Ramblers",
+      "Kesselgarden",
+      "Tzepl",
+      "Raven and Goose",
+      "the Loose Leaf Teas",
+      "Sweet Potato"
+    ],
+    "roles": "Larks / Robins",
     "date": "5/23/2026",
     "location": "Seattle WA",
     "url": "https://nwfolklife.org/festival/home.html",
@@ -22038,14 +22081,21 @@
   },
   {
     "typical_month": "10",
-    "name": "Queer Contra Dance Camp Roadtrip: Vashon",
-    "callers": [],
-    "bands": [],
+    "name": "Northwest Queer Contra Camp",
+    "callers": [
+      "Christa Torrens",
+      "Isaac Banner"
+    ],
+    "bands": [
+      "the Moving Violations",
+      "Avourneen"
+    ],
     "roles": "",
-    "date": "",
+    "date": "10/30/2026",
     "location": "Vashon WA",
     "url": "https://queercontradance.org/queercamproadtrip.html",
     "year": 2026,
+    "date_end": "11/1/2026",
     "latlng": [
       47.45,
       -122.46
@@ -22059,7 +22109,8 @@
       "Isaac Banner"
     ],
     "bands": [
-      "Topspin"
+      "Topspin",
+      "Playing with Fyre"
     ],
     "roles": "",
     "date": "11/6/2026",
@@ -22696,8 +22747,13 @@
   {
     "typical_month": "2",
     "name": "Cabin Fever",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Wendy Graham"
+    ],
+    "bands": [
+      "Playing with Fyre",
+      "SuperTrad"
+    ],
     "roles": "",
     "date": "",
     "location": "Knoxville TN",
@@ -22799,15 +22855,18 @@
     ]
   },
   {
-    "typical_month": "3",
+    "typical_month": "2",
     "name": "Lava Meltdown",
-    "callers": [],
+    "callers": [
+      "Isaac Banner"
+    ],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "2/26/2027",
     "location": "Lava Hot Springs ID",
     "url": "https://www.lavameltdown.com/",
     "year": 2027,
+    "date_end": "2/28/2027",
     "latlng": [
       42.62,
       -112.01
@@ -22922,13 +22981,21 @@
   {
     "typical_month": "3",
     "name": "Hash Dance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Lisa Greenleaf",
+      "Will Mentor"
+    ],
+    "bands": [
+      "Red Case Band",
+      "Lighthouse",
+      "Alex and Audrey"
+    ],
     "roles": "Larks / Robins",
-    "date": "",
+    "date": "3/26/2027",
     "location": "Glen Echo MD",
     "url": "https://fsgw.org/hashtag-dance-weekend",
     "year": 2027,
+    "date_end": "3/28/2027",
     "latlng": [
       38.97,
       -77.14
@@ -23029,12 +23096,15 @@
     "typical_month": "4",
     "name": "Springforth Ball",
     "callers": [],
-    "bands": [],
+    "bands": [
+      "the Free Raisins"
+    ],
     "roles": "Larks / Robins",
-    "date": "",
+    "date": "4/9/2027",
     "location": "Richmond VA",
     "url": "https://tadamsva.org/springforth-ball-2026/",
     "year": 2027,
+    "date_end": "4/11/2027",
     "latlng": [
       37.54,
       -77.44
@@ -24171,6 +24241,28 @@
     "latlng": [
       32.59,
       -80.16
+    ]
+  },
+  {
+    "typical_month": "9",
+    "name": "Star Through Seattle",
+    "callers": [
+      "Koren Wake",
+      "Will Mentor"
+    ],
+    "bands": [
+      "Kingfisher",
+      "Natterjack"
+    ],
+    "roles": "Larks/Robins",
+    "date": "9/24/27",
+    "location": "Seattle, WA",
+    "url": "http://starthroughseattle.dance/",
+    "year": 2027,
+    "date_end": "9/26/2027",
+    "latlng": [
+      47.61,
+      -122.33
     ]
   },
   {
