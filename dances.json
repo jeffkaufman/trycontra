@@ -807,6 +807,13 @@
     "weekdays": "Fridays"
   },
   {
+    "annual_freq": 12,
+    "city": "Bar Harbor ME",
+    "gender_free": true,
+    "url": "https://www.jesuplibrary.org/events-music-and-dance",
+    "weekdays": "Saturday"
+  },
+  {
     "annual_freq": 2,
     "city": "Cherryfield ME",
     "url": "https://deffa.org/venue/cherryfield-contra-dance/",

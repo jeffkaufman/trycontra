@@ -1084,6 +1084,15 @@
     "weekdays": "Fridays"
   },
   {
+    "annual_freq": 12,
+    "city": "Bar Harbor ME",
+    "gender_free": true,
+    "lat": 44.39,
+    "lng": -68.2,
+    "url": "https://www.jesuplibrary.org/events-music-and-dance",
+    "weekdays": "Saturday"
+  },
+  {
     "annual_freq": 2,
     "city": "Cherryfield ME",
     "lat": 44.61,
