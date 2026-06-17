@@ -21452,8 +21452,14 @@
   {
     "typical_month": "9",
     "name": "Dancing Fish: Labor Day",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Kenny Greer",
+      "Jeremy Peterson"
+    ],
+    "bands": [
+      "Potent Brew",
+      "ContraGrass"
+    ],
     "roles": "",
     "date": "9/4/2026",
     "location": "Melrose FL",
@@ -24438,13 +24444,13 @@
   },
   {
     "typical_month": "10",
-    "name": "Queer Contra Dance Camp Roadtrip: Vashon",
+    "name": "Northwest Queer Contra Camp",
     "callers": [],
     "bands": [],
     "roles": "",
     "date": "",
     "location": "Vashon WA",
-    "url": "https://queercontradance.org/queercamproadtrip.html",
+    "url": "https://queercontradance.org/nwqueercamp.html",
     "year": 2027,
     "latlng": [
       47.45,
