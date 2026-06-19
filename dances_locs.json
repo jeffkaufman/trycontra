@@ -2212,6 +2212,14 @@
     "weekdays": "Saturdays"
   },
   {
+    "annual_freq": 10,
+    "city": "Monteagle TN",
+    "lat": 35.24,
+    "lng": -85.84,
+    "url": "https://www.grundyarea.art/community-dance",
+    "weekdays": "Fridays"
+  },
+  {
     "annual_freq": 24,
     "city": "Nashville TN",
     "lat": 36.17,

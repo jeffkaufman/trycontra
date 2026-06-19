@@ -1623,6 +1623,12 @@
     "weekdays": "Saturdays"
   },
   {
+    "annual_freq": 10,
+    "city": "Monteagle TN",
+    "url": "https://www.grundyarea.art/community-dance",
+    "weekdays": "Fridays"
+  },
+  {
     "annual_freq": 24,
     "city": "Nashville TN",
     "url": "https://www.nashvillecountrydancers.org/contra-dances",
