@@ -679,12 +679,6 @@
     "weekdays": "Fridays"
   },
   {
-    "annual_freq": 8,
-    "city": "Northboro MA",
-    "url": "http://northborocontra.com/",
-    "weekdays": "Saturdays"
-  },
-  {
     "annual_freq": 24,
     "city": "Rehoboth MA",
     "gender_free": true,
