@@ -1,15 +1,14 @@
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
-<html> <head>
+<!DOCTYPE HTML>
+<html>
+<head>
 <title>Callers Heatmap</title>
 <meta name=viewport content="width=device-width, initial-scale=1.0">
-</head>
-
-<body>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
 <style>
-html, body, #map-canvas {
+html, body, #map {
   height: 100%;
   margin: 0px;
-  padding: 0px
+  padding: 0px;
 }
 #details {
   display: none;
@@ -20,6 +19,7 @@ html, body, #map-canvas {
   width: 20em;
   border-radius: 0.25em;
   border: 1px solid #DDD;
+  z-index: 1000;
 }
 .record {
   margin: 1em;
@@ -29,126 +29,100 @@ html, body, #map-canvas {
   font-size: 130%;
 }
 </style>
-<script type="text/javascript"
-  src="https://maps.googleapis.com/maps/api/js?libraries=visualization&key=AIzaSyALrS4bNPhHaZ73dACaSxD-r6oht4CX7B8">
-</script>
+</head>
+<body>
+<div id="map"></div>
+<div id="details"></div>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://unpkg.com/leaflet.heat@0.2.0/dist/leaflet-heat.js"></script>
 <script>
-function fetch(url, callback) {
-  var xhr = new XMLHttpRequest();
-  xhr.onreadystatechange = function() {
-    if (xhr.readyState==4 && xhr.status==200) {
-      callback(xhr.responseText);
-    }
-  };
-  xhr.open("GET",url,true);
-  xhr.send();
-}
+var map = L.map('map').setView([39.81, -98.56], 5);
+
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+}).addTo(map);
 
 var zips = null;
 var caller_records = null;
-window.onload = function() {
-  fetch("zipcode.json", function(response) {
-    zips = JSON.parse(response);
-    maybe_ready();
-  });
-  fetch("caller-links.json", function(response) {
-    caller_records = JSON.parse(response);
-    maybe_ready();
-  });
-};
 
-var zip_to_caller_records = {}
+var details = document.getElementById('details');
 
-function add_marker_listener(marker, zip) {
-  google.maps.event.addListener(marker, 'click', function() {
-    details.style.display = "block";
-    details.innerHTML = "";
-    for (var i = 0; i < zip_to_caller_records[zip].length; i++) {
-      var caller_record = zip_to_caller_records[zip][i];
-      var record_div = document.createElement("div");
-      record_div.className = "record";
-      var name_span = document.createElement("span");
-      name_span.className = "name";
-      name_span.textContent = caller_record.name;
-      var anchor_destination;
-      if (caller_record.website && caller_record.website.indexOf(".") != -1) {
-        if (caller_record.website.indexOf("://") != -1) {
-          anchor_destination = caller_record.website;
-        } else {
-          anchor_destination = "http://" + caller_record.website;
-        }
-      }
-      if (anchor_destination) {
-        var anchor = document.createElement("a");
-        anchor.href = anchor_destination;
-        anchor.appendChild(name_span);
-        record_div.append(anchor);
-      } else {
-        record_div.append(name_span);
-      }
-      if (caller_record.email) {
-        record_div.append(document.createElement("br"));
-        var email_span = document.createElement("span");
-        email_span.className = "email";
-        email_span.textContent = caller_record.email;
-        record_div.append(caller_record.email);
-      }
-      details.appendChild(record_div);
+Promise.all([
+  window.fetch("zipcode.json").then(r => r.json()),
+  window.fetch("caller-links.json").then(r => r.json())
+]).then(([zip_data, callers]) => {
+  zips = zip_data;
+  caller_records = callers;
+
+  var zip_to_caller_records = {};
+  var heatMapData = [];
+
+  for (var i = 0; i < caller_records.length; i++) {
+    var caller_record = caller_records[i];
+    var zip = caller_record.zip;
+    if (!(zip in zips)) {
+      console.log("unrecognized zipcode: " + zip);
+      continue;
     }
-  });
-}
 
-function maybe_ready() {
-  if (!!zips && !!caller_records) {
-    var usa = new google.maps.LatLng(39.81,-98.56);
-    map = new google.maps.Map(document.getElementById('map-canvas'), {
-      center: usa,
-      zoom: 5,
-    });
+    var lat = zips[zip][0];
+    var lng = zips[zip][1];
 
-    heatMapData = [];
+    heatMapData.push([lat, lng, 1]);
 
-    for (var i = 0 ; i < caller_records.length ; i++) {
-       var caller_record = caller_records[i];
-       var zip = caller_record.zip;
-       if (zip in zips) {
-          var lat = zips[zip][0];
-          var lng = zips[zip][1];
+    if (!(zip in zip_to_caller_records)) {
+      zip_to_caller_records[zip] = [caller_record];
 
-          var loc = new google.maps.LatLng(lat, lng);
-
-          heatMapData.push({
-            location: loc,
-            weight: 1
+      (function(z, la, ln) {
+        L.marker([la, ln])
+          .addTo(map)
+          .on('click', function() {
+            details.style.display = "block";
+            details.innerHTML = "";
+            for (var j = 0; j < zip_to_caller_records[z].length; j++) {
+              var rec = zip_to_caller_records[z][j];
+              var record_div = document.createElement("div");
+              record_div.className = "record";
+              var name_span = document.createElement("span");
+              name_span.className = "name";
+              name_span.textContent = rec.name;
+              var anchor_destination;
+              if (rec.website && rec.website.indexOf(".") != -1) {
+                anchor_destination = rec.website.indexOf("://") != -1
+                  ? rec.website
+                  : "http://" + rec.website;
+              }
+              if (anchor_destination) {
+                var anchor = document.createElement("a");
+                anchor.href = anchor_destination;
+                anchor.appendChild(name_span);
+                record_div.append(anchor);
+              } else {
+                record_div.append(name_span);
+              }
+              if (rec.email) {
+                record_div.append(document.createElement("br"));
+                var email_span = document.createElement("span");
+                email_span.className = "email";
+                email_span.textContent = rec.email;
+                record_div.append(rec.email);
+              }
+              details.appendChild(record_div);
+            }
           });
-
-          if (!(zip in zip_to_caller_records)) {
-            zip_to_caller_records[zip] = [caller_record];
-
-            var marker = new google.maps.Marker({
-              position: loc,
-              map: map
-            });
-
-            add_marker_listener(marker, zip);
-          } else {
-            zip_to_caller_records[zip].push(caller_record);
-          }
-       } else {
-          console.log("unrecognized zipcode: " + zip);
-       }
+      })(zip, lat, lng);
+    } else {
+      zip_to_caller_records[zip].push(caller_record);
     }
-
-    var heatmap = new google.maps.visualization.HeatmapLayer({
-      data: heatMapData
-    });
-
-    heatmap.set('radius', 40);
-    heatmap.setMap(map);
   }
-}
-</script>
-<div id="map-canvas"></div>
-<div id="details"></div>
 
-</body> </html>
+  L.heatLayer(heatMapData, {
+    radius: 40,
+    blur: 20,
+    minOpacity: 0.5,
+    gradient: {0.2: 'blue', 0.5: 'lime', 0.8: 'yellow', 1.0: 'red'}
+  }).addTo(map);
+});
+</script>
+</body>
+</html>
