@@ -159,9 +159,13 @@ function make_table(listings, performer_counts) {
   for (const [_, performer, count] of performer_counts_list) {
     if (count < 2) continue;
     const tr = e("tr");
-    tr.appendChild(e(
-      "td",
-      performer.charAt(0).toUpperCase() + performer.slice(1)));
+    const displayName = performer.charAt(0).toUpperCase() + performer.slice(1);
+    const encodedPerformer = encodeURIComponent(performer).replace(/%20/g, '+');
+    const td = e("td");
+    const a = e("a", displayName);
+    a.href = "https://www.trycontra.com/events#performer=" + encodedPerformer;
+    td.appendChild(a);
+    tr.appendChild(td);
     tr.appendChild(e("td", count));
     listings.appendChild(tr);
   }
