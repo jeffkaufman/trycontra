@@ -1772,6 +1772,12 @@
     "weekdays": "Fridays"
   },
   {
+    "annual_freq": 12,
+    "city": "Burlington VT",
+    "url": "https://www.facebook.com/MadRobinCC/",
+    "weekdays": "Fridays"
+  },
+  {
     "annual_freq": 27,
     "city": "Montpelier VT",
     "gender_free": true,
