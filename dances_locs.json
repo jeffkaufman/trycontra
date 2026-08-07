@@ -834,6 +834,14 @@
     "weekdays": "Sundays"
   },
   {
+    "annual_freq": 4,
+    "city": "Melrose MA",
+    "lat": 42.46,
+    "lng": -71.07,
+    "url": "https://dance.manystrings6.com/",
+    "weekdays": "Saturdays"
+  },
+  {
     "annual_freq": 12,
     "city": "Northampton MA",
     "gender_free": true,

@@ -625,6 +625,12 @@
     "weekdays": "Sundays"
   },
   {
+    "annual_freq": 4,
+    "city": "Melrose MA",
+    "url": "https://dance.manystrings6.com/",
+    "weekdays": "Saturdays"
+  },
+  {
     "annual_freq": 12,
     "city": "Northampton MA",
     "gender_free": true,
