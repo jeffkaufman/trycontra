@@ -19961,8 +19961,16 @@
   {
     "typical_month": "3",
     "name": "DownEast Country Dance Festival",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Adina Gordon",
+      "Dugan Murphy",
+      "Bill Olson"
+    ],
+    "bands": [
+      "Cojiro",
+      "the Pine Tree Flyers",
+      "Scrod Pudding"
+    ],
     "roles": "",
     "date": "3/27/2026",
     "location": "Topsham ME",
@@ -20019,7 +20027,13 @@
   {
     "typical_month": "3",
     "name": "Celebration!",
-    "callers": [],
+    "callers": [
+      "Claire Takemori",
+      "Janet Shepherd",
+      "Corinne Wilkinson",
+      "Rob Setili",
+      "Jeremy Peterson"
+    ],
     "bands": [
       "Playing with Fyre",
       "Playing with Lava",
@@ -20502,7 +20516,9 @@
   {
     "typical_month": "5",
     "name": "Dancing Fish: May",
-    "callers": [],
+    "callers": [
+      "Dereck Kalish"
+    ],
     "bands": [
       "Lift Ticket"
     ],
@@ -21858,8 +21874,14 @@
   {
     "typical_month": "10",
     "name": "Gender-Free Dance Camp (Fall)",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Adina Gordon",
+      "Lyss Adkins"
+    ],
+    "bands": [
+      "River Road",
+      "Raven and Goose"
+    ],
     "roles": "",
     "date": "10/16/2026",
     "location": "Olivebridge NY",
@@ -21889,7 +21911,9 @@
   {
     "typical_month": "10",
     "name": "Peterbough Fall Ball",
-    "callers": [],
+    "callers": [
+      "Alex Deis-Lauby"
+    ],
     "bands": [],
     "roles": "",
     "date": "",
@@ -22519,8 +22543,14 @@
   {
     "typical_month": "1",
     "name": "Florida Snow Ball",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Seth Tepfer",
+      "Alex Deis-Lauby"
+    ],
+    "bands": [
+      "the Engine Room",
+      "River Road"
+    ],
     "roles": "",
     "date": "1/22/2027",
     "location": "Gulfport FL",
@@ -23207,7 +23237,9 @@
   {
     "typical_month": "5",
     "name": "Apple Blossom Bliss",
-    "callers": [],
+    "callers": [
+      "Alex Deis-Lauby"
+    ],
     "bands": [],
     "roles": "Larks / Robins",
     "date": "",
