@@ -19598,8 +19598,16 @@
   {
     "typical_month": "2",
     "name": "IVFDF",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Andrew Swaine",
+      "Charlie Brown",
+      "Louise Siddons",
+      "Bob Morgan"
+    ],
+    "bands": [
+      "Bluejay",
+      "Trip Hazard"
+    ],
     "roles": "Larks / Robins",
     "date": "2/27/2026",
     "location": "York UK",
@@ -21113,7 +21121,9 @@
   {
     "typical_month": "7",
     "name": "July Fourth at Pinewoods",
-    "callers": [],
+    "callers": [
+      "Lisa Greenleaf"
+    ],
     "bands": [],
     "roles": "Larks / Robins",
     "date": "7/2/2026",
@@ -21129,8 +21139,16 @@
   {
     "typical_month": "7",
     "name": "Pinewoods English-Scottish-Contra",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Will Mentor",
+      "Alex Cumming",
+      "Scott Higgs",
+      "Anna Rain"
+    ],
+    "bands": [
+      "the Pegasus Collective",
+      "Torrent"
+    ],
     "roles": "Larks / Robins",
     "date": "7/6/2026",
     "location": "Plymouth MA",
@@ -21148,10 +21166,13 @@
     "callers": [
       "Bob Isaacs",
       "Janine Smith",
-      "Terry Doyle"
+      "Terry Doyle",
+      "Ada Blanken"
     ],
     "bands": [
-      "Toss the Possum"
+      "Toss the Possum",
+      "Hot Coffee Breakdown",
+      "Playing with Fyre"
     ],
     "roles": "",
     "date": "7/2/2026",
@@ -21195,7 +21216,7 @@
     ],
     "bands": [
       "Andromeda",
-      "Pine Tree Flyers"
+      "the Pine Tree Flyers"
     ],
     "roles": "",
     "date": "7/19/2026",
@@ -21231,7 +21252,12 @@
   {
     "typical_month": "8",
     "name": "Harmony of Song & Dance at Pinewoods",
-    "callers": [],
+    "callers": [
+      "Adina Gordon",
+      "Alex Cumming",
+      "Ben Sachs-Hamilton",
+      "Maia McCormick"
+    ],
     "bands": [],
     "roles": "",
     "date": "8/8/2026",
@@ -21247,8 +21273,16 @@
   {
     "typical_month": "7",
     "name": "Falcon Ridge Folk Festival",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "George Marshall",
+      "Beth Molaro",
+      "Rich Sbardella"
+    ],
+    "bands": [
+      "the Gaslight Tinkers ",
+      "the Star Charters",
+      "the Russet Trio"
+    ],
     "roles": "",
     "date": "7/24/2026",
     "location": "Goshen CT",
@@ -21390,7 +21424,10 @@
   {
     "typical_month": "8",
     "name": "Campers\u2019 Week at Pinewoods",
-    "callers": [],
+    "callers": [
+      "Rick Mohr",
+      "Sue Rosen"
+    ],
     "bands": [],
     "roles": "",
     "date": "8/1/2026",
@@ -21597,7 +21634,9 @@
   {
     "typical_month": "9",
     "name": "Pinewoods Labor Day Weekend",
-    "callers": [],
+    "callers": [
+      "Chris Ricciotti"
+    ],
     "bands": [],
     "roles": "",
     "date": "9/4/2026",
@@ -21635,8 +21674,13 @@
   {
     "typical_month": "9",
     "name": "Youth Dance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Hannah Chamberlain"
+    ],
+    "bands": [
+      "Cojiro",
+      "Blue Joy"
+    ],
     "roles": "Larks / Robins",
     "date": "10/2/2026",
     "location": "Fairlee VT",
@@ -21697,13 +21741,18 @@
   {
     "typical_month": "9",
     "name": "Balance The Star Dance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Wendy Graham"
+    ],
+    "bands": [
+      "the Berea Castoffs"
+    ],
     "roles": "",
-    "date": "",
+    "date": "9/25/2026",
     "location": "Berea KY",
     "url": "https://www.berea-folk-circle.org/fall-mountain-folk-festival",
     "year": 2026,
+    "date_end": "9/26/2026",
     "latlng": [
       37.57,
       -84.3
@@ -21776,7 +21825,9 @@
   {
     "typical_month": "10",
     "name": "Dancing Fish: October",
-    "callers": [],
+    "callers": [
+      "Luke Donforth"
+    ],
     "bands": [],
     "roles": "",
     "date": "",
@@ -21818,10 +21869,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "10/16/2026",
     "location": "Salt Lake City UT",
     "url": "https://wasatchcontras.org/ww/",
     "year": 2026,
+    "date_end": "10/18/2026",
     "latlng": [
       40.76,
       -111.89
@@ -21896,13 +21948,20 @@
   {
     "typical_month": "10",
     "name": "Phylla Mae Fall Fest",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Gaye Fifer",
+      "David Smukler"
+    ],
+    "bands": [
+      "Star Charters",
+      "Missing Lynx"
+    ],
     "roles": "",
-    "date": "",
+    "date": "10/16/2026",
     "location": "Fayetteville NY",
     "url": "https://syracusecountrydancers.org/special-events/phylla-mae-fall-fest/",
     "year": 2026,
+    "date_end": "10/17/2026",
     "latlng": [
       43.03,
       -76.0
@@ -21916,10 +21975,11 @@
     ],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "10/17/2026",
     "location": "Peterborough NH",
-    "url": "https://www.monadnockfolk.org/event/%E2%98%BC-%E2%98%BC-%E2%98%BC-peterborough-fall-ball-saturday-october-25-2025/",
+    "url": "https://www.monadnockfolk.org/event/%E2%98%BC-%E2%98%BC-%E2%98%BC-peterborough-fall-ball-2026/",
     "year": 2026,
+    "date_end": "10/17/2026",
     "latlng": [
       42.87,
       -71.95
@@ -21992,13 +22052,19 @@
   {
     "typical_month": "10",
     "name": "Fire Ant Frolic",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Will Mentor"
+    ],
+    "bands": [
+      "Nimbus",
+      "Everett Wren Band"
+    ],
     "roles": "",
-    "date": "",
+    "date": "11/13/2026",
     "location": "Austin TX",
     "url": "http://www.fireantfrolic.org/",
     "year": 2026,
+    "date_end": "11/15/2026",
     "latlng": [
       30.27,
       -97.74
@@ -22044,12 +22110,18 @@
   {
     "typical_month": "10",
     "name": "John C Campbell Fall Dance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Cis Hinkle",
+      "Susan Michaels"
+    ],
+    "bands": [
+      "the Stringrays",
+      "the Faux Paws"
+    ],
     "roles": "",
     "date": "10/8/2026",
     "location": "Brasstown NC",
-    "url": "https://folkschool.configio.com/pd/3332/fall-dance-weekend-long-weekend",
+    "url": "https://folkschool.configio.com/pd/4135/fall-dance-weekend-long-weekend",
     "year": 2026,
     "date_end": "10/11/2026",
     "latlng": [
@@ -22078,6 +22150,38 @@
       47.45,
       -122.46
     ]
+  },
+  {
+    "typical_month": "10",
+    "name": "Dancing Fish: Halloween Weekend",
+    "callers": [
+      "Terry Doyle"
+    ],
+    "bands": [
+      "Toss the Possum"
+    ],
+    "roles": "",
+    "date": "10/30/2026",
+    "location": "",
+    "url": "https://dancingfish.dance/",
+    "year": 2026,
+    "date_end": "10/31/2026"
+  },
+  {
+    "typical_month": "11",
+    "name": "Dancing Fish: November",
+    "callers": [
+      "Steve Zakon-Anderson"
+    ],
+    "bands": [
+      "the Dam Beavers"
+    ],
+    "roles": "",
+    "date": "11/6/2026",
+    "location": "",
+    "url": "",
+    "year": 2026,
+    "date_end": "11/7/2026"
   },
   {
     "typical_month": "11",
@@ -22170,8 +22274,17 @@
   {
     "typical_month": "11",
     "name": "Head for the Hills Dance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Michael Karcher",
+      "Gaye Fifer",
+      "Sue Gola",
+      "Donna Hunt",
+      "Imogen Mills",
+      "Carl Levine"
+    ],
+    "bands": [
+      "Raise the Roof"
+    ],
     "roles": "",
     "date": "11/13/2026",
     "location": "Kresgeville PA",
@@ -22334,13 +22447,18 @@
   {
     "typical_month": "12",
     "name": "Dancing Fish: December",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Bob Isaacs"
+    ],
+    "bands": [
+      "Frenzy"
+    ],
     "roles": "",
-    "date": "",
+    "date": "12/4/2026",
     "location": "Melrose FL",
     "url": "https://dancingfish.dance/",
     "year": 2026,
+    "date_end": "12/5/2026",
     "latlng": [
       29.71,
       -82.05
@@ -22349,8 +22467,14 @@
   {
     "typical_month": "12",
     "name": "Winter Warmup Dance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Gaye Fifer",
+      "River Rainbowface"
+    ],
+    "bands": [
+      "the Mean Lids",
+      "Raven & Goose"
+    ],
     "roles": "",
     "date": "12/4/2026",
     "location": "Worthington OH",
@@ -22365,8 +22489,17 @@
   {
     "typical_month": "12",
     "name": "Contradancers Delight Holiday (Winter)",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Bob Isaacs",
+      "Terry Doyle",
+      "Warren Doyle",
+      "Devin Pohly"
+    ],
+    "bands": [
+      "Toss the Possum",
+      "Potent Brew",
+      "Playing with Fyre"
+    ],
     "roles": "Ladies/Gents",
     "date": "12/26/2026",
     "location": "Morgantown, WV",
@@ -22384,10 +22517,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "12/30/2026",
     "location": "Vashon Island WA",
     "url": "https://bashonvashon.org/",
     "year": 2026,
+    "date_end": "1/2/2027",
     "latlng": [
       47.45,
       -122.46
@@ -22396,7 +22530,12 @@
   {
     "typical_month": "12",
     "name": "Berea Christmas Country Dance School",
-    "callers": [],
+    "callers": [
+      "Susan English",
+      "Erik Erhardt",
+      "Brad Foster",
+      "Darlene Underwood"
+    ],
     "bands": [],
     "roles": "",
     "date": "12/26/2026",
@@ -22412,7 +22551,11 @@
   {
     "typical_month": "12",
     "name": "Terpsichore's Holiday",
-    "callers": [],
+    "callers": [
+      "Lisa Greenleaf",
+      "Dan Blim",
+      "The Gigmeisters"
+    ],
     "bands": [],
     "roles": "",
     "date": "",
@@ -22427,12 +22570,14 @@
   {
     "typical_month": "12",
     "name": "Winter Dance Week",
-    "callers": [],
+    "callers": [
+      "Sue Rosen"
+    ],
     "bands": [],
     "roles": "",
     "date": "",
     "location": "Brasstown NC",
-    "url": "https://folkschool.configio.com/pd/3382/winter-dance-week-2025",
+    "url": "https://folkschool.configio.com/pd/4201/winter-dance-week-2026",
     "year": 2026,
     "latlng": [
       35.04,
