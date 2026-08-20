@@ -56,6 +56,7 @@ bands_add_the = [
     'Orb Weavers',
     'Orphans',
     'Pegasus Collective',
+    'Pine Tree Flyers',
     'Quarks',
     'Reckoners',
     'Red Mountain Yellowhammers',
@@ -67,6 +68,7 @@ bands_add_the = [
     'Sail Away Ladies',
     'Second Floor',
     'Slieves',
+    'Star Charters',
     'Stringrays',
     'Stuff',
     'Syncopaths',
@@ -155,7 +157,7 @@ for fname in sorted(glob.glob("events-raw-*.tsv")):
             if name == "end of active list":
                 break
 
-            callers = [x for x in (caller1,
+            callers = [x.strip() for x in (caller1,
                                    caller2,
                                    caller3,
                                    caller4,
@@ -163,7 +165,7 @@ for fname in sorted(glob.glob("events-raw-*.tsv")):
                                    caller6)
                        if x.strip()]
 
-            bands = [re.sub("^The ", "the ", x)
+            bands = [re.sub("^The ", "the ", x).strip()
                      for x in (band1,
                                band2,
                                band3,
