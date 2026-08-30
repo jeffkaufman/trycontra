@@ -20972,7 +20972,7 @@
     "typical_month": "6",
     "name": "Lady of the Lake June Week",
     "callers": [
-      "Lisa Greenleaf",
+      "Lindsey Dono",
       "Maia McCormick"
     ],
     "bands": [
@@ -21574,8 +21574,8 @@
       "Gaye Fifer"
     ],
     "bands": [
-      "the Engine Room",
-      "Larry Unger, Tory Horner, and Betsy Branch",
+      "the Ice Cream Truckers",
+      "All the Rage",
       "Playing with Fyre"
     ],
     "roles": "",
@@ -21866,8 +21866,12 @@
   {
     "typical_month": "10",
     "name": "Wasatch Wiggle",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Alex Deis-Lauby"
+    ],
+    "bands": [
+      "Countercurrent"
+    ],
     "roles": "",
     "date": "10/16/2026",
     "location": "Salt Lake City UT",
@@ -21987,21 +21991,6 @@
   },
   {
     "typical_month": "10",
-    "name": "On To The Next",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Milwaukie OR",
-    "url": "https://ontothenext.pdxcontra.org/",
-    "year": 2026,
-    "latlng": [
-      45.44,
-      -122.64
-    ]
-  },
-  {
-    "typical_month": "10",
     "name": "Lake Eden Reunion",
     "callers": [
       "Bob Isaacs",
@@ -22090,21 +22079,6 @@
     "latlng": [
       40.71,
       -74.01
-    ]
-  },
-  {
-    "typical_month": "10",
-    "name": "Mountain Madness",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Jonesborough TN",
-    "url": "https://historicjonesboroughdancesociety.net",
-    "year": 2026,
-    "latlng": [
-      36.29,
-      -82.47
     ]
   },
   {
@@ -22519,7 +22493,7 @@
     "roles": "",
     "date": "12/30/2026",
     "location": "Vashon Island WA",
-    "url": "https://bashonvashon.org/",
+    "url": "https://bashonvashon.org/ ",
     "year": 2026,
     "date_end": "1/2/2027",
     "latlng": [
