@@ -297,6 +297,13 @@
     "ical": ["https://calendar.google.com/calendar/ical/7bff9929303685e90d4d3414fcfcc2437817ebc622616fd52dde043038622a50%40group.calendar.google.com/public/basic.ics"]
   },
   {
+    "annual_freq": 6,
+    "city": "Manchester CT",
+    "gender_free": true,
+    "url": "https://www.uuse.org/regular-events/gender-free-contra-dance",
+    "weekdays": "Saturdays"
+  },
+  {
     "annual_freq": 10,
     "city": "Arden DE",
     "gender_free": true,
