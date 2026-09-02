@@ -21716,6 +21716,31 @@
   },
   {
     "typical_month": "9",
+    "name": "UVM Dawn Dance",
+    "callers": [
+      "Adina Gordon",
+      "Don Stratton",
+      "Luke Donforth",
+      "Nicholas Smith"
+    ],
+    "bands": [
+      "Town Hollers",
+      "Grebe Philosophy",
+      "Kingfisher"
+    ],
+    "roles": "",
+    "date": "9/26/2026",
+    "location": "Burlington VT",
+    "url": "https://www.instagram.com/p/Da1lzOfRSK6/",
+    "year": 2026,
+    "date_end": "9/27/2026",
+    "latlng": [
+      44.48,
+      -73.21
+    ]
+  },
+  {
+    "typical_month": "9",
     "name": "Butterfly Twirl",
     "callers": [
       "Emily Rush",
@@ -21975,9 +22000,17 @@
     "typical_month": "10",
     "name": "Peterbough Fall Ball",
     "callers": [
-      "Alex Deis-Lauby"
+      "Alex Deis-Lauby",
+      "Quena Crain",
+      "Julian Blechner",
+      "Steve Zakon-Anderson"
     ],
-    "bands": [],
+    "bands": [
+      "Northwoods",
+      "Spintuition",
+      "Nobody's Business",
+      "the Ice Cream Truckers"
+    ],
     "roles": "",
     "date": "10/17/2026",
     "location": "Peterborough NH",
@@ -22488,8 +22521,12 @@
   {
     "typical_month": "12",
     "name": "Bash on Vashon",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Open Calling"
+    ],
+    "bands": [
+      "Open Band"
+    ],
     "roles": "",
     "date": "12/30/2026",
     "location": "Vashon Island WA",
