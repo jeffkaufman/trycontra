@@ -416,6 +416,12 @@
   },
   {
     "annual_freq": 6,
+    "city": "Kula HI",
+    "url": "https://www.facebook.com/mauicontra",
+    "weekdays": "Saturdays and Sundays"
+  },
+  {
+    "annual_freq": 6,
     "city": "Ames IA",
     "url": "https://www.facebook.com/CentralIowaBarnDanceAssociation",
     "weekdays": "Saturdays"
@@ -742,6 +748,12 @@
     "icals": [ "https://calendar.google.com/calendar/ical/grotongrange%40gmail.com/public/basic.ics" ],
     "url": "https://grotongrange.org/events/contra-dance/",
     "weekdays": "Saturdays"
+  },
+  {
+    "annual_freq": 10,
+    "city": "Housatonic MA",
+    "url": "https://www.facebook.com/groups/570958343279380",
+    "weekdays": "Sundays"
   },
   {
     "annual_freq": 52,
@@ -1791,6 +1803,12 @@
     "weekdays": "Fridays"
   },
   {
+    "annual_freq": 8,
+    "city": "Burlington VT",
+    "url": "https://www.instagram.com/uvmcontra",
+    "weekdays": "Saturdays"
+  },
+  {
     "annual_freq": 27,
     "city": "Montpelier VT",
     "gender_free": true,
@@ -1821,6 +1839,12 @@
     "annual_freq": 8,
     "city": "St. Johnsbury VT",
     "url": "https://www.facebook.com/people/St-Johnsbury-Community-Contra-Dance/61565419087661/",
+    "weekdays": "Sundays"
+  },
+  {
+    "annual_freq": 12,
+    "city": "Guilford VT",
+    "url": "https://www.broadbrookcommunitycenter.org/events",
     "weekdays": "Sundays"
   },
   {
