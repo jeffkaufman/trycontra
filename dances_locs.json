@@ -373,14 +373,6 @@
     "weekdays": "Fridays"
   },
   {
-    "annual_freq": 9,
-    "city": "Stafford CT",
-    "lat": 41.98,
-    "lng": -72.32,
-    "url": "https://www.facebook.com/StaffordStomp/",
-    "weekdays": "Saturdays"
-  },
-  {
     "annual_freq": 20,
     "city": "New Haven CT",
     "gender_free": true,
