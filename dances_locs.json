@@ -985,6 +985,14 @@
   },
   {
     "annual_freq": 8,
+    "city": "Arlington MA",
+    "lat": 42.42,
+    "lng": -71.16,
+    "url": "https://www.facebook.com/p/Arlington-Barn-Dance-61557476804409/",
+    "weekdays": "Sundays"
+  },
+  {
+    "annual_freq": 8,
     "city": "Groton MA",
     "icals": [
       "https://calendar.google.com/calendar/ical/grotongrange%40gmail.com/public/basic.ics"
