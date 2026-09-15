@@ -22613,13 +22613,18 @@
   {
     "typical_month": "1",
     "name": "Chambana Jan Jam",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Callie Allison"
+    ],
+    "bands": [
+      "Turnip the Beet"
+    ],
     "roles": "Larks / Robins",
-    "date": "",
+    "date": "1/8/2027",
     "location": "Urbana IL",
     "url": "http://www.urbana-contra.org/jan_jam.html",
     "year": 2027,
+    "date_end": "1/10/2027",
     "latlng": [
       40.11,
       -88.21
@@ -22628,13 +22633,18 @@
   {
     "typical_month": "1",
     "name": "Fiddler's Dream",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Open Calling"
+    ],
+    "bands": [
+      "Open Band"
+    ],
     "roles": "",
-    "date": "",
+    "date": "12/31/2026",
     "location": "Kingston OK",
     "url": "https://www.nttds.org/fdream/home.html",
     "year": 2027,
+    "date_end": "1/3/2027",
     "latlng": [
       34.0,
       -96.72
@@ -22644,14 +22654,19 @@
     "typical_month": "1",
     "name": "Ralph Page Dance Legacy Weekend",
     "callers": [
-      "Will Mentor"
+      "Chris Ricciotti",
+      "Janine Smith"
     ],
-    "bands": [],
+    "bands": [
+      "Calliope",
+      "Julie Metcalf and Max Newman"
+    ],
     "roles": "",
-    "date": "",
+    "date": "1/8/2027",
     "location": "Worcester MA",
     "url": "https://www.neffa.org/annual-ralph-page-dance-event/",
     "year": 2027,
+    "date_end": "1/9/2027",
     "latlng": [
       42.26,
       -71.8
@@ -22661,7 +22676,6 @@
     "typical_month": "1",
     "name": "Contra Carnivale",
     "callers": [
-      "Lindsey Dono",
       "Will Mentor",
       "Alex Deis-Lauby"
     ],
@@ -22689,7 +22703,7 @@
     "roles": "Gents / Ladies",
     "date": "",
     "location": "Berea KY",
-    "url": "https://www.swingshift.ltda.us/",
+    "url": "https://ltda.us/swingshift.htm",
     "year": 2027,
     "latlng": [
       37.57,
@@ -22724,10 +22738,11 @@
     "callers": [],
     "bands": [],
     "roles": "Larks / Robins",
-    "date": "",
+    "date": "1/24/2027",
     "location": "Peterborough NH",
-    "url": "https://www.monadnockfolk.org/event/%e2%98%bc-%e2%98%bc-%e2%98%bc-peterborough-snow-ball-2026/",
+    "url": "https://www.monadnockfolk.org/event/%e2%98%bc-%e2%98%bc-%e2%98%bc-peterborough-snow-ball-2027/",
     "year": 2027,
+    "date_end": "1/24/2027",
     "latlng": [
       42.87,
       -71.95
@@ -22736,13 +22751,19 @@
   {
     "typical_month": "1",
     "name": "Stellar Days and Nights",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Gaye Fifer",
+      "Wendy Graham"
+    ],
+    "bands": [
+      "Supertrad"
+    ],
     "roles": "",
-    "date": "",
+    "date": "1/15/2027",
     "location": "Buena Vista CO",
     "url": "https://rockymountainranchdance.com",
     "year": 2027,
+    "date_end": "1/18/2027",
     "latlng": [
       38.84,
       -106.13
@@ -22766,13 +22787,22 @@
   {
     "typical_month": "1",
     "name": "Wintergreen",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
+    "callers": [
+      "Mary Wesley",
+      "Craig Wolfe"
+    ],
+    "bands": [
+      "Alex and Audrey",
+      "Max Newman",
+      "Julie Metcalf",
+      "Stewart Kenney"
+    ],
+    "roles": "Larks / Robins",
+    "date": "1/29/2027",
     "location": "Bozeman MT",
-    "url": "https://bozemanfolklore.org/wintergreen-2026/",
+    "url": "https://bozemanfolklore.org/wintergreen-2027/",
     "year": 2027,
+    "date_end": "1/31/2027",
     "latlng": [
       45.68,
       -111.03
@@ -22781,8 +22811,14 @@
   {
     "typical_month": "1",
     "name": "Chattaboogie",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Will Mentor",
+      "Cathy Hollister"
+    ],
+    "bands": [
+      "Notorious",
+      "Playing with Fyre"
+    ],
     "roles": "",
     "date": "1/8/2027",
     "location": "Chattanooga TN",
@@ -22797,13 +22833,18 @@
   {
     "typical_month": "2",
     "name": "Phoenix Winter Frolic",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Jeremy Korr"
+    ],
+    "bands": [
+      "Root System"
+    ],
     "roles": "",
-    "date": "",
+    "date": "1/8/2027",
     "location": "Chandler AZ",
-    "url": "https://phxtmd.org/winter-frolic-2026",
+    "url": "https://phxtmd.org/",
     "year": 2027,
+    "date_end": "1/9/0202",
     "latlng": [
       33.31,
       -111.84
@@ -22841,21 +22882,6 @@
   },
   {
     "typical_month": "2",
-    "name": "Tropical Dance Vacation: St Croix",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "St Croix",
-    "url": "https://www.tropicaldancevacation.com/contra-week.html",
-    "year": 2027,
-    "latlng": [
-      17.72,
-      -64.83
-    ]
-  },
-  {
-    "typical_month": "2",
     "name": "Cabin Fever",
     "callers": [
       "Wendy Graham"
@@ -22865,10 +22891,11 @@
       "SuperTrad"
     ],
     "roles": "",
-    "date": "",
+    "date": "2/12/2027",
     "location": "Knoxville TN",
     "url": "https://www.knoxvillecontra.org/cfschedule",
     "year": 2027,
+    "date_end": "2/14/2027",
     "latlng": [
       35.96,
       -83.92
@@ -22892,13 +22919,18 @@
   {
     "typical_month": "2",
     "name": "Bayou Bedlam",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Lindsey Dono"
+    ],
+    "bands": [
+      "Root System"
+    ],
     "roles": "",
-    "date": "",
+    "date": "2/19/2027",
     "location": "Houston TX",
     "url": "http://www.bayoubedlam.org/",
     "year": 2027,
+    "date_end": "2/21/2027",
     "latlng": [
       29.76,
       -95.37
@@ -22950,13 +22982,19 @@
   {
     "typical_month": "2",
     "name": "Galhalla",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "River Able"
+    ],
+    "bands": [
+      "Rare Privilege",
+      "Galholler"
+    ],
     "roles": "Larks / Robins",
-    "date": "",
+    "date": "2/19/2027",
     "location": "St Louis MO",
     "url": "https://www.shedances.org/galhalla",
     "year": 2027,
+    "date_end": "2/21/2027",
     "latlng": [
       38.63,
       -90.2
@@ -22998,26 +23036,41 @@
   {
     "typical_month": "3",
     "name": "Carolina Meltdown",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Jacqui Grennan",
+      "Gaye Fifer"
+    ],
+    "bands": [
+      "Red Case Band",
+      "Toss the Possum"
+    ],
     "roles": "",
-    "date": "",
+    "date": "3/19/2027",
     "location": "Lake Wylie SC",
     "url": "https://www.charlottecontradance.org/carolina-meltdown",
     "year": 2027,
+    "date_end": "3/21/2027",
     "latlng": [
       35.11,
       -81.04
     ]
   },
   {
-    "typical_month": "3",
+    "typical_month": "4",
     "name": "Pigtown Fling",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Steve Zakon-Anderson",
+      "Dugan Murphy",
+      "Emily Rush"
+    ],
+    "bands": [
+      "the Faux Paws",
+      "Stomp Rocket",
+      "Rushfest"
+    ],
     "roles": "",
     "date": "4/9/2027",
-    "location": "Cincinatti OH",
+    "location": "Cincinnati OH",
     "url": "https://www.cincinnaticontradance.org/",
     "year": 2027,
     "date_end": "4/11/2027",
@@ -23044,13 +23097,18 @@
   {
     "typical_month": "3",
     "name": "Spring Breakdown Dance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Diane Silver"
+    ],
+    "bands": [
+      "the Engine Room"
+    ],
     "roles": "",
-    "date": "",
+    "date": "3/19/2027",
     "location": "Columbia MO",
-    "url": "https://mmtd.wordpress.com/2026-spring-breakdown/",
+    "url": "https://mmtd.wordpress.com/2027-spring-breakdown/",
     "year": 2027,
+    "date_end": "3/21/2027",
     "latlng": [
       38.95,
       -92.33
@@ -23062,10 +23120,11 @@
     "callers": [],
     "bands": [],
     "roles": "Larks / Robins",
-    "date": "",
+    "date": "3/19/2027",
     "location": "Cambridge MA",
     "url": "https://www.beantownstomp.com",
     "year": 2027,
+    "date_end": "3/21/2027",
     "latlng": [
       42.37,
       -71.11
@@ -23171,15 +23230,21 @@
   },
   {
     "typical_month": "4",
-    "name": "Epicenter dance weekend",
-    "callers": [],
-    "bands": [],
+    "name": "Epicenter",
+    "callers": [
+      "Emily Rush",
+      "Darlene Underwood"
+    ],
+    "bands": [
+      "the Stringrays",
+      "Root System"
+    ],
     "roles": "Larks / Robins",
-    "date": "4/2/2026",
+    "date": "4/2/2027",
     "location": "Mill Valley CA",
-    "url": "https://nbcds.org/epicenter-2026/",
+    "url": "https://nbcds.org/",
     "year": 2027,
-    "date_end": "4/4/2026",
+    "date_end": "4/4/2027",
     "latlng": [
       37.91,
       -122.54
@@ -23203,13 +23268,20 @@
   {
     "typical_month": "4",
     "name": "Call of the Loon Dance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Jacqui Grennan",
+      "Robin Nelson"
+    ],
+    "bands": [
+      "the Syncopaths",
+      "Sugar on the Roof"
+    ],
     "roles": "",
-    "date": "",
+    "date": "4/9/2027",
     "location": "Minneapolis MN",
     "url": "https://www.tapestryfolkdance.org/call-of-the-loon",
     "year": 2027,
+    "date_end": "4/11/2027",
     "latlng": [
       44.98,
       -93.27
@@ -23394,14 +23466,19 @@
     "typical_month": "5",
     "name": "Apple Blossom Bliss",
     "callers": [
-      "Alex Deis-Lauby"
+      "Alex Deis-Lauby",
+      "Darlene Underwood"
     ],
-    "bands": [],
+    "bands": [
+      "Hot Coffee Breakdown",
+      "Raven & Goose"
+    ],
     "roles": "Larks / Robins",
-    "date": "",
+    "date": "5/7/2027",
     "location": "Ann Arbor MI",
     "url": "https://aactmad.org/appleblossombliss",
     "year": 2027,
+    "date_end": "5/9/2027",
     "latlng": [
       42.28,
       -83.74
@@ -23488,10 +23565,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "5/28/2027",
     "location": "Webster Groves MO",
     "url": "https://childgrove.org/mmisl",
     "year": 2027,
+    "date_end": "5/31/2027",
     "latlng": [
       38.59,
       -90.36

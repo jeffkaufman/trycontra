@@ -1,42 +1,42 @@
 	name	caller1	caller2	caller3	caller4	caller5	caller6	band1	band2	band3	band4	band5	band6	roles	start date	end date	location	url	complete
 1	Dancing Fish: January																Melrose FL	https://dancingfish.dance/	FALSE
-1	Chambana Jan Jam													Larks / Robins			Urbana IL	http://www.urbana-contra.org/jan_jam.html	FALSE
-1	Fiddler's Dream																Kingston OK	https://www.nttds.org/fdream/home.html	FALSE
-1	Ralph Page Dance Legacy Weekend		Will Mentor														Worcester MA	https://www.neffa.org/annual-ralph-page-dance-event/	FALSE
-1	Contra Carnivale	Lindsey Dono	Will Mentor	Alex Deis-Lauby				Genticorum	Countercurrent	River Road				Larks / Robins	1/15/2027	1/17/2027	San Luis Obispo CA	https://contracarnivale.org/	FALSE
-1	Contra Swing Shift Weekend													Gents / Ladies			Berea KY	https://www.swingshift.ltda.us/	FALSE
-1	Florida Snow Ball	Seth Tepfer	Alex Deis-Lauby					Engine Room	River Road						1/22/2027	1/24/2027	Gulfport FL	http://floridasnowball.tampabaycontra.com/	FALSE
-1	Peterbough Snow Ball													Larks / Robins			Peterborough NH	https://www.monadnockfolk.org/event/%e2%98%bc-%e2%98%bc-%e2%98%bc-peterborough-snow-ball-2026/	FALSE
-1	Stellar Days and Nights																Buena Vista CO	https://rockymountainranchdance.com	FALSE
+1	Chambana Jan Jam	Callie Allison						Turnip the Beet						Larks / Robins	1/8/2027	1/10/2027	Urbana IL	http://www.urbana-contra.org/jan_jam.html	TRUE
+1	Fiddler's Dream	Open Calling						Open Band							12/31/2026	1/3/2027	Kingston OK	https://www.nttds.org/fdream/home.html	TRUE
+1	Ralph Page Dance Legacy Weekend	Chris Ricciotti	Janine Smith					Calliope	Julie Metcalf and Max Newman						1/8/2027	1/9/2027	Worcester MA	https://www.neffa.org/annual-ralph-page-dance-event/	TRUE
+1	Contra Carnivale	Will Mentor	Alex Deis-Lauby					Genticorum	Countercurrent	River Road				Larks / Robins	1/15/2027	1/17/2027	San Luis Obispo CA	https://contracarnivale.org/	TRUE
+1	Contra Swing Shift Weekend													Gents / Ladies			Berea KY	https://ltda.us/swingshift.htm	FALSE
+1	Florida Snow Ball	Seth Tepfer	Alex Deis-Lauby					Engine Room	River Road						1/22/2027	1/24/2027	Gulfport FL	http://floridasnowball.tampabaycontra.com/	TRUE
+1	Peterbough Snow Ball													Larks / Robins	1/24/2027	1/24/2027	Peterborough NH	https://www.monadnockfolk.org/event/%e2%98%bc-%e2%98%bc-%e2%98%bc-peterborough-snow-ball-2027/	FALSE
+1	Stellar Days and Nights	Gaye Fifer	Wendy Graham					Supertrad							1/15/2027	1/18/2027	Buena Vista CO	https://rockymountainranchdance.com	TRUE
 2	IVFDF													Larks / Robins			York UK	https://ivfdf2026.org.uk/	FALSE
-1	Wintergreen																Bozeman MT	https://bozemanfolklore.org/wintergreen-2026/	FALSE
-1	Chattaboogie														1/8/2027	1/10/2027	Chattanooga TN	https://contranooga.dance	FALSE
-2	Phoenix Winter Frolic																Chandler AZ	https://phxtmd.org/winter-frolic-2026	FALSE
+1	Wintergreen	Mary Wesley	Craig Wolfe					Alex and Audrey	Max Newman	Julie Metcalf	Stewart Kenney			Larks / Robins	1/29/2027	1/31/2027	Bozeman MT	https://bozemanfolklore.org/wintergreen-2027/	TRUE
+1	Chattaboogie	Will Mentor	Cathy Hollister					Notorious	Playing with Fyre						1/8/2027	1/10/2027	Chattanooga TN	https://contranooga.dance	TRUE
+2	Phoenix Winter Frolic	Jeremy Korr						Root System							1/8/2027	1/9/0202	Chandler AZ	https://phxtmd.org/	TRUE
 2	Supersonic																Seattle WA	https://supersoniccontra.dance	FALSE
 2	Dancing Fish: February																Melrose FL	https://dancingfish.dance/	FALSE
-2	Tropical Dance Vacation: St Croix																St Croix	https://www.tropicaldancevacation.com/contra-week.html	FALSE
-2	Cabin Fever	Wendy Graham						Playing with Fyre	SuperTrad								Knoxville TN	https://www.knoxvillecontra.org/cfschedule	FALSE
+																			
+2	Cabin Fever	Wendy Graham						Playing with Fyre	SuperTrad						2/12/2027	2/14/2027	Knoxville TN	https://www.knoxvillecontra.org/cfschedule	TRUE
 2	Dance Flurry Festival																Saratoga Springs NY	http://www.flurryfestival.org/	FALSE
-2	Bayou Bedlam																Houston TX	http://www.bayoubedlam.org/	FALSE
+2	Bayou Bedlam	Lindsey Dono						Root System							2/19/2027	2/21/2027	Houston TX	http://www.bayoubedlam.org/	TRUE
 2	Fiddling Frog Dance Festival	Lisa Greenleaf	Jacqui Grennan					Lighthouse	Supertrad					Larks / Robins	2/27/2027	2/29/2027	Pasadena CA	https://www.caldancecoop.org/special-events/fiddling-frog/	TRUE
 2	Corvallis Contra Weekend	Adina Gordon	Koren Wake					River Road	Dam Beavers					Larks / Robins			Corvallis OR	https://corvallisfolklore.org/home/ccw/	TRUE
-2	Galhalla													Larks / Robins			St Louis MO	https://www.shedances.org/galhalla	FALSE
+2	Galhalla	River Able						Rare Privilege 	Galholler					Larks / Robins	2/19/2027	2/21/2027	St Louis MO	https://www.shedances.org/galhalla	TRUE
 3	Dancing Fish: March																Melrose FL	https://dancingfish.dance/	FALSE
 2	Lava Meltdown	Isaac Banner													2/26/2027	2/28/2027	Lava Hot Springs ID	https://www.lavameltdown.com/	FALSE
-3	Carolina Meltdown																Lake Wylie SC	https://www.charlottecontradance.org/carolina-meltdown	FALSE
-3	Pigtown Fling														4/9/2027	4/11/2027	Cincinatti OH	https://www.cincinnaticontradance.org/	FALSE
+3	Carolina Meltdown	Jacqui Grennan	Gaye Fifer					Red Case Band	Toss the Possum						3/19/2027	3/21/2027	Lake Wylie SC	https://www.charlottecontradance.org/carolina-meltdown	TRUE
+4	Pigtown Fling	Steve Zakon-Anderson	Dugan Murphy	Emily Rush				Faux Paws	Stomp Rocket	Rushfest					4/9/2027	4/11/2027	Cincinnati OH	https://www.cincinnaticontradance.org/	TRUE
 3	DownEast Country Dance Festival																Topsham ME	http://www.deffa.org/festival/	FALSE
-3	Spring Breakdown Dance Weekend																Columbia MO	https://mmtd.wordpress.com/2026-spring-breakdown/	FALSE
-3	Beantown Stomp													Larks / Robins			Cambridge MA	https://www.beantownstomp.com	FALSE
+3	Spring Breakdown Dance Weekend	Diane Silver						Engine Room							3/19/2027	3/21/2027	Columbia MO	https://mmtd.wordpress.com/2027-spring-breakdown/	TRUE
+3	Beantown Stomp													Larks / Robins	3/19/2027	3/21/2027	Cambridge MA	https://www.beantownstomp.com	FALSE
 3	Celebration!																Decatur GA	https://www.contradance.org/celebration/	FALSE
 3	Spring @ Sautee																Sautee Nacoochee GA	https://sauteenacoocheecenter.org/event/spring-at-sautee-contra-dance-weekend-2/	FALSE
 3	Hash Dance Weekend	Lisa Greenleaf	Will Mentor					Red Case Band	Lighthouse	Alex and Audrey				Larks / Robins	3/26/2027	3/28/2027	Glen Echo MD	https://fsgw.org/hashtag-dance-weekend	TRUE
 3	Palmetto Bug Stomp																Charleston SC	http://charlestonfolk.weebly.com/palmetto-bug-stomp.html	FALSE
 4	Contra Camp													Larks / Robins			Halsway UK	https://www.halswaymanor.org.uk/event/contra-camp-2026	FALSE
 4	Dancing Fish: Wild Asparagus																Melrose FL	https://dancingfish.dance/	FALSE
-4	Epicenter dance weekend													Larks / Robins	4/2/2026	4/4/2026	Mill Valley CA	https://nbcds.org/epicenter-2026/	FALSE
+4	Epicenter	Emily Rush	Darlene Underwood					Stringrays	Root System					Larks / Robins	4/2/2027	4/4/2027	Mill Valley CA	https://nbcds.org/	TRUE
 4	SF Bay Queer Contra Dance Camp													Larks / Robins			Aptos CA	https://www.queercontradance.org/queercamp.html	FALSE
-4	Call of the Loon Dance Weekend																Minneapolis MN	https://www.tapestryfolkdance.org/call-of-the-loon	FALSE
+4	Call of the Loon Dance Weekend	Jacqui Grennan	Robin Nelson					The Syncopaths	Sugar on the Roof						4/9/2027	4/11/2027	Minneapolis MN	https://www.tapestryfolkdance.org/call-of-the-loon	TRUE
 4	Springforth Ball							The Free Raisins						Larks / Robins	4/9/2027	4/11/2027	Richmond VA	https://tadamsva.org/springforth-ball-2026/	FALSE
 4	NEFFA													Larks / Robins			Marlborough MA	https://www.neffa.org/	FALSE
 	continued																		FALSE
@@ -51,13 +51,13 @@
 4	Portland Raindance Weekend																Portland OR	http://www.portlandraindance.org/	FALSE
 4	When in Doubt Swing																Dallas TX	https://www.nttds.org/wids2025/home.html	FALSE
 5	Spring Thaw Weekend																Toronto ON	https://tcdance.org/thaw2026.php	FALSE
-5	Apple Blossom Bliss	Alex Deis-Lauby												Larks / Robins			Ann Arbor MI	https://aactmad.org/appleblossombliss	FALSE
+5	Apple Blossom Bliss	Alex Deis-Lauby	Darlene Underwood					Hot Coffee Breakdown	Raven & Goose					Larks / Robins	5/7/2027	5/9/2027	Ann Arbor MI	https://aactmad.org/appleblossombliss	TRUE
 5	May Heydays at Evesham																Evesham UK	http://mayheydays.org.uk/	FALSE
 5	Dancing Fish: May																Melrose FL	https://dancingfish.dance/	FALSE
 5	Whitewater Whirl													Larks / Robins			Fayetteville WV	https://www.footmad.org/whirl	FALSE
 5	Cascade Contras Dance Camp													Larks / Robins			Springfield OR	https://eugenefolklore.org/cascade-contras-2025/	FALSE
 5	Lake Eden Arts Festival - Spring																Black Mountain NC	https://theleaf.org/	FALSE
-5	Meet Me in St Louis Dance Weekend																Webster Groves MO	https://childgrove.org/mmisl	FALSE
+5	Meet Me in St Louis Dance Weekend														5/28/2027	5/31/2027	Webster Groves MO	https://childgrove.org/mmisl	FALSE
 5	FolkMADness Music & Dance Camp																Soccoro NM	http://folkmads.org/events/camps/folkmadness/	FALSE
 5	Dancing Bear Dance Camp																Wasilla AK	https://www.thedancingbears.org/dance-camp	FALSE
 5	Spring Dance Romance													Larks / Robins			Carrboro NC	https://tcdancers.org/sdr	FALSE
@@ -157,7 +157,6 @@
 	end of active list																		FALSE
 																			
 	check with emily rush to get full gig list																		
-																			
 																			
 1	Orange Blossom Ball																Daytona FL	http://www.orangeblossomcontra.com/	
 1	Contra Dream																Dayton VA	https://shenandoahvalleycontradance.weebly.com/contra-dream-2020.html	
