@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import json
+import sys
 from json import encoder
 import requests
 import urllib.parse
@@ -16,6 +17,46 @@ def new_getaddrinfo(*args, **kwargs):
           for response in responses
           if response[0] == socket.AF_INET]
 socket.getaddrinfo = new_getaddrinfo
+
+# How much of an over-long line to show around the error, and how many
+# lines of leading context to print.
+WINDOW = 100
+CONTEXT_LINES = 2
+
+def load_json(fname):
+  with open(fname) as inf:
+    contents = inf.read()
+
+  try:
+    return json.loads(contents)
+  except json.JSONDecodeError as e:
+    sys.stderr.write("%s: %s at line %s column %s:\n\n" % (
+      fname, e.msg, e.lineno, e.colno))
+
+    lines = contents.split("\n")
+
+    # How far along the line the caret goes, once tabs are expanded.
+    caret_col = len(lines[e.lineno - 1][:e.colno - 1].expandtabs())
+
+    # Long lines get windowed so the offending character stays visible.
+    start = 0
+    if caret_col > WINDOW - 20:
+      start = caret_col - (WINDOW - 20)
+
+    def show(line):
+      line = line.expandtabs()[start:]
+      if start and line:
+        line = "..." + line
+      if len(line) > WINDOW:
+        line = line[:WINDOW] + "..."
+      return line
+
+    for lineno in range(max(1, e.lineno - CONTEXT_LINES), e.lineno + 1):
+      sys.stderr.write("%6d | %s\n" % (lineno, show(lines[lineno - 1])))
+    sys.stderr.write("%6s | %s^\n" % (
+      "", " " * (caret_col - start + (3 if start else 0))))
+
+    sys.exit(1)
 
 def lookup_ll(loc):
   print ("looking up %s" % loc)
@@ -37,7 +78,7 @@ def lookup_ll(loc):
   return round(ll["lat"], 2), round(ll["lng"], 2)
 
 def build_loc_lookup():
-  existing_locs = json.loads(open("dances_locs.json").read())
+  existing_locs = load_json("dances_locs.json")
   loc_lookup = {}
 
   for record in existing_locs:
@@ -45,7 +86,7 @@ def build_loc_lookup():
   return loc_lookup
 
 def start():
-  dances = json.loads(open("dances.json").read())
+  dances = load_json("dances.json")
   loc_lookup = build_loc_lookup()
 
   loc_dances = []
@@ -65,8 +106,7 @@ def start():
   with open("dances_locs.json", "w") as outf:
     json.dump(dances, outf, sort_keys=True, indent=2)
 
-  with open("events.json") as inf:
-    event_records = json.load(inf)
+  event_records = load_json("events.json")
 
   for event_record in event_records:
     if event_record["location"] and "latlng" not in event_record:
