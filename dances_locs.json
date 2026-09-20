@@ -2810,6 +2810,14 @@
     "weekdays": "Saturdays"
   },
   {
+    "annual_freq": 12,
+    "city": "Sutton QC Canada",
+    "lat": 45.11,
+    "lng": -72.62,
+    "url": "https://www.facebook.com/contrasutton",
+    "weekdays": "Sundays"
+  },
+  {
     "annual_freq": 4,
     "city": "Paris France",
     "lat": 48.86,

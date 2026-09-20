@@ -2067,6 +2067,12 @@
     "weekdays": "Saturdays"
   },
   {
+    "annual_freq": 12,
+    "city": "Sutton QC Canada",
+    "url": "https://www.facebook.com/contrasutton",
+    "weekdays": "Sundays"
+  },
+  {
     "annual_freq": 4,
     "city": "Paris France",
     "url": "https://sites.google.com/site/americancontradanceinparis/",
