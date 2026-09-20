@@ -1767,6 +1767,15 @@
     "weekdays": "Saturdays"
   },
   {
+    "annual_freq": 2,
+    "city": "New York NY",
+    "gender_free": true,
+    "lat": 40.71,
+    "lng": -74.01,
+    "url": "https://www.villagecontra.org/",
+    "weekdays": "various"
+  },
+  {
     "annual_freq": 9,
     "city": "Poughkeepsie NY",
     "icals": [

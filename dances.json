@@ -1304,6 +1304,13 @@
     "weekdays": "Saturdays"
   },
   {
+    "annual_freq": 2,
+    "city": "New York NY",
+    "gender_free": true,
+    "url": "https://www.villagecontra.org/",
+    "weekdays": "various"
+  },
+  {
     "annual_freq": 9,
     "city": "Poughkeepsie NY",
     "icals": ["https://calendar.google.com/calendar/ical/r0obdlg9b1hkjju0dfqarq1tqk@group.calendar.google.com/public/basic.ics"],
