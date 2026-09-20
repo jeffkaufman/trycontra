@@ -1273,6 +1273,7 @@
   {
     "annual_freq": 12,
     "city": "Rochester NY",
+    "inactive": true,
     "url": "https://roccontra.com/",
     "weekdays": "Fridays"
   },

@@ -1724,6 +1724,7 @@
   {
     "annual_freq": 12,
     "city": "Rochester NY",
+    "inactive": true,
     "lat": 43.16,
     "lng": -77.61,
     "url": "https://roccontra.com/",
