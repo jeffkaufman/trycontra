@@ -2520,6 +2520,14 @@
     "weekdays": "Sundays"
   },
   {
+    "annual_freq": 12,
+    "city": "Tinmouth VT",
+    "lat": 43.44,
+    "lng": -73.06,
+    "url": "https://www.facebook.com/p/Tinmouth-Contra-Dance-61587137805533/",
+    "weekdays": "Fridays"
+  },
+  {
     "annual_freq": 8,
     "city": "Friday Harbor WA",
     "lat": 48.53,
