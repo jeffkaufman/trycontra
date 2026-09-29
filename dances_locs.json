@@ -484,6 +484,14 @@
     "weekdays": "Fridays"
   },
   {
+    "annual_freq": 12,
+    "city": "Clayton GA",
+    "lat": 34.88,
+    "lng": -83.4,
+    "url": "https://mountaincityplayhouse.com/events/",
+    "weekdays": "Fridays"
+  },
+  {
     "annual_freq": 22,
     "city": "Gainesville GA",
     "inactive": true,
