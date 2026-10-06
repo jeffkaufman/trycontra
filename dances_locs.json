@@ -388,6 +388,7 @@
     "annual_freq": 6,
     "city": "Manchester CT",
     "gender_free": true,
+    "inactive": true,
     "lat": 41.78,
     "lng": -72.52,
     "url": "https://www.uuse.org/regular-events/gender-free-contra-dance",
