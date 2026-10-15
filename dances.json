@@ -763,6 +763,12 @@
     "weekdays": "Sundays"
   },
   {
+    "annual_freq": 6,
+    "city": "New Bedford MA",
+    "url": "https://www.epicsouthcoast.org/events/",
+    "weekdays": "Thursdays, Fridays, and Saturdays"
+  },
+  {
     "annual_freq": 52,
     "city": "Baltimore MD",
     "url": "http://www.bfms.org/squarecontra.php",
