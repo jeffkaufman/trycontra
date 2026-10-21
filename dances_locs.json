@@ -1020,6 +1020,14 @@
     "weekdays": "Sundays"
   },
   {
+    "annual_freq": 6,
+    "city": "New Bedford MA",
+    "lat": 41.64,
+    "lng": -70.93,
+    "url": "https://www.epicsouthcoast.org/events/",
+    "weekdays": "Thursdays, Fridays, and Saturdays"
+  },
+  {
     "annual_freq": 11,
     "city": "Bridgewater MA",
     "lat": 41.99,
