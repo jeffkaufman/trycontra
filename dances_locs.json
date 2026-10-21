@@ -1020,6 +1020,14 @@
     "weekdays": "Sundays"
   },
   {
+    "annual_freq": 11,
+    "city": "Bridgewater MA",
+    "lat": 41.99,
+    "lng": -70.98,
+    "url": "https://www.facebook.com/bridgewatercommunitydance/",
+    "weekdays": "Fridays and Saturdays"
+  },
+  {
     "annual_freq": 52,
     "city": "Baltimore MD",
     "lat": 39.29,
