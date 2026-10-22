@@ -1666,6 +1666,12 @@
     "weekdays": "Fridays"
   },
   {
+    "annual_freq": 8,
+    "city": "Nashville TN",
+    "url": "https://nashvillefolk.weebly.com/events.html",
+    "weekdays": "Thursdays"
+  },
+  {
     "annual_freq": 12,
     "city": "Memphis TN",
     "url": "https://www.facebook.com/groups/108316512542084/",

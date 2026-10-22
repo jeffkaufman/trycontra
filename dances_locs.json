@@ -2267,6 +2267,14 @@
     "weekdays": "Fridays"
   },
   {
+    "annual_freq": 8,
+    "city": "Nashville TN",
+    "lat": 36.17,
+    "lng": -86.78,
+    "url": "https://nashvillefolk.weebly.com/events.html",
+    "weekdays": "Thursdays"
+  },
+  {
     "annual_freq": 12,
     "city": "Memphis TN",
     "lat": 35.15,
