@@ -22417,12 +22417,14 @@
     "typical_month": "11",
     "name": "ContraCopia",
     "callers": [
+      "Liesl Jandrey",
       "Will Mentor",
       "Isaac Banner"
     ],
     "bands": [
       "Toss the Possum",
-      "Cojiro"
+      "Cojiro",
+      "High Strung"
     ],
     "roles": "",
     "date": "11/27/2026",
@@ -22661,7 +22663,7 @@
       "Calliope",
       "Julie Metcalf and Max Newman"
     ],
-    "roles": "",
+    "roles": "Larks / Robins",
     "date": "1/8/2027",
     "location": "Worcester MA",
     "url": "https://www.neffa.org/annual-ralph-page-dance-event/",
@@ -22698,13 +22700,18 @@
   {
     "typical_month": "1",
     "name": "Contra Swing Shift Weekend",
-    "callers": [],
-    "bands": [],
-    "roles": "Gents / Ladies",
-    "date": "",
+    "callers": [
+      "Elijah Jaime"
+    ],
+    "bands": [
+      "Raven & Goose"
+    ],
+    "roles": "",
+    "date": "1/22/2027",
     "location": "Berea KY",
     "url": "https://ltda.us/swingshift.htm",
     "year": 2027,
+    "date_end": "1/23/2027",
     "latlng": [
       37.57,
       -84.3
@@ -22828,6 +22835,28 @@
     "latlng": [
       35.05,
       -85.31
+    ]
+  },
+  {
+    "typical_month": "1",
+    "name": "Salty Swirl",
+    "callers": [
+      "Kenny Greer",
+      "David Winston"
+    ],
+    "bands": [
+      "Contraforce",
+      "the Four O'Clocks"
+    ],
+    "roles": "",
+    "date": "1/29/2027",
+    "location": "Wilmington NC",
+    "url": "https://saltyswirl2027.ticketspice.com/salty-swirl-2027",
+    "year": 2027,
+    "date_end": "1/31/2027",
+    "latlng": [
+      34.21,
+      -77.89
     ]
   },
   {
@@ -23132,21 +23161,6 @@
   },
   {
     "typical_month": "3",
-    "name": "Celebration!",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
-    "location": "Decatur GA",
-    "url": "https://www.contradance.org/celebration/",
-    "year": 2027,
-    "latlng": [
-      33.77,
-      -84.3
-    ]
-  },
-  {
-    "typical_month": "3",
     "name": "Spring @ Sautee",
     "callers": [],
     "bands": [],
@@ -23186,13 +23200,20 @@
   {
     "typical_month": "3",
     "name": "Palmetto Bug Stomp",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Bob Isaacs",
+      "Jack Mitchell"
+    ],
+    "bands": [
+      "Spintution",
+      "Contraforce"
+    ],
     "roles": "",
-    "date": "",
+    "date": "2/26/2027",
     "location": "Charleston SC",
     "url": "http://charlestonfolk.weebly.com/palmetto-bug-stomp.html",
     "year": 2027,
+    "date_end": "2/28/2027",
     "latlng": [
       32.78,
       -79.93
@@ -23338,13 +23359,19 @@
   {
     "typical_month": "4",
     "name": "Hands Four Spring Dance Weekend",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
+    "callers": [
+      "Sarah Kaiser",
+      "Kenny Greer"
+    ],
+    "bands": [
+      "Oyster Crossing"
+    ],
+    "roles": "Ladies/Gents",
+    "date": "4/23/2027",
     "location": "Berea KY",
     "url": "https://www.hands4-berea.com/",
     "year": 2027,
+    "date_end": "4/26/2027",
     "latlng": [
       37.57,
       -84.3
@@ -23435,13 +23462,18 @@
   {
     "typical_month": "4",
     "name": "When in Doubt Swing",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Emily Rush"
+    ],
+    "bands": [
+      "Spintuition"
+    ],
     "roles": "",
-    "date": "",
+    "date": "5/7/2027",
     "location": "Dallas TX",
-    "url": "https://www.nttds.org/wids2025/home.html",
+    "url": "https://www.nttds.org/wids/home.html",
     "year": 2027,
+    "date_end": "5/9/2027",
     "latlng": [
       32.78,
       -96.8
@@ -23836,10 +23868,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "6/20/2027",
     "location": "Aptos CA",
     "url": "https://www.bacds.org/familyweek/",
     "year": 2027,
+    "date_end": "6/26/2027",
     "latlng": [
       36.98,
       -121.9
@@ -23881,10 +23914,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "6/28/2027",
     "location": "Ben Lomond CA",
     "url": "https://amweek.camp/",
     "year": 2027,
+    "date_end": "7/3/2027",
     "latlng": [
       37.09,
       -122.09
@@ -24178,13 +24212,20 @@
   {
     "typical_month": "8",
     "name": "Balance the Bay",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Susan Petrick",
+      "TBD"
+    ],
+    "bands": [
+      "the Dam Beavers",
+      "Dinnerline"
+    ],
     "roles": "",
-    "date": "",
+    "date": "8/13/2027",
     "location": "San Francisco CA",
-    "url": "https://www.bacds.org/camps/btb2025/",
+    "url": "https://www.bacds.org/btb",
     "year": 2027,
+    "date_end": "8/15/2027",
     "latlng": [
       37.77,
       -122.42
@@ -24434,13 +24475,20 @@
   {
     "typical_month": "9",
     "name": "Beach Ball in the Fall",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Terry Doyle",
+      "JJ Luxe"
+    ],
+    "bands": [
+      "Tea & Whiskey",
+      "Lagomorph Quartet"
+    ],
     "roles": "",
-    "date": "",
+    "date": "9/24/2027",
     "location": "Seabrook Island SC",
-    "url": "https://charlestonfolk.regfox.com/beachball2026",
+    "url": "https://charlestonfolk.weebly.com/beach-ball.html",
     "year": 2027,
+    "date_end": "9/27/2027",
     "latlng": [
       32.59,
       -80.16
@@ -24460,7 +24508,7 @@
     "roles": "Larks/Robins",
     "date": "9/24/2027",
     "location": "Seattle, WA",
-    "url": "http://starthroughseattle.dance/",
+    "url": "https://www.starthroughseattle.dance/",
     "year": 2027,
     "date_end": "9/26/2027",
     "latlng": [
