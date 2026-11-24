@@ -22402,7 +22402,7 @@
       "the Rhythm Raptors",
       "Baba Yaga's Stew"
     ],
-    "roles": "Larks/Robins",
+    "roles": "Larks / Robins",
     "date": "11/20/2026",
     "location": "Louisville KY",
     "url": "http://www.louisvillecountrydancers.org/fleur-de-lis-fling",
@@ -22529,7 +22529,7 @@
     "bands": [
       "Open Band"
     ],
-    "roles": "",
+    "roles": "Larks / Robins",
     "date": "12/30/2026",
     "location": "Vashon Island WA",
     "url": "https://bashonvashon.org/ ",
@@ -22709,7 +22709,7 @@
     "roles": "",
     "date": "1/22/2027",
     "location": "Berea KY",
-    "url": "https://ltda.us/swingshift.htm",
+    "url": "https://ltda.us/swingshift2027.html",
     "year": 2027,
     "date_end": "1/23/2027",
     "latlng": [
@@ -22731,7 +22731,7 @@
     "roles": "",
     "date": "1/22/2027",
     "location": "Gulfport FL",
-    "url": "http://floridasnowball.tampabaycontra.com/",
+    "url": "",
     "year": 2027,
     "date_end": "1/24/2027",
     "latlng": [
@@ -22745,11 +22745,11 @@
     "callers": [],
     "bands": [],
     "roles": "Larks / Robins",
-    "date": "1/24/2027",
+    "date": "1/23/2027",
     "location": "Peterborough NH",
     "url": "https://www.monadnockfolk.org/event/%e2%98%bc-%e2%98%bc-%e2%98%bc-peterborough-snow-ball-2027/",
     "year": 2027,
-    "date_end": "1/24/2027",
+    "date_end": "1/23/2027",
     "latlng": [
       42.87,
       -71.95
@@ -22774,21 +22774,6 @@
     "latlng": [
       38.84,
       -106.13
-    ]
-  },
-  {
-    "typical_month": "2",
-    "name": "IVFDF",
-    "callers": [],
-    "bands": [],
-    "roles": "Larks / Robins",
-    "date": "",
-    "location": "York UK",
-    "url": "https://ivfdf2026.org.uk/",
-    "year": 2027,
-    "latlng": [
-      53.96,
-      -1.07
     ]
   },
   {
@@ -22882,13 +22867,20 @@
   {
     "typical_month": "2",
     "name": "Supersonic",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Michael Karcher",
+      "Seth Tepfer"
+    ],
+    "bands": [
+      "Red Case Band",
+      "the Figments"
+    ],
     "roles": "",
-    "date": "",
+    "date": "2/5/2026",
     "location": "Seattle WA",
     "url": "https://supersoniccontra.dance",
     "year": 2027,
+    "date_end": "2/7/2026",
     "latlng": [
       47.61,
       -122.33
@@ -22936,10 +22928,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "2/12/2027",
     "location": "Saratoga Springs NY",
     "url": "http://www.flurryfestival.org/",
     "year": 2027,
+    "date_end": "2/14/2027",
     "latlng": [
       43.08,
       -73.78
@@ -22967,7 +22960,7 @@
   },
   {
     "typical_month": "2",
-    "name": "Fiddling Frog Dance Festival",
+    "name": "Fiddling Frog Contra Weekend",
     "callers": [
       "Lisa Greenleaf",
       "Jacqui Grennan"
@@ -22979,7 +22972,7 @@
     "roles": "Larks / Robins",
     "date": "2/27/2027",
     "location": "Pasadena CA",
-    "url": "https://www.caldancecoop.org/special-events/fiddling-frog/",
+    "url": "https://fiddlingfrog.com/",
     "year": 2027,
     "date_end": "2/29/2027",
     "latlng": [
@@ -22999,10 +22992,11 @@
       "the Dam Beavers"
     ],
     "roles": "Larks / Robins",
-    "date": "",
+    "date": "2/12/2027",
     "location": "Corvallis OR",
     "url": "https://corvallisfolklore.org/home/ccw/",
     "year": 2027,
+    "date_end": "2/14/2027",
     "latlng": [
       44.56,
       -123.26
@@ -23050,7 +23044,9 @@
     "callers": [
       "Isaac Banner"
     ],
-    "bands": [],
+    "bands": [
+      "Patchwork"
+    ],
     "roles": "",
     "date": "2/26/2027",
     "location": "Lava Hot Springs ID",
@@ -23111,13 +23107,18 @@
   {
     "typical_month": "3",
     "name": "DownEast Country Dance Festival",
-    "callers": [],
-    "bands": [],
-    "roles": "",
-    "date": "",
+    "callers": [
+      "Steve Zakon-Anderson"
+    ],
+    "bands": [
+      "Stove Dravon"
+    ],
+    "roles": "Larks / Robins",
+    "date": "3/12/2027",
     "location": "Topsham ME",
     "url": "http://www.deffa.org/festival/",
     "year": 2027,
+    "date_end": "3/14/2027",
     "latlng": [
       43.93,
       -69.98
@@ -23146,8 +23147,14 @@
   {
     "typical_month": "3",
     "name": "Beantown Stomp",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Scott Higgs",
+      "Hannah Chamberlain"
+    ],
+    "bands": [
+      "Northwoods",
+      "Nouvelle Machine"
+    ],
     "roles": "Larks / Robins",
     "date": "3/19/2027",
     "location": "Cambridge MA",
@@ -23222,13 +23229,20 @@
   {
     "typical_month": "4",
     "name": "Contra Camp",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Louise Siddons",
+      "Heather McAslan"
+    ],
+    "bands": [
+      "WillPower",
+      "Linda Game"
+    ],
     "roles": "Larks / Robins",
-    "date": "",
+    "date": "4/16/2027",
     "location": "Halsway UK",
-    "url": "https://www.halswaymanor.org.uk/event/contra-camp-2026",
+    "url": "https://www.halswaymanor.org.uk/event/contra-camp-2027",
     "year": 2027,
+    "date_end": "4/18/2027",
     "latlng": [
       51.13,
       -3.25
@@ -23311,14 +23325,16 @@
   {
     "typical_month": "4",
     "name": "Springforth Ball",
-    "callers": [],
+    "callers": [
+      "Alex Deis-Lauby"
+    ],
     "bands": [
       "the Free Raisins"
     ],
     "roles": "Larks / Robins",
     "date": "4/9/2027",
     "location": "Richmond VA",
-    "url": "https://tadamsva.org/springforth-ball-2026/",
+    "url": "https://tadamsva.org/springforth-ball-2027",
     "year": 2027,
     "date_end": "4/11/2027",
     "latlng": [
@@ -23402,13 +23418,21 @@
   {
     "typical_month": "4",
     "name": "Bonjour-Hey",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Gaye Fifer",
+      "Qwill Duvall"
+    ],
+    "bands": [
+      "Highwire Trio",
+      "the Turn Signals",
+      "Jamie Oshima"
+    ],
     "roles": "Larks / Robins",
-    "date": "",
+    "date": "4/16/2027",
     "location": "Montreal QC",
     "url": "https://www.contramontreal.org/en/bonjour-hey",
     "year": 2027,
+    "date_end": "4/18/2027",
     "latlng": [
       45.5,
       -73.57
@@ -23435,10 +23459,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "4/23/2027",
     "location": "Dowling MI",
     "url": "https://michigandanceheritage.org/trilliumtwirl/",
     "year": 2027,
+    "date_end": "4/25/2027",
     "latlng": [
       42.52,
       -85.25
@@ -23447,13 +23472,20 @@
   {
     "typical_month": "4",
     "name": "Portland Raindance Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Cis Hinkle",
+      "Liz Nelson"
+    ],
+    "bands": [
+      "the Faux Paws",
+      "Highwire"
+    ],
     "roles": "",
-    "date": "",
+    "date": "4/23/2027",
     "location": "Portland OR",
     "url": "http://www.portlandraindance.org/",
     "year": 2027,
+    "date_end": "4/25/2027",
     "latlng": [
       45.52,
       -122.68
@@ -23610,13 +23642,20 @@
   {
     "typical_month": "5",
     "name": "FolkMADness Music & Dance Camp",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Jacqui Grennan",
+      "Cis Hinkle"
+    ],
+    "bands": [
+      "Raven & Goose",
+      "Stomp Rocket"
+    ],
     "roles": "",
-    "date": "",
+    "date": "5/28/2027",
     "location": "Soccoro NM",
     "url": "http://folkmads.org/events/camps/folkmadness/",
     "year": 2027,
+    "date_end": "5/31/2027",
     "latlng": [
       34.06,
       -106.89
@@ -23670,13 +23709,18 @@
   {
     "typical_month": "5",
     "name": "Moulin d\u2019And\u00e9 Weekend",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Seth Tepfer"
+    ],
+    "bands": [
+      "Kingfisher"
+    ],
     "roles": "Hommes/Femmes",
-    "date": "",
+    "date": "5/15/2027",
     "location": "Moulin d'Ande, Normandy, France",
     "url": "https://sites.google.com/site/americancontradanceinparis/",
     "year": 2027,
+    "date_end": "5/17/2027",
     "latlng": [
       49.24,
       1.25
@@ -23685,13 +23729,20 @@
   {
     "typical_month": "5",
     "name": "Butterfly Whirl",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Seth Tepfer",
+      "Koren Wake"
+    ],
+    "bands": [
+      "Countercurrent",
+      "Idlewild"
+    ],
     "roles": "Larks/Robins",
-    "date": "",
+    "date": "5/21/2027",
     "location": "Decatur GA",
     "url": "http://www.dancerhapsody.com/special-events/",
     "year": 2027,
+    "date_end": "5/23/2027",
     "latlng": [
       33.77,
       -84.3
@@ -23775,8 +23826,12 @@
   {
     "typical_month": "6",
     "name": "Dancing Fish: June",
-    "callers": [],
-    "bands": [],
+    "callers": [
+      "Seth Tepfer"
+    ],
+    "bands": [
+      "Patchwork"
+    ],
     "roles": "",
     "date": "",
     "location": "Melrose FL",
@@ -24597,10 +24652,11 @@
     "callers": [],
     "bands": [],
     "roles": "",
-    "date": "",
+    "date": "10/22/2027",
     "location": "Santa Barbara CA",
     "url": "http://www.sbcds.org/hm/",
     "year": 2027,
+    "date_end": "10/24/2027",
     "latlng": [
       34.42,
       -119.7
